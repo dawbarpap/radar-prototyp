@@ -3,8 +3,6 @@
 # Możesz też edytować listę poniżej.
 
 modele:
-  # Natywne API z oficjalnym wyszukiwaniem internetowym (warstwa jak w przeglądarce):
-  modele:
   - {dostawca: anthropic,  model: claude-sonnet-4-6, etykieta: Claude}
   - {dostawca: gemini,     model: gemini-2.5-flash,  etykieta: Gemini}
 
