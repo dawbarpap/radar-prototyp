@@ -19,6 +19,27 @@ TIMEOUT = 180
 
 # ---------------- DOSTAWCY (każdy z natywnym wyszukiwaniem) ----------------
 
+def _responses_tekst_i_zrodla(d):
+    """Wspólne dla OpenAI i xAI (format Responses): tekst + linki z adnotacji."""
+    czesci, linki = [], []
+    for blok in d.get("output", []):
+        for c in blok.get("content", []) or []:
+            if c.get("type") == "output_text":
+                czesci.append(c.get("text", ""))
+                for adn in c.get("annotations", []) or []:
+                    if adn.get("type") == "url_citation" and adn.get("url"):
+                        linki.append(f"{adn.get('title','')} — {adn['url']}".strip(" —"))
+    tekst = d.get("output_text") or "\n".join(czesci)
+    return dolacz_zrodla(tekst, linki)
+
+
+def dolacz_zrodla(tekst, linki):
+    unikalne = list(dict.fromkeys(l for l in linki if l))
+    if unikalne:
+        tekst += "\n\n[Źródła]\n" + "\n".join(unikalne)
+    return tekst
+
+
 def openai_search(model, pytanie):
     """OpenAI Responses API + narzędzie web_search."""
     r = requests.post(
@@ -27,15 +48,7 @@ def openai_search(model, pytanie):
         json={"model": model, "input": pytanie, "tools": [{"type": "web_search"}]},
         timeout=TIMEOUT)
     r.raise_for_status()
-    d = r.json()
-    if d.get("output_text"):
-        return d["output_text"]
-    czesci = []
-    for blok in d.get("output", []):
-        for c in blok.get("content", []) or []:
-            if c.get("type") == "output_text":
-                czesci.append(c.get("text", ""))
-    return "\n".join(czesci)
+    return _responses_tekst_i_zrodla(r.json())
 
 
 def anthropic_search(model, pytanie):
@@ -50,8 +63,14 @@ def anthropic_search(model, pytanie):
                          "max_uses": 5}]},
         timeout=TIMEOUT)
     r.raise_for_status()
-    return "\n".join(b.get("text", "") for b in r.json()["content"]
-                     if b.get("type") == "text")
+    bloki = r.json()["content"]
+    tekst = "\n".join(b.get("text", "") for b in bloki if b.get("type") == "text")
+    linki = []
+    for b in bloki:
+        for cyt in (b.get("citations") or []):
+            if cyt.get("url"):
+                linki.append(f"{cyt.get('title','')} — {cyt['url']}".strip(" —"))
+    return dolacz_zrodla(tekst, linki)
 
 
 def gemini_search(model, pytanie):
@@ -63,8 +82,15 @@ def gemini_search(model, pytanie):
               "tools": [{"google_search": {}}]},
         timeout=TIMEOUT)
     r.raise_for_status()
-    czesci = r.json()["candidates"][0]["content"]["parts"]
-    return "\n".join(p.get("text", "") for p in czesci)
+    kand = r.json()["candidates"][0]
+    tekst = "\n".join(p.get("text", "") for p in kand["content"]["parts"])
+    linki = []
+    gm = kand.get("groundingMetadata") or {}
+    for ch in gm.get("groundingChunks", []) or []:
+        w = ch.get("web") or {}
+        if w.get("uri"):
+            linki.append(f"{w.get('title','')} — {w['uri']}".strip(" —"))
+    return dolacz_zrodla(tekst, linki)
 
 
 def perplexity_search(model, pytanie):
@@ -79,10 +105,8 @@ def perplexity_search(model, pytanie):
     d = r.json()
     tekst = d["choices"][0]["message"]["content"]
     zrodla = d.get("citations") or d.get("search_results") or []
-    if zrodla:
-        tekst += "\n\n[Źródła]\n" + "\n".join(
-            z if isinstance(z, str) else z.get("url", "") for z in zrodla)
-    return tekst
+    linki = [z if isinstance(z, str) else z.get("url", "") for z in zrodla]
+    return dolacz_zrodla(tekst, linki)
 
 
 def xai_search(model, pytanie):
@@ -93,15 +117,7 @@ def xai_search(model, pytanie):
         json={"model": model, "input": pytanie, "tools": [{"type": "web_search"}]},
         timeout=TIMEOUT)
     r.raise_for_status()
-    d = r.json()
-    if d.get("output_text"):
-        return d["output_text"]
-    czesci = []
-    for blok in d.get("output", []):
-        for c in blok.get("content", []) or []:
-            if c.get("type") == "output_text":
-                czesci.append(c.get("text", ""))
-    return "\n".join(czesci)
+    return _responses_tekst_i_zrodla(r.json())
 
 
 def openrouter_online(model, pytanie):
@@ -115,7 +131,13 @@ def openrouter_online(model, pytanie):
               "messages": [{"role": "user", "content": pytanie}]},
         timeout=TIMEOUT)
     r.raise_for_status()
-    return r.json()["choices"][0]["message"]["content"]
+    msg = r.json()["choices"][0]["message"]
+    linki = []
+    for adn in (msg.get("annotations") or []):
+        u = (adn.get("url_citation") or {})
+        if u.get("url"):
+            linki.append(f"{u.get('title','')} — {u['url']}".strip(" —"))
+    return dolacz_zrodla(msg["content"], linki)
 
 
 DOSTAWCY = {
