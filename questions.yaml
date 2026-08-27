@@ -4,16 +4,9 @@
 
 modele:
   # Natywne API z oficjalnym wyszukiwaniem internetowym (warstwa jak w przeglądarce):
-  - {dostawca: openai,     model: gpt-5.2,           etykieta: ChatGPT}
+  modele:
   - {dostawca: anthropic,  model: claude-sonnet-4-6, etykieta: Claude}
   - {dostawca: gemini,     model: gemini-2.5-flash,  etykieta: Gemini}
-  - {dostawca: perplexity, model: sonar-pro,         etykieta: Perplexity}
-  - {dostawca: xai,        model: grok-4,            etykieta: Grok}
-  # Modele bez publicznego API z wyszukiwaniem — PRZYBLIŻENIE przez OpenRouter+web
-  # (oznaczane w metryce; Meta AI w wersji konsumenckiej nie ma API):
-  - {dostawca: openrouter_online, model: meta-llama/llama-4-maverick, etykieta: MetaAI-przyblizenie}
-  - {dostawca: openrouter_online, model: mistralai/mistral-medium-3,  etykieta: Mistral-przyblizenie}
-  - {dostawca: openrouter_online, model: deepseek/deepseek-chat,      etykieta: DeepSeek-przyblizenie}
 
 pytania:
   - id: q01
