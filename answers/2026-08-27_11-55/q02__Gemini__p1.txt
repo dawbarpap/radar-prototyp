@@ -1,0 +1,31 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-08-27T11:55:08+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które mogą dotknąć przedsiębiorstwa w wielu obszarach – od finansów, przez działalność operacyjną, aż po wizerunek i kwestie prawne. Poniżej przedstawiono kluczowe skutki cyberataków:
+
+**1. Straty finansowe:**
+*   **Bezpośrednie koszty** Cyberataki wiążą się z ogromnymi kosztami naprawy systemów, odzyskiwania danych, zatrudnienia specjalistów ds. cyberbezpieczeństwa oraz ewentualnych okupów w przypadku ataków ransomware. Średni globalny koszt cyberataków w 2024 roku wyniósł 4,88 miliona dolarów, co stanowi 10-procentowy wzrost w porównaniu do 2023 roku. W Polsce średni koszt ataku ransomware szacowany jest na około 1,5 miliona złotych.
+*   **Utrata przychodów** Przestoje w działalności firmy spowodowane cyberatakiem oznaczają utratę zamówień, sprzedaży i świadczenia usług, co bezpośrednio przekłada się na znaczny spadek przychodów. Według danych NASK, dwie trzecie firm, które padły ofiarą cyberataku, odnotowały znaczny spadek przychodów.
+*   **Kary finansowe** W przypadku wycieku danych osobowych firmy mogą zostać obciążone wysokimi karami finansowymi, szczególnie za naruszenie przepisów RODO. Mogą one sięgać nawet do 20 milionów euro lub 4% rocznego obrotu firmy. Przykładowo, polska firma IT otrzymała karę 3 milionów złotych za brak odpowiednich zabezpieczeń danych klientów.
+*   **Spadek wartości rynkowej** Długoterminowo cyberataki mogą prowadzić do obniżenia ratingu kredytowego i spadku wartości rynkowej przedsiębiorstwa.
+
+**2. Zakłócenia operacyjne i utrata danych:**
+*   **Paraliż działalności** Ataki cybernetyczne często prowadzą do przestojów operacyjnych i braku dostępu do kluczowych systemów i danych, co może sparaliżować normalne funkcjonowanie przedsiębiorstwa. Przykładem może być cyberatak na Jaguar Land Rover, który w 2025 roku wstrzymał produkcję we wszystkich globalnych fabrykach na ponad miesiąc, generując straty idące w setki milionów funtów.
+*   **Utrata lub uszkodzenie danych** Cyberataki mogą skutkować wyciekiem, zniszczeniem lub utratą danych klientów, pracowników oraz poufnych informacji biznesowych, co ma długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa.
+*   **Koszty odzyskiwania danych** Odzyskiwanie utraconych danych i systemów po ataku jest procesem kosztownym i czasochłonnym.
+
+**3. Konsekwencje wizerunkowe i utrata zaufania:**
+*   **Spadek wiarygodności marki** Cyberatak negatywnie wpływa na wizerunek firmy na rynku, prowadząc do utraty zaufania klientów, kontrahentów i inwestorów.
+*   **Szkody dla reputacji** Publiczne ujawnienie wycieku danych, zwłaszcza wrażliwych, może poważnie zniszczyć reputację firmy. W przypadku jednego z polskich sklepów internetowych, po wycieku danych 2,2 miliona klientów i odmowie zapłacenia okupu, fragmenty bazy danych pojawiły się w internecie, co mocno nadszarpnęło reputację firmy.
+
+**4. Konsekwencje prawne:**
+*   **Odpowiedzialność karna** Jeśli naruszenie cyberbezpieczeństwa prowadzi do nielegalnego dostępu do systemów informatycznych, wyłudzeń lub innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne. Zgodnie z polskim Kodeksem karnym, za przetwarzanie danych wbrew przepisom grozi kara do 2 lat pozbawienia wolności, a za udostępnienie poufnych informacji osobom nieuprawnionym – do 3 lat. Ataki DDoS również stanowią przestępstwo komputerowe, zagrożone karą pozbawienia wolności do 3 lat.
+*   **Pozwy sądowe** Klienci, których dane zostały skradzione, mogą pozywać firmy za kradzież tożsamości i inne szkody.
+
+W perspektywie długoterminowej, cyberataki mogą przyczynić się do spowolnienia innowacyjności gospodarki i ograniczenia inwestycji w sektorze technologicznym. Małe firmy są szczególnie zagrożone – około 60% z nich zamyka działalność w ciągu sześciu miesięcy od poważnego cyberataku, często z powodu braku środków na odbudowę infrastruktury IT.
