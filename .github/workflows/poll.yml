@@ -1,0 +1,39 @@
+name: Odpytywanie modeli AI
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # <== INTERWAŁ: co 6 godzin. Zmień tę linię wg potrzeb.
+  workflow_dispatch:           # pozwala uruchomić ręcznie (także z panelu Streamlit)
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests pyyaml openpyxl
+
+      - name: Odpytaj modele
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python poller.py
+
+      - name: Zapisz odpowiedzi do repozytorium
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add answers/
+          git diff --cached --quiet || git commit -m "Odpowiedzi z $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
