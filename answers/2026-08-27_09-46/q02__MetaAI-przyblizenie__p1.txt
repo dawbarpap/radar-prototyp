@@ -1,0 +1,10 @@
+Pytanie: Który bank w Polsce najlepiej wybrać jako klient indywidualny i dlaczego?
+Id pytania: q02
+Model: MetaAI-przyblizenie (openrouter_online/meta-llama/llama-4-maverick)
+Tryb wyszukiwania: PRZYBLIŻENIE: OpenRouter + wtyczka web, nie wersja przeglądarkowa
+Data (UTC): 2026-08-27T09:46:17+00:00
+Powtórzenie: 1
+Status: BŁĄD
+============================================================
+
+[BŁĄD] 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions

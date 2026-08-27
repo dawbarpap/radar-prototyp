@@ -1,0 +1,10 @@
+Pytanie: Co wiesz o spółce Orlen? Opisz działalność, pozycję rynkową i reputację.
+Id pytania: q03
+Model: Grok (xai/grok-4)
+Tryb wyszukiwania: natywne wyszukiwanie (Agent Tools web_search)
+Data (UTC): 2026-08-27T09:46:17+00:00
+Powtórzenie: 1
+Status: BŁĄD
+============================================================
+
+[BŁĄD] 401 Client Error: Unauthorized for url: https://api.x.ai/v1/responses

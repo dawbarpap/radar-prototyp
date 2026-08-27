@@ -1,0 +1,10 @@
+Pytanie: Co wiesz o spółce Orlen? Opisz działalność, pozycję rynkową i reputację.
+Id pytania: q03
+Model: Perplexity (perplexity/sonar-pro)
+Tryb wyszukiwania: wyszukiwanie natywne (sonar)
+Data (UTC): 2026-08-27T09:46:17+00:00
+Powtórzenie: 1
+Status: BŁĄD
+============================================================
+
+[BŁĄD] 401 Client Error: Unauthorized for url: https://api.perplexity.ai/chat/completions
