@@ -1,0 +1,10 @@
+Pytanie: Gdzie warto zlecić w Polsce dystrybucję materiałów prasowych
+Id pytania: q02
+Model: DeepSeek-przyblizenie (openrouter_online/deepseek/deepseek-chat)
+Tryb wyszukiwania: PRZYBLIŻENIE: OpenRouter + wtyczka web, nie wersja przeglądarkowa
+Data (UTC): 2026-08-27T10:08:54+00:00
+Powtórzenie: 1
+Status: BŁĄD
+============================================================
+
+[BŁĄD] 401 Client Error: Unauthorized for url: https://openrouter.ai/api/v1/chat/completions
