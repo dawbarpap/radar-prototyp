@@ -1,0 +1,33 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-08-29T06:27:48+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, obejmujących straty finansowe, prawne, wizerunkowe oraz operacyjne. Niezależnie od wielkości firmy, zagrożenia te są realne i mogą mieć daleko idące skutki.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe** Cyberataki generują znaczne koszty. Mogą to być koszty związane z przestojami w działalności, które według raportu IBM w 2023 roku wynosiły średnio 4,45 mln dolarów. Firmy ponoszą również wydatki na odzyskiwanie danych, zatrudnienie specjalistów ds. cyberbezpieczeństwa, a także kary administracyjne i odszkodowania. W przypadku ataków ransomware, firmy mogą być zmuszone do zapłaty okupu, który często sięga tysięcy złotych, a nawet setek tysięcy złotych (średni okup to około 200-300 tys. złotych). Badania wskazują, że średni koszt ataku ransomware w Polsce wynosi około 1,5 mln zł.
+*   **Konsekwencje prawne i kary administracyjne** Firmy przetwarzające dane osobowe muszą przestrzegać przepisów Rozporządzenia o Ochronie Danych Osobowych (RODO). W przypadku naruszenia cyberbezpieczeństwa prowadzącego do wycieku danych klientów lub pracowników, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe do 20 mln euro lub 4% rocznego obrotu firmy. Przykładem jest kara 3 mln zł nałożona na polską firmę IT w 2023 roku za brak odpowiednich zabezpieczeń. Ponadto, zarząd firmy może ponieść odpowiedzialność karną za przetwarzanie danych niezgodnie z przepisami (do 2 lat pozbawienia wolności) lub za udostępnienie poufnych informacji osobom nieuprawnionym (do 3 lat pozbawienia wolności).
+*   **Utrata reputacji i zaufania** Cyberatak może poważnie nadszarpnąć wizerunek firmy w oczach klientów, partnerów biznesowych i inwestorów. Utrata zaufania może prowadzić do spadku przychodów i utraty pozycji na rynku. Przykładem jest jeden z polskich sklepów internetowych, na który UODO nałożył karę 2,8 mln zł po wycieku danych 2,2 mln klientów, co mocno nadszarpnęło jego reputację.
+*   **Zakłócenie ciągłości działania i przestoje operacyjne** Ataki hakerskie, takie jak ataki DDoS (Distributed Denial of Service), mogą przeciążyć serwery firmy, prowadząc do przerw w dostępie do usług online i paraliżu działalności. Może to skutkować wstrzymaniem produkcji, sprzedaży lub świadczenia usług.
+*   **Utrata danych** Wyciek lub zniszczenie danych klientów, pracowników i wrażliwych informacji biznesowych może mieć długotrwałe konsekwencje. Nawet małe firmy przechowują poufne dane klientów, informacje finansowe i własność intelektualną, które są cennym łupem dla cyberprzestępców. Brak odpowiednich kopii zapasowych może skutkować nieodwracalnym usunięciem tych informacji.
+*   **Kradzież tożsamości i oszustwa** Skradzione dane mogą być wykorzystywane do oszustw finansowych, kradzieży tożsamości, oszustw podatkowych i nadużyć związanych z kartami kredytowymi, co ma bezpośredni wpływ na klientów firmy.
+
+Warto podkreślić, że małe i średnie firmy są często łatwiejszym celem dla cyberprzestępców, ponieważ mają ograniczone zasoby cyberbezpieczeństwa i słabsze zabezpieczenia. Aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy.
+
+[Źródła]
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyHqEARsbjtdXxCd719P8K-c75ZlbY2KY-L_VFuzlYHATcCFw109gUFRBYxcvOXHkcTOniIx7xLJR_jLy2aAO00y5Fcm6mbKlz5e1V2yajBXGAaZ6oeQmL8CGBj-7TUQGh9U6QdWC4Weo-4vQa
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBBMHc_1XlIK0X5lZcSN--RsBEF2BfNjkre5wbPTbY4L-5z0Tq6INu7rgz5MvGyTR_dl2H7Hq6U7rTHkc4rQZSe6wjB78bFooHX34GP7M9OMzonT6GTlb8AHP2K16bdkQ0mG1nW241KhipBU_106ZbXSTZhZQ3RHRs_OpIk8jskCITjHGJZ2xJMNTjRqLsRxi3DSV7Asc_Mg==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH8FFfQtIDMIwaRzIQoM6ijL8gR9jUdjAncya1muocXi9zhUvzBivFipa8kdD2LStAFSfBrasQ1i8dB3EEROMb_2jQkP6109e4bJTwMXfOeSonce6wOhXSVzqbtHmhZldT9fGQVCWa0AB-7QN-BClGzY02Rb5uJp9FHPaQiVpyH_DQ1kUYiB75_2VPRIdA
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7VAioYr5mpZOv70aoDTiWkOksPHZF-MMDB_XzxDSfDFSG7Me_E7Gg3IB20hGY9FWTT_n3Ep6ueWIHg0KyvdWpXwCjGX9rnbRQg2Af202ZPfCGo2M3w2nA3wHeSP5vSKvIz4_pUygNeDmHU4IzDRWuMPsf5Q==
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ-KLKExPEj2AXFbdz-VgOqFI5T28J4VR_mDCDwdUFTjTj7PDJbXALsftCiwcyp4rJ9U9UzpfN52jsPAP6lKDJK1Yj1LQ82mhyEZgbRgajdHP_-dFxd0rguciAIA1RF8LpFSPurXkogF44AFnzdn1gtiLHpx7VFebZGjfJhCb7xNDX_Lt2tgRNzG845L8r16tOU3W1W65bGIhQObEdlI32_JumvA==
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDorV9XDWClaHhB7UUejetr5rPbXgUTqVVOOsfLhTNRYFlCwkwkTBC-Ey7hucfGNkjtBpk8bwcjkHz1HUHyRSRHUypPp3_im2SOfxZXIzmjaUYVadDxE7YryDIXvbGPrrQxj9EFtJWArWkkMtqw4x_Wc0-QQN7163-gBq_QMoHyYRuHsKaYreuqVtmAfQW_HKJwkcoTnf-DXhEFmIz-IJ-oBK_q4PiTCF7A3M=
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9sBT62QkZBmoOw9P7UVwHOmRBJy62a1pnHMcpB3udcyVFcyHcOkOZDOcAw7hsu8O2nstySK_tOB-6RisTu3fHuyMeIMEQ9kVoM5z4OIIUHmPGuMeAC91tYvprGWizwK59iq19om4hJ7GRgTnPJtX9VYXTq5tYcwHh_AR0ta14wjc5vX2i8tobYBQM7wRFSDYMyKk=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOkht-7YnAFtXeB-1ibqYfpZdkIlbCfEdQoRPsFNLCj6gKzD2DSGhVEkJ9HrlgacNDIbA1xvCFVDealruMMVeW5IuCXEzri0-o-J-eBBBXCQDPUkwT34IMBRa4fsO0eDvIzZpOrw==
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJJCBCzLkNdM3ZPtCxDSB-FfhfzX_0vTS7Hk6wRpn0NRpfKTkSoIYSapJj_paJfX3uvsDXPSvXIen9vGdchqm99bjDVQfiKB4RxN5cQscwVJcmbCit1jr54C_hyPAAUcGfrTmocMhB_-JQB6sh-5IFYJBkSkIoLsyxz0skj7wUEHRkXooS6vwrIfB66OjTGdJCZ4YYyzkOn3NdcYE=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFwq7rJeli47AraL7DBM5RtVq1WAkOyP3PaMPDgdHPiDHWwCHdDZkLWBo-84zjHWJ0avQ4mkkNsjcTGSL5oUJxcHYh8WWMTG-3tHzWYWhw0X874PUv0_k7vXnsiqjNcIEaBVe1FVD0gtHUZHjMjSEXwsVNIeQOg1ynEyzNzIsr2cw_USjyTRSwtGTuHe3koNXq8tt7hpvAzIiQVl4j
