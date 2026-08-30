@@ -1,0 +1,39 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-08-30T11:35:42+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, dotykających różnych aspektów ich działalności. Skutki te można podzielić na kilka kluczowych obszarów:
+
+**1. Straty finansowe:**
+*   **Bezpośrednie koszty:** Firmy ponoszą koszty związane z usuwaniem skutków ataku, odzyskiwaniem danych, naprawami sprzętu i infrastruktury, a także pracą związaną z tymi naprawami. W przypadku ataków ransomware, często dochodzi do konieczności zapłacenia okupu, który może sięgać tysięcy złotych, a w Polsce średni koszt ataku ransomware wynosi około 1,5 mln zł.
+*   **Utrata przychodów:** Przerwy w działalności spowodowane cyberatakiem oznaczają utratę przychodów. Dane wskazują, że dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Ataki DDoS, które przeciążają serwery, mogą całkowicie sparaliżować usługi online, szczególnie dotykając firmy e-commerce.
+*   **Kary finansowe:** Nieprzestrzeganie przepisów o ochronie danych, takich jak RODO, w wyniku wycieku danych może skutkować surowymi sankcjami, w tym karami do 20 milionów euro lub 4% rocznego obrotu firmy.
+*   **Wysokie koszty odzyskiwania danych:** Utrata danych może wymagać kosztownej analizy i odtworzenia systemów.
+
+**2. Zakłócenie ciągłości działania:**
+*   Cyberataki mogą prowadzić do czasowej niedostępności systemów informatycznych, co z kolei może spowodować wstrzymanie produkcji, sprzedaży lub świadczenia usług. Przestoje w działalności generują straty wynikające z utraconych przychodów.
+
+**3. Utrata danych:**
+*   Wyciek lub zniszczenie danych klientów, pracowników oraz informacji biznesowych może mieć długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa. Skradzione dane mogą być wykorzystane do kradzieży tożsamości, oszustw podatkowych, nadużyć związanych z kartami kredytowymi oraz innych prób oszustw, które mogą trwać miesiącami lub latami. W Polsce 88% organizacji doświadczyło cyberataku lub wycieku danych w ostatnich latach.
+
+**4. Uszczerbek na reputacji i utrata zaufania:**
+*   Cyberatak negatywnie wpływa na wizerunek firmy na rynku. Utrata zaufania klientów i partnerów biznesowych może prowadzić do spadku przychodów i osłabienia pozycji na rynku. Skutki te mogą być trudne do oszacowania w ujęciu finansowym.
+
+**5. Konsekwencje prawne i regulacyjne:**
+*   Oprócz kar wynikających z RODO, firmy mogą ponieść odpowiedzialność prawną za naruszenie ochrony danych i brak odpowiednich zabezpieczeń.
+
+Warto zaznaczyć, że małe i średnie firmy (MŚP) są często szczególnie narażone, ponieważ często nie posiadają formalnych procedur bezpieczeństwa ani zaawansowanych systemów zabezpieczeń, co czyni je łatwiejszym celem dla cyberprzestępców. Według statystyk, aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcn_MPLhwJh6kxJj__Cfy3B-JerwnlBv-OI2sMoRcRUifvPlVGE-8lyW9z8DG4_dl0wrwfxKlHFwlCfxYLE_AF1Qt0ziYQf4HzWSdgRgwRVVMw1ROSZvN6sD03mpcsT6O7u6BYEA==
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjp3Zj0HOfSIDNOA2fg3uKjIhgWtKwyqX3UWrew87RHZkm0SpXoPiLPPmuqAnFroB6FXoUJ8mGfqu1_4dsLXi8hncmxehmeJqm55t4t_2_4un2LBSWZaGKPXtEsGRoHPUHy3gbJWxelhwcH8x-D0MJ1q5FbqkduvTnt8cpHECaH0zbFq04Ik1m2coUWi-zkM8Wd0SzqdlVDQDjBCJHEP2PlKdF3Q==
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr9HwtXJbPRDIyOuXlfdrXGfAh68GBi0z733vHhZiBqmkiW6f27emz-l_DhS1OpHvVTPXLBU00O3sMwknCWP09g8ew05dN4E-brl6gJaSUmZF1rFmfzWGHZTzZqvFfF7R5K0Er_9JOZpcyTEr9aXdm4z3BmA==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZYeHF0WvPKSqY0xZivhIfMwYjuGgp1jeYj562XPsHwZ3QC82GF7VInTRfUehn6lY-Go5qx_v6YwXiplgRgTlgOnlQ7j9EXA9KPD5FTB13ZEhI1Jqo2HqAZigWOduunkxpXIC-_avLN4DeD04k
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH18-tm3JFLRMKiICkrmQna1CQMSjnY_XHooP_6EpRhz0IENencTlJwUvzyIiRIMJvG3dQKzcL6maWkNjYTncCdTbn7rVpgcziB8EBIr6BMTrMlmYg26DvNQzz4RYH903g_a8CJPLmgUcRlu5T_odtRfpd0GKuis7QQyPhrIIBZZIMGqCNxHfmBhB1gbhfQnnJe8_hHWZNUrrOL4VszkEIiNJqruVmnfcUx3ds=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNziCPQmaKQPfxMP0X0a_GcH_hp4dRVrWptcsoY7yvCFLn7XIEcUBVQDLQcWJuPT30iMSkT7ybNWD9JSaTUUrC-x3uRc-4h1FuesKCz6HqF5a7st66Z_25Uxc96B1M3w4GNmMgqLp4vbeq08j61ET47P9PG02rgy4cGayA_V7iGyfP7UmXTqwr6s-cR_EIpA86aRpEI-z-1OuHBsuZ
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOIOEZKHsDaGmUtb7RLC2ETcsRljHD2EJdRmVPYNS-omQ6ud5uiuBa8QqyKcO-OUA96YZM3No5i4XBcqhVYrXNUWtr24XzpPeg-oqdyJLkmTBp-8dP6AVpUXwVsd1WH1lFzG8Jmf_QAey7IPHpMABngv2i_So9qJkirTl536S4YWOnBlnQlSfbiZ7u1L8m8kSVMplbcnETVvYGqPjTmjDZJ4XWNQOk800Cccwv1HLimpQ1ho85pDt-
