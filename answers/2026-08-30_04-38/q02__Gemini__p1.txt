@@ -1,0 +1,53 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-08-30T04:38:58+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do wielowymiarowych i długofalowych konsekwencji, dotykających niemal wszystkich obszarów działalności przedsiębiorstwa. Skutki te można podzielić na finansowe, operacyjne, prawne i wizerunkowe.
+
+**Główne skutki cyberataków na firmy:**
+
+*   **Straty finansowe:**
+    *   **Utrata przychodów i przestojów w działalności** Przerwy w działalności spowodowane cyberatakiem oznaczają utratę przychodów, a dane wskazują, że 2/3 firm, które padły ofiarą cyberataku, odnotowały znaczny spadek przychodów. Przestoje mogą wynikać z niedostępności kluczowych systemów IT, co hamuje realizację zamówień, przetwarzanie transakcji i komunikację z klientami. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów, a w 2024 roku wzrósł do 4,88 mln dolarów.
+    *   **Koszty odzyskiwania danych i napraw infrastruktury** Utrata lub uszkodzenie danych może być bardzo kosztowne, podobnie jak naprawy sprzętu lub infrastruktury i praca związana z tymi naprawami.
+    *   **Wykup okupu (ransomware)** W przypadku ataków ransomware firmy mogą być zmuszone do zapłacenia okupu, często sięgającego tysięcy, a nawet milionów złotych.
+    *   **Kary administracyjne i odszkodowania** Firmy przetwarzające dane osobowe muszą przestrzegać RODO. W przypadku wycieku danych, prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary do 20 mln euro lub 4% rocznego obrotu firmy. Dodatkowo mogą pojawić się koszty związane z odszkodowaniami dla poszkodowanych.
+    *   **Wzrost kosztów działalności** Cyberataki mogą prowadzić do zwiększenia kosztów operacyjnych, na przykład związanych z obsługą klienta po incydencie.
+
+*   **Problemy operacyjne:**
+    *   **Paraliż lub utrudnienie normalnych funkcji przedsiębiorstwa** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie firmy, zwłaszcza gdy pracownicy tracą dostęp do danych, poczty e-mail czy dysków w chmurze.
+    *   **Zakłócenie ciągłości działania** Niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług.
+    *   **Utrata lub uszkodzenie danych** Może dojść do wycieku lub zniszczenia danych klientów, pracowników oraz informacji biznesowych, co ma długotrwałe konsekwencje.
+    *   **Spowolnione działanie urządzeń i aplikacji** Niektóre ataki mogą objawiać się spowolnionym działaniem sprzętu i oprogramowania, nagłym znikanie lub pojawianiem się plików, czy rozsyłaniem spamu.
+
+*   **Konsekwencje prawne:**
+    *   **Kary finansowe za naruszenie RODO** Jak wspomniano, naruszenia ochrony danych osobowych mogą skutkować wysokimi karami finansowymi.
+    *   **Odpowiedzialność karna** W przypadku nielegalnego dostępu do systemów, wyłudzeń czy innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne, w tym kary pozbawienia wolności.
+    *   **Obowiązek zgłoszenia naruszenia** Firma jest zobowiązana do zgłoszenia naruszenia ochrony danych osobowych do UODO w ciągu 72 godzin od jego stwierdzenia, a w przypadku wysokiego ryzyka – również do osób, których dane dotyczą.
+    *   **Odpowiedzialność za naruszenie prywatności danych klientów** Firmy muszą przestrzegać przepisów o ochronie danych.
+
+*   **Konsekwencje wizerunkowe:**
+    *   **Utrata zaufania klientów i partnerów biznesowych** Cyberatak negatywnie wpływa na wizerunek firmy na rynku. Firmy, które doświadczają incydentów, często tracą zaufanie klientów – aż 85% konsumentów deklaruje, że nie zrobi zakupów w firmie, która doświadczyła wycieku danych.
+    *   **Spadek wiarygodności marki i pozycji rynkowej** Utrata zaufania klientów i partnerów może prowadzić do spadku przychodów i osłabienia pozycji rynkowej.
+    *   **Utrata przewagi konkurencyjnej i spadek wartości rynkowej** Skutki pośrednie mogą obejmować utratę przewagi konkurencyjnej, obniżenie ratingu kredytowego oraz spadek wartości rynkowej przedsiębiorstwa.
+
+Należy pamiętać, że mniejsze firmy są często łatwiejszym celem dla cyberprzestępców ze względu na ograniczone zasoby i słabsze zabezpieczenia. Około 60% małych firm zamyka działalność w ciągu 6 miesięcy od cyberataku z powodu braku środków na odbudowę infrastruktury IT.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg5QoED-gmH4AJYOe8k9Y3nmrUui6hge8_0R3do3cSOYtHOt8cdWl0ayezuSzcZfU5TVLqBb5dYM51CK8Rq6P1We9SS69gcYHyu4ptv9fe7WC_1dT5pKHQPdHxzFKyy7C_dmwd0ue8ugdoNI4EjVjJ-qR5tf06ow2fv6ijnVIfByzeBX1JdO1y7sESVUYxRaU=
+pap-mediaroom.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXmPZLKsOfv5275sVUqiV8FxYnvidMmsasVFzM51hfpgND9K6LcDOe4ZTYRzSGuTv_24b5RhXcAso2cgNrQVRESAr8h2dRD1sXNJjnHIAFxDfEWT5sjWc2z5YKlNVDh0JHW4DJhetF1mzecppIrgG9_jEOeLD_g5vg8A-wATVrnc8T6zNOAsk57s835hb2bRCqUOEnQ8sdwf5-cx2fWnixV9CvKqO4aNhWbSDzVBDc5Q==
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL5lqrFLWG3Ui-n3lwPO4BlF3fAkeiNhQQQdxjcsGhBG6ZK9uojmOTkyrTtqIV4Rrg3KzQ4oR3JsKzj3ccqLgAtdzEGORujjtB6Akaui53RWJIeyN469KKjC4faOMfJzVgzpBiBM6M6jgSqoxDkCzS83QcqniffPfrPE8yMhtZd5BVoVmvgMkI7vGbvBXdh4Gq-3S8-sT-Lysg8XpGlCf36b2l
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiPg4DyydubIB-u8P_UfWJ2ymwMfYbDvhO85NGkh1PoE57_t8U2eMqUm8aNAB6FBg9UP80rSPyYV34wZ1Z3cSY5E2kVB-o6MwyjeMQ05FW3NtCE9p9t-vCHxORXu8hQxnQcOLc
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEujXkRaIk6OtlxGngWsCeibfH8OtCz3FNSCx_RWLO9NUd3hB4EJo3Dnxf_pBYSUPXxAtT9oGzK0Oiiv0kCRVUW1nLKcx2DrjrhPO762KZAsxlU_K_jqAzxS6ewfZdPswKPDtGXDW5gDWCpE-rhW0mktZipXvSR9ARa4DQbgIdQhu3uJOtLdtTrU2zF146xVkFgI5kig7IBRsaoNR-VSV4qhWPf6eGAjvjrE3JQIDsPxaMxrqE=
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBzAfU8cG88OoFA29MYlF0hjbf_REYNC9Mm_eTjQf_Y2_E1jKHj9GwE78iYtSTT29W8GaJluXpjkKtGiKFC40qeQqRQhzNHe77ukwqXSjCnfCYetHnXF7wWDdU7NfbomYjIpmYBPM7pJ3EDuWV_PWrx4CSTbAHeiBROVYliiQ=
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcrsL2CdqBZNsFvJmZqDLlPRpN2LgN71Z3XTT_HuRFqO1ruAY0AapWfJAKY9o1Pv27r0PT21lCST_YfbPOrFTcNWn7ceD-ezRrkMgVR-LWF4Enc7BJiymcupq0rSun3W1vPXBFCaHACpwvocGgd1oKQ90ByirE95g1mrzGEW8wngijfEAg1z5uVhyiATQ=
+msc.wroc.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESrgEVwU7oziyHt-nqXkGMZ0bevzBa1Ju7JE4wspi1heJfn7oHwh6XNa6K1qjsAm4lryGH0u_oW2nKe-kVJq4OIbiZK-CqJhlF9_WjO1iN7aYXF9c0XSL6fza5ufSer1BJddDoXZhigYtJsXa4LR--OsoE8G7d
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-IrfUa_16L88h4ilASN6EM8Qx3bXahjf25Vr1YD8n0iPzJD1gYuJPaIjN0wFbD619tze_aJJ-Tkx3kH5m8ewiQ5s_lVyHDULM6sCOF_ZUNxzbWgSq62bXbfle9eqm8vJjfiyV9ZzLoUsaMm5KA0xHsNrL
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkPnMwX7RCuu17-NY2DGTuCtCfYzHVAGAUIS4FoHWeuLBc9MKdwDImPS0CP72PdJsxNxj_BEked02g8S1wy6lgZGjImuymUQjvaRB-UeUATZSOP6XxcVPSRJKt0cx0Nk9zod8lG7Xg6vOv2nTksdxZgxi0TC3XmSmUJHsaj67fn38LJ36SMr_9NvkeiUMWky5tRGOdIMzDlwH076HRDXf9x_kLaEK0hKYjOw==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4v6hMz1kclDBoIjWJXBEUW9LpmxaHfMVLwc3o3RV6MLCY24QLIHTmG9dk6ddOiCUtju77r-A3SQVN_jSV6LpQA9Z-j3IGmpCFP2HVUCGsHPlqSEckeELXGtuS1qJ86btq7RazcVxWm8Ap_XU=
+poradnikprzedsiebiorcy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyWqzIpqp9_6BRsIG3KgW5P-BBo2UixWzdYupqCQfPV3WQXa1hBhqUEWB3HKOpmqwXPoJFYE7_ug2fog7B2MuXGpQD86d6HEkCkT3rDpg4KyxathaQFxK_7YQJZmjNMTJDdUtiMcryp1yjHhVsiBBmICw46G-vytcqWWoTm3UyLZXHYm9mIq-oCQFLWYbZ2xJpxQTUVvh5D2I1uJTzSueC0AQY2taBAA==
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGASCo7dM5NMI8g0TuTlRJu-rdGWibXHh1wJ3I6n2te2NT62SMHGxna7awU1ab0uwL3NoPJk_rTx-eeZe4Y5S080p6RqpwJXNCBwMcZRcGv_jYEHKaHGrBAz2U9IoEiHcCB4IRtHqGmHBQPJMgEAwQxSVURXm4NOTtS-rH9VMMbj34tho7a2o3dDjudjKBnVOmNDzAvFvh9
