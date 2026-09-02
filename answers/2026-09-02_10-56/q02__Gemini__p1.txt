@@ -1,0 +1,46 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-02T10:56:48+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, dotykających wielu aspektów działalności przedsiębiorstwa. Można je podzielić na kilka głównych kategorii:
+
+**1. Straty finansowe:**
+*   **Bezpośrednie koszty cyberataku:** Obejmują one koszty związane z odzyskiwaniem danych, wynajęciem specjalistów ds. cyberbezpieczeństwa, naprawami sprzętu lub infrastruktury oraz pracą związaną z tymi naprawami. Według raportu IBM, średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów.
+*   **Utrata przychodów:** Przestoje w działalności spowodowane cyberatakiem oznaczają utratę możliwości generowania przychodów. Dane NASK wskazują, że 2/3 firm, które padły ofiarą cyberataku, odnotowały znaczny spadek przychodów. Ataki DDoS mogą całkowicie sparaliżować działanie strony internetowej, co ma szczególne znaczenie dla firm działających w e-commerce.
+*   **Kary administracyjne i prawne:** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania przepisów RODO. W przypadku wycieku danych klientów lub pracowników, prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary do 20 mln euro lub 4% rocznego obrotu firmy. W Polsce, w 2023 roku, jedna firma IT otrzymała karę 3 mln zł za brak odpowiednich zabezpieczeń. Dodatkowo, mogą pojawić się konsekwencje karne dla firmy i jej zarządu, np. za przetwarzanie danych wbrew przepisom lub udostępnienie poufnych informacji osobom nieuprawnionym.
+*   **Okup w przypadku ransomware:** Ataki ransomware blokują dostęp do systemów firmy i żądają okupu za ich odblokowanie, często sięgającego tysięcy złotych. Średni koszt ataku ransomware w Polsce wynosi około 1,5 mln zł.
+*   **Koszty długoterminowe:** Należą do nich utracone okazje biznesowe oraz rosnące wydatki na zabezpieczenia w dłuższej perspektywie.
+
+**2. Problemy operacyjne:**
+*   **Przestoje w działalności i brak dostępu do systemów:** Zakłócenia w dostępie do kluczowych systemów IT mogą hamować realizację zamówień, przetwarzanie transakcji i komunikację z klientami.
+*   **Utrata lub uszkodzenie danych:** Nieautoryzowany dostęp do danych firmowych, w tym danych klientów i pracowników, może prowadzić do ich utraty lub uszkodzenia. Problemy z odzyskaniem danych mogą dodatkowo komplikować powrót do normalnej działalności.
+*   **Trudności w odtworzeniu systemów:** Po ataku może być konieczna kosztowna analiza i odtworzenie systemów.
+
+**3. Utrata reputacji i zaufania:**
+*   **Spadek zaufania klientów i partnerów biznesowych:** Firmy, które nie zabezpieczyły danych klientów, narażają się na utratę ich zaufania i lojalności. Klienci, którzy padli ofiarą kradzieży danych, rzadko wracają do takich przedsiębiorstw.
+*   **Spadek wiarygodności marki:** Długoterminowo cyberatak negatywnie wpływa na wizerunek firmy na rynku.
+*   **Długotrwałe skutki dla klientów:** Kradzież danych klientów może prowadzić do kradzieży tożsamości, oszustw podatkowych, nadużyć związanych z kartami kredytowymi i długiej serii prób oszustw, które mogą trwać miesiącami, a nawet latami. Dla konsumentów samo naruszenie bezpieczeństwa to często dopiero początek procesu naprawczego.
+
+**4. Konsekwencje prawne i regulacyjne:**
+*   **Odpowiedzialność karna:** W niektórych przypadkach zarząd firmy może zostać pociągnięty do odpowiedzialności karnej za niedostateczną ochronę infrastruktury IT, która skutkuje atakiem hakerskim.
+*   **Zwiększona kontrola i audyty:** Firmy, które doświadczyły naruszenia bezpieczeństwa, mogą być poddane bardziej rygorystycznym kontrolom i audytom.
+
+Warto zaznaczyć, że małe i średnie przedsiębiorstwa są równie, a nawet bardziej narażone na cyberataki niż duże korporacje, często posiadając słabsze zabezpieczenia i brak dedykowanego personelu IT. Aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy. Rosnące ryzyko cyberataków wynika również z upowszechnienia pracy zdalnej i hybrydowej oraz intensywniejszego korzystania z usług cyfrowych.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKjqVeKidBlHbYRawpLBTcRERRVUBYDzNioi_bj-g8pkhN0PYPvwIoNxQJDfD7ZNxDWGZgPAmVNN6m17BYzuGmenDGJ4fhcSRa5NBerjuJ_GqopMJ5mxq_wshNm2-P5ENL7sG1
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-L1LlJdcvNinucNjCLGJSEnTLfdrASPc16o6QH8mo14iZ0ShyoFhLvJPy_J2bKVWYrg3CR36G35qCk1ocQBNRiy7Erf7HsXdUMjjszhL5nI92UUktnyulB19Upw_XdeJGTxyzlUxxRZW_KIKeL8tRwfmhQOYaUaAVPDO4mUqzaZ7-OClo5w8qna4XpZo=
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0Zfc-SMOAN-wDM_VAQCRtGsTqFkJb7bsSYqbor81ZkFgTI-BJj3SbT9lQmMcIWcNhkdEfoZpZEiAzXR57SkoGpc7xRslFtc8QoNxKTDuZ9zcKgH6HeP4hixJ9kVH6Ic85W3DDqUz9E8EpOIURdLWU7Kw
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-ed6vtu1wbzzU6UpsrOabyNrcLZfiVq26NIkrR02N32jq1ZQ2Wf0I4Z-nMcBWiKPGFwEVop7grA5MO8T2nmK5LP26Iuu-vi2vuTRYzp6WglftRLIpP39hswX-pftFX4ESyIP5ocfC5r8-BzeiMsNU63HoPoqjeNby1SOJzY8ZE1W9-DyfaqHiHoZmXnkz7710cgdK4HWU5v_oBA==
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJyfUJq7r--NWlx_Pa7QMmC6qZ3aZlSHK52QCc7rapOIUZGTIcG8RBW16zHnSLvFR9drFz7rai2ar9OMmAM5U0HWUnuHiLdWW0mdh42kVvMVSNowNqoMxPSzVQ45szlzAJAL2d77WFk79taA1ruxS3Lm-XmNcdACN15smExr3BGBtj_CwtWTSG3q4EbUq0LmDQzpakOSspMtXGo7H2cgFHzAYi4NzYZ7lP_w==
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh-Cr8NTatX-ZNeCoyiHqIoHbYYnKzZ8VwgiIq5mYkrEEzM5BNnU16TnhYssCLvR2rMWpvKy6-J1dVAVGdIWrcGdcwIi1DPN2bEOEBqQW8UPOyXwBVWCfqCUVEc2WzVzYkwdOHZFl-ucuGjn_Ql3Wytv7eCzkJGxjuTShKbrQ=
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4dVpaL3c2Hef_N1oC9sQef54rg5K-iQEq4HFte2XVhiQYyvK3R9UMzw0MRgeQr1MJ-uoEJVJlWb6SCLKUTtreKzV2g9H62_awba3DxYZ1nYRag5qwnOTrPlv9RBLIZHkhY0JzZokNfbKGLOg=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqWE0n14t-Lwd5xXhWIzyxgnxBDyDt7_O9ZaPjFDKUghUs2w0T7dgW4X4H1Tn7SRhsygxJlL8EB_RRMMR6zRNpHoxJNDNULXBWMAEG8tca9RtVRnoIIV6_fRWktGWdAcOEnwmqrnJlubCBQCE74vuTrBcUf0_m0Y9elS0Q5Ei3OB8c-LM=
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFgHOQyW20u6ISTKdZTa2tcZT01h01wMoXXuZMs-pyr0btme-CeJobHqgLQOqaE0C5gaqyaALKCEz-mqit384vdtHyiq583uubwdZ6Fs-84oOnSiLWaaWtFcKqWMRUrgTKQNp-BHo1H_KCdP00wVpT3duGWIvynxQqnWSXooues3xJiBXhyVvHh7ibqPsmcoQdLzp-fMJr
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Dhd2-Avp3NvcriMzyszH_IMSoedqtD_YhvKORJJGPERnm3-x-TlQqfgG_syC-F9EeVMYcMdkD89XM7wIWWUJhhbky-OIm_Gl4fDTMn8FFgMyhsYKmadeYqeI64yZffe_e3PmvihNdwLhUpjfkCfSeW_Mqa7XjpTc2WYluNl1D9I9Y4CoY91Zgy-gNDgVnj7Q_oddIW15dCrDYqPer94OKOwXWKGdm3KuPNdVqGWzydSf46E=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXCMzuP1Xe2Z6MsffcI6Fgd8i3acbe-2mWS_e1BaYjo6Fo9ZHYn4m76MEIq5wL6n8eeTjjyFjwh6oyc_k2viWDaBW0MIlR3NErFnLXqBn86v7YOfopLQx_kepwHIvP5fuTbBH5SZ2z2gHXi_wZRTCsQx3th8CkJzTGH5FOoaF17CMMU65IZfJjUkMzYqrUQCxhPH5m7DkIFV5SZpM=
