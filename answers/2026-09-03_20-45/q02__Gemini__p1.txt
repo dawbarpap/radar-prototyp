@@ -1,0 +1,44 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-03T20:45:22+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które można podzielić na finansowe, operacyjne, wizerunkowe oraz prawne i regulacyjne. Mogą one dotknąć przedsiębiorstwa każdej wielkości, a dla małych firm często oznaczają bankructwo.
+
+Główne skutki cyberataków to:
+
+*   **Straty finansowe**
+    *   **Bezpośrednie koszty** obejmują wydatki na usunięcie skutków ataku, odzyskiwanie danych, zwiększone inwestycje w cyberbezpieczeństwo, opłaty prawne i kary regulacyjne. W przypadku ataków ransomware dochodzi również koszt okupu, często wynoszący tysiące złotych. Średni koszt naruszenia danych globalnie wyniósł 4,88 miliona dolarów w 2024 roku, co stanowi 10% wzrostu w porównaniu do poprzedniego roku. Dla branż takich jak opieka zdrowotna, średnie wydatki na incydent mogą sięgać nawet 9,77 miliona dolarów.
+    *   **Pośrednie straty finansowe** to utrata przychodów wynikająca z przestojów w działalności, spadek wartości rynkowej przedsiębiorstwa (np. spadek cen akcji), obniżenie ratingu kredytowego, utrata przewagi konkurencyjnej oraz trudności w pozyskiwaniu nowych inwestorów i partnerów. Dla dużych firm spadek wzrostu sprzedaży po ataku może wynieść średnio 3,4 punktu procentowego. Badania wskazują, że 24% kosztów naruszenia utrzymuje się przez ponad rok od incydentu, wpływając na odpływ klientów i uszkodzenie marki.
+*   **Zakłócenia operacyjne**
+    *   Cyberataki prowadzą do utraty danych, przerw w dostępie do kluczowych dokumentów i informacji oraz zakłóceń podstawowych usług. Mogą sparaliżować systemy informatyczne i aplikacje biznesowe, uniemożliwiając przetwarzanie i wysyłkę zamówień, a także wstrzymując produkcję lub świadczenie usług. Średni czas przestoju w wyniku ataku ransomware w 2021 roku wynosił 20 dni, co skutkowało utraconymi przychodami i przeciążeniem pracowników. Przestoje mogą mieć szczególnie poważne konsekwencje dla firm działających w e-commerce oraz dla infrastruktury krytycznej, usług użyteczności publicznej i służby zdrowia.
+*   **Szkody wizerunkowe i utrata zaufania**
+    *   Ataki hakerskie znacząco zmieniają postrzeganie firmy przez klientów, pracowników i rynek. Skutkują utratą zaufania, co prowadzi do odpływu klientów – nawet 87% konsumentów jest gotowych zmienić dostawcę usług po naruszeniu danych. Negatywne relacje w mediach, pozwy sądowe i sankcje regulacyjne mogą pogłębić ten problem. Uszkodzenie reputacji może stanowić nawet 60% przewidywanych kosztów naruszenia dla dużych firm. Atak wpływa również na morale pracowników i retencję talentów, wzbudzając wątpliwości co do zdolności kierownictwa do zarządzania kryzysami.
+*   **Konsekwencje prawne i regulacyjne**
+    *   Przedsiębiorstwa są zobowiązane do wdrożenia procedur reagowania na incydenty bezpieczeństwa. W przypadku naruszenia ochrony danych osobowych, administrator danych musi zgłosić incydent Prezesowi Urzędu Ochrony Danych Osobowych w ciągu 72 godzin oraz powiadomić osoby, których dane dotyczą. Cyberataki kwalifikowane są jako czyny zabronione przeciwko ochronie informacji w świetle prawa karnego, co nakłada na firmy obowiązek zawiadomienia organów ścigania. Nieprzestrzeganie przepisów o ochronie danych, takich jak RODO, może skutkować surowymi karami finansowymi.
+
+Warto zaznaczyć, że małe i średnie przedsiębiorstwa są szczególnie narażone, ponieważ często posiadają słabsze zabezpieczenia, co czyni je łatwiejszym celem dla cyberprzestępców. Około 60% małych firm zamyka swoją działalność w ciągu sześciu miesięcy po poważnym cyberataku.
+
+[Źródła]
+cmitsolutions.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqKK57NdRIUH5eY3TYm4HnHAFVU5AQGp-6L9HuHyrqQ3ebGv2NewvIjxQFOuEJENCH78hp1R4cxPOv4MLVt_MkqKQo7CvF66aMJJvFTxHJbEuSfLnFZHywqZQ3kU5PuRwzrl5ml9HCTjagZ01apeDV
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW073yP-7qLILTx6P-51GWelJXOx_x_fjMj7hDDOerx04H7TQalNGwKfzc8bESG9lHUHBcacbeBMLCwOSSG4xlPBux58E_yhKpO2-QH6EVsYx7wPu4AHTITWTRquYNZ2IuqtPn9yElqA72LbCSOpAKbgC0qA==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc7rhKKwuWGkNFDj0wbhTK-MSrclqmsGtvdVajLGhxPYwBuNi5JZ09mXjdhe8e_BwQB5xtmE8krO2K4fUbYuq13SUQY-ju3Y5wceGS19umbKn07lIMcAdZL4mJfAelGJ6u4pccexa3NuXoXrWK
+cyesec.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEGYBzFKkur5C7HcMBjW7KOGWuc5R1_C9scaeH6ujc-6TX3IlMKRnkLSvuBs-FhjYozCI1amVyGw7NzkbEzYo2rHJjRmRxClv1MqOF10m97qjjy1tRbDwpAb08SGmPCYTMpy3AXE4yB0Ydbb0-9ZZlGo0l6gXwdjnXW8Fc7w==
+centripetal.ai — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECXxJFxCifivBoSsfywyus6VH1caiy1ocQP6xKNvpmmagsIAXV8vncITQKevxc7Ui2WxGQTpXbEnifb3FklDwJua_473jmIFdOAxbW2igt8q3jOjpW-VzRj6OMGiEssj6qhHp_Lrg7YpZ5IvVslSZkQF4Xl9LvaWWWmftUiOnIw37QfOhqGQ==
+dragon-is.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGX0BEXvVxlcL1O8ofQH3iBx7MiGkP3pqj4vQny9keX0GoCCcyFY9yB23qNJo3AsTKa09eXQ_vEQO6fJtUIuwen8YTgcO8L_yto1Zq-cIZ_pyYyJO4lvKge8x74j-Lc96EPCrcF14u15I=
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeFb7-w1XiwQzw6zUw5kDozGtHlkj_zEGAYMenEDhaNP7wa4yuCkb8GBbkb4C4ATMoHVDrbDauyCmLD1Y4D60OFOH-y6q5eO_5OuE1ZlVzTbIo-kUIh8G9GN-qIA1Hz_UK2TcRhu3JHRfnFqkKXKb2nBtCuprjO8lP97BYBItNcNQkl5SAfUPE0SgpRLQ-ObrvGGsjNU_8Jjm8zCSGuuUuZMliMxD2DUZ7wr8BhwuljQXr
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_gqtgS9xygu6KhCixFBvBy2ekoKGXQTUCnPql2utp6_lkx4OMrYYshuIXuNIeTMPCfMWv_hHu4qYl6hJ9NKgkXoBmQKhWG76PC33Tsb_g8e3FcMX50S5r3pptibE6VYGCXWMCOV5MdbSDP8oO0d5TW-PMPmdMZplZFNjtcst3iahYlOdX9suOfEkMPaGQ7Rzm
+nber.org — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn8baffam0aLVkNuIjie9xq6xpspHzntIG44Pq0KRCBj3p8GR_MYG9WisutyJDrzRi1Ur9KbULyVjvM-0uYVCqoch_tou5Wylw42K4JKsOg-u68Dme0e8JVXThIoJ-NkcLx22bwBbETucRexyZufWX7UBZK7YqcjtaeCjkL4PnAWST4Fz8pDxhWbRuaLP37XBpo94HFOHq
+processunity.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1EgMnshxWIhV6mC6-uAuvdbChUaCkWdcbaLwT4iz_mcgXby6W-XR6cjpg5rsN88_ZB0N50DNgEbaRo6yRlU_OzQiZ_3KoPitTa3i_Q1yv1l4nbXlH4MHh0WLHn_lnrMnLju5O2-figIlUDa6xT7Yl5zNOfMRC0irXyiF6E02abvfKsLp7KH-I30o_RzqHlJ6autjkpwAo3Rdqn6zS_5kr2ioLW-Ew
+fen.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZvQkc6f-dOXyp3iLpapiwgaAaM8rQ8BCis5ZAaTZ_6eJd_-7vql68Htu3abqghFx8xMhFoZbpCv6qR3uTcVQR2WFfA3mxFHz28nzQ1MzBcrMui_d1vo-rl6Ho-4Fy5qnsm9OGu1oqIotXv47Bgh5mVDGEpsTTZiZdTQbPaWPtXfKlcEND0Oc4NyQp
+medtechdive.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmlUu7atfoAWDTyumjLN_Yn_AC3JU636am_HS36TPHId9JX7bHnlSuQrljQjlEcPra63wWGlbRkeU309wbsAyUNJMJE5-bBoqyHYpp0dUsBilbY93IcqYftJzIkTSQMvtFGQVPVEjCbRcLRWZO0m1majDgjzjlmuAyd8cj_WKrj1tsM9zsgk91z94UE5NbzMXW77jZqlpB-pny3aXLrOedLA==
+securityweek.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGBgb9d2DgCPHmc3ez4nVKKOm9Xpj7x7uFGVn2qjGy0mj62fASA10icrPOpJoteikZr0wIjh4aoHofxKrWj1TktyN4vVsnlLvkINHvR1PRk_xMXkziVw7gqm4XrsiyR-swvrHfbMUHgj1cZM9CJv56KNZPDqWZV9Tl_jLaXWVv00IasoH57LvJvzY7iAmqRb0XVA==
+reddit.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWtVWt1xzthopoch-ufaIT3Ls4gWI1albNyfh9yoiuztaWqJi3Z5aTIZAjhn9KKJ_nuV1TvJC2zsq5EgS4XWLUDSC6-zSo4P2FbaYZQZV0UqjVtqLouQ45AWY71BFMSWMjdcsSnurPLfu7SE8TJqeAlx3KVaRmaxRkyVJR9MaSrWjaqsUVu6-8bSqSyDwZV4w5gFhYO7ksyEL1F_D2hvp7ij6hX7g=
+techclass.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlAbpO-wj46sYw7DArnOVUG3N4Pv_dm5S5KUQUtBtLeNLjyOAPCIXNZr6R2klGodSb_nl4CtHCKNCX8FGv4XqvgvtH8NDUYvz9w6ZdVggohakVgGGkmBVmyIrsVdezDmzqNjHI2RTucGY_DUszO-WdxE5n9kAKYLsEPCJVqjGGP6j3SnRh-khK4TjrNfif8V4XyXW2yPVfPtvPQHaWDZOXM69PtyPxY_ql_o4=
+tulane.edu — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6y1RFMbLG3gx0_nS8TfV91YCytYOX18uU45jYF-qpFuOoibTjN8gBliiHKaoEed0Zq6Q5GeaGIxo17hLIPRQWU-vFhhu4I8d2RY98iBXPxFgrKqgMHgK-ljPEBOWZKwopvi80bZAD9r2HQCnNP-r0JpzCqLkZ1LG8iIxBQA==
+sbir.gov — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQvXtqpdBKeJA5Z5pQp63BEzWCIxahTxPFiG6mDegERHD9JSwxzAzwzxVkH8PX8lG8b5bFVGkVdYiNspbYChle89leQ9mIUzvOb5_0uj0iSPWXpGFPlBYYsnhr_Jz30wK7zaPD1YoerHSqu61SCz-9PvYm
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9d0mOTxfrfQsghWd8KjDSkCdLFsNcagdI6cBioM3lG2GLmDZETbimdhA4eup8r-BrfxBpDlXZULEF-HkAz07XIAp-cqmffuaHQi6O2HKY7aJjxjqGgNn-GllMm0U2-SgBtyXrM01UCOJI3HwGHvovJv138A4F9sU4SIc7DXMrjunhs6zWW2PAGlZ-NAR-g7UJYh3ThCh3zBALzPrcOK4TbUd6MIaMuCoGjSH3y0YnW6VvPJxwWYld
