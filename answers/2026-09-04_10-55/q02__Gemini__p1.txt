@@ -1,0 +1,51 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-04T10:55:36+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, obejmujących straty finansowe, zakłócenia operacyjne, uszczerbek na reputacji oraz implikacje prawne i regulacyjne. Zagrożenia cybernetyczne ewoluują, stając się coraz bardziej wyrafinowane i kosztowne dla przedsiębiorstw.
+
+**Finansowe konsekwencje cyberataków:**
+*   **Utrata przychodów i wysokie koszty napraw:** Cyberataki często prowadzą do przerw w działalności, co bezpośrednio przekłada się na utratę przychodów. Dane wskazują, że dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Koszty mogą obejmować również naprawy sprzętu, infrastruktury oraz odzyskiwanie danych.
+*   **Koszty związane z naruszeniem danych i okupami:** Utrata lub uszkodzenie danych jest kosztowna, a w przypadku ataków ransomware firmy mogą być zmuszone do zapłaty okupu, często sięgającego tysięcy, a nawet milionów złotych. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 miliona dolarów.
+*   **Spadek wartości akcji i utrata finansowania:** W długiej perspektywie cyberataki mogą negatywnie wpłynąć na wartość akcji firmy i zdolność do pozyskiwania finansowania.
+*   **Wzrost kosztów operacyjnych:** Cyberataki generują dodatkowe koszty związane z analizą i odtwarzaniem systemów, wynajęciem specjalistów ds. cyberbezpieczeństwa oraz ewentualnymi karami administracyjnymi i odszkodowaniami.
+
+**Zakłócenia operacyjne:**
+*   **Paraliż funkcji przedsiębiorstwa:** Pierwszym i najbardziej widocznym skutkiem cyberataków jest utrudnienie lub całkowity paraliż normalnych funkcji przedsiębiorstwa, zwłaszcza gdy pracownicy tracą dostęp do danych, skrzynek pocztowych czy dysków w chmurze.
+*   **Spowolnienie działania systemów:** Inne objawy ataku to spowolnione działanie urządzeń i aplikacji, znikanie lub pojawianie się nowych plików oraz rozsyłanie spamu.
+*   **Niedostępność usług i problemy z logistyką:** Ataki typu DDoS (Distributed Denial of Service) mogą przeciążyć serwery, powodując przerwy w dostępie do usług online, co jest szczególnie dotkliwe dla firm e-commerce. Przykładowo, cyberatak na Boston Scientific zakłócił globalne operacje i realizację zamówień, a atak na porty Karoliny Północnej spowolnił pracę portów i obsługę ładunków.
+*   **Utrata danych:** Złośliwe oprogramowanie, takie jak wirusy, trojany czy ransomware, może uszkodzić systemy komputerowe i wykraść dane.
+
+**Szkody reputacyjne:**
+*   **Utrata zaufania klientów i partnerów:** Cyberatak negatywnie wpływa na wizerunek firmy na rynku i może prowadzić do utraty zaufania klientów oraz partnerów biznesowych. Informacje o naruszeniu danych szybko rozprzestrzeniają się, co może skutkować odpływem klientów.
+*   **Spadek reputacji marki:** W długiej perspektywie, uszczerbek na reputacji jest jednym z najtrudniejszych do przezwyciężenia skutków cyberataków.
+
+**Konsekwencje prawne i regulacyjne:**
+*   **Kary finansowe za naruszenie RODO:** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania RODO. W przypadku wycieku danych klientów lub pracowników, prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary do 20 milionów euro lub 4% rocznego obrotu firmy.
+*   **Odpowiedzialność karna i cywilna:** Naruszenia cyberbezpieczeństwa mogą skutkować odpowiedzialnością karną dla firmy i jej zarządu, np. za przetwarzanie danych wbrew przepisom lub udostępnienie poufnych informacji osobom nieuprawnionym. Może również wiązać się z odpowiedzialnością cywilną i pozwami od klientów, których dane zostały skradzione.
+*   **Obowiązki wobec organów nadzorczych:** Firmy dotknięte cyberatakami mają obowiązki wobec organów nadzorczych, w tym zgłaszanie incydentów bezpieczeństwa. Nowe regulacje, takie jak dyrektywa NIS2, zwiększają odpowiedzialność kierownictwa za nadzór nad cyberbezpieczeństwem.
+
+Warto zaznaczyć, że około 60% małych firm zamyka swoją działalność w ciągu 6 miesięcy od cyberataku z powodu braku środków na odbudowę infrastruktury IT i przywrócenie działalności.
+
+[Źródła]
+obserwatorfinansowy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENaFDkTNP7PdnRaYTUzSQ695AdeeWAW33VIIrOtwwjMmpxG3jLHYT_BRR6bPRzS7Cq22mTuD4W7pSZac8X8lK0h2JZD4SLtUUiZwznoMwKkCRaGRcAErpmZTVpWZ8M9EviLJDvKaIu_QskO7BAiArmxzeWAC6-TTppoJSqptFwYUNRuH1D87ORnnaF2P5o8zO-uSwIa4j8fVn7XQagnwJcaD52g_Yt
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHICdfxDrusrUZEDmv9h028TfOrHwFoGeMDxUrqcFd_FUo4wOV-pp4srHlFz3z2VxXYyEIX7MYg31qCbipIbLK72ZCK92c8BFV0j_l81lDN06IIycA5jcMPn1jkEoNLbX_2MsYBPlfMDgjlTpCtIb3vOI14t2yFS9zvc9vlBVixh4wiTp5DNCPjQVghytrh-m2KKI-s5WNKbMm-2G_0m9bcDCttylUDFsK10YQ=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeH1JtyOUbFnuPx0JEezhEF710W-OseuwsRTy5XZBrHNi3wQkzioWxa7I5YzmwvETVkiBAkH5KgB1TVPwuqv_w_eQ1Ndb8qPH-g9TtH4GRHV76vevz5w2dR0KUnn2frZBJNTVcWA==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc8jiy1fMggYG70UTRK5kHhsygf_LnxDpErASz5MIA13LWp93SFawT8U_MR17oJKdMuhXQNsKIdI9XzDpjcQOy-0qEBmqudhAoYLYV4UmHVtJe-uajI3RwpXqdMSw7ugKsaUoGljRQTuT7Xr9gIeRVPzea01zdx-vGPRV2i5CmpE4h0RyYGPdtJS9AHHtAhAcnHrBLFy56wfpwp46OgX6rt5-zt6XEXpk1WXwhVh3OEVrFFhbB
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcaNzAnIaodnZUYXVnTpbs0kb_Tgei6zyqspbQ0EJeeYXlFkZEONXG856YlwFS_kQy49ZlJ_y_EwARtnCcYTgUdg0-js2-h8J4uZtMi_3sP1Ys62ztwxrLQusg3Xbf_LB8eaiQ94SIlYGbLINTxU6Trq1Uog==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrhK7C2e8hr-DKZPYYDiWylxZEW_meDOFsr9TE7BiviMOCIe6aQcyCyzkTiZoZg9rHbuL4sZ-v_C77XT_lPDdaFCLo-ZAcobdbFaLt_sS_XVD3RPq63kJh9YIkypHF1txyWVQFXYJXueuaoUm2tRNIgTDyNYksKgeGnR-iYEdRllZ1sj3bN84xUw_vdxa6
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO2ICOlq75a7nVSUe4kEosxih0dS-t8UYeyacF8qPu99ei96ke4iL7LiqXFZgcVZTAHXUhj2w84o1196hc_wtyBWJosO_l0osDCO0ZDSd0SYfCprQNW49VCW59GSc2dk6np82CENlCzjBe_rVF
+bitdefender.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5zjAg0Kx5RDAXm6hv010jpVFMpYd7D2HLgE-lSl-vbOrg8TLQOENotm6bXYb8BQ1l7u76aT_3FuAaQcDRSiOt4L0udIlh1QhA9wOl0FvXeFRHc7wQANmk44rndYcU1T1gMY9qMXCiHNj8uxCSb4P6nOmNJUJHwXBu0CTrrxIr0yScos-g138oVL6HiNEBwe3wcsAYKpcT4sqh9lLOcSq6gO8=
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZn82Bg-fUEG3WI7h3qwmgSo0XrYq7tFUpq3cUqEbWud0DDt0snMDl1y1cne1dCfRoliwYR7qL9N459ZEdhAvVjTpEBBkGPDSwPpxu0EZEc4d_DQvAYFO5piwVUEGNjxqX5boeVjvL2iTYYqq50CbCXIlWICwBvmpTv5Xc_Gf
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5heAkBAhU20NKmjAiiIwgfvmzR_Pqx1a-PFcBVI6Cf8nenK78UgtVAHb25PkkxM9modprpU1nshHqy8SQMAaxDQ7FmWVSHZuJmN28TJNu7aoihjSnJ4KIrpgfTFH8KOHHI2kReSQdpFeNNKp0gNwQx8XpWoAdQddOkq4od9FcgONIgaqcHY8JKLj8AzGjZWyXEn5YhVMSgGFFppw=
+securitybeztabu.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsUNyOAJOvXYc5xLDae78swhsZWCdYDrdSks9aF5SoougBLKznr-JmgmtBe6wwxRRqwxMmvd785kjQq8KJ5FpCJQOMUI-nOGy5iATs2fJ837N1LWw0z3LdSTZpvgoKRHw6X_bu4nnmRE_ZUeFOKGjLsdENR39ZKxK6tCe8WyYnZeU3xanJ_VhFNbCQaWg_m1QSAfzZzMSH3GmAQ_9coWrJkqwGnlkH
+securitybeztabu.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXu0FtveI3p7q44Vz6y7eqmHNNSFIfSs2COxHBBB2PpwkoDRE3c_xIF7P7F_LS3URpHZTa6BG3okFHLN417wIytiJUlWzHbYsr4pWPukvAnNk0TpLWxUdhxWO5yYa1zuh5DPUf-bRZWDhvPNFIzBBLozj5f2hplQJ9ACFTNjE97FdSVBbjId42K0LxyOoeEmML_i89wackzuKZilftTOOuBK1WBZcPuw==
+doradcy365.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0V9BJnTeJcgq3d6cwzd6NtD1-JolGEtv0vl6CNF89ZSyHWTsZhGB4tDSH77lVLEGSN4JRuI2iVn3udTVe5P5j4JCCkbNkmyNnPKKmEexzhDfEeI1XqLGuF-Jp0MIiYKWtZuEPTmqlg7EoZhD2cdhTMi3lMVzBNLpdC-O1vUGzrKtF0uQ18U41YfTeYTo0lJlRzI77H8rFi0mLDA==
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIkItL3LtHqxJvvBaodPlmXiUtQG0fLrfeDAGJKBKisvQA-kq3EQZXTT4swiWqLcPeZ8Xy9ReJ9J8rpkIp_I_Lf7y3kxTVylcZfEE7dluRjf7TVPX4HqBFR3ImvQ4TegEknWIX1hZgZP7Tn9GMyP_4ZuQNHSUoZnaokyV-V6eP5hBAHRp7kP0IhCM3y4b8Id1l6wM=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjpFh89MDSiDO0oZxSWH63KUS6KbeN8SnBu0aPIEddBDRSFBdqH2ApRWGeD-a8VP9WOHH8_Fx1pSYAe41gFELNq8csZkbHLuyPqAWTMxpUPHxXN8DDwnvDTGIXoRy_7wJ4SkbidT_Dsh5prQr_A5GaRjIm_HQ-7yNfVlz2ak8UbSfzgu5P0cS2xZ98Ai_lHWYtYXTIU1-32sDwqTQt
+wprost.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk_eU5f4KOWzNWVgqltCBYVqo6STBFztt1SQqo7HWtTUftLwtyKU-YGHWS28WjPH-zLmfS08DA_fwWunWfCzqyy-uZIJWXQtPe0NLw1_L7oX6nrNurHDjLnfwKz1BQbhnPsF-mmFFFUp1mTubV36EdX2pB6pr_fPnOhHcQ07V1_n9-kk0dQwcliNhmL2wuHdgBF2GdXOk10IKyOiEQTr56I8i1asAAZ_VwZO2vcp4k
