@@ -1,0 +1,49 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-04T03:47:07+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą ze sobą szeroki wachlarz negatywnych konsekwencji, które można podzielić na straty finansowe, wizerunkowe, operacyjne oraz prawne. Nawet małe firmy są celem cyberprzestępców, ponieważ często mają słabsze zabezpieczenia i mogą stanowić "trampolinę" do większych celów w łańcuchu dostaw. Aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe**
+    *   **Koszty analizy i odtworzenia systemów:** Utrata danych może wymagać kosztownych działań naprawczych.
+    *   **Okup w przypadku ransomware:** Cyberataki typu ransomware wiążą się z żądaniem okupu, często sięgającym tysięcy złotych.
+    *   **Przestoje w działalności:** Ataki mogą prowadzić do przerw w dostępie do usług online, generując straty wynikające z utraconych przychodów. Dotyczy to szczególnie firm działających w e-commerce.
+    *   **Oszustwa finansowe:** Hakerzy mogą wykorzystywać skradzione dane (np. numery kart kredytowych, dane bankowe) do siania spustoszenia finansowego.
+    *   **Wysokie koszty napraw:** W wielu przypadkach istotnym kosztem są naprawy sprzętu lub infrastruktury oraz praca związana z tymi naprawami.
+    *   **Kary finansowe:** Nieprzestrzeganie przepisów o ochronie danych, np. RODO, może skutkować surowymi sankcjami. Przykładem jest kara 2,8 mln zł nałożona na jeden z polskich sklepów internetowych za wyciek danych klientów.
+
+*   **Szkody wizerunkowe i utrata zaufania**
+    *   **Utrata zaufania klientów i partnerów biznesowych:** Cyberatak negatywnie wpływa na reputację firmy na rynku, co może prowadzić do spadku przychodów.
+    *   **Spadek reputacji marki:** Wyciek danych może mocno nadszarpnąć reputację przedsiębiorstwa.
+    *   **Komplikacje prawne:** Klienci, których dane wyciekły, mogą składać pozwy związane z kradzieżą ich tożsamości.
+
+*   **Problemy operacyjne**
+    *   **Utrata danych:** Ataki mogą skutkować nieodwracalnym usunięciem wrażliwych informacji, jeśli brak jest odpowiednich kopii zapasowych.
+    *   **Paraliż normalnych funkcji przedsiębiorstwa:** Brak dostępu do danych, systemów czy poczty elektronicznej może utrudnić lub całkowicie sparaliżować działalność firmy.
+    *   **Spowolnione działanie systemów:** Urządzenia i aplikacje mogą działać wolniej, pliki znikać lub pojawiać się nowe, a urządzenia rozsyłać spam.
+    *   **Przerwanie usług:** Ataki takie jak DDoS (Distributed Denial of Service) przeciążają serwery firmy, prowadząc do przerw w dostępie do usług online.
+
+*   **Konsekwencje dla klientów i pracowników**
+    *   **Kradzież tożsamości:** Dane klientów, które trafią w ręce przestępców, mogą prowadzić do kradzieży tożsamości, oszustw podatkowych i nadużyć związanych z kartami kredytowymi.
+    *   **Stres i utrata zaufania:** Ofiary naruszenia danych muszą zmagać się z uciążliwym procesem naprawczym i utratą zaufania do firmy.
+    *   **Wykorzystanie danych wrażliwych:** Dokumentacja medyczna czy ubezpieczeniowa może zostać wykorzystana do bardziej przekonujących prób phishingu lub wymuszeń.
+
+Polscy menedżerowie najbardziej obawiają się finansowych konsekwencji cyberataków, jednak równie istotne są dla nich obawy związane z wizerunkiem firmy. Raport Sophosa z 2022 roku wskazał, że u 94% ofiar ataku ransomware wydarzenie to negatywnie wpłynęło na zyski firmy.
+
+[Źródła]
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTw9lQ3jvGaZ8vHrC3YDIMZKhtJININy3TeAsTfTzOUyOMNLM-9vpjZw2rqAJhegqa5B730v9A1DEgxksrT_vpjyqHbU9VVV7fziX63VmbbhUGCk9koum_hkkLuFCm9p1yHtWRWZAFTKKV4Od1oQFBGQuQbw==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvm6qpdIIc2PaTxOjn3JLhNNgRpAV1M2Fo5u5J6JDeskvZyxRwm2GpGgkBaUxKtoTa3uwTlh9bvT1piYPYq-o6AEiTPBnCsnibhBGsGN-HLCLjU9UUBA6zwx0Vuh8Nlkq6FYJAGrgarVqUC1w9
+infor.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9cIa-QRTnt51fuq9d0WNN11i8J7g4p6mQb72X7EeTVdGXr43kLvMNQSb8nCj6HpHZ_vSjuH8WZxH6aYrAPvzq3O24sPMZYZSJs7IeFNMmCLUDg7Gfk7zj2B_HpHpQJsGNt6_Ax4U4zkd0gZPoi7ylCn6dB5HPSGJDkSFoGXGh4aU9Mf52eTEkjPX9820extjobXi9SaEiR4TXqRPPRj9yAg==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlRT6L8cxmmYDj7Cq03zaOLMjAWv31WgrLYc7N1uQRivrpJUgT0k55sc_XQt_-ePH699K3T28YmL-3HndvTmxSan13V9_y8LXT-n0emYAf1HW_bKbNc4sbCQzKKD-EgBGYlOxxKpLEzjqZqvF4ec_-pIlrOZZ0cENN1_nkg_HE2cxudzgQJuAHZNz1BOgjLfatwl7-8cz44r4q-0cie9kizXHq3B7W2Yq17LR_svPw6y1MmnJk
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOVAn2Ai4CWbH4ZTLumz1utGd-ymbpvw5vtnze1ftIXszOulEN5l1cVm7UHZrRzj-yzshNLLhquzPKUil-C2524fZgjjlkh1l-ZDM-WIiN3avYI9DCSt-ChGwdNR9lJ8OKs1W34cTxLyrHzYpfQd2S1OTre-9qANjTZ9AIRoGhfMAlLwNGPDpfse4AC1U6unvIAG0=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPaFKan0NVaSvDlR6d9AvFBgCwvr9e3KqAZqfolk07l18G4qc-7Ct4pSsITKJg2jxwoGZMXpgCXtJWTsUpPXYqIJG-CKDLgipn8cEp54a6WN8qAEFoYUMrkPQIM1E7b5U90yeYO4s6FXhWi-kUSjRPJb74CpsLTo5s5KxdYYVIqYT9AfjG
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrd6JJNZHRZQlNgZzSxTSmqp08EAcYMTRUJmztEkNQbDmv111zcQ3_4__N8FWcwW5FhXwO_IseF-Plzk-5O4Y2oB_lWjdoDNRP_ufl6oOmokWWLaelCtbUXsaXS9zSTJcMIQ2aXgnBOJOUCIkStwHCSVUH9U3Z2ByDhT7v8Tk97qNmUbsY9TDAABjb0XTZniC34SQnb6s4
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbhq8gNUt8EaOBPc_IuQ-iV86BJWd0ub9EVNoOW8K2zzzItT9sSVdTAYr7gKIhr57kWFoO6qfYJG061D78u3dY0wZ_lrWhvC8Ya5hss4d6yLytQNRhvf7YLkPMRsQOct-oEH8hRQ==
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfoi0GoAT0fTxJXbDfCG2V2Tmq1b1cZvElRc5nxdWwl2afxvHxnNcjdjVboY2Vas2acqWly48hS_B3b5hWRXBxk4NE_1WNjFaAA4wcjHhyK_rBfoDqYjNG8xJUBkgFHYz6-6cbnVHTIREDL4D-nRLuSmamH10mrqPYpdMIAfiHAckq3KvfolaIobg9s7huOehD-UmBniQJoP8rBW9E
