@@ -1,0 +1,42 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-07T12:01:51+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do wielowymiarowych i dotkliwych konsekwencji, obejmujących straty finansowe, wizerunkowe, operacyjne oraz prawne. Skutki te mogą zagrozić dalszemu funkcjonowaniu przedsiębiorstwa.
+
+Do najważniejszych skutków cyberataków zalicza się:
+
+*   **Straty finansowe** – są to jedne z najbardziej obawianych konsekwencji. Obejmują one koszty usunięcia skutków ataku, odzyskiwania danych, przestojów w działalności, a także ewentualne okupy w przypadku ataków ransomware. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów, a w Polsce koszt cyberataku może sięgać setek tysięcy, a w poważnych incydentach nawet przekraczać milion złotych. Dodatkowo firmy ponoszą zwiększone wydatki na modernizację systemów, audyty bezpieczeństwa i szkolenia pracowników po incydencie.
+*   **Zakłócenie ciągłości działania** – czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług. Ataki DDoS (Distributed Denial of Service) mogą całkowicie sparaliżować działanie strony internetowej lub przeciążyć serwer, czyniąc go niedostępnym dla użytkowników. Według jednego z badań, południowi sąsiedzi Polski najbardziej obawiają się przerw w realizowaniu zamówień lub usług.
+*   **Utrata danych** – wyciek lub zniszczenie danych klientów, pracowników oraz poufnych informacji biznesowych może mieć długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa. Może to prowadzić do kradzieży tożsamości, oszustw podatkowych i nadużyć związanych z kartami kredytowymi, dotykając również osoby prywatne, których dane zostały skradzione. Brak odpowiednich kopii zapasowych może skutkować nieodwracalnym usunięciem wrażliwych informacji.
+*   **Utrata reputacji i zaufania klientów** – naruszenie bezpieczeństwa obniża wiarygodność firmy i może prowadzić do utraty kontrahentów oraz spadku konkurencyjności. Klienci powierzają firmom poufne informacje, takie jak dane kart kredytowych czy adresy, a ich ujawnienie powoduje utratę zaufania.
+*   **Konsekwencje prawne i regulacyjne** – naruszenia ochrony danych osobowych (np. RODO) mogą skutkować obowiązkiem zgłoszenia incydentu oraz nałożeniem wysokich kar administracyjnych. Przykładowo, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć karę do 20 mln euro lub 4% rocznego obrotu firmy. Dodatkowo, w przypadku nielegalnego dostępu do systemów czy wyłudzeń, firma i jej zarząd mogą ponieść konsekwencje karne.
+*   **Zakłócenie relacji biznesowych** – partnerzy handlowi mogą ograniczyć współpracę z przedsiębiorstwem, które nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji.
+*   **Kradzież własności intelektualnej** – utrata dokumentacji technicznej, projektów, know-how lub tajemnic przedsiębiorstwa może osłabić przewagę konkurencyjną.
+
+W skrajnych przypadkach poważne naruszenie cyberbezpieczeństwa może zagrozić dalszemu funkcjonowaniu przedsiębiorstwa, a nawet doprowadzić do bankructwa małych firm w ciągu sześciu miesięcy.
+
+[Źródła]
+twojradom.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJJkH1bNWTCcaMW22H0KRY1aajMkoasdJchezQnEHPFw3fT9ntLjUGCNO4h-VTCUMsPiAgkofrpvTbSOpiBwy1ZRcHwQA_OSeXNrvii68CDwkr1L7fmuQnG8wckTOGwNYeJ5FYEe1k5szlhkRc509PwQZ7EyxCDJEC1ag9IyTYmFmydI72pKx2Um7mmu3Wt1f4v0rp50qep6LXk63rWtW-XJ5RHLsxFg==
+opoka.org.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwpXxlsDhntT6zblvyyiu2OHfip3gx2lb50Ic73GfTSX-e0IrK9IUBSzPBR1463093KvhbJbxM0t2bhtcpAx-d4zFEtRLlewidNOndzC9TXNeeNK4HSWIHs3rwD8QeuRetJyPOKXgY6UMovM16uYf6hke01imssd-kL2FXblqyo2Oj8JhaykoB6MnnCpQxd1U=
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFusgk6qsYqB9yiWqajNfafzMdv0kJfH1joxTbpyzchkQCyphl216qhOAtk1tSSMDi1ZeSfG99Sr08YHQOVPNesL7LJhna6b_ya5ULzlD_Ohm1whDzuyVKVanFaTX7foMaIbYHbsNARGdzTLG7x
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0l0yme0uJ90yDTlvNP3J1_5ANteVLVChe3QRF4FR-eOYjzICUpjC1UnOVmCN1msPLluZBu2054Psu3vX6gq887YYKdiMrWKmzuY8Ss2TrbwI-MYTlbX4_dyuNmmC6qx3pFQA_y1jI9F8CQq_iSZyxmK7fcV6xqI9f2_oX3_UUs2WqZ9E0Z1zB69keY-H0zJrd
+fen.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHblmttHzVf9pG2zLTzxMkbGZh0FreW_-btPo4a-U8wLBWyF6ecQMUXYa95YWBhEzJnEBI1DsMY3UYu4dp8r9WZrpCIiaFp11UVM47MJbNtB_lVYT0H2CPc4HgjKN1shOF-BgAyMIgHIqA8D0k_bJXcVcpf6y7ovWuTlBeh1-zcgljkHDaDjZqemwz4
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6WJG3aJONDPFClUx29Dq0dVzdIz7wdlDQ_1lP5HXCUmNvalOPqVm0tAB3lhEaebAVrVYVEJgUSAbp0qO_7mK6tFoEbJ1MJ-1vuBUcbuOY0PDYgCsW3lm4Wza3tZO_4H7g3dH39B8ul9NU6BD1UMB1PJasE6vRIRnroBTr1KtVfQpHtn_lLy7Q5JGN3ik6S04wVhmxiDzI
+twojeradio.fm — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC7uuO0QBcjL34JFLuWGzrihQz3W5jxBd3-MC3ciX6Bv-BT1tzLMYTMM655hVvuQ89bQJ8uKiDT5HmPOrlxwcASfx9RUk9DClzOU5O_cjLvbTE9535ZCfY2ZLJ-c92ZDo9OQ1bf2OYxiXyhvU3vkqkI8RYVyzkodFr0kM2sffYr8YkYEw69Lsxb3uuJfFQ8SH9s56eLNQBIjukk3zaEjI93qesS3I=
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGDf29CnjYCNYClHWO5SQfDrXwXr2BhidD-U_xvFPZ_IuwXSu37XbfGlPrttpYE4etKOu4gzpuk6yJ-HP139neqcZpkfEkpwhRg9UvBhAeEjGw0GnwX0nEEoQrq_kBqJwdjInabydbVOFfurnJhKcTVVI0UwhmqTYWVeUUtT4YDFjIuQo8oaq1NEb4dbpy
+trybawaryjny.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjmaZRdG78RO9HsHk54QK9y6bh5ry8KsdM5MezCtso-Xrb3QFkSu01du91o8o1hu-i__G5XqY19U7Je3OvX2RLyjIC8emQwjpwBV9nSZR1HFyHWpByD5radyrUW-0k4F6__bwpTNCzT3ikcXlOLiVewUAyuAKXchOJD_5m68_mGBqQ9j8NkAOGYlrPHHLJ0eucqhnCZtkTLmFd3Mm6ivxj1LWMHkLqPLEnT1dBEnY=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNxM0QCvxSSDwTPVt76hAqxV-tnUxLS9vCpcUEJMCfiiBRri7jgGBmQlVsZ1Y12j_pX-cr-dEklc19h7t-j0dtitD0CPKWh7U0bOT04kbhQku9bb3RzUkiexK3miWIzo6NIPuRwHbBAo97E1XjpEhdGj-CORrnpZfSSXYo6lIYqP_rNiXj
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJe9nOVynMioaRAKEysK8N429v4LPWk-b8yPM4bfLCRq2wnjqSgzVSjojojjrYugwBn34NIn7eToWAG9jb6pLiQW2kyvxlf4iD7O3bm0cPT7FP6LAa9Dj2I5hF_rvzLKRypeLpssoGs49iCQEOXmrMuPCwjX5iupePlQUh4EyY
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLCbnze5CKLv0BDbdc9j3nsIzi6uPV-3q4ddeOyGwO-e9fZ1k36Ab0lCNh_HQtjEZvfSvSSFz48UFKo_FqOEVfi0AECZxB4l7J6z2afpz2s9fagFnALYKenkzwgJ2zWHpkNL-XDJQ5_4PbnYCqgoctvrxjfZpp_xvXJYloTbffy5uf4hgRcNWUfqHfsbefVzlh7JgK4SdKsYS43nI=
+instytutcyber.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7Xglk2XJmWiuoY5DrvY7rESTEUIeT_Tx9fYRW7Bd6DOT-Fj7qQPr5HljC4wbvZ6WSomA1R-5MbH3Jkx_qtDDnhpz3MHrXEccB0Gt3L9-CMl9J2JYwKLEmng-0THtQg9fv2KUKPbGR9heLZQj_vLw5IZigWr7e0WUlgAzSD6fwTHMiE-JdZ5bMv66qczVZ92OrIzxKth8zlMQYjeoVDN0PUw==
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7RHW8lC_-nxK7EP6mHpLtmvEq2fRe_gs2olYXLWLUgQi960Sc2S308j0kQgRYnHXOPe89pYf7GmInwGsJ58yP_6gMf53mMEC9sijmEZYfKAPJDuZerxttuGCNKaMOhSqaQ4wYbdvB7CbQmPqcQYFX0RzOHhADgOXTXie_0GT1eyGWGxZ_XsxbMIXxH6SlMqe_Ok7Wd_Yci-LHLhPp
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfL0gkZdxjevkvtvA4IsHUZgsEgpSuxYXKIfNHdXXB5Q1nutXpRAsmQg1BWXhL3KPwfVz9nfHH-FH1XjYB4oiUZJLpCSdNCrs5W_SJRacKdbJFGJBmgDZYIYLKpqX8yfxpGmXb53X5sDaVqt8L7kQQZiO-Do9UDdbQsV6iKj6dTVIHwtSyK6wJScHndNXRybwbNpc=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCNQGhzgJBKfzZ-lsgTOr7JdDAr1FALWOmr4oPJXhWRobsnlJTNGeeWI3NxPJbXZV0V1sDWqtrfeGnzkXNDRqsLSF5R_9dwQrPBZet2K_KqIQfeX10XQZpecHE_hQ7mIfoagoZbw==
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExeCJqmdiolKxWiXnxnYO8ZQWHunbqw31fw949ibEWGATONQgxJXaTIKidYo-6HTEAS760W0fhPW4L0De_X14licTUwUjdq_cRQUSEPfGuB-U8AleCsED0P84YZHIYRCwT0omGs-Z5SLBU
+wsb.poznan.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPs02Qt62T-wkJiKgr2RXmVvcDmnNioQ2z2rPnUHr5WQYICWPoZyC6a9gHOVEkgIfXzdeUk8H9tzAY3X_906gGJaX1FJBUWB6eg2ncKn0e_7KlUlGB4r0CbLnzr8ohKVqMxlacqDJTZ1-5Q_4ZIVa8ZVC3xM6gRz1E1kRZjonNvASfJf-VAvZO
