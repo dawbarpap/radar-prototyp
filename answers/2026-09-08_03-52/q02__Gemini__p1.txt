@@ -1,0 +1,35 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-08T03:52:28+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą ze sobą wielowymiarowe konsekwencje, dotykające niemal wszystkich obszarów działalności przedsiębiorstwa. Skutki te można podzielić na finansowe, operacyjne, wizerunkowe oraz prawne i regulacyjne.
+
+Główne skutki cyberataku na firmy:
+
+*   **Straty finansowe** – Obejmują koszty usuwania skutków ataku, odzyskiwania danych, przestojów w działalności, a także ewentualnych okupów w przypadku ataków ransomware. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 miliona dolarów. Cyberataki mogą również prowadzić do wzrostu kosztów operacyjnych.
+*   **Zakłócenie ciągłości działania** – Czasowa niedostępność systemów informatycznych może spowodować wstrzymanie produkcji, sprzedaży lub świadczenia usług. Ataki DDoS (rozproszona odmowa usługi) mogą przeciążyć serwery firmy, prowadząc do przerw w dostępie do usług online, co jest szczególnie dotkliwe dla firm e-commerce.
+*   **Utrata danych** – Wyciek lub zniszczenie danych klientów, pracowników oraz poufnych informacji biznesowych może mieć długotrwałe konsekwencje. Może to prowadzić do kradzieży tożsamości, oszustw finansowych oraz nadużyć związanych z kartami kredytowymi i danymi osobowymi dla klientów. W niektórych przypadkach może dojść do kradzieży własności intelektualnej, takiej jak dokumentacja techniczna, projekty czy know-how, co osłabia przewagę konkurencyjną firmy.
+*   **Utrata reputacji i zaufania klientów** – Naruszenie bezpieczeństwa danych znacząco obniża wiarygodność firmy, co może skutkować utratą kontrahentów, spadkiem konkurencyjności oraz ogólną utratą zaufania ze strony klientów i partnerów biznesowych.
+*   **Konsekwencje prawne i regulacyjne** – Naruszenia ochrony danych osobowych, szczególnie te objęte RODO, mogą skutkować obowiązkiem zgłoszenia incydentu oraz nałożeniem wysokich kar administracyjnych, sięgających nawet 20 milionów euro lub 4% rocznego obrotu firmy. Ponadto, firma i jej zarząd mogą ponieść odpowiedzialność karną za nielegalny dostęp do systemów informatycznych, wyłudzenia czy niedostateczną ochronę infrastruktury IT. Firmy muszą liczyć się również z kosztownymi pozwami zbiorowymi ze strony poszkodowanych klientów.
+*   **Zakłócenie relacji biznesowych** – Partnerzy handlowi mogą ograniczyć lub całkowicie zerwać współpracę z przedsiębiorstwem, które nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji.
+
+Należy zaznaczyć, że małe i średnie firmy (MŚP) są szczególnie narażone na cyberataki, często ze względu na ograniczone zasoby i słabsze zabezpieczenia, co czyni je łatwiejszym celem dla cyberprzestępców. Szacuje się, że nawet 60% małych firm, które padły ofiarą cyberataku, bankrutuje w ciągu 6-12 miesięcy od incydentu. W Polsce odsetek firm, które doświadczyły cyberataku lub wycieku danych w ostatnich latach, jest wysoki.
+
+[Źródła]
+twojradom.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBZitYZWsS4j3vwUVra6MiheB4hgWu2Sgw1V-9ynmgLCrWoBqihRdfY_6eEeqAgUHXuV9euXwm-VGWTYYdhRqsvZitJpxQjcCi7mWoOaGvvjN5a09107yirAbPYtX8Gtb35KHScfMfisaq_htOf-0dSxHdWnYwInwdgO8ft21YURMmt84F1vzTmISRw4K5E4Ll1qHl-0a_cNOubclzXf2xz-X_BVdJdg==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXPSGNVIDYWG2Z6C54M0K5qRTIYjgAhr5cpDUQ5uqsy0sGl1vomXWfm1p9BB6HAwyhhfzv0spKyfxEtKWabkS36YL1zocjK5D9Mi4qXxmVxhCeuSNsIdjEkqz9PnEfeXF0DXE7mdLUlkt0hN1HwukMbny-p8LDES2E3ovqsz3yJnFqEu6skejMtS3uxkD3
+opoka.org.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNCc__XXIV9mI3rrS16VWWohgvxIOOA1pIXwQK1xxx1KHj-DBVt0ThyhMWXRLk72_I4oMBBZQP_zwBOy79Ij37JnAd7BARbR0kP_s8SHDYPgAHVYq6ZdnhU0hpispOptZJcvjPu7rcpjmqhjahyIlwp4nlCQm2LuuresKFSqd6OLL2R9WasS2qDSs_dmDgH3Q=
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERdtzOOC1aMVJ02Z1KNHskY8myzcblOpsdoArzYTK1WrvtWSqYdI4ZrO6WCIQ8qArI1u400EvCqc4R8WBgLhL7SpiwWrHDJNW1Z80-N_9TABcEscWCdAVbD6zuX_LAjJ2310H2Ety0Q_FwpMK_-QEQMyEW9YKnzJVTFp8LdAGi5XH74okc6xS3lZWsvO3TpB5_D_jmMJe8Fw==
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2lCyqTwqSmbbwFDBT1746A84yQi0pkxU9jevWGpOHL1yhmUsh6UpSLVxnIEbGVS2AigAtBKkiNUJ9DnqQXWw9YqjiU8gDYoHia_XEvkqL7XDwsOHyTPCU6HRwS_SZnPr9PFUFVKED4G5oZqKUICI6k4R1iQ==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtawO940LBNznJScxwbNHJt2q5baC3IKlwk-gptm2-x1v9SB89MhXwCj8EXw0e_yCsNCtKAXBmqCRy60WO1vIAeWfQctKzmhSPs_BUQx3Zt0qRh51UI2r5afcUee8iyiugiQj23TysU0HnV7FS
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1H67v5e_Fk-y2koGwLiihlC3I6hNdMhXydxYBTzNU8dZR0rnW_OKe5NQ_PfXDw5ESP3UKMDlnVseQIajCSJWoHq6U4IX6BZeD0LSMM5YINsJy81My8h1F6eBfURRyfmOUSuAb21eDce9g_h3HZ1KB3O2t9KgN6P22FVC0jehR29CoVWUnykYtaOBxCFjHj6-GzJBQ__cknkL6UbCl
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGWBGx1eN82KaHBYu_JKb3ZrXrSjhMvqOvIGlILsy2GB_C5CrIECDsV4bpYxaVfa5ESwjPLC9ifnBUNUTensJj6mKAo7-ZX6HuafXYfXEZ_LEWvyWGzAv4EFGah4yAdWOEsIbd871hgy6f_I8Ahpd4QjRMtVKP3ATaFbkFZ6CWldQU8FMf
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpYzPFMNGirIzHSGnAWCIsxYjIFyclPIT8Rmg40ZAgsDRyAbM4_H-LLRW7DmGt5KwnEqRVvN1rw4x_D4YaexjdGhIf8kNzipvZMcRHwIHSeoDX4a_rOE6NL7HJgWO4fO4_f3diXY76r6MAupiyRjokt6h23_jLaoo50uzetS0W8xbkofpa8USfPHFSLqEgR0e3krc=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWqvLfL36S1RhKpmcwq4MB-Xw3vF3e-irWNUQY6nkEU9K21bSPAUOvUOlEtm25nFElm8U5j5IFTc2JzFpQefCKa1Hel4l5xsawuNIs1YJcwXYIZTaFxsnt6eWbIAF9EAucwATlsA==
+nflo.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTx-W0Gj1oG-DBpTYUtbAoXzFRitNqx_Nt6IXBFVaB_zWqHnhPtzmmPHxHEd3x3VSttMT3HpSItD4dFvlUYWwpqGio-v33x9BzNb2RiM4sKDLRLmG0l5xkahQQ-ZWWtrwDuzqABoN811qlCYhO3yYljV9b4Pw=
+testarmy.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh6sKpJSBHWDDc3gyePthRQp4UzkKaysZJl70_cE_MMGnK4fP1SairUGKcVg_3WmyTBnRrkaJ3DaeYIb_Hye-AR_mBRp7ewhsUYoQdc8WMb20EP15yd2M8Clo7bCBumrjlWeGJhGmGnvHtDqQjx255hmZHqbuT41KCZzIGhgZadN9ZYy1HRQFEeHQu
