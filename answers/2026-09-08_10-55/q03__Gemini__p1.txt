@@ -1,0 +1,84 @@
+Pytanie: jak się ochronić przed cyberatakiem jako firma
+Id pytania: q03
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-08T10:55:40+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Aby skutecznie chronić firmę przed cyberatakami, należy wdrożyć kompleksową strategię obejmującą zarówno środki techniczne, jak i edukację pracowników oraz jasno określone procedury reagowania. Cyberataki są coraz bardziej wyrafinowane i stanowią poważne zagrożenie dla firm każdej wielkości, prowadząc do strat finansowych, utraty reputacji, a nawet bankructwa.
+
+**Najczęstsze rodzaje cyberataków, na które firmy są narażone:**
+
+*   **Phishing i spear phishing** – ataki te polegają na podszywaniu się pod zaufane podmioty w celu wyłudzenia poufnych danych, takich jak hasła czy numery kart. Często wykorzystują wiadomości e-mail z fałszywymi linkami. Spear phishing jest bardziej ukierunkowany na konkretną osobę lub firmę.
+*   **Malware (złośliwe oprogramowanie)** – ogólny termin obejmujący wirusy, trojany, oprogramowanie szpiegujące i ransomware. Ma na celu kradzież danych, monitorowanie aktywności, uszkodzenie systemu lub przejęcie kontroli nad komputerem.
+*   **Ransomware** – rodzaj złośliwego oprogramowania, które szyfruje dane i żąda okupu za ich odblokowanie. Może sparaliżować działalność firmy.
+*   **Ataki DDoS (Distributed Denial of Service)** – polegają na przeciążeniu serwera lub sieci ogromną ilością ruchu, co prowadzi do niedostępności usług.
+*   **Ataki socjotechniczne** – wykorzystują manipulację ludźmi w celu skłonienia ich do podjęcia działań zagrażających bezpieczeństwu, np. ujawnienia poufnych informacji.
+*   **Business Email Compromise (BEC)** – oszustwa, w których cyberprzestępcy uzyskują nieautoryzowany dostęp do firmowych kont e-mail w celu przeprowadzania oszukańczych działań, takich jak przekazywanie środków.
+*   **Luki dnia zerowego (Zero-day exploits)** – wykorzystują nieznane dotąd luki w oprogramowaniu.
+*   **Ataki typu Man-in-the-Middle (MitM)** – atakujący przechwytuje komunikację między dwiema stronami.
+*   **Ataki SQL Injection** – polegają na wstrzykiwaniu złośliwego kodu do baz danych, aby uzyskać dostęp do poufnych informacji.
+*   **Zagrożenia wewnętrzne (Insider Threats)** – mogą wynikać z celowych działań lub nieumyślnych błędów pracowników z uprzywilejowanym dostępem do danych.
+
+**Jak się chronić przed cyberatakami – kluczowe działania:**
+
+1.  **Szkolenie i świadomość pracowników:** Pracownicy są często najsłabszym ogniwem w łańcuchu cyberbezpieczeństwa. Regularne szkolenia z zakresu cyberbezpieczeństwa są kluczowe, aby nauczyli się rozpoznawać zagrożenia (np. phishing), tworzyć silne hasła, bezpiecznie korzystać z urządzeń i sieci oraz wiedzieć, jak reagować na podejrzane aktywności. Symulacje ataków phishingowych mogą wzmocnić ich odporność.
+2.  **Wieloskładnikowe uwierzytelnianie (MFA/2FA):** Wymagaj MFA dla wszystkich kont i systemów, zwłaszcza tych z dostępem do wrażliwych danych. Dodaje to dodatkową warstwę bezpieczeństwa poza samym hasłem.
+3.  **Aktualizacja systemów i oprogramowania:** Regularnie instaluj aktualizacje systemów operacyjnych, aplikacji i oprogramowania, ponieważ zawierają one poprawki bezpieczeństwa, które eliminują znane luki.
+4.  **Silne hasła i zarządzanie nimi:** Wprowadź politykę silnych haseł i zachęcaj do używania menedżerów haseł. Unikaj ponownego używania tych samych haseł do różnych usług.
+5.  **Kopie zapasowe danych (backup):** Regularnie twórz kopie zapasowe wszystkich ważnych danych biznesowych i przechowuj je w bezpiecznej lokalizacji, najlepiej poza siedzibą firmy lub w chmurze. Jest to kluczowe w przypadku ataku ransomware lub utraty danych.
+6.  **Zabezpieczenia techniczne:**
+    *   **Firewall:** Instaluj i aktywuj zapory sieciowe (firewall) na wszystkich komputerach i urządzeniach sieciowych, monitorując ruch sieciowy pod kątem podejrzanej aktywności.
+    *   **Oprogramowanie antywirusowe i EDR:** Używaj aktualnego oprogramowania antywirusowego i typu EDR (Endpoint Detection and Response) na każdym urządzeniu.
+    *   **Systemy IDS/IPS:** Wdrożenie systemów wykrywania i zapobiegania włamaniom (IDS/IPS) pomaga w monitorowaniu i blokowaniu cyberataków.
+    *   **Szyfrowanie danych:** Szyfruj wrażliwe dane, zarówno te przechowywane (at rest), jak i przesyłane (in transit).
+    *   **Bezpieczeństwo poczty e-mail:** Wdrożenie kontroli bezpieczeństwa poczty e-mail, w tym ochrony antyspamowej i filtrowania, aby zapobiegać atakom phishingowym.
+    *   **Segmentacja sieci:** Podziel sieć komputerową na mniejsze podsieci z własnymi zabezpieczeniami, aby ograniczyć wpływ ataku.
+    *   **Bezpieczne sieci Wi-Fi:** Zabezpiecz punkty dostępu Wi-Fi, używając silnych haseł, protokołu WPA2/WPA3 i ukrywając SSID.
+    *   **VPN:** Stosuj VPN dla bezpiecznej komunikacji, zwłaszcza w przypadku pracowników zdalnych.
+7.  **Zasada minimalnych uprawnień (Least Privilege) i model Zero Trust:** Ogranicz dostęp pracowników do danych i systemów wyłącznie do tych, które są niezbędne do wykonywania ich obowiązków. Model Zero Trust zakłada, że żadnemu użytkownikowi ani urządzeniu nie należy ufać domyślnie, niezależnie od tego, czy znajdują się wewnątrz, czy na zewnątrz sieci.
+8.  **Plan reagowania na incydenty (Incident Response Plan - IRP):** Opracowanie szczegółowego planu postępowania w przypadku cyberataku jest kluczowe, aby szybko i skutecznie reagować, minimalizować szkody i skracać czas przestoju. Plan powinien określać role i obowiązki zespołu reagowania, procedury wykrywania, analizy, powstrzymywania, usuwania i odzyskiwania po incydencie, a także plan komunikacji kryzysowej. Regularne testowanie planu jest również istotne.
+9.  **Regularne audyty bezpieczeństwa i testy penetracyjne:** Przeprowadzaj regularne oceny ryzyka i testy, aby identyfikować potencjalne słabości w systemach i aplikacjach, zanim zrobią to cyberprzestępcy.
+10. **Monitorowanie systemów:** Wdrażaj rozwiązania do ciągłego monitorowania, takie jak systemy SIEM (Security Information and Event Management), aby wcześnie wykrywać incydenty.
+11. **Ubezpieczenie od cyberataków:** Rozważ zakup ubezpieczenia od odpowiedzialności cyfrowej, które może pomóc w pokryciu kosztów związanych z cyberatakami.
+
+Przygotowanie i wdrożenie tych środków pozwoli Twojej firmie znacznie zwiększyć odporność na cyberataki i skuteczniej chronić swoje dane oraz działalność.
+
+[Źródła]
+penta.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHwHlZzCkO2simDLx8z8DsdsBUDJxpbPpzR2fVfR6pXmGufg30I8aJ2gZBzDfrMLY0s5VxiOdl-cyIBHmW6o4XFqFQIKjpCHXDY2zqAYw3DMOm_r8TGHboHvz-_48mttbV8nEQTbhbYPKCRB5tJ1GtqYpUWRYQ2R4L4sokwhFWl9kefpLJ5r-nPPKB6r1iD50=
+nflo.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI1X_T5nO_3ro5X1i0q5r7xEjssc0VTtiShgAKM17Dxw09AFtAJSn8wq2TJoFR8YFHTC4vds90Xh279Uc2QgPIg9mXKG8bSVvwDWITGYrH22Tdloux8on9o4Nsdi2lJ6J-opq8W1s23IlRqLv0BGrxVOXkWdZEdBWlYycrITbXQNbvQ43sKQ==
+amtrustfinancial.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCc4BzJ_80Zl8qANbz5j4_0lsMnz93X5hknpBSBFeBpxUF3k8dF8Ws_iKbqPy656J6WXZhljGbPaA1xmLrEAwwnJd47L1y_6bnbHlW4RX9TPVNHYgH5agQCRSpigaHV3MiD2JTo8bWfFT0eBxEPanghdp7ZnZekjwYU-aUsQQVZR_EuF-hhYK3hA==
+mycompanypolska.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSQjFwdsKOKUoUEY4vbj5DFb6YQYP10a99GJcR_wVcih_YIVVEgZnlh_Ap7XOIQBfP-iFOyOFScMBm8vF5NuSsVGw2x_ZaTV2XnEfVIGJEhFZdgut_09Zx-9ExjLDPQdtmDahNh1fbJOEwB6qbBXCbqoNxXxr6qiuDed1PIizA3Ht0hq2YQNUHhwjGnJMJMSOaWLeLfFwEcjw5r0_OiD5-hZScu2rpfKm2SPKVqqhtrFh--K_tKzcPgmJI2iTBeLgP6oLPgp4HOZTJ
+grantthornton.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2mXZ60qboTYwA7b_w6a0VZEDuf941_ajF8WkC5LpVZQo1FFH9yCc8zLVjjT1hZcFbJKWPtwVoYA93O3mWk5kqP0wbwxuPAx3RyaRSjm3POZQG02-IWWoVrQAK8r2ASbQ3qHzKE9djj_avZnxt1DzRBcL71xTOqMLij9SazBgRDoQCUHYIckGq01_LiCmS3V-5
+fortinet.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2e-IAkMBFSjmvPYbv9H4dghwRxZv4fiXkQ8C8qUg42cLvFbx-KqquY2MitFNKVCGZGuOl5pM1R6o-Kl_3l8NeYxbM9A8mXD0qmxOW51K6zeksjm8c6MCa5PaetG75bQn8Y7gy7-iKSP_rfbGV0Irm9DvSP471pHpHxoupM0xxMF4_
+trendmicro.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvDX3uL0i3XT0_vnfZz5UjhgyHXQD8VwFRTzhjLsSx7NroVZMJjmwBhlyniZ4Op-Lis16KQWNX2amu1DpBBFsoigxA1C13jArffxj42oIF3UMhQqgLsieLh0O-RdAI99vpiQe8jEeI5UYXacHAQS4KDWFpfIC_WOUZIk09NLj8r7orGS5fZzuCyLDCVg==
+kobalt.io — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHwGMBNxZgex7omia9bxmJE4i0SdwQdolmXyj9w2ketLCLaYXZdWL4Q9yuZWZRFetHkfC4Bl8xAV2Hct8_z0dXj4KkeuxIC4JzKDoXO9jz8LM-d1x7m0E4BCnu4a1O_czCyrbkRvEyd1BIGHVbkoWaolEwMHD7Zg==
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEindJsFZinVXOqiWMYfA8CNwoIVhLC1DR93Tun6Gm0Ru2AMByDh4Juc1DvFy6b5xtvQH8MKzvAxSiOEKIwOKTsDkMJbf1wWQ_0k-R5vI0yTpkQTlF7M-9cb-KJ083tKt4=
+safe.security — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMYDuzd9XOOOeLFahB_Xs217qKQbVw_iMMs4sB7GJkovERHpBN1LnsH0x5fr4ZLd5Hj9gVFhqb6Bf12cxIrW_SszQox5j7G-RsKKE8VNdoj465fUF5ivBiarbbpiuGX_xHc29N-nM6LKSnk01k_EBJovnJi7pSwZO_dl99m02oYKzBaTkNVw==
+trendmicro.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElXHxMEtyJ8GEw6_JWkH1oZlsQvaB2DRRIraM4I54xANZcSL-8DUQVkw8hlcMeek8sz-2Asjq786IzGYjSV57QZJ3j3FGs7X0fYe2v6nO3bTt1-bMJfyfrpzTHdwtzBpE9DkwHK0BJlICxslAU4-5viYxCJaPfIuBxvp8mASx0OChmPw26im5ddzDEZQ==
+support-online.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA3CAlup8lnV2hIiTqt2PIXb24uV9cc4d8qfmSc0onl-6wKw_dTlcrmmAuD0nIs6XZaYvP4TUXg4LRWuIN9XhbDJOuAqq73q7HBUn5xxqGjDQISWtWcx2Z4WXr2GC1eN6On4ydMYnKxnz1LHlNi6QShwRL1sJpTantINhuf-XOW8OxnY6bPZkKxyfW44Hwctk=
+solutionzinc.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDQ6zMdUQD2Msq0aD54WS_iAex-tJvfhdTgTIod9Y0E4iu0WDwx5aAn-l3fwQGyYQCXQUnoGzz10dqGd1SkGpEO6DJuXWyK8aiJhHrxxWpi-rvMn80cLj_awbrV3MTwEWr63D9qJtglturcjq__s8flXVGdl0rjnif
+mcknight.org — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE98t4p3X456_JRrTZUyjGkiY2UEaqKScAQZvGsvyI8ZDNVjRJGbT8HWP_2Pz-0IJ7_gEH34hdUsSwMIkXAtmXp9rgZKBSsVQ3b4OVOUdWExDJKQaFFurWJ8oLab1okCUQEyYQZXaDwVYUmhwEbcAhoI0LltvEmlCZpHZtEdFNJohElT0Y8RBMHxQld-8cryb0X1bR7dKSDxgRVkBMXBw8CMPZm6FM=
+alx.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-lMj4Ff40qT8fxMQBjDe0V8QqTzXn7I-4pU8B_nZgmQBdTHI_e9NdUmmH0LwtRrYsf6TcZ1ywjooSVbCXknWRPDLRUtXNR4Rg7xoC3eMTa363PmbdONhycAAwtYMDKi9rn2j3-L97F_mPuOafkolNbv6e3ZWPlg==
+elmlearning.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYhEdiUhAV_uUo_FeYpjhkkBoPLo9bgiRWawqQpGJPpQA2HRa0qcHPbRpMq_eNhdnmeI8uogQ0bdekeEMVjldTCx-vez_Tcf54FFcrZteM4rlDAKh6t6VfP3DscHYZBgmFg3yECGqTsncpj4QyHH8RcZrOG4Gr71c3wgCcVg==
+theswensongroup.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKq-gOoaGx2zk2jx0ezIK9PSUS9fYIvmsdy6r33wf-vBxLVmhlu2pMuWs5pufCDpe8FFKTu0xHHuOrPK_DwD6ttlqDptWSYGAVVWkuRG34Xud9cQx0xnmGz5iRberxB0MHVzuOgy9paSE8ZZy6hkwM7QIVZPvIKTYj5BqlNY-3qq7Qfzga8dQWUt_4PI-D44kZ5KtgAK9_KA==
+fortinet.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoRngp9XWipzq0SMWWYD-uL4XxYKCeS-f-85vx0KqtApndPon54f0dJmrECybhFuebEMxY9927JkgiM4l9Z13RITN9bzN7UCrveI3y2RoFJOFsTwN1IEKzP91Onj8Tfx_6CEcTwYJCYCicA5rXeNYLBIO9maT_juolD2vj6SA38sp1ig==
+augusta.edu — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0F-fYNwv-Ruyppc-sCCugn6zNlXNEfvRYnE0L9ThnN6satX87HMllrd1XRgGz0i0ODWWIYI8czOB06znPiytvrTnp-Pzw_NiBHlvv6jCZK4f2PFyFmuCyaRA2QcI-0HvRodFLfGGX5fQBF1P3JLYLGNZgZhnR_WrPbAUCJ6hyKww2eybXMpwP
+adaptivesecurity.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_QJBYCh12xwpdk90fCw8eOe9Z8UBUf1lP_hPQZP5UwndLkeiw7p4UkQjfQcPDXWaO9LcgwiKyHgE6RQwm9Gi2TDPaYrjm5ZsrVzWkqSdT5PoMdGJpMHcJZ3AVJkiPVnTRdHmJ9vQVYT3JkyOQoX7fXZDE58fv4ohpR1mUE6MX-y1mJKgD9UlOuhPsuNZWghh1TtpZ2rrPSQVyujWyg9BjYtwqcjaGps8d3umjSdjRjm5PWoOAxAOgoRQ=
+rovens.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWHL8Xknuwkd194_9D6xnytW8LiPTALGkNu-sX_sIDXlpHVypZvtxcdSNTnoMB01B0U7bDXYLHuqbowbxh37IZMql5M5_CEE-ApHUDCPx7EG39NrltLu7HeCCZE6pINerWGyGpo8XwGVRRZAOq3c1csZafMSv_AoKemB5Uv2C0FGyoq4CM_iCiXEbM8wGlk4-8BL1JpBsa
+nist.gov — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4dHlqaJwO-IusitQk7NhY2J9kiykJzsCqMVoLr9OC-_6LOz6KyQFLo5mGgsN8hmB7x37kDGWO4idIOyfEeCQDsS5XrTgAQZH6jlejQMqRJcCpbijGnVdItcXb9YQCHGQU6wX_HKLKQxsZKo5rs8wQlhVh5AV6SGlnYGUIa9DEGePTp9Fhh06owAu647xrZmVpIBiLjzcu8-qr2A==
+generali.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWj3j9TtFjzEVGvZEplkfcjPIoeToR8CoIHISGrEaWXinqzSpdW2iNsPWQ7gTdng90lzdHbYJMeYfcfI0fu7wUkT7bmmx49RKpSfvbrdXbV8FoOibXyOWASn7E8M7_zIwZayUfj8-J1fP_V95HaogoMGyfj-QJf0DFr9d_zTzl9tdy2t2mH3a36gbKLNH-yDfu8-4-TNB9oPEN-2Y=
+nationwide.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYHYF6YT3Y8XxUgEkBQRv5PNAgSC8M4UsI-xuaB8qm8hCgKra1Yb2SiLPgWUO1wH1uR4bs0afwCdheTM5AypT-ek-rMQHkpxeUolqfOx-7gMbR2xOuOEacEqG-qxvYUeP2lxyivK3v7N720lyyuWyivkNXQ8-9J_-CUVT3auvsuFzW7pZTVeDBUqjVVaO-i3lYCog0JfkQ_wwBJvmIsd5bK47I3PMG
+egospodarka.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2veLfFuj7989MAm8PTd7xWFwmDZ0RYN_L-HCAt52QL9PMAdwAtatTpuxgjNGjt3KM8LTd228qKITMMjyemnsFI2KAjNconzbOelC_nIqbunRCDXwbYQteZ_QrrRqsd4HSt-5noc5BolPjuoHCtcXJk7Ku9jzG3Q8eYbfQ9ytdSEgqK9OfR_TzyZzxLL1RxsGUCRmR9cvn-92gMXjqjyRHWOhj1CBDXh-1nILL8QsSjm40v65b
+hyperproof.io — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANK_4X6Q1MwZRKY_yzctaBAKVWqpqOdjAGsZgytnk-iHCXhaFsnCoKBg8hmeDRpb3VRe94zFLKv_lSw8siVRAse9XjqFzPXtaDUAEZHII5iDNJW9R124d3NeB_YDLOXNi04zoPGiyjzLhc56qGoaHgf9dwZaU2AizvHCoUMyA
+bankofamerica.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFjhBkAkw2KEr9YGitigB3X8rlA4Qy2AVd0WhWhMsvHulbMz3Y9zc8nztq0sI0cMsCNMNUr44CvRIJrajT7qqXXJ4BYdEn2EUMNXKSHF1ST_sBPYVpop4R_8WysdK0-i3yH114KDrmVVJnKkHxzSQW21oMZu1fiV-QrKVcpdHzw3SuGjGThFgPpLQ0nC_wksWaE9mZlazYqw==
+poradnikprzedsiebiorcy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT4ashd4ODUpUFhkAQkKbFwuCR_A9JpI7kEKfGTswBQ5n0CTT6nRNz7mzvYvPTIeviUyjK5bnwo8-e8tsyE8XYG-WTydxnqnnzrvQaw1u2ve45cMUtmuaaElyzqccjVmOWQWtZtzB6C-I5dkg4C-i3W3ktMGocrh5c2tIvE6VGc5nOSjyA6vLHTjd7b_BNpg==
+senscy.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQDKtYT7o4-CHXKl2Uwc7jIRib3VecDXdf0NoPmJx5BN6E4sv5yTzPW5mSkMigYg1DdME0yt1aeyjegd2EnErnXsJa1yrIo3RlE9e29nCsjk2sAvbpG8XdkOZkD4P-LfHQNDMzp_kqS3Fz3bcIa1rxmjjSPJWNVdOcR8G9onqmppiX
+needhambank.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzdeJ-jDGE9qdW9fmFKgImHridxGy4yNClho_ERNEvcc05l1nI2QcyCkE_3UMhym29XDeC0XMDkdG66lFULxm3wGUq9lg6Df8_lNt_Qs24wskK5xWvTu79Kpo6U5-QC97614oj-nzLXOIJfDmw8_oaYVsgkZT01tf8dSIEMVlv14FjM47lA5j-oe7zeIMOuIWAHq0YeCVVuJv5KA==
+arcus.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw5ZS6KAeHZ9VegZ3MNZbWVdE2LhElY-0yiC6gTCCfwgoqq_qBU_8dbX6OmKZf--_t_k-aPeho2sgHZCxphE__6PJTwkMg276ysYqXY2p469MifjbjQxdQdoFToBPVe_e0vAzbniGxFaMM1kRyTR90xZCO_RUDVKKFa2yoycXT83G-yHql46IWACmmWt0=
+netdiligence.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKiAotkeuL3vfx8E2CFHUSn0zsejpPXUUvrC_1d6ir0-i1EMdCFIvWVNoXus-wogjOIQkCTn3LAVRZwYUAhbn7vP7As43zjgUqTCcyd_jx2H2oE4s0CVX3JTulMeby9BigPU4iEorXP-CL7NMeZb4KKCs1DvBBdm2aI44TlRe32wcqDDBB1pE=
+system-3.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO0qlDIpRQVEwAwRyto2QED6JFrpxib3MtdpUG3g-yptCoWymPKVUVUygRMfhg4eMtglehvtTwxoSJt995su0MEkaKlSnBdVfbJ2LbnHrs9SGkqEfd9jtunb7SnxWx7UBs7Y_Ho_E_vTAx9j_2fIpGYP7v4ss5tMvc_6FOEydMmYF1gFhJbprTjDc=
+netcomplex.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0wdHV2oLvwCfEfOVUcPtWWkr0z6hA_88RjTpYVlihCT4rPVIMdlm99Rg8jCAA59fFiucM7aZAsWBcNQA_al0Xtv3pgoJhuflk2JiP_Z-MaY2E7MrT7B0QCLOz76seetPiWLvoa7icYGImCjnG1ul58ca1vfQLnwTeXR573IRqQ71NlE0Em-1-y8fimUDSIICPnci
+keepersecurity.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkRkt8n7lAQBY8dmUMCVzWhe2san685D8GM6IINRj44A4KsA0CVCK0UCFtDUTzAe392F3gbXgVfMx__yjryok1irSF2LUcPfWq79ZkW-lib8He9QL7bNdSOOuXnPh-WjOQXwk8WmXztU8s2YgROKoSVdNxQjVDq3P9PRPQ6DwxmHrz1D1mNyl9rvtkabmb1w==
