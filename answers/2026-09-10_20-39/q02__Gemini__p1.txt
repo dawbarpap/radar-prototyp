@@ -1,0 +1,33 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-10T20:39:00+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Skutki cyberataków na firmy są wielowymiarowe i mogą dotknąć niemal wszystkich obszarów działalności przedsiębiorstwa, niosąc za sobą konsekwencje finansowe, operacyjne, prawne i wizerunkowe.
+
+Główne skutki cyberataków na firmy:
+*   **Straty finansowe** Cyberataki mogą prowadzić do znacznych strat finansowych. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów. Koszty te obejmują przestój w działalności, odzyskiwanie danych, wynajęcie specjalistów ds. cyberbezpieczeństwa oraz kary administracyjne i odszkodowania. Dodatkowo, firmy mogą ponieść straty wynikające z utraconych przychodów z powodu przestojów w działalności.
+*   **Przestoje operacyjne i zakłócenie działalności** Cyberataki, takie jak ataki ransomware czy DDoS, mogą zablokować dostęp do danych i systemów, paraliżując codzienne funkcjonowanie firmy. To może prowadzić do długotrwałego odtwarzania środowiska IT i utraty ciągłości działania.
+*   **Utrata danych** Jest to jeden z najczęstszych i najbardziej bezpośrednich skutków cyberataków, obejmujący utratę danych klientów, firmowych, poufnych informacji, własności intelektualnej czy tajemnic przedsiębiorstwa. Skradzione dane mogą być wykorzystane do kradzieży tożsamości, oszustw podatkowych i nadużyć związanych z kartami kredytowymi, wpływając również na klientów i konsumentów.
+*   **Konsekwencje prawne i kary administracyjne** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania przepisów RODO. W przypadku naruszenia cyberbezpieczeństwa prowadzącego do wycieku danych, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe do 20 mln euro lub 4% rocznego obrotu firmy. Dodatkowo, mogą wystąpić konsekwencje karne dla firmy i jej zarządu, np. za przetwarzanie danych wbrew przepisom lub udostępnianie poufnych informacji.
+*   **Utrata zaufania i wizerunku** Cyberataki negatywnie wpływają na wizerunek firmy, obniżając jej wiarygodność i prowadząc do utraty zaufania klientów i kontrahentów.
+*   **Wzrost kosztów działalności** Po incydencie firmy często ponoszą dodatkowe wydatki na modernizację systemów, audyty bezpieczeństwa i szkolenia pracowników.
+
+W szerszej perspektywie, cyberataki mogą spowalniać innowacyjność gospodarki i ograniczać inwestycje w sektorze technologicznym. Ważne jest, aby firmy, niezależnie od ich wielkości, zdawały sobie sprawę z tych zagrożeń i inwestowały w cyberbezpieczeństwo, ponieważ małe firmy są równie często celem ataków jak duże korporacje.
+
+[Źródła]
+przelom.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbVSRN3Ut6by_lM1d0ErOFDoLWLxjHm0svHT678tkK0vbkxQvbNdzvnU9xAqTzVn2vqhddgnC6Ora-18m4ZdFfVn6ycFuQdFvHA6FcgN5Si9yvJa4KNQY3leh3_KTbB0KRz_0Dqyzizc30yPD92nsOxLvAfgfgQyHbTu2aFl3W0gJJPG_bVOT9aL-tf7X9euQyKy7YASdS57Hsqcg3XJt0ogyRSF5SP9dhcmFpg6xMEtiLeKIPjcGfE7sC
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiQ9G-73VVIuk6y7TLhKk-q2LdumHzfG5jjc_dDT72Vb1T_j5_uq-b__D490EsF38TYsND1gDqUHYYE1_XDkfnpyEvFJbPz2ikPqit4piHxXc_e62FQXF3kql-u98j6drkq5OCqDkdkNUFzF7yr-A7tU6aDR5cwe9LYQyW4EevIbt2e80f5U-zAZdpzcZIU_oHRESwVFZX
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Q1Ib-PwfcmZTCZ7b4vrlL81kI2SQx_Y0tocF7LLii9szz4au8izSliAQV3fOXeOJERGNhG4C8240PqTTvP7r-ugdZ0I9d244nQJgWVHsH3SEos8nA3i64dEWfMPfacyDQjgtMDzCSEHShU8goGrO9ve49mjsUTGMt0IYUmcW_kxMKaw8ioavOPnJMlw=
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyCeNhn-QPXFNEVacWDwQfASTdTs-6NbiaBAYBQ7xnaRS4lec97jNxLtVVcJslzvnR7EmLE9AkmNAphB52evqJqnbrA2G0sWcU6FKsBO61bCVWMTs_PDnxTrq6dFtbsllBpJl2DU7O6ZFMlAf0omPyWaP0
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcAOt90YPo2Au2LaAweLf8hj8ML6Ys9mBnEAm2j70qymKCBVdkQ5QSgE7mTfveCyDe25S3h70FYq_84kWg_1Ob-WmrnZzKhkliF9nCl5xOJ9N4h5uDFq77-40lg3cLHs7gNjN81yQT09ZBt8j0uB_eSNYAasKLzKms8HHqlEQ9Rm3EfqAHoOeaJaCjw3WTL4A=
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYDXoZRZ20XXaNDHkFyfPtDU09AA8Pxz9wqfieI72KsCQb-VEKzuoXQ4uUOyQEOD2-DHZCIYsD7E5aY0uFa91TGzVPf5WrbzklNEb2JICBPn5KiC9BwIlSqmzgaZFQ53nCjp3th_wokbttLZ8bD0E-rnDwCQUWDXLMXvphzei0XlU4H5IGm-4e51iVIAGKLQwqCUnSDUxIhv0VOQ==
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaNwurzNBYo8UHk78FYuXw8LL1zV-CFpL_6AVpnsbpyVHfJClroO_s8OJvfITbaYSKLjAZkkbzowbW4wn58DdwFu6nZv_dgXpbjvl2rtFFJpa1RNv9bnB6eZT9shNYsvadTzSoNldLSm9jxp2-tjCnN7oqIypXJuW0Pdg56YQ3rTAWjwiqosTSwvXe5xiTFls5SB_sHF9sJRG_CF__adUw4miF2rQyPFOPmxdl5B_9LA==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqOVlQIK_Siw-_tjodYFc54sZLuBbQVQnwZxSRs66Pmm6-ikameRdgkxW9wuiLEWDNIWieZBjOqMRV2R9xNCuDa9eYXgn3zwD9zmvy4lSIuww3KAnGP3JHkm4TuJPGaW8yQHh6PNapiMTDhOGgyw4pOb999BZxwTze370SKH0E958dZFWS-_0DWDTIiN0n3x3tF-gkRwCNfwbPORE5AmfvEY6daldtIpezgeAu_PseVMUGjQM=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEbNJw2JYuiY2TxWuUYqShfhoI_Z2z_QLdCGHYXy8Rla7GY12jG3-9TYu0Awiw7886EyXZShOqiiaGVE7u9tpvxmhjUoiXeSl0n-I8isoZSog-y8sO71IgxEkDlhM77h6TY4Zqd58cTL0b-nEDOYXkEzO0lvGqTtv7KB5QvcvAyGy_A-L649vEYg_3_TtINoqhaYaHLi4MXgAvbX8=
+fen.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk4DuKLnHU_d2kBPjkoBfgLksPbbp2RYsY9fXjqGDiXdXTHQBoIdy3HYc2ooeHzH7eejtZNDPECHJNyIIyPzKfm4o1u93gXerv8bemkDegC9LSGyzhARNkbcV19HeD9lTU9_ZPN1wS6ItTyxd6fq48jIg-9YK9BqAHAWODrDOo_98YCe1QnSQmM90=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHckAtIKreHPDVSQmzFEAKn4hhOhNqroaI6dJIrJGFCsrjr03_UbYvCX4zzw6hYbYWJ_sME9hs_S8F6AiUOVBRrmcPBBjHpvK6E4FLU1e09RkGjiPYo1Zo7W9kaWJHDNZJNNcr_
