@@ -1,0 +1,48 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-10T16:06:37+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą ze sobą szereg poważnych konsekwencji, które mogą dotknąć zarówno małe, jak i duże przedsiębiorstwa, prowadząc do strat finansowych, zakłóceń operacyjnych oraz długotrwałego spadku zaufania klientów. Szacuje się, że 60% małych firm, które padły ofiarą cyberataku, bankrutuje w ciągu sześciu miesięcy.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe** Cyberataki są kosztownym doświadczeniem dla firm. Mogą obejmować:
+    *   **Utratę przychodów** Spowodowane przestojami w działalności, co odnotowuje dwie trzecie firm, które padły ofiarą ataku.
+    *   **Koszty napraw i odtworzenia danych** W wielu przypadkach konieczne są naprawy sprzętu, infrastruktury oraz koszty związane z odzyskiwaniem lub odtwarzaniem utraconych lub uszkodzonych danych.
+    *   **Okup w przypadku oprogramowania ransomware** Hakerzy mogą żądać okupu za odszyfrowanie plików, często sięgającego tysięcy złotych.
+    *   **Kary finansowe i konsekwencje prawne** Wynikające z naruszenia przepisów o ochronie danych, takich jak RODO.
+    *   **Wzrost wydatków na zabezpieczenia** Firmy są zmuszone do nieustannego inwestowania w cyberbezpieczeństwo.
+    *   **Oszustwa finansowe** Wykorzystywanie skradzionych danych, takich jak informacje o kartach kredytowych czy dane bankowe, prowadzi do oszustw.
+    *   **Utracone okazje biznesowe**.
+
+*   **Zakłócenia operacyjne** Cyberataki mogą znacząco utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa.
+    *   **Brak dostępu do danych i systemów** Pracownicy mogą stracić dostęp do skrzynek pocztowych, dysków w chmurze czy kluczowych systemów IT, takich jak ERP, CRM czy systemy księgowe.
+    *   **Spowolnione działanie urządzeń i aplikacji**.
+    *   **Ataki DDoS** Mogą przeciążyć serwery firmy, blokując dostęp do usług online i uniemożliwiając użytkownikom korzystanie z zasobów sieciowych, co jest szczególnie dotkliwe dla firm e-commerce.
+    *   **Instalacja złośliwego oprogramowania** Umożliwiająca dalsze naruszenia, takie jak wyłudzanie poufnych informacji.
+
+*   **Utrata danych i ich naruszenie** To jeden z najbardziej oczywistych skutków. Może to prowadzić do:
+    *   **Kradzieży danych wrażliwych** Takich jak dane logowania, dane kart kredytowych, dane osobowe klientów, dokumentacja medyczna czy własność intelektualna.
+    *   **Nieodwracalnego usunięcia wrażliwych informacji** W przypadku braku odpowiednich kopii zapasowych.
+    *   **Wykorzystania danych do kradzieży tożsamości, oszustw podatkowych lub nadużyć związanych z kartami kredytowymi**.
+
+*   **Szkody reputacyjne i utrata zaufania** Cyberatak może zniszczyć reputację i wiarygodność firmy w mgnieniu oka.
+    *   **Utrata zaufania klientów i partnerów biznesowych** Co w konsekwencji może prowadzić do spadku przychodów.
+    *   **Stres i utrata zaufania wśród ofiar naruszenia danych** Konsumenci muszą mierzyć się z procesem naprawczym, który może być uciążliwy, czasochłonny i kosztowny.
+
+Firmy muszą traktować cyberbezpieczeństwo jako kluczowy warunek niezakłóconego funkcjonowania i inwestować w odpowiednie zabezpieczenia, aby chronić się przed tymi zagrożeniami.
+
+[Źródła]
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvbpJbtIWgSqf3b0dpDFHCazG6pU2pjIJ-WXy0OCYqvBnhJcSPuTD0354XZGIBj8Dg34cuPGIlOxeyhtJbV14NEYultOpmkfV_cUQ7BKfchBjvWSVJg4plICeFtqa4ToenBm2sSqeEKGfyxoxaW25QcX4l2xy_npOgb0aVf-UHnlKGyfyxf9zvFcrEW2-H_XyYpePB7AGy0dKsMiG-wEUlDDb546d0fU0SZGfob3kYn-gOp2nW
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYoCbbl5HQjT0isGgbYKxL-bp96Ja_oBHOG1ydkqqP4xrUGJLO0ibv99xit-L8jd6dt7-6LKAygy_iXHJF9VgAIUqpsi3NDdcxK4mHasyx6Cf7u1GHYae9nPO4l8jvyjNF7wCK2eNEyaoDxSgeBaaJWwGg9NF4n-qsJLIEx40GDiXvqN7K
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfwok4WedQr58za5W4FTMn5q6_sDYPq70AtJ9iKmOBmpiErHckrDBsBMD4yDoVfENym4_F7B7fPQun5TSUNWx9PpaDKRGfQXcHyR2jHKJ0Vcl_38-8_oPTC0UBQRDvG8XLyOIYO2yUivEU0KBI
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqQcqdqPsgKVDiRB8LhupIgo1xqgZiLsEyfEmyc0Ldf7qE6NAzoocZoYlrvpswAp-enSIAst1ecwm-6yZWTnYnM_n3-Mqu06Ztg6nC1P0xcTBxY9uN82Pk-4jx9Auq5xS08kH67riUpPQzHwnTVtfQOrgUSA==
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU9nOQkH95ts_SnHivy6sVcAqhFkmjpN5ecqdVWTrxhZPyTiqnGsQlhLJlZAPEl2syaMgjYRIaRymDWA9NMVJhij35TzVHUgNNehxXelGKl5eCdNkDW7q8bM2RGcGnGyATFEWk4uD8QXSUjuuR6zSIWj2atIDoi0Y-obu05aiDujGgFP9OxsC8NAgFDdLTO1RJ8OiYj4VMRA==
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6s5aNym2XgmDPndq0fLxLqsVpXRR6VNXfZocreDHmXpXrqWAo7pJojLuLeGVKohYGVBBCBWqcpVDBumsZ3ay1AywdDmnwLaKP5kvJJcjai6NL4sQGrcK5yGIaVAyrXvQh5M9rulpmxb0hzbV_hlXMpW_ZNgvRzZsIT6Hmbz8jt9aV0b8RRj0dLdNFI-sjwS4zr-luRqFnSsBVvL_O
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8W5bqJSMa_xMugZFQQe9EUT_OPUDcf6a4rfs66NtxaSgKwKBRX0-CKPqOqS6gBRUFp2MHYiu_raOXK0yF4LPyxKp-6n4o_ucF7ehRgWGBUN7n3IbVE8XGncwN-nQBiI3DLSu2Goj---J918Kw40ZUBkNGHSrVH7nY2ne25qac20JfVx-BPNcmRLuP2Y0EEsdv7HGYCOX73m23kQk=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfoMQ8T08MveI70KusF8iIHwE-LU-72PYFRJu80nljueWsHp-sGYnqg7Fb1qbF0OLUBsKhsK_3t8DZawCV_MDT9zH8MgQioQWsteTW_89UaksVZM6y_BWzwVEdWSdKwTvZSrWzlg==
