@@ -1,0 +1,41 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-12T10:23:27+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, niezależnie od ich wielkości i branży, prowadząc do szeregu negatywnych konsekwencji finansowych, operacyjnych, reputacyjnych oraz prawnych.
+
+Główne skutki cyberataków na firmy:
+
+*   **Straty finansowe** – są to jedne z najbardziej dotkliwych konsekwencji. Obejmują koszty związane z usuwaniem skutków ataku, odzyskiwaniem danych, przestojami w działalności, a także ewentualne okupy w przypadku ataków ransomware, które często sięgają tysięcy złotych, a w niektórych przypadkach nawet milionów dolarów. Firmy ponoszą straty z powodu utraconych przychodów w czasie przestoju. W Polsce, średni koszt ataku ransomware to około 1,5 mln zł.
+*   **Zakłócenie ciągłości działania i przestoje operacyjne** – cyberataki mogą spowodować czasową niedostępność systemów informatycznych, co prowadzi do wstrzymania produkcji, sprzedaży lub świadczenia usług. W 2017 roku 62% polskich firm odnotowało zakłócenia i przestoje w funkcjonowaniu po cyberatakach.
+*   **Utrata lub kradzież danych** – wyciek lub zniszczenie danych klientów, pracowników oraz informacji biznesowych (w tym własności intelektualnej, dokumentacji technicznej, projektów, know-how) może mieć długotrwałe konsekwencje. Dane te mogą być następnie wykorzystane do oszustw finansowych lub kradzieży tożsamości.
+*   **Utrata reputacji i zaufania** – naruszenie bezpieczeństwa obniża wiarygodność firmy w oczach klientów, kontrahentów i partnerów biznesowych, co może prowadzić do spadku konkurencyjności, utraty klientów i ograniczenia współpracy. Odbudowa zaufania jest procesem długotrwałym i kosztownym.
+*   **Konsekwencje prawne i regulacyjne** – naruszenia ochrony danych osobowych, zwłaszcza w świetle przepisów RODO, mogą skutkować obowiązkiem zgłoszenia incydydentu do Prezesa Urzędu Ochrony Danych Osobowych w ciągu 72 godzin oraz powiadomienia osób, których dane dotyczą. Dodatkowo, firmy mogą zostać obciążone wysokimi karami administracyjnymi, a osoby decyzyjne, w tym członkowie zarządu, mogą ponieść odpowiedzialność prawną, włącznie z karą pozbawienia wolności do 10 lat za brak należytej staranności.
+*   **Wzrost kosztów działalności** – konieczność inwestowania w droższe i bardziej zaawansowane środki bezpieczeństwa, zatrudnianie specjalistów ds. cyberbezpieczeństwa oraz odzyskiwanie danych po ataku zwiększa ogólne koszty prowadzenia firmy.
+*   **Spowolnienie innowacyjności gospodarki** – w szerszej perspektywie, cyberataki mogą prowadzić do ograniczenia inwestycji w sektorze technologicznym i spowolnienia innowacyjności.
+
+Mimo rosnącego zagrożenia, wiele firm, zwłaszcza małych i średnich przedsiębiorstw (MŚP), nadal nie docenia ryzyka cyberataków, co czyni je łatwiejszym celem dla cyberprzestępców. Statystyki pokazują, że aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy. Polska należy do krajów szczególnie narażonych na cyberataki, jednocześnie pozostając jednym z najsłabiej ubezpieczonych rynków od ryzyk cybernetycznych.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiVQfbmGDE6m7TQWpQCwBv6tIJ_HMB69F-yXJAZhxMJ5WblvPFU8LHEHXVKS-bFwnF8FGr_aY9QGsrx9gz9tPW8NZLw-sABR_E8rDxkIysTbBFEt3Q8_i2NHOqkFpgNAcyW-nt8MVYg_MZ-VbwXMogvBv3WlzHaZ5cipZ-fBxKtF8eQBEc21AVYpu-y5hArVo=
+przelom.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8o6rSCMNMUYoS1YjzsBWTBhdlf8-Jh5Ofr0hRcFBGZ3Eb_nhjI5IHQ96ds5tO7VKTyCXSdI7w_pgVkZpHvnwP1ZTibvYlyisIgq7PWkxRk1CORGnqEInXgVmlfHx2ZYbaBaeVtp9YWE2jMIGgsC58xvEeE0-eLC6ka-Td8H38fvaDQycGlAss4KtSkhFsiAxqXTQu_03_Ndr9EZbiYo34E6ZfsM65p2EUQ9e7w-JLNr1VK8J4lhcnfX1n
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDQSQiy-sIJmKnJuPkYvcees2D4iNWPjEsbArWqTbRoHdiBRgtictCl4eVGHq3FWQ3W_UxoGIDpkIV6sZ2k2oA0kK1HUyxh1aEDQsYzhikSRTI3TnbSNHHIff9JSk1wy7SX_MZ8atXueh_XpA=
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWQn9DvFSojtmQ9Nh68MJVWT4IPFTrfKlEAqhNDSC6E0wPPLaePE-EKWFhbig7Cdm0mMqhnlUykgaDLuli3ofdDTKHOKpmZ8hehYtRESLgTW0XcESVdim70zI0YUaJWjUK8P5u0a5-wOw38PmcFW1bW-iuq2NZlQK7Zq3Fa-HgVYeE35KbF2bQdKtFkSwMd7SfiGw7HW2v
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3x7ooqoQVhAp1YlhXtgeHnSTxezP-S20mH8vstATU3HVhx-F1TeV7_bFSCWMOFaL4QnnswSX_NFrEWGYJ-SYFBJoLWT9SumD0sOldJUHyT4dKS4nctaUnPeoiTd4-fcmNxkNXUhQDKreXMQJKc8A4B7r-
+bank.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRa0avisW_CechHG3sgFBVZfbZeUr3bo-tjBkyRewI1WZEkrVsIoJQ2kvrX5HMO2WWaxiQh7NVLQPfNhOTnj-gEG-dwMy6UUIimAOLtRaaebfkiSrGHeYpGO9Zl-Hd4hR9PbyH3R3VMr3hpQ42ILg7OvE7SG0eq35s7nRaDvZsWt73rMX-Lzm_K1zagqM3gHsVuGcsPO2j4Nq6qh3HjHMI7J2pCgJ29Xi8K9-9mw==
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg7ePsW198M5OeCSJauRnuiezJy0joJcCWOOkA2STJYSM0ScLJhQM0NGeXnRpTmf3S_vG7ufZXWFJvYMH96a7n1Ixpda8_fuPpkl0U4EyYAfv7AWNXxaFMWh-aFfOa49mnXyaDxE39jv9ztM5zSwY7p_BtPpXOx49B_9iVmaATdhpOJdoGtvyKmAQ24nnFiyAAY63IlMMtf2UDVdqui3J8A0Pe_aznH6JufQ==
+twoje-miasto.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUjjZx2_MmuuI4Hf4kygPlgwu_zZRLfsjYZH68VtY7ysk2pjHw85lpjY5vo1tTV5tlCEx6sEDwJXMUtBc1CCQCKBYHqwoBD3ZWIOrqXYtF9mksU703R-cbZ7Dqex1BQ1nv_cQAfXGfGV6qhjhGXF8Cde4J84N-s2MB_wMZRfjI0nzpHrGVA2sWGlM0Rvd-XQ==
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpY1ixp9TJYdfCT_YmUAHKpgin4qZkBJTxHKM2kK_jj3XkN_nmXHvoeQxkk5arJ6y5NiiVo7_JXz1KqaUqn5in2P9n-PxM1YU9smOk6CyUZvhMhXPs_5jiWG9PuUGpFfQqXc_oYrFOSKU-z2LiO9erIVKaj5HnibOfbBL92lpE
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPoVm1MnX5opC_1-EucVPGkn_FOr02zVdcu6VrAx2XQCHGL9GbEkx3RFu-6axdp1S7-Uz6izkElMTpln7cT05UpT7N41ugX6I8XLfS2HBKFtWHPg9O1-LlqI-C2808jLdw2C2ztAkiUg7XAZu3zNlUb9jh3nXZ5FU7k08TEhUFupQRH2Ouhueuaa2I3wOgzIzoUcUqoGAm1cl4Asw=
+opoka.org.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7yoBzEXYV1iN9e8QezyBNrf2M_6ISfQqNnQHxedwHXlvzCIKLqpr5cxuC1MtWu0FSCrk0M8aU-Ye_cJYFIg-CgUj0sm7pGszoJl3QL6wIz0vvbkNFEHam0kMgn6OlgfvkVdt7TC-stIFd_36CHT4Hxm-Xace6TME8RWoJzKL1A7oDNvbVZGHTuZJmLKQKIg==
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZlFS-TOayP5AIt9chIruzngnSrAeYGKjIzoZ1SHNl7PI1TvU30K1kPXSCP2Cckw9R4vuE0gR27caXjFzNlNkA7PwQBcr1gGpo7M-sUOlfJvkaRN5OQJGdqmteQlt7uWRUnfRkwGz61Xa31YkP4FCOp4mnbWF9xMy2HhwLCHDhbkZOindv3c08LlGxcLmBqG0TKHcBRaAt8VJ51B-BXVQ=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqnb9_sW_Op0tc46lQP_hEnWU7jqi-g-IX1KuWlHGLc0Rat28BdUqb35Mpio2YacP6hy2MLYo_f4Syq2zZHS3fOMHfcgVXZoCKSIp7L5YljFfzqISgbNM2OkD2uI-UoFDP3rFD
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWF4KmwBKTIK4LLWPXsaBtMhmeQzohj7NDMJ93DuEFjni0mxMMiubWloqwL25mxLITgqDdpV4LLmNO8RTuHDlt99I4jW6Gy5sMcxMDGMBIJjsfk3ndpfItB3a0hDqc5CZCRMnvDEYqpZg=
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaHzCV4BXcsSLj6MCGYT5icBz0k4uiTPREy0aNhg-TN3NjXJj6ayJ_DYmYd2Tp5rVhWKlmQBirrLBTdqFjqpLRo5L5LNcfuYxMGQhOUYYerAb8V-XsaOuaXgk_PatS847MwZpIml25fGajzFzqrKkmt0IVt9VVNrnLgz8HVe_b_Ct_so0wN1rCiDLXQTBiaOUczcKIW11pVb4aUUX_1F_EIHuwU1GeUH8EufytFwpD77TvYteIVRVG_L8Myne0ZptKNQVsEHBwlhVNsEc=
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJF1ixZIiZ8lwNSQWC3PmyMJlOOtaIckYzOnlzL3VVO2b_EZBFTlg0l3Y27ww-7C55YePufBlc4nnTLGzOEn5jTJMFKo5WrYBwyVkhKhlXG7KWypOJyBUGg09Bc4SLSI7mP09uJ4Qbrpj6EPOuIry2JyD4feYiGADh_z1x6EbnGmCzgRuXy0rVCwocWsB7bcfqV0QsA-Ip9eviYg==
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGHOLxpjjADLaZmzRN8Npnr6LPjmbi7bMESQWE-uHna2ahck5cpWVUT_47_o0GC9Bj-a8wbCZ5sD6GGqpFiK_QnXfzji-NXTuBnEmI3mbSqNTPhb2QRPwYCD_EOd2Qt0ngoFmDg5qcQnGlK-2FE40ZhD98alJNkuRmH2Bujty7pJs64Cyz9pG56V6LubezxBS-LXKJSqchFVr-Uc83ASwCaC8aIiaJ-GB5wLrXGw==
