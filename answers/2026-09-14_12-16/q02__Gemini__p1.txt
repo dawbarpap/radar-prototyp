@@ -1,0 +1,45 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-14T12:16:57+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm każdej wielkości, prowadząc do szeregu negatywnych konsekwencji, które można podzielić na finansowe, operacyjne, prawne i wizerunkowe. Szacuje się, że ponad 70% polskich przedsiębiorstw doświadczyło cyberataku, a średni koszt takiego incydentu to ponad milion złotych. W skrajnych przypadkach, nawet 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe**
+    *   **Utrata przychodów:** Przerwy w działalności firmy spowodowane atakiem prowadzą do znacznych spadków przychodów. Dane NASK wskazują, że dwie trzecie firm dotkniętych cyberatakiem odnotowało znaczący spadek przychodów.
+    *   **Koszty napraw i odzyskiwania danych:** Należą do nich koszty związane z utratą lub uszkodzeniem danych, naprawą sprzętu i infrastruktury, a także wynajęciem specjalistów ds. cyberbezpieczeństwa. Według raportu IBM, średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów.
+    *   **Okup za oprogramowanie ransomware:** Hakerzy mogą zażądać okupu za odszyfrowanie danych, co często wiąże się z tysiącami złotych, a w 2023 roku średni koszt ataku ransomware w Polsce wyniósł około 1,5 mln zł.
+    *   **Kary administracyjne i odszkodowania:** Naruszenie przepisów o ochronie danych osobowych (RODO), które prowadzi do wycieku danych klientów lub pracowników, może skutkować nałożeniem przez Prezesa Urzędu Ochrony Danych Osobowych (UODO) kary do 20 mln euro lub 4% rocznego obrotu firmy. Firmy mogą być również zobowiązane do wypłaty odszkodowań poszkodowanym klientom lub partnerom biznesowym.
+
+*   **Konsekwencje operacyjne**
+    *   **Utrudnienie lub paraliż działalności:** Cyberataki mogą uniemożliwić normalne funkcjonowanie przedsiębiorstwa, np. poprzez zablokowanie dostępu do danych, skrzynek pocztowych czy dysków w chmurze.
+    *   **Przestoje w działalności:** Ataki DDoS (odmowa usługi) mogą zatrzymać operacje na wiele dni lub tygodni, generując straty wynikające z utraconych przychodów.
+    *   **Spowolnione działanie systemów i aplikacji:** Cyberatak może objawiać się spowolnionym działaniem urządzeń i aplikacji, nagłym znikaniem lub pojawianiem się plików, czy rozsyłaniem spamu.
+
+*   **Konsekwencje prawne**
+    *   **Kary finansowe za naruszenie RODO:** Jak wspomniano, wycieki danych osobowych skutkują wysokimi karami.
+    *   **Odpowiedzialność karna:** W przypadku, gdy naruszenie cyberbezpieczeństwa prowadzi do nielegalnego dostępu do systemów informatycznych, wyłudzeń lub innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne, z karą pozbawienia wolności włącznie za przetwarzanie danych wbrew przepisom lub udostępnianie poufnych informacji.
+
+*   **Konsekwencje wizerunkowe i utrata zaufania**
+    *   **Utrata zaufania klientów i partnerów:** Cyberatak może w mgnieniu oka zniszczyć reputację budowaną przez lata. Aż 85% konsumentów deklaruje, że nie zrobi zakupów w firmie, która doświadczyła wycieku danych. Klienci, którzy padli ofiarą kradzieży danych, rzadko wracają do takich przedsiębiorstw.
+    *   **Negatywny wpływ na wizerunek firmy na rynku:** W dłuższej perspektywie cyberatak negatywnie wpływa na postrzeganie firmy, co może utrudnić pozyskiwanie nowych klientów i partnerów biznesowych.
+
+Firmy muszą również zmierzyć się z takimi problemami jak dezinformacja i zamieszanie po ataku, a także konieczność zaostrzenia zasad bezpieczeństwa, co może wpłynąć na wygodę użytkowników.
+
+[Źródła]
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhquFpBv9E3MvU8n9VC4XEyhyjdvXG6hGrIQx7lpmeO1StnF5YuL0Jh2SNV_Ib1Hu7R5bRph5-jbmuQAh33CN4rzHD96SP37C619H3U7BeXRySHnapbEsfnNExRGcwxLte3n4PVgXXi8UZfKChUSHBlLlZVfrvwAzQfsa4UBj7E1M02gt7TxPpl2hjhOGsiOpB0l9tIdsQAaStpV8Am-Q1BF12hsjvYZcYij4DmXD0WyE_zCRg
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3T7Zz9dKx-3c1jqlff9FdzIr2hN88jEge535ThHFlyLgW0JSjsQ7ZGXzMDpDwiAeDo2vfyPOYOFBfd-2bn1g_UhWyv7u48XWQt6-WZHBsYFu_S7vSycAHb7iv7WCKWd3_14vrXi-ajgBBPDu
+testarmy.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqS3z6duJusIORmdlI3ozyk4e0g1rORqhAicLEGKh5Z04Ws5oyUZkBeCALZt4ZTCQoqBD_klfpnAcEpeedyTu189JxOc7ZeF52y4Wn1AfkGj4w7YfeMtLRJCvvwuFW5NYW33-TzrEOvNt19v6RFclbc5kGjmhg9BbOVdM8NyoRcqfN31Clrha7hB8s
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJDM5mMINtMs8cQHKiptji6qwbx66poy5U3gJfDLd2I0tjTAwJXJebhIcSCZIlVzHp1uKlD0mmIwVbSTW6XYSBHvyKklpCQH84rit71QDYgi8BQ4DUcMi54Y48zbpjz2sCBlKjlw==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3cF1YufDH7MyLN2hYq_usie1Lvuu-_Z028S7ftKO_-JMNpnI04n6f-JCamAIRJhlr-0wShjBnJ1qJikIM1e5A26rEEksON2OfEtXmir3EyxNvMdfGzaoHerMwkxpODS89-snEubzntIapj48IhjSihetLAbkPGZy57bmu58JW9ndUnlC44tf27UUFHTz8
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGvvSVnmjO3Q-6LP4zhE6FFdAMYhtXDdpuc_ZngZSYranlm8jQCsyuAvd9pisn9nZAzCr2w766_YQ9yug-ZNNpppZJooT-oe_bJhuP9VdwhFYf_aeietREfX-MCuL1ua1W9YWrl5DE-c-9_cdjlXPQ64Gp1g==
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdgrPKSrXPGUHVim82Jvv0Pn_O34drYWN7-N9PzPnYwk3DgOm1PEnt-JNLSXJCHIsxpT0pALsnvveaKXn5rSD186i-pVA3DdDDOm3MOtRwMurRicfizUv63YH0tty6eOma_shx1tHGYQIuBB8_bcBMdoTIpTRumlJSgqOov-JHP5XMdh-aiOptPiBMkFKnwbKYyUivF7HzEAtRcqO8Ykqd1Lv19wbqVUX67-c=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpRBrLAT5bpGFsel07qMDlmLjg5yj7GxD_1BH-kygqe0HpAvE5Eh-JisAxBQhbMwQwlV3Mrb-AboL5QxXNRG6Gzw-98NROAEs5Zi2QpsiqPa1sjImLJvkbo7fXd_prNstubL9QhYzg9-fhLBWy2yOGAGbBhGAbmbt7dBNSP5R9zKtNnRcm
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0GOD9bnL7eVvShF7h5QG4W-NgDRPM9kvCaVrjpZGJxH586xypCEEdO0dVTIG63n4TU5Lhsdu_VgXYGmPxc1ab2js3MV_KNYGfjiPs_b8AJnWaMLCENZWzfqlgpRc-OIM2T_1L48CQplF1
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHo3xaKYM0T1nKCNXPkddjg406Eg86BT_d6FHjxQ4QNGiVfK8mT4Z_jM2j0bYm5tsUKFppDK11oXgdO9CNPlIMKQGs9cZS0IiLdlHN4FA5wqV5VwerNItycfRup5JNG_yk-QTNtv6oJSMxW_S0yczKXW4cH2re7E8e1SQXyHeRL6kemihIJgzuogM1LoGs5DX9AtXAXatYseWNAXbW
