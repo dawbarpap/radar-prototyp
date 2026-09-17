@@ -1,0 +1,38 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-17T16:35:42+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, niezależnie od ich wielkości i branży, prowadząc do szeregu negatywnych konsekwencji finansowych, operacyjnych, reputacyjnych i prawnych. Ponad 70% polskich przedsiębiorstw doświadczyło cyberataków, a średni koszt jednego incydentu może przekroczyć milion złotych.
+
+Główne skutki cyberataków na firmy obejmują:
+
+*   **Straty finansowe** – Są to najbardziej obawiane konsekwencje, szczególnie przez małe firmy. Mogą wynikać z:
+    *   Konieczności zapłacenia okupu w przypadku ataków ransomware.
+    *   Kosztów związanych z odzyskiwaniem danych i systemów po ataku.
+    *   Wysokich kosztów zabezpieczeń i usług ochrony środowisk IT.
+    *   Problemów z płynnością finansową, zwłaszcza w mniejszych przedsiębiorstwach.
+    *   Spadku przychodów w wyniku przestojów w działalności.
+*   **Zakłócenia operacyjne** – Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa. Obejmuje to:
+    *   Brak dostępu do danych, systemów i aplikacji, co uniemożliwia realizację zamówień lub usług.
+    *   Spowolnione działanie urządzeń i aplikacji.
+    *   Nagłe znikanie plików lub pojawianie się nowych.
+    *   Rozsyłanie spamu przez zainfekowane urządzenia firmowe.
+    *   Przestoje w działalności, które mogą prowadzić do znacznych strat.
+*   **Utrata danych** – Jest to jedna z najpoważniejszych konsekwencji, szczególnie w przypadku braku odpowiednich kopii zapasowych. Utrata danych może być nieodwracalna i dotyczyć zarówno danych firmowych, jak i klientów.
+*   **Szkody reputacyjne** – Cyberataki, zwłaszcza te prowadzące do wycieku danych klientów, skutkują utratą zaufania klientów i partnerów biznesowych, co może prowadzić do spadku przychodów i osłabienia pozycji firmy na rynku. Konsumenci, których dane zostały skradzione, często zmagają się z problemami związanymi z kradzieżą tożsamości i oszustwami, co dodatkowo niszczy wizerunek firmy.
+*   **Konsekwencje prawne i kary finansowe** – Nieprzestrzeganie przepisów o ochronie danych, takich jak RODO, może skutkować surowymi sankcjami i karami finansowymi. Firmy muszą liczyć się również z pozwami sądowymi od poszkodowanych klientów.
+*   **Wzrost ryzyka dla pracowników** – Niska świadomość zagrożeń wśród pracowników oraz ich nieświadome działania mogą otwierać drogę do ataków na sieci firmowe. Praca zdalna, z wykorzystaniem niezabezpieczonych komputerów i sieci Wi-Fi, również zwiększa podatność firm na cyberataki.
+
+W obliczu rosnącej liczby cyberataków, która według CERT Polska wzrosła o 152% w 2025 roku w stosunku do roku poprzedniego, inwestowanie w cyberbezpieczeństwo, szkolenie pracowników i wdrażanie odpowiednich procedur staje się kluczowe dla ochrony każdej firmy.
+
+[Źródła]
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp5nCoSiLxXLVF6pX3P1fTypjk5GIstkP7wtLBnl13KZff7zE1QLMnAn5szChdsMaQTYFKqhSS7ApmHmJ5FDgT2k30gpFae_KSEFX89naYPIpkrj2_IxrELfJt1rttpfX3Vy10maP-q05KcVQ=
+sevenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvyP9U8KwgIzNhorRvByd5GJz1vAq5jQN7OACDfLP7oOfxRPFa3YiUJkOXEIOfQkAjPrR7qj2IzNCX_p_6mc8psTNCBuLj4jpakceLEHajhPtBeHK4p8caO_x6ZJ-JbXNyBsaRRLDneaHBl66yGYui3f6H8hnSmRo6lsdD_WA4_gRT4W8OlsWjU__hQiUkPY6YAc1QPtc4Rt87W3Q=
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEtwYNSNIHaUPHe9Bvxv1ZyPlLhu-60tWjlhEc0_yCP7PMBkLbzTfAwZnhvvztqxkzSxd0-2ZVRrlUiGU6AVeip0aM4VMV8plMkFUJG499awuABLYpbhwZ06DytdZOdmh00JcNy_y4Ntb7VMiDoMH_yPjfH6ZrVIBApF63HEACFihJrSfPFkMrvP-0ZJmzH_Bw0bNjZBm_Q0r1zX9bkaxjE5XHhzkUhF7cqTeSjI6geoiA_uY=
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJd_46lkd8caMU6mPv891kI1EQfrD-GWv4vYirvg0VuzH5jXXuHsq4j9TalJRsFW9OLOy8Bp90WRMC4TAVM7pW46EBzNaA0My53iPjIUCyJUhT6owPJ8dJY5c6fJLvJa5MRQNZRYFMJpgPfSQaMDLmo-I52svJdTNeYDAT6wqIfwXraa0zwrk7HAJs9R27xAztE1X_hCQ=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdf8sVABcAVRNQPpJZr7YcCnm6NV6DiteUcMfXVySsG89LAOYTSn7C0E0l7dPpQ0sHFTbkI9E3XKffPcsWcSoN0qwmRCjCV_G5yBJ3OMonvih-Y6_3eXgC22TeZDhZFYxURrkEAKOy3ki_XZ05mZzukGw24rvW90G0GhfKzVmRPQYUY3BHlFW0VyVJtJxvegFzHiDJTxT6Hz0e0lY=
