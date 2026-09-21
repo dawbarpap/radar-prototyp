@@ -1,0 +1,28 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-21T21:50:24+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, dotykających zarówno aspektów finansowych, operacyjnych, jak i reputacyjnych przedsiębiorstwa, a także mających wpływ na klientów.
+
+Główne skutki cyberataków na firmy:
+*   **Straty finansowe** – Przedsiębiorstwa mogą ponieść znaczne straty finansowe w wyniku cyberataków. Mogą to być koszty związane z okupem w przypadku ataków ransomware, straty wynikające z przerw w działalności, koszty odzyskiwania danych i systemów, a także kary finansowe za nieprzestrzeganie przepisów o ochronie danych, takich jak RODO. Średni koszt cyberataku w Polsce to ponad milion złotych.
+*   **Utrata danych** – Cyberataki często prowadzą do kradzieży lub nieodwracalnej utraty wrażliwych danych, w tym danych klientów, dokumentacji medycznej, ubezpieczeniowej oraz innych wysoce osobistych informacji. Brak odpowiednich kopii zapasowych może skutkować trwałym usunięciem tych danych.
+*   **Szkody reputacyjne** – Utrata zaufania klientów i partnerów biznesowych jest jednym z najpoważniejszych długoterminowych skutków cyberataku. Incydent bezpieczeństwa może zniszczyć wizerunek firmy na rynku, co prowadzi do spadku przychodów i utraty pozycji rynkowej.
+*   **Przestoje w działalności** – Ataki, takie jak DDoS (rozproszona odmowa usługi) lub ransomware, mogą sparaliżować działanie systemów informatycznych i uniemożliwić dostęp do zasobów sieciowych, co prowadzi do poważnych przerw w działalności firmy.
+*   **Kradzież tożsamości i oszustwa (dot. klientów)** – Kiedy hakerzy włamują się do firmy i wykradają dane klientów, często trafiają one w ręce przestępców, co może prowadzić do kradzieży tożsamości, oszustw podatkowych, nadużyć związanych z kartami kredytowymi oraz długiej serii prób oszustw, które mogą trwać miesiącami, a nawet latami. Konsumenci muszą wówczas blokować dostęp do swoich danych kredytowych, wymieniać karty, zmieniać hasła i monitorować podejrzane transakcje.
+*   **Stres i utrata zaufania (dot. klientów)** – Poza stratami finansowymi, ujawnienie wrażliwych danych może skutkować stresem dla poszkodowanych klientów, którzy zmagają się ze świadomością, że ich prywatne informacje krążą w rękach przestępców.
+*   **Trudności w oszacowaniu całkowitych kosztów** – Całkowity koszt ponoszony przez firmę po cyberataku może być trudny do oszacowania, szczególnie w przypadku utraty danych, zaufania partnerów biznesowych i osłabienia pozycji na rynku.
+
+Nawet małe firmy są narażone na cyberataki, a statystyki pokazują, że 60% z nich bankrutuje w ciągu sześciu miesięcy po takim incydencie, ponieważ cyberprzestępcy często atakują miejsca o słabych zabezpieczeniach. Wzrost ryzyka cyberataków jest związany między innymi z upowszechnieniem pracy zdalnej lub hybrydowej oraz przenoszeniem procesów biznesowych do chmury.
+
+[Źródła]
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYn94laqjTv6ckEvck2yng2xlt6CJv4T_mClJ9XvuRDYZNFJDsaZjakGCzkqiuUBs9xdFHWwlV6OWdZPWyIpDAT1knInuf2EX2dAQXFnuxsKgAIaiT0dHGhZrjYTNn3wZB5ZNa9gXHtmPDcMsM
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGftMdi-C95zvpnM5nbcPBQwZkzzetzWiTd7B48B4WbqA80_3v9hFW5T7M4sd3630fPY5-0QTIVjWNt07ABmX2OOTJcSqPOFbmbLtH_JLX4RbONTfQ5UL_Crsd3Jf11xiwXv2RObw==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVXwKYMbKqJQZOk_kzLmhEuqabFM7N0DODxq_YLEDhaMhh4ub_ZvmKv29GPBAwkEj70Xm1cNtJ1IfUoK-0U7IBqXYxJBZzvLm_85eHPPvq9dAaCNJDtIBJlXMPthBIOoiAz6Gxn5Hy-8iK6cTBNxGxVUMl8R2WgCndaaG9rTBpfeBM1oO9mmQQla1KMNJnY3tMKJx1WhcSS5iMWdxeihifcjIubJX2NWFN8vuXf1lZObhqtVij
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1210mm_Q-pE7g7n0uv5lHEa18dcUqeTs-BCeKGrorQ7jmNdS74dDjaJ3vWvylJqEQ8KIT21SYt7TWmGqNA8iJFHe9NvGLCV5vV9rksO4T-iBt8bTLPmQFz_rpnSjrpnB4EoxG29scnDDrdXgJh4oxOm_0OOkh4-ft1mx_bubUuFkWcncwhlnyOvKwQznH0_AUAtNmtd45ef_sDbEz
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdC0w5FOyHp-8TJJx3X2XGQhFw4xfIJiZjVK4sESrIwtV-cO_xx9nAFBQmi1_C_oMOd0AgwIa4LdNIGTzAQe1D9xkxpxUrsoCcB14k5zb3FVuYLgmjvWIWzwCiaon3MX7PqrgLCVFj4Rj7cvkBH-VZk3qG8fJipXGw6ap1C4xVta04nc-cz6ZivWEiq9K187_0CjFFS3eqrdVKJn8=
