@@ -1,0 +1,33 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-21T04:12:07+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do szeregu negatywnych konsekwencji o charakterze finansowym, operacyjnym, reputacyjnym i prawnym. Skutki te mogą być zarówno krótkoterminowe, jak i długofalowe, wpływając na dalsze funkcjonowanie organizacji.
+
+Główne skutki cyberataków na firmy obejmują:
+
+*   **Straty finansowe** Jednym z najbardziej dotkliwych efektów cyberataków są straty finansowe. Obejmują one utratę przychodów spowodowaną przestojami w działalności (według NASK, 2/3 firm dotkniętych atakiem odnotowało znaczny spadek przychodów), koszty odzyskiwania danych i naprawy sprzętu lub infrastruktury, a także wynajęcie specjalistów ds. cyberbezpieczeństwa. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów, a w Polsce szacuje się go na ponad milion złotych.
+*   **Zakłócenia działalności operacyjnej** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, zwłaszcza gdy pracownicy tracą dostęp do danych, poczty elektronicznej czy dysków w chmurze. Ataki typu ransomware, blokujące systemy lub szyfrujące dane, często prowadzą do przestojów w produkcji i świadczeniu usług. Spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików czy pojawianie się nowych to również sygnały zakłóceń.
+*   **Utrata danych i przewagi konkurencyjnej** Ataki hakerskie często skutkują utratą lub uszkodzeniem danych. W przypadku kradzieży danych klientów, może to prowadzić do kradzieży tożsamości, oszustw finansowych i innych nadużyć, wpływając na osoby prywatne. Utrata wrażliwych informacji może również oznaczać utratę przewagi konkurencyjnej dla firmy.
+*   **Szkody wizerunkowe i utrata zaufania** Cyberatak negatywnie wpływa na wizerunek firmy na rynku. Utrata zaufania klientów i kontrahentów może prowadzić do spadku przychodów i utrudnić pozyskiwanie nowych zleceń. Konsumenci, których dane zostały naruszone, mogą zmagać się z utratą zaufania do firmy.
+*   **Konsekwencje prawne i kary administracyjne** Firmy są zobowiązane do przestrzegania przepisów dotyczących ochrony danych osobowych, takich jak RODO. W przypadku naruszenia cyberbezpieczeństwa, które prowadzi do wycieku danych, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe sięgające do 20 milionów euro lub 4% rocznego obrotu firmy. Ponadto, przedsiębiorstwo ma obowiązek zgłosić naruszenie do UODO w ciągu 72 godzin oraz powiadomić osoby, których dane dotyczą. W niektórych przypadkach, zarząd firmy może ponieść odpowiedzialność karną za niedostateczną ochronę infrastruktury IT lub przetwarzanie danych niezgodnie z przepisami.
+*   **Obniżenie ratingu kredytowego i wartości rynkowej** Długoterminowe konsekwencje mogą obejmować obniżenie ratingu kredytowego oraz spadek wartości rynkowej przedsiębiorstwa.
+*   **Wpływ na innowacyjność gospodarki** W szerszej perspektywie, cyberataki mogą spowalniać innowacyjność gospodarki i ograniczać inwestycje w sektorze technologicznym.
+
+Firmy muszą traktować cyberbezpieczeństwo jako kluczowy warunek niezakłóconego funkcjonowania i inwestować w odpowiednie zabezpieczenia, aby zminimalizować ryzyko i skutki potencjalnych ataków. Coraz częściej klienci i instytucje finansujące wymagają potwierdzenia stosowania przez firmy procedur bezpieczeństwa.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC5j4c_elVOoR-tvQKt5k8AHozQY4rt0yRBoZiDhHjAh6ht212LcrsuBU1oHf-GECYs-qegECIjFs1JNQRgfenpKVxXtKy5tuqJN43JDzSQ5sn4QT8-lx4_xNLVcIA0DWK10BIGhUw24DJ0MyaR8UfqxwauE_gn8zE_gHX73r-jgCltfmmddrMfwftrhL7jPQJ
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeNr73GHaXK8ivzcNq5pvhweDrAWiai4JBhc2zob11C8nousNwAwexjCAVqJ0TTQWc9DhS4Q2mkaw7Mn1X3kpMxY824UiF2YjgufM83i2i7CgbqEkJ1QTAzEAR5buPJPNBz94uxQ==
+wyborcza.biz — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tJ4CV2n3xZr693d2kKwsdHwodTd1nLf1DSCaA6f2xmRm6mgZdioqVZ2CMU1jYHy5CKACBr86EJsf_7KGWMbeZu6ZTxR5fRmUrzGPkmIWFZEnhMs_gLcgLovfeRmARqdHL9rfU0Ezz_zT-48wRW4p_ByBmCu2AnivmXNaDSNmxwnF6-TKz_utKzKfHOuwIFLz4zaX41lTXFAQJjcApLfE6pTIgBXip26h
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz2e5vkIOf672B5Bdgy-wX-Z3NIlDISXQ46ZNkD6mc4h-PzjNoXu1brC5dulxbNt7rWm1khs79sjQ0_mWwjNf_rzBgv4SV2O5UKrExkqWY1Pkynv-oMr058RfBWbDdvEwMi7C1hRCT3u2mZd0wZIClzNOtGO5xiqKxr7997xdfBrO2gV8-aQEzEO3oUt07OIavuJP9EazmA1F9zV4PQae7Th28WChrMhul_7arwKXuTpVkEEx3
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzRi__q1CldPkY1jHw6UK1iyaxCHJ7qMgY1h-X_-uNRkxR6HBDuhcjtikJrOjes-CT6fPh_Zo_3bW2-k3Um23sU1xfT29rZLCs4yCgRToD-rQeEPLrffPIQ2VPPQ8i7andFTGvERlVgMPyFVdQsq0uNdwGpgr1amw4kxS4saY0L4g9GsPt91sR3h4as7Bf
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOoeToR_pRoBSWgolxgeNGnU0CrRveC_faAuyCHAWniOVbNUHlbPyLCQSnEcPdXTHeeYhMBi9wl9N9tqjiZ3akXYdbE8_2C5F2BzcBFV1ZpsnRjTHol7CQ_UILqKdfZCgZIxIOF3r98cMuC3iSb3vJQQZ3sD6BwH_sON3_WMEq0Lp3sCbHx8QZg5Vh2hTryAmacVkoLcjnHTYy15U=
+staniekandpartners.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuCSeM9LeARwCRG02Tc-Pzy6QlFjID8tbPPjlpJ8HUjL-5NFhLB0HVSdPxASTl6DILJnw9SJlZjRtIEmqw0QmN6F186mvnmU0Q3p5S0oP3SzVoQNuvTD4ORFw_n_z7oghOU3_BXlsIhL6t4uG-4pOBwh3Pqr64lpIYRuLHKoM1R3TeS-3rNeU5HcS5RfbXcnJaWOdTpnXhk9NahgMmOSF9ggV-qEKHaKHHC4U=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAIm2451IgPTboquUsTlTd823dPsD5kUnKOo7y8-isD8fCxLF3C6FQbRqmJhU_mw-kpVIvYmpiq1IhK4Zi0OupiUsa34uciOlrkcbO8_fefmNj-F-63qjRWeGTzlbQKSQUl-8vtwNqoORdNedAktq-_ouoxzZvVv8oe7nNbj7ytiKXSj7iWy7-cPDaE0oVvSOQvvob-iGeOqvy3N7N
+fen.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlf8vErQaYc9CiSksdIZVl_1CQGTQny79ffvkwzgSSC4uQ6XYow1xzp3dV1W1mGHoADtLF5ycx-zAkXOkymTBUPNIy_pfLGUzs3vw9tuwzprFk4sJfZnd9bgpBFL59UW1jAdttaBRPnsY_KxxHX96gN9QEGNgUsBQN864HdtBvRNzithzH2YLnOmFd
