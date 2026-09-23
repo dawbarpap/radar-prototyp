@@ -1,0 +1,37 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-23T04:05:06+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą ze sobą szereg poważnych konsekwencji, które mogą dotknąć każdy aspekt działalności przedsiębiorstwa, od finansów po wizerunek i stabilność operacyjną. Skutki te można podzielić na krótko- i długoterminowe.
+
+**Krótkoterminowe i operacyjne skutki cyberataków:**
+*   **Zakłócenie lub paraliż działalności** Jednym z najbardziej widocznych efektów jest utrudnienie lub całkowity paraliż normalnego funkcjonowania firmy, szczególnie gdy pracownicy tracą dostęp do danych, skrzynek pocztowych czy dysków w chmurze. Ataki mogą objawiać się spowolnionym działaniem urządzeń i aplikacji, nagłym znikaniem lub pojawianiem się plików, a także rozsyłaniem spamu z firmowych urządzeń. W przypadku ataków DDoS (Distributed Denial of Service) serwery firmy mogą zostać przeciążone, co prowadzi do przerw w dostępie do usług online, szczególnie dotkliwie wpływając na firmy e-commerce.
+*   **Utrata lub uszkodzenie danych** Cyberataki często prowadzą do utraty, uszkodzenia lub kradzieży cennych danych, co może wymagać kosztownej analizy i odtworzenia systemów.
+*   **Koszty napraw i odzyskiwania danych** Konieczne stają się naprawy sprzętu, infrastruktury oraz praca związana z odzyskiwaniem danych, co generuje znaczne koszty.
+*   **Przestoje w działalności i utrata przychodów** Przerwy w działalności spowodowane cyberatakiem bezpośrednio przekładają się na utratę przychodów. Według danych NASK, dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Badania wskazują, że średni koszt naruszenia danych w 2023 roku wynosił 4,45 miliona dolarów, obejmując m.in. przestój w działalności.
+*   **Żądania okupu (ransomware)** W przypadku ataków typu ransomware, hakerzy żądają okupu, często sięgającego tysięcy złotych, aby odblokować zaszyfrowane dane.
+
+**Długoterminowe i strategiczne konsekwencje cyberataków:**
+*   **Straty finansowe** Oprócz bezpośrednich kosztów napraw i przestojów, firmy mogą doświadczyć długofalowych strat finansowych wynikających z oszustw finansowych z wykorzystaniem skradzionych danych, takich jak informacje o kartach kredytowych czy danych bankowych.
+*   **Konsekwencje prawne i kary finansowe** Cyberataki skutkujące naruszeniem ochrony danych osobowych mogą prowadzić do poważnych konsekwencji prawnych. Przedsiębiorstwo jest zobowiązane do zgłoszenia naruszenia do Prezesa Urzędu Ochrony Danych Osobowych (UODO) w ciągu 72 godzin oraz powiadomienia osób, których dane dotyczą. Nieprzestrzeganie przepisów RODO może skutkować nałożeniem kar finansowych do 20 milionów euro lub 4% rocznego obrotu firmy. Przykładem jest polska firma IT, która w 2023 roku otrzymała karę 3 milionów złotych za brak odpowiednich zabezpieczeń. Ponadto, zgodnie z polskim Kodeksem karnym, przetwarzanie danych wbrew przepisom grozi karą do 2 lat pozbawienia wolności, a udostępnienie poufnych informacji osobom nieuprawnionym do 3 lat. Zarząd firmy może również ponieść odpowiedzialność za niedostateczną ochronę infrastruktury IT.
+*   **Utrata reputacji i zaufania klientów** Cyberatak negatywnie wpływa na wizerunek firmy na rynku. Skutkiem może być utrata zaufania klientów i kontrahentów, spadek reputacji marki oraz komplikacje prawne, w tym pozwy klientów związane z kradzieżą ich tożsamości. Przykładem jest przypadek znanego polskiego sklepu internetowego, na który UODO nałożył karę 2,8 miliona złotych po wycieku danych 2,2 miliona klientów.
+*   **Utrata przewagi konkurencyjnej** Ataki mogą prowadzić do utraty przewagi konkurencyjnej na rynku.
+*   **Spadek wartości rynkowej przedsiębiorstwa** Cyberataki mogą spowodować obniżenie ratingu kredytowego i spadek wartości rynkowej przedsiębiorstwa.
+*   **Spowolnienie innowacyjności i ograniczenie inwestycji** W szerszej perspektywie, cyberataki mogą przyczynić się do spowolnienia innowacyjności gospodarki oraz ograniczenia inwestycji w sektorze technologicznym.
+
+Polskie firmy w szczególności obawiają się strat finansowych (40% menedżerów) oraz problemów z płynnością. Co trzecia firma z sektora MŚP miała w 2025 roku kontakt z próbami oszustw finansowych. Mimo to, wiele małych firm błędnie ocenia ryzyko cyberataku jako niskie i nie inwestuje wystarczająco w cyberbezpieczeństwo.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjk953Iyiirzf9FviemPfTGp925a98ONMWiEaBxoi_4OqbKi15WfUzqltE7EEBb-8fS7Hz67CdV87KSJ99GY-iw-qyYqZh15mNtVGoFhR25QBr4noeIY3G0T3kemZbFM2kJVVQxqRWaHlsmz6ST4rE_aXr0eimOTws4tT59U-hTOL5mWmtUsnvDyyNvmXlTxK6
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPxgvLpIxrk0Oz4kwRbTK-GqIXyBMCWxVTtzYpHPY9OeLmkFOCtzZh0dClyWVfyMVXzYKeOsUigZrT80tVLa2DC7WR5t1UnCJhWSugklQ-y6b8nXiNfmkON9ro6uoc7gyb6zF5Rg==
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHFDhOftO21iYvU4VxQ0ri9iSe0hQ_QX69j2yTH-UnrRiwUcwKXrSdKF3U-LI4ayZEbAAGEco1DJaj7Yl82Jme1QsB0r7M5fBOS8bBvBXftYU_wZuJ4y3rE_QBg06F6Lr5GellkbuNIAuhbgx8jCW5D3AWeA==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtRoi8y361QH7kwib4aPy_k4eFeKVG3TKiYpn6t-dXwgZXQtS45x3mfmkjTbegg8vHcbDWoIOW9THFbslsa6aLvRFpEs8UkyzIqOgg9iKsKt1bw4DNXmI6QuklxZqyl16hQ1_sX8LQbwU0F0Fw4HiW65roHp4vZjwhn-fgx4YxfOjfwmrsUQDULM_7NCD8
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcYtKtfUwQcur26QU0087NyGAX_-t1CB40XwLmK_GXX4NUJ-FIk82oEZCmdMS7Hm26lvQxDmpi9P-7OFAevpdHt7V0DBlPEXxNY26xafDTGF2kYCqXFL1Q_2212TfrigFdipaM7a-gIhb5PxDwtZ54n3LFB8guPMG1fOiT8vanxWAzu2CQ8Xs_8aRpitaxeRc0q7nkoSDNQCVDJj8IWKlLnWqhhUiu7LrJR-IpXDHTWYU6
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR3if3T81xGzDKdPflkKM-3K8tI7kLcLlP-GWYX0xoRwKOE-Kwo7ewkssJnxmgCqKMe3PVXMhghtBv1DIz81nkvUBAB8wCZghxucVRa_pLKDKedhTJxjzxaiU9YL7eH-xXHQ1TdpVz6yXttciZCPY4uEkvcM_FZ-QXwJDKKnBz2U12C40024XDuOM8bKG1bm2A2V40cq49AJEPCYE=
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO4HLQ8oVCbN615FRqwKB7jlK52K7dDlxCnwU88DLOBSD9PzNcl5k8fhoyJyArU_5umjRF4dNhgvexPnee6KTHaRE76-9FlBmwtlphIR1ALyGCPHX3geA8zympC7SBPPSzeSE7R0Q8LQ1-Ofa1-2kP1mYbo_Q5qPy6Cxr43MrKzW1lDQHOBHYJrXVEdr7IS3-1gCA=
+fen.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX24OIDMYoOL9EpVXxeu01igO2SDuYdsl_T6pmOuHbBGZ9XsT-ojfDp6yCtdJgNAHRP_4_V0kAehzuBDooG-7myZk6_Q2jPRuq3S4kpuymo6VEP_qLRZgTX5JBEtGvoXF3mPwKGcs6ValGrHKfImBkAjoKPe0S8QGV3IKhjx4FEv-oQ8YxnDCbSfpS
