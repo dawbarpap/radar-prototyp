@@ -1,0 +1,51 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-23T21:18:20+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą ze sobą szereg dotkliwych konsekwencji, które można podzielić na finansowe, operacyjne, wizerunkowe oraz prawne i regulacyjne. Nawet małe firmy są narażone na ataki cybernetyczne, a według danych około 60% z nich upada w ciągu sześciu miesięcy po cyberataku z powodu braku środków na odbudowę infrastruktury IT. Według raportu IBM, średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów, a średni koszt cyberataku w Polsce to 32 tys. zł, z tendencją wzrostową o 10% rocznie.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe**
+    *   **Bezpośrednie koszty:** Obejmują koszty usunięcia skutków ataku, odzyskiwania danych, naprawy sprzętu lub infrastruktury, a także ewentualne okupy w przypadku ataków ransomware. Przerwy w działalności firmy oznaczają utratę przychodów, a 2/3 firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów.
+    *   **Koszty długoterminowe:** Utrata danych, utrata zaufania partnerów biznesowych i osłabienie pozycji na rynku mogą być trudne do oszacowania, ale wpływają na długoterminową zdolność firmy do generowania przychodów.
+    *   **Wzrost kosztów działalności:** Po incydencie firmy często ponoszą dodatkowe wydatki na modernizację systemów, audyty bezpieczeństwa i szkolenia pracowników.
+
+*   **Zakłócenia operacyjne**
+    *   **Paraliż lub utrudnienie funkcjonowania:** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcje przedsiębiorstwa, np. poprzez brak dostępu do danych, skrzynek pocztowych czy dysków w chmurze.
+    *   **Przestoje w działalności:** Czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług, co generuje straty finansowe.
+    *   **Spowolnienie działania urządzeń i aplikacji:** Niewidoczne od razu efekty ataku mogą obejmować spowolnione działanie urządzeń i aplikacji, nagłe znikanie lub pojawianie się plików oraz rozsyłanie spamu.
+    *   **Kradzież własności intelektualnej:** Utrata dokumentacji technicznej, projektów, know-how lub tajemnic przedsiębiorstwa może osłabić przewagę konkurencyjną firmy.
+
+*   **Szkody reputacyjne i utrata zaufania**
+    *   **Utrata zaufania klientów:** To jedna z najbardziej dotkliwych konsekwencji, ponieważ klienci powierzają firmom poufne informacje. Kiedy te dane są narażone na ryzyko ujawnienia, klienci często przenoszą swoje usługi do konkurencji.
+    *   **Negatywny PR:** Wiadomości o naruszeniach bezpieczeństwa rozprzestrzeniają się błyskawicznie, co może skutkować publicznym napiętnowaniem, spadkiem wartości akcji i odpływem inwestorów.
+    *   **Zakłócenie relacji biznesowych:** Partnerzy handlowi mogą ograniczyć współpracę z firmą, która nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji.
+
+*   **Konsekwencje prawne i regulacyjne**
+    *   **Kary finansowe za naruszenie RODO:** Firmy przetwarzające dane osobowe muszą przestrzegać przepisów RODO. W przypadku wycieku danych, prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary do 20 mln euro lub 4% rocznego obrotu firmy.
+    *   **Odpowiedzialność karna:** Jeśli naruszenie cyberbezpieczeństwa skutkuje nielegalnym dostępem do systemów, wyłudzeniami lub innymi przestępstwami, firma i jej zarząd mogą ponieść konsekwencje karne. Zgodnie z polskim Kodeksem karnym, za przetwarzanie danych wbrew przepisom grozi kara do 2 lat pozbawienia wolności, a za udostępnienie poufnych informacji osobom nieuprawnionym do 3 lat.
+    *   **Obowiązek zgłoszenia incydentu:** Naruszenie ochrony danych osobowych wiąże się z obowiązkiem zgłoszenia incydentu do organu nadzorczego (PUODO) w ciągu 72 godzin.
+    *   **Pozwy od klientów i pracowników:** Firmy, które padły ofiarą cyberprzestępstw, mogą odpowiadać wobec klientów i pracowników za utratę lub wyciek danych.
+
+W skrajnych przypadkach poważne naruszenie cyberbezpieczeństwa może zagrozić dalszemu funkcjonowaniu przedsiębiorstwa.
+
+[Źródła]
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq4J2Zcyr0IjNlXiO7guV0hgPL4-SyCLKFcQ2C4m8VET9tY6xMvfxzJOps6RWqrJwtsN4pH7QzKvTARHCCackeb78AGaJ1nAl2KCp-pzDtbVRCTeYS3_3iQvdD5mS2APcdN-ptHceACOvB8OkKPUS6lAbdyQ==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETKqBMJMNf0VgTkHI0U-MjrJca7NSbUPvg-kZPOoELvcmXjNJLOz8Bnu26xfBDD3cLMjWYfoBwXJ5Wd7WZp0s71JtYxhS0mhhXIgbPta8t4CoN68LsEU9TuCOTkUXFwJyaYVO5mChZ1kchIuHI
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8ebsxuZHU8f3L5BB0B116oApwn0yvYqfr33U74ES-k_YShqhHfgTsmzu-whz_Nwfq8UFY5XZaL3gjgTkV3gbSZowFM1hiEvy8muBYdhzwo-tw5Wq7kAhK_E3pDWS-gK1f1Sf7TfLmPdMlZ2jl3ucJoH5JBk6HsxOdZVi3o-PvLbE8aUEUP2yzrk2M9xEL
+itwiz.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DQLmtVHQrIcOE461uqWC1nJ66GnYTWmcnYsFO61qtw4TPT4YZtRdXZ2vNRPt-a4vH5JRboknGLvcqGx6Q8jGdLOK7hP8Lh_JAkBl9NKgfN0TjmDugu7JNvF_g0j66UuuM8RdHUR2GcztWgJxLJiM4JfNJtu_TTbMOJJTGU7k2OZLwLvHtx8wljX2hqmm6SN9zhiXB6L5Tg==
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1h4fwJbS0Qq6X3xlZADrTqTy2FBqBOHQCZgA5Xwmg4skttPh8CIuaphaB50VbjrtDU9Aah5rUSdPPLfBSy9IAFSgDCCx3u4Rd-bp4whfp_HPs0nG8z2J75bRHtmcOA6mY9pURxg==
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfDmt99MkJWSMXV9VYoaYa3dOwJojRwciyPzhNuHKYmfesofHC7l-1ePhlalarvgAgtqvoLTfxo7t-7aW4ZMNofuZ-tfIz4sW3EJhmpIfZqlCLi-J_EPLm1ys4Nb50pLJQMLKg_RHn-KB4gP9fZ1lyOfvjHaU4eQycJpmrw7u8zWa1jegUHb_yPQ6q1CdGwW8FSLiaIH_xerU03h8X26vFhtUAlVUkCB4=
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDnv_-zkt7uBMdrFQ81IebTmg3ARPDTWbrJVb081N3Nu3in5KaDHZjXld5tU0Hk1XNLYSzvxiOqjQqhMDsMQXrGO57nbqVQaz-Jva0b4dc0NoVlXMXW3ZdxSeD5A0mm17niAYZCKZDYEtAupUZQwg6YKuJEAv2swkqbHO7STDC
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9mEHr2IpdbutV5wYjo1QRuK78aJ9eQPiwInzrmCIo-cmcJW601KirYF6mb9Hfjd78cI7fYpZy80Obnz63F3euqyHWMBbqkQYQZwm0Z4pOSuJGo6Rvd7XO964rK5nNB9NxcmdF9xnnFTl-UbltNzBfy7LDJacY7E_3htX9A7RT4Gri29p-
+doradcy365.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcxezVJS2yTUIeYVlzfS8AD1b6JjQ5scgvNe-R-30bKDD1LgMnXXIa02RDmuKkUMA5wEYskOdQU72aziWW7CuZ3PMWGgOHuqDfpnDUaXMpq2mQhswdaNex68w6To2U2NwnhKz-7uJB_MOdek-bjGHg39usXtvBegOeixMzL-UhdI5rk7E_dFIf2WSm5SM3aw58ZZ_ik8z7CEe9dA==
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7XwWZAwqweVAY6_ldN9Om0_9aZ4PI3qcFj6UQOp2BRPFBEJq5AXvvq1l_QRK4bpkpQkleAt35XswmLQQ8U_oz7GqA8zMHQPj-KC5zvvUOVlh3IMzjNvl8WT-iCkuhqAL3RlQ0afel5-aaLXGAHH02xKLIJPJfOEXaJOn33ZldonihQFsiZANcqSC6TSndYtiBAwk=
+sabuda-sawinski.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNaVDBrTF-irFCa-WKwegY-5nmYZbh1XtX0N2iPgzirfwDKPhgn6yhsLRorvm6ACtcROWlCdueW9qlzztKahfgkqTqb5O6REbVY2LcU982fbVpEGW4uGUitBgjWbw-hSfQs4I68XB5jmgKND95Gd4kJA1JzcKKUnMbQ7xkeibPYohKJaFzyIKvVRxs7uD_2Lsu3c3MrcVj2Cq0tPYUG5B2yysvygbkd7VN1KEp8Ug=
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMn1tKWFT2Sj6ja1gmK5bQfHe9NZTskme8lFFHcYqC7Qw2O722PfHP6Hp9dvGSnX75e7TySxIr-gzKi7n2uYOheRFWOBOPm5KXD2y9yMI_BPW8sF6lLdkpuNdoG8HzpmZ8MZ0pJu1U7mtqrvPkhfxDDjLXLmBCsc8PAPL0qLJxdb281MgJQKDCSbIaa1lnjhxk0PU1rwDBVZ152R4u7eZv
+codozasady.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXk95PEfySu5JmTLhKhLAheCqRHxV9uU76CyQhkSpIaLXrJ4GfQ8fysCgmmwfe8ke93qz4bimeyERXBMK2Cv_xSt9j-ZpcX9ORHuFVoquzcc92VLDd4pgP2rRGskIVyBIKPtxn38armTkrRKITPrAgzlQ9qZf8MywsHg==
