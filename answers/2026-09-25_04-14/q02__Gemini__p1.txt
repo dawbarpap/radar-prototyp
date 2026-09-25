@@ -1,0 +1,30 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-25T04:14:44+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które mogą dotknąć niemal wszystkich obszarów działalności przedsiębiorstwa, mając zarówno krótkoterminowe, jak i długofalowe skutki.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe** Cyberataki wiążą się z znacznymi kosztami. Obejmują one wydatki na naprawę sprzętu i infrastruktury, odzyskiwanie danych, a w przypadku ataków ransomware – potencjalne opłaty okupu. Przestoje w działalności firmy spowodowane cyberatakiem oznaczają utratę przychodów; dane NASK wskazują, że 2/3 firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Dodatkowo firmy mogą ponieść koszty związane z wynajęciem specjalistów ds. cyberbezpieczeństwa oraz kary administracyjne i odszkodowania.
+*   **Zakłócenie ciągłości działania** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, zwłaszcza gdy pracownicy nie mają dostępu do kluczowych danych czy systemów. Może to prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług, a także spowolnionego działania urządzeń i aplikacji. Ataki DDoS, polegające na przeciążeniu serwerów, mogą skutkować przerwami w dostępie do usług online, co jest szczególnie dotkliwe dla firm działających w e-commerce.
+*   **Utrata danych** Wyciek lub zniszczenie danych klientów, pracowników oraz poufnych informacji biznesowych jest jedną z najbardziej dotkliwych konsekwencji. Skradzione dane mogą być wykorzystane do oszustw finansowych, kradzieży tożsamości, a także do utraty przewagi konkurencyjnej.
+*   **Szkody wizerunkowe i utrata zaufania** W długiej perspektywie cyberatak negatywnie wpływa na wizerunek firmy na rynku, prowadząc do utraty zaufania klientów, kontrahentów i inwestorów. Spadek reputacji marki i komplikacje prawne wynikające z pozwów klientów są realnym zagrożeniem.
+*   **Konsekwencje prawne i regulacyjne** Firmy przetwarzające dane osobowe muszą przestrzegać przepisów RODO. W przypadku naruszenia cyberbezpieczeństwa skutkującego wyciekiem danych, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe sięgające do 20 mln euro lub 4% rocznego obrotu firmy. Ponadto, firma i jej zarząd mogą ponieść odpowiedzialność karną za przetwarzanie danych niezgodnie z przepisami, udostępnianie poufnych informacji osobom nieuprawnionym czy niedostateczną ochronę infrastruktury IT. W przypadku naruszenia ochrony danych osobowych, administrator ma obowiązek zgłoszenia tego do UODO w ciągu 72 godzin oraz powiadomienia osób, których dane dotyczą.
+*   **Wpływ na innowacyjność i inwestycje** W szerszej perspektywie, cyberataki mogą prowadzić do spowolnienia innowacyjności gospodarki oraz ograniczenia inwestycji w sektorze technologicznym.
+
+Nawet małe firmy są narażone na cyberataki, często błędnie zakładając, że nie są celem hakerów. Niestety, brak solidnych zabezpieczeń i dedykowanego personelu IT czyni je łatwym celem, a uzyskanie dostępu do małej firmy może być dla hakerów trampoliną do większych przedsiębiorstw w tym samym łańcuchu dostaw.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1fTYacdWexZ5bX4JuvisoPkkkwyrbZqYeuFlWQ5VVgjlC6gN3PBAC4KoP2nqqUxTNsCvbfAXsrFgYCvnvVsbfisW3wDYXJaR6WJbWQQauVIFUmXMfu9ACF7ENL7g6rQfPQthWlrjGXoPN6WGbnvrl7fce2wD2_iM4AL5uU0bKDeG5bYan49-ZiB992K5WkXA=
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmEeUzBdtvPq7RUdEt2-XqorHr1wT4Chbw6q0mLKH4u02ZVGUuywrRYfnpx7N3e2m8sFabsRHswCHOM6-Vdf3x54ywW13p7Nlyr1gWGxUSXi0zlSxdmaFipL5HdfqzabXZKy7TJb370H4CSKvSWD_mG507ueLyk3zndolHE_hX-Yz-pxs4tjvHq5mG0Etx9hCHjylwAzuPCGQCnMZiPJnV_JfwIDweAuVdldKFOa544J0=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2OOpPx9E-XyiErW3mccEcHuIvzw2qBaB5AYK7JBEjdyMhaC8NpNIN4iCorqQr_OXO-fARaOs5ce8CRCnPhaPCZDwS08SJ7j-nDEvVwaDJewi_Z_hDkVk5mHGKe6pU1wwqrYB3
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4BCQ1_Jdu50Cfo2BIKpzRER4LZ10MwX3KVZKsfXNTmtuGcaaAWELRLOQD-BlWNmVyaV2ZE8yDyKR-xOrckm9xrOz2v0I3uiuW3uqHIXuoB8XqBgtSz6pdVMjDC_xDCaJmc2rVpFtTfHnTK3E7PDImkBTtHU2jJuKxoeJ1tplX-ykpBlYRzjz7D4e8Vu0=
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc8eRmCU3vOSvDE4ybWdeVRU7OpucCVNzDB51qWKIDX6suelmgFeREjKj45QIlYdD8SIdUcHwZebfon3lEVEugPHcxRyNczAzdiKAPHDtX4-7bEusv15yOkGb9ETKXpUHPpF-K3ZhfrZWQmO2r9lWfah2k
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8jJnBGMonzpIVjQOZGptnP8188-03ow1rXS0EEJynfRqsQn92xshf32K5ZSol22nUMMOm9-SdHQzvhwLxJdBDscE54kBxSWxEwCpK1TX5PPL9K13DJsxTbi-Ozl0tpmcgidMS34Pt2CH250IhfbIXlAMNhKpg1pr515ZW2_C6_MN1hHG3Xe7H-Yak7_WuA8ur8g==
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG60_dzMDJPnz4kEjEJY-wnKJCPA2z1GZ9OIw2e8LSBSQ3P2BqshHlHPedQpqCHm7f0OMbnh9Gp-QltjHe27YAhSIIZuJzINM47EZZn5itHFJGGcbTj9DmxAUjM9ouwJ9jnBRviVDVMvtnxOtPJMnIHOSrn0QesSYBZJuf0NeHMDQAJMh2ty9qoWriHLXAt1Jzl5IGqvU6m_2ebcg==
