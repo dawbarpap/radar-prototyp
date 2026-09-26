@@ -1,0 +1,69 @@
+Pytanie: jak się ochronić przed cyberatakiem jako firma
+Id pytania: q03
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-26T04:19:10+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Aby skutecznie chronić firmę przed cyberatakami, należy wdrożyć kompleksową strategię cyberbezpieczeństwa, która obejmuje zarówno aspekty techniczne, organizacyjne, jak i edukacyjne. W obliczu rosnącej liczby i złożoności cyberzagrożeń, takich jak phishing, malware, ransomware, ataki DDoS czy socjotechnika, proaktywne podejście jest kluczowe dla minimalizacji strat finansowych, reputacyjnych i prawnych.
+
+Oto kluczowe działania, które firma powinna podjąć, aby ochronić się przed cyberatakami:
+
+**1. Edukacja i świadomość pracowników:**
+Pracownicy są często najsłabszym ogniwem w łańcuchu cyberbezpieczeństwa. Regularne szkolenia z zakresu cyberbezpieczeństwa są niezbędne, aby zwiększyć ich świadomość zagrożeń i nauczyć, jak rozpoznawać ataki, takie jak phishing, i jak na nie reagować. Szkolenia powinny być dostosowane do grup docelowych i uwzględniać aktualne metody ataków oraz zasady bezpiecznego korzystania z urządzeń i systemów.
+
+**2. Wdrożenie silnych zasad dotyczących haseł i uwierzytelniania wieloskładnikowego (MFA):**
+Wymaganie od pracowników stosowania złożonych, długich i unikalnych haseł jest podstawą. Uwierzytelnianie wieloskładnikowe (MFA) dodaje kolejną warstwę zabezpieczeń, znacznie utrudniając dostęp do systemów firmowych, nawet jeśli hasło zostanie skradzione.
+
+**3. Regularne aktualizacje oprogramowania i systemów:**
+Niezaktualizowane oprogramowanie jest jedną z najczęstszych przyczyn udanych cyberataków, ponieważ hakerzy wykorzystują znane luki bezpieczeństwa, które są naprawiane w aktualizacjach. Należy również na bieżąco łatać systemy i dbać o aktualizacje programów antywirusowych oraz typu EDR.
+
+**4. Tworzenie i zabezpieczanie kopii zapasowych (backupów):**
+Regularne tworzenie i bezpieczne przechowywanie kopii zapasowych wszystkich krytycznych danych jest niezwykle ważne, zwłaszcza w kontekście ochrony przed atakami ransomware. Kopie zapasowe powinny być przechowywane w bezpiecznej, oddzielnej lokalizacji (np. w chmurze lub offline), szyfrowane i regularnie testowane pod kątem możliwości przywracania danych. Zaleca się stosowanie zasady 3-2-1 (trzy kopie danych, na dwóch różnych nośnikach, jedna poza siedzibą firmy).
+
+**5. Ograniczanie uprawnień dostępu:**
+Stosowanie zasady najmniejszych uprawnień oznacza przydzielanie pracownikom tylko tych uprawnień, które są niezbędne do wykonywania ich obowiązków. Należy regularnie przeglądać i aktualizować uprawnienia dostępu oraz monitorować i rejestrować dostęp do wrażliwych danych i systemów.
+
+**6. Wdrożenie polityki bezpieczeństwa i audytów:**
+Firma powinna posiadać jasno określoną politykę bezpieczeństwa, która zawiera wszystkie zasady i procedury związane z ochroną danych oraz postępowaniem w przypadku zagrożeń. Regularne audyty bezpieczeństwa i testy penetracyjne pomagają zidentyfikować luki w zabezpieczeniach i wdrożyć niezbędne usprawnienia.
+
+**7. Monitorowanie sieci i ochrona punktów końcowych (endpointów):**
+Wdrożenie systemów monitorujących aktywność w sieci w czasie rzeczywistym pozwala na szybkie wykrywanie zagrożeń. Należy również zabezpieczyć wszystkie urządzenia podłączone do sieci (komputery, telefony, tablety) za pomocą odpowiedniego oprogramowania ochronnego.
+
+**8. Posiadanie planu reagowania na incydenty:**
+Opracowanie planu reagowania na incydenty cyberbezpieczeństwa jest niezbędne, aby firma mogła szybko i skutecznie poradzić sobie z atakiem. Plan powinien przypisywać obowiązki odpowiednim osobom (zespołowi reagowania na incydenty – IRT) i zawierać procedury postępowania w przypadku naruszenia. Kluczowe etapy to przygotowanie, detekcja i analiza, powstrzymanie, usunięcie i odtworzenie oraz aktywność po incydencie.
+
+**9. Współpraca z ekspertami:**
+Zabezpieczenie firmy przed cyberatakami jest procesem skomplikowanym. Warto korzystać z pomocy specjalistów ds. bezpieczeństwa IT, którzy pomogą ocenić stan zabezpieczeń, doradzą w kwestii usprawnień oraz przeprowadzą audyty i testy penetracyjne.
+
+**10. Zabezpieczenia techniczne:**
+Należy stosować solidne zapory sieciowe (firewalle), antywirusy i systemy wykrywania i zapobiegania włamaniom (IDS/IPS). Warto również wdrożyć urządzenie typu UTM (Unified Threat Management) w sieci firmowej oraz zabezpieczyć sieci Wi-Fi. W przypadku zaawansowanych ataków wspieranych przez AI, konieczne jest wzmocnienie zabezpieczeń poczty e-mail zaawansowanymi filtrami antyspamowymi i mechanizmami wykrywania podejrzanych wiadomości.
+
+Pamiętaj, że cyberbezpieczeństwo to ciągły proces, który wymaga stałej uwagi i dostosowywania do zmieniających się zagrożeń i regulacji, takich jak dyrektywa NIS2.
+
+[Źródła]
+mycompanypolska.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt-Jjfq-4Sxu1m1X4UIpkLVdwUH1rImaeYK9jYxLUg25pQlVJfQualA-Hr-kihnscLboBbAb4e8qRjbnli8xoVzI_pHe8b_D3Pyu8SowJOCIkE0WPTnxgRZqJ_LxunINbkYIYqfWPbuC1vA0PPELGCMslDY6FdA-UX-m_WLtIngkALxW-5kRUkfJw09HSubrmjzcoDcfjWbEDAVMa2UgXbZFQx8kpnRNZm9yQxx2DLFMIJzn8wHHRWk6a6K7hAiZT41nE9nyCeQ8Q=
+softgroup.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoCMnGa_CeP94kDZfNE-Z_5ne-a1Lr54QVcOWT5C4-FrmunhLpCA5G_rLaS3ApPt13iINfz9R5YG_vKODSIZLzPrraIDYbPhGNB758Ruxb_KfKsgbk-0AVAz4TiTUFDJ1uz3J-7of22hoUDnM3jubngG08MKVg3tRPhreJEQ==
+eitt.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3OTTEo520sgGyUZgZKyZl2SQbXgitaxTbRJvA17qtaGKWgX5n2EryOQCCfik6esFDwXj_AGSxvD7-6sBZI0WzD4tOkGtrfRQkxHO4DroptgQA11g21W9aptGXGHDcDJxC_-59gBkecizUDa749GiYWCHTfYQyKuiIY7KGBCtbvxc9ybbMiFcE0MQZQ==
+fiberlink.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjQof13yzNiYm-SlHrMGMuiDmZgAAqSANSkHx1Q4BLkffsUORPzvvAySCu90iNh0WXwDS57w459ZVTDJX_7z11vaKx9rgdHvUfnhACoyIe_FtoYbr3mtpPIzzEqL_00wAVj7KCR9qVKPQJJvYqxtWbqTjXIgK1JyUqTPoqwwNWp4djE-U=
+pless.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEljdFVUgDgWTmi7tQ8SmwGoA5kPhNt8vOD-QVCcI47n4wR1GCake5NzYNDgU1dZ9LEUObRFJbWriVP1L_1FfCL-iMIbmgxH5D4UdzePAy0o2srIbxQrg2EmkntTAQWc55s2CZ_8nc9aUH3Fjosa73-JeZvLpZ_-TibofEba6cTSZ9QCmebh8Tj4BZolt91bNxxcOXownfGf9nzVDaLuG3AjSrh68rn8HIohNo8OZF_
+seris.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1cOfiu9FDM90zclE5a2LOGMWOE86CCTcBRm02w2a6GH_BHzgl62u2wfZZuFAQVJrBQHaxmD5WpwCADKLJWbrOSwY4mAUHF1zk69XGzndOR3mL4VLt4OOPM00WUiCL7PXuLqRGSJ9SJmpTRg01WbaNXEaR7CyBBsdbKLSijn8JbbiZFajzLLs6CKqBiX2q0pD-jg==
+elektrotechnikautomatyk.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC5WKaNkv_HbSqawIbozMsp9fXmRjMNvCMoiyrAmZZgUMF-HPou_xuPRYCtLPU5kr1natQ5a7bJv3JJaW1CbyNBUjIru6xNQIf4yjHCQU8yWOYB5WEkt5oU-UetDGRZcUCEf8X56XRZL2BgKwtB7XTJbQBbe9uFzP6r7Bv9usJZBo6_GYzCPmtsABzvtyJ8zDTdxm_iRKHO-AiyoGNXS8UC7ivpUxxrSbN8jAO
+play.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAk2Ay7ByI-vZAUtseZGQyMGKUW8_jFv3Jwuu2QSDHL9B9mdk-3OI555TVxWGhuglLHsVgs8yvA6Ifogb2VhJrUlyk7Z5HrxUpkW7OpDBpqNiYKvUuY6osEqWKFAGVrQHLb9oKkc8E_y2ow9Rf8D4dj_aog6wqhNSrBxt-Tqs5IfGCfwJ6S-vLxCibAWUGefHzq_wCu6BCasMdiXg5RdJaoqb5ZzEG
+odo24.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEciZbrN6mAq9DFmzsscvd6eARbEZWL38xeLVHcuCs1h4w5E_MR2dbrhu2A14cRRax8dgfDtyi9MxEqGtIyka6Yor7I7AJikwh82fnvv1BZsX3o4pYVxKl38F0Kj0Q27ro96NSlU3eaVrtzBCh8XDlb0qyQX2C-IVXweRzKcjC_-A0ZLLf6gwwU6IAxtgo=
+arcus.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-Bs-ZWIAH8KEQFEi11JAKloY-2EC7v87_f4aE8v_NRVzt_rPJMswGqUA36sHYaHfDm6JXMU5wwDfgyi9eZ_TyWwRNGjUXXjtMt1vORcShEx0djHcy-YI98G3f6PG1M8ZByCYjwFfVfUreDdQftxosmvj33c-o770ihncUYNDdcANaG3DagVAbgUqivw==
+dreamiteam.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjDlYA_HKSq6CXUpHhzTjCin6DOkgrzl5hvQjyS6mi13OrA86wi4o04-9KTppQZZwiM5YldPtFGYtX3RODbkDhLhdRmgumruKLzl9mOZ-u7-Ox9pnSmVZG-DOJFT5m8-MeV5E4GsVPTKbtT21plaLmEa7NmSqDhvkzjfAA-n7vZRNg_Kwtzr_hITyaeFKMtQ_rx-6DL6Nh7GO-1VCDo8s3EqPW
+sekurak.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkPMzucOt5oyZkRL2P3uSC9glh-mipjHiq2F8UBeqyHU6OzQe5MT5IM44TtVmYJIAZTpb_I4oSnwGGVIIAwjghJxpzcIdM7gIZF7pCdeGG_uiQJunqp-KlrUEHiDZsdDKABmYtamvGdAhEqj3ebCKhUmFmEkV0c5KUQFE6DNqmFUuKYzr6z7xcMqhXTApKAb1uWxq5BQGYzoBoksHv7QlST3Y=
+itglobal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjjlQqreIvWbBNE7NABSEPgdaZ8orjv-HQlNYrKON0011-oxuHiOClQiXHBI5jzwkLRJnc01g2JgzE6M7X2Ypcg1r3UGHLNH9EX7_VXWfzhipBsNj1O_MMqNqmDuzJ8d0Wcfb-NY88evijPd60p8qJRW94xGS1a7tRYlbqvA==
+grantthornton.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFISWeBDq03xqGGg0vvVOM77VfazfHgUunjWsDOx-kPIu8TbOixbvdRms1pYcIQbotfMoQCjIUwxJwiTJbOCHVC4fZOpmeVD5shf6weiEM0GiMcP0DoRSqXDZqtScREc_SNpAdWbReC6uLmg0EmAbr2Ht0RpCIYpAD3hh15IzLaVRoukY4-K9ST6lhADRU8qBM=
+ksoin.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJidPTOSP80EJpfjyA2qFLW8orXxgTlDlqeWUrjLtZlMis0RLd9KH91N3lzJMIJkZcwtK89jwpFftKED-hjOsHsNspM69lKf1nptQ_HFp8Zp-2tfPw89rfnuJAM231EKfXGSZTE_8MAeN4BFPcFvf0D56r30UNmnjw5NUFD2C8xohtisz_wH9gUcLnIl1ydfL0q0wO_qb3Ug4he0hFNikuiGx5mFrig==
+securitum.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0nbCkmgfNRkJh1Kqb8MWoEEuDXFZOS3bhgmLbPEUpW3lBh04BWWARJkE6-1DGTX2jGFUsdVtrVxZbP6KZrFrMtXcuus3GU_6QMXUjWrkN64jUNHbsjU0jIVMvmrGcusbEBR__uTwp3rkWVJZWd8YnHlziN8RQtdRUx6T2W6ZYwPZA_FUznNOeS88xIakIp2AxY8QjBocV05590WVjZmO5bg==
+accenture.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHwcMk7DPGmeTlhR4lMBGEd7L7dpsCKRw2wE7GalaATNP9fxGVKNDy7lvGc1gJOmhsDu5q7lreBamAPHHkh9WJ1xfaSIAk7xKsbM54r6e6k7LrPXrvLNEx_8AU3bjUvmOphu7hUiZtsg23duzFYzJBJ_m0tx4GnmNklitDzO2
+system-3.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnET3b1rDV-jy71XXLjtTvrk0NiKEgVMnRCllwoYbd51EERd1pLaWFyo1aKs2xIsH4a0BoixGd25QkWnZ76rbPCPsxZif8rKSwdxJQijpCGQgucAXWCtvyTUO-FGB99i-ibcigB-ehVxyIeI_FTu2vgTLppYuBp3wsz3uDC-3WHDOjuRHR7D2cJA==
+keepersecurity.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7w6yBUSt2_tzSuPbe6oreTR3Tm_Hg62QYWMUqLzKCSEiACKaEoeb2y7vMWSMQ0WThNNWPoPFJEX4ya8XBoeP3AjxOyEzkm_Gv_l7-Ncz8kQ4DXqwCUGVvdCNVJVVWokZF-tExggE_dvkFmZFZHnM8TmFQPy5WuGFgalZgjqj8CqmPq418fwAjEWEwLqHB
+poradnikprzedsiebiorcy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbftNimOt3mc3SjRBOzwySu5Y895ONBC_TF590PsVDE7MOAO9zSSsWnKSXQXCk4xj1SbN8aByRJCg-d1Uvy9Ol7prZR5jnr1neEhaYfIEJKysT9fdzfzO22LQUdTFDUKDy-T4dm8Q_xRAPC85_00NK19As2JDqSNqBX0B5X1OgYimy27rZK4Np7wysw99z
+microsoft.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH39ouc5jyXSwcwxEhEkw2yadsKRJMFccEuQJj7AmiD6B1rXSVM__bjNn38pOaR-3Re3KvFiVYTCH1Ajcr3-e4eFLrM7BvPWNYze-mVv6tQLV_dbEmPKJwxtkUqqojdDhGrheYLBgfKik1d0ZdWqeWCxCaXsmyOj41_9MkfPIrFjK5WleznWW2nYRqOlZ3ISXBx0A==
+poradnikbiznesu.info — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUGhbWzbiPpPXc65Q2nnQ-MFy7OMDNOtnDqRmnSw9oBTBMrNynOFCnRc7nNjLvcuZXt75S583NmY0cM1xooldSvc-ruphMcfq088F_PPyhJssdv3mofety3SamJlf5CqV1uFPwmKXpbD5cZQl74sbce1oVlyKv1h7wQAXeiIY3c-4ff66RtLcCewwCrp89ziDL-RsnCweWxypt9dDN5GWQg-HB17qPcPd5atvocReJCa4Gw8E=
+kompetencjecyfrowe.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiVO783Ot6gvOjph2Gntq1-uj52oRSwGFozAEoS67byY6BdDpbvrPbMqh_kH7l8L8nxlYxoFXbeQDgJ_9hEMbyZ5VJM69i-lYiqBXiHk7TYNxzBtl-XDIUXvpgRiDl2mQA_cKl2ZxTHJjo0fo84XP0wFSG5uQvczkTjEJ3TVCiAU9oF2HxI78dCKUuYZ5G1jcLnF7GHfoax6DsOjMJsLeg3MAw8wxleoVR39Js8j1ddfi68JVq33sV
