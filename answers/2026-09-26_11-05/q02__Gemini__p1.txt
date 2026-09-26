@@ -1,0 +1,47 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-26T11:05:05+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki mogą mieć szereg poważnych konsekwencji dla firm, dotykając zarówno ich finansów, działalności operacyjnej, reputacji, jak i sfery prawnej. Skutki te mogą być zarówno krótkoterminowe, jak i długofalowe, a w niektórych przypadkach mogą zagrozić dalszemu funkcjonowaniu przedsiębiorstwa.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe**
+    *   **Utrata przychodów:** Przestoje w działalności spowodowane cyberatakiem oznaczają utratę przychodów; dane NASK wskazują, że 2/3 firm będących ofiarą cyberataku odnotowało znaczny spadek przychodów.
+    *   **Koszty napraw i odzyskiwania danych:** Ataki mogą prowadzić do utraty lub uszkodzenia danych, a także do konieczności kosztownych napraw sprzętu i infrastruktury IT. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów, co obejmuje m.in. przestój, koszty odzyskiwania danych oraz wynajęcie specjalistów ds. cyberbezpieczeństwa.
+    *   **Okup w przypadku ransomware:** Cyberataki typu ransomware wiążą się z żądaniem okupu, często sięgającym tysięcy złotych.
+    *   **Oszustwa finansowe:** Hakerzy mogą wykorzystywać skradzione dane (np. informacje o kartach kredytowych, danych bankowych) do siania spustoszenia finansowego i dokonywania oszustw.
+    *   **Kary administracyjne:** Naruszenia cyberbezpieczeństwa, zwłaszcza te skutkujące wyciekiem danych osobowych, mogą prowadzić do wysokich kar finansowych nakładanych przez Prezesa Urzędu Ochrony Danych Osobowych (UODO), sięgających nawet do 20 mln euro lub 4% rocznego obrotu firmy. Przykładem jest kara 2,8 mln zł nałożona na polski sklep internetowy za wyciek danych klientów.
+
+*   **Zakłócenia operacyjne**
+    *   **Paraliż działalności:** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, zwłaszcza gdy pracownicy nie mają dostępu do danych, poczty elektronicznej czy dysku w chmurze.
+    *   **Spowolnienie działania:** Widocznymi, choć nie zawsze od razu, skutkami mogą być spowolnione działanie urządzeń i aplikacji, nagłe znikanie lub pojawianie się plików, a także rozsyłanie spamu przez zainfekowane urządzenia.
+    *   **Utrata ciągłości działania:** Czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług.
+
+*   **Szkody wizerunkowe i utrata zaufania**
+    *   **Negatywny wpływ na wizerunek firmy:** W długiej perspektywie cyberatak negatywnie wpływa na wizerunek firmy na rynku.
+    *   **Utrata zaufania:** Firmy mogą stracić zaufanie klientów, kontrahentów i inwestorów.
+    *   **Spadek wartości rynkowej:** Bezpośrednim skutkiem może być także spadek wartości rynkowej przedsiębiorstwa.
+
+*   **Konsekwencje prawne**
+    *   **Obowiązek zgłoszenia naruszenia:** W przypadku naruszenia ochrony danych osobowych, administrator danych ma obowiązek zgłosić naruszenie do UODO w ciągu 72 godzin oraz powiadomić osoby, których dane dotyczą.
+    *   **Odpowiedzialność karna:** Jeśli naruszenie cyberbezpieczeństwa skutkuje nielegalnym dostępem do systemów, wyłudzeniami lub innymi przestępstwami, firma i jej zarząd mogą ponieść konsekwencje karne. Polskie prawo przewiduje kary pozbawienia wolności za przetwarzanie danych wbrew przepisom, udostępnianie poufnych informacji osobom nieuprawnionym oraz niedostateczną ochronę infrastruktury IT.
+    *   **Pozwy sądowe:** Klienci, których dane zostały skradzione, mogą składać pozwy przeciwko firmie.
+    *   **Utrata przewagi konkurencyjnej:** Cyberataki mogą również prowadzić do utraty przewagi konkurencyjnej.
+
+Warto zaznaczyć, że małe firmy często błędnie oceniają ryzyko cyberataku jako niskie, mimo że są równie podatne na zagrożenia, a nawet bardziej, ze względu na często mniejsze zasoby przeznaczane na cyberbezpieczeństwo.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeAR1ts58icWHhLTBaZqEw50GYowE3sK2X518W-jJuojiLOT4prM2mlL3_x9IcTfdnRvBZdBYmr1G9pndUj-XCr1W9nFbmbcjorYswyhAYc_Myc0C1BjXXx7x-Cq8XIb9F_YcoI-RGS_FZk1xXNq0Tu615ePP6YLyTGX2MY1-uxllPZf2saf-L5UdTSvwNdMk=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP0IHoha1xNxlrCFnUfxBTXJ4XeDKrD05Gq_BwPWXOMHaKYuz0wMjV89xcpgdg9jk5niZP7duQzyFGeQgtmZVl4I79r-kseuObNKRTpGvogoF8yRcbGT38N9ZLGyWtONj0ISax
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3HlBy18ymQgDTYzERtN-sWubCTqSDQ0fGXpymDSt1_J-EqfSAwBeBwTSytnaOEWku07wgLxMo72TEXDSTrVqsB7QoaZt_Y219u3iwPadf43Kv9EwmEG_sSxr8JrkQAtCGQDcf8UrzRHspOO1RCy2ayAOx5OHVHfKrfqmsh1S_zFZ_TWlDJ14uOoYk1dg=
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3JFCxckTMt4c0Dl_R8kcMOxd0bwTJ54EN72wLHz-erLtDVAF-a8juhas56SbdWCN2FDBQ1qB_xTPfExdlIJUfn4m37gHvJ6WrorAmXvxmJV9HeQVOOOMtvlI1nLC8gRQ95MZIs7KR4rdDwSIO98aCLio
+fen.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV2jwOt4mdTN_bcGZqZ0Zl67wmiLq5bqXI1Zr4H5ImZm1OL8UzNIjM1LWsSFRNxc7e7vq4C0ZD-Uob2j5TydbW5Grz3amTZGgV_Sn_Lz4LI48Xsov2SJJGiA3JDYbhgALCiQnx1t8KTN_hSs8Ca0rKS-KTMhufXPGwBx-WzkRgIrkpuf5lDIqRAjs=
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0cT-KyUg3E5lHCBPafIAaNpocEaUyHJli3gb3kMmzCmNENyTJA6-qMy9pZ2Kcqv2_Bvgoszum1xXX0_5zMv96lwXg3Nil6J2bXsEo9H6U5n8bHiUyFxLHioQPlXm6uGAE2psh72icJ-V5VwGeglR54S-iZkPvk3LdvKNq4XrIeaqsZAyRGPJnj4szRi9bzkmTFA==
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrCvzkmP-wXwrMdpfG8izTemsS9cM611MM4d8ut4NQPEqMOngOyfgbCgJM6kyWpGBgAAYLHR8g-J8nR-Lih41RCdOF49c4W1NVqnH_AY_s4GccLVTMDeRpxcTyOVLi86wEos37mE6Fp-pQL1CSn3q5yfqcb18tAgu-wxeU2e31GljINcndSiYMgnCCQsLcOb77hKd6tf87iN8CgU_hNMJ2icY20z078bzeGH54TuPkXLs=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1414AubfTeSVZ2z33hqe8oMj1V5BusJtR6YGdjQ_cmONLLDKI44EAIX1u3v_NmPNrB-1-kPA9HpaHohnU6SByoZyYK44OoqJIlWYjB7r5Ld1ugtLQYytzPm0hqyOmoOUZF7yUYY0G5bOcs5OBgeyv9tmHjnvfn0IatDY68oe-b1Gpho0=
