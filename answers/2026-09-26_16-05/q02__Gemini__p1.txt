@@ -1,0 +1,31 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-26T16:05:21+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki mogą mieć szerokie i dotkliwe skutki dla firm, wpływając na ich finanse, operacje, reputację oraz niosąc za sobą konsekwencje prawne. Konsekwencje te mogą być zarówno krótkoterminowe, jak i długofalowe, a nawet zagrozić dalszemu funkcjonowaniu przedsiębiorstwa.
+
+Główne skutki cyberataków na firmy obejmują:
+
+*   **Paraliż lub utrudnienie działalności operacyjnej** Cyberataki często prowadzą do zakłócenia lub całkowitego sparaliżowania normalnych funkcji przedsiębiorstwa. Może to objawiać się brakiem dostępu do danych, niemożnością logowania do skrzynek pocztowych czy dysków w chmurze. Systemy mogą działać wolniej, pliki mogą znikać lub pojawiać się nowe, a urządzenia mogą rozsyłać spam. W przypadku ataków DDoS (Distributed Denial of Service) serwery firmy mogą zostać przeciążone, co skutkuje przerwami w dostępie do usług online, szczególnie dotkliwymi dla firm e-commerce.
+*   **Straty finansowe** Ataki hakerskie wiążą się z szeregiem kosztów, takich jak utrata przychodów z powodu przestojów w działalności (dwie trzecie firm dotkniętych cyberatakiem odnotowało znaczny spadek przychodów). Firmy ponoszą również koszty związane z utratą lub uszkodzeniem danych, naprawami sprzętu i infrastruktury, a także koniecznością wynajęcia specjalistów ds. cyberbezpieczeństwa w celu odzyskania danych i odtworzenia systemów. W przypadku ataków ransomware dochodzi do żądania okupu. Skradzione dane mogą być również wykorzystane do oszustw finansowych, co prowadzi do dodatkowych strat. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów.
+*   **Utrata danych** Cyberataki często skutkują utratą, uszkodzeniem lub wyciekiem danych klientów, pracowników oraz poufnych informacji biznesowych. Skutki te mogą być długotrwałe i mieć poważne konsekwencje.
+*   **Konsekwencje prawne i regulacyjne** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania przepisów RODO (Rozporządzenia o Ochronie Danych Osobowych). W przypadku naruszenia cyberbezpieczeństwa prowadzącego do wycieku danych, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe sięgające do 20 milionów euro lub 4% rocznego obrotu firmy. Ponadto, przedsiębiorstwo ma obowiązek zgłosić naruszenie ochrony danych osobowych do UODO w ciągu 72 godzin i powiadomić osoby, których dane dotyczą. Istnieje również ryzyko odpowiedzialności karnej dla firmy i jej zarządu za nielegalny dostęp do systemów, wyłudzenia czy niedostateczną ochronę infrastruktury IT.
+*   **Spadek reputacji i utrata zaufania** Cyberataki negatywnie wpływają na wizerunek firmy na rynku, prowadząc do utraty zaufania klientów i kontrahentów. Może to skutkować spadkiem wartości rynkowej przedsiębiorstwa oraz utratą przewagi konkurencyjnej. W długiej perspektywie odbudowa zaufania jest procesem kosztownym i czasochłonnym.
+*   **Spowolnienie innowacyjności i ograniczenie inwestycji** W szerszej perspektywie, cyberataki mogą przyczyniać się do spowolnienia innowacyjności gospodarki oraz ograniczenia inwestycji w sektorze technologicznym.
+
+Warto zaznaczyć, że małe i średnie firmy są równie często celem cyberataków, a nawet bardziej narażone ze względu na często słabsze zabezpieczenia i brak dedykowanego personelu IT.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoWJNhY9ZTG-n2Sqy8lGxoUZbloJbOGzLYqPUDwP9QwoHzwyOAhACDo8egC_KzPKcIWn3P75fnPYCNhi4E45hYhnaW2BQgVsauFjylRgo9BFyj6oW6k6zP4APjXn8SLIv4u0QDKYqUsw9KtrT4oXUVKmLQuXYPEQGhSRgwXtqti4qjVJegmwlmP2nBorQ1bhI=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIYcMIu26bV0KBv3rVI07sjPjlXCHMz9HZe8j26xakExsn1gr_GC1y4EpDMEnisVp4MmetTktqPKArwjjNswBdnxANN-QPrj94M3I0DkJAXmTTr7F6bE5bEWafduPKe4CmN8St
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_oqGM-v0g6XbmjN3cpsRjIsqch1LsA8ydRY2gfhUrrbnfrp3tWFORche1VMB3RCahFKkOpITOK2LXDQ7-4j7KHiOZKbmHELRJmm4d4izQ8q0m41-jRKZua3N6pHazQaONqwTeQctItfMZc6KSnD0mUrT
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZfT8fKYuR8RN9VZdsnB7OJnuQnoBse-ouGBiSJ6zfsX5F5sSBvrGf2_wAzhCsAsJ7_kNGDc_lIA21fkC_TPydwxzn81tg-nRPxumauK5QhQqYW0vAACYOOIK87jWkx3Ta_aJ6wAxUzFQEhygb1D7MMtBdi7T_yRRFzYRbZ-CzGSDbMZFgjJMPvH7Kvno-etJvTiCsBXglQ2uGXbhIWeII7Z80X1Uzaw1bH245AxEpzU=
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG02OUtVViV3TBqT_cSIILXMzfy-LuZsPPNND3HJ-am35pA3fjUHVJtdwIv5RdE6mb1tlBK7qb6MUYaC718wMNDoopXc9jLgzhmY-0JI9d5xPiRz-V64fAjmTlsTvVSy-lr_JKD221Z070uTd4pMdTX8NW_Mxcydiq8wBXjKtPHad4OtRNUU2nzpuiW_v8=
+orange.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAcAyoocKf_yXiyjEyTXp_gM1ldYbAWdtP8wnhiJ1Pr4V-ZSF5LgxNB63wHv3wV5holBSx0bVwGceQMm59P5xAPVVVLQkvFz2mRowgbZYolg-DUsNNdNKrjoNI0QYd4jq7uo8htsfEvfz0dOmJGOSxhafJEqrV4XDXeUsu8hTnU5LWoS0tLayXuRQml93_IS2mIA==
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrkQ3O3DFFGxi3PF9YBlVmw4J0Wos3WN5J4xuRPtKRmmZF-ezU3oISRys2KwR2z4gJ0fWGLUJRAaRBdkvj6tgVdL9FixI4Uo-VHlinuTOl3rvuceNe1VMQWbemJPIp6l-u4-CQ6Hp6XAAv7MHrtMekGgtCsoAUa5GGh4uchfAJomF2OLs=
+fen.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF8nAyqasPENRH-3cb5KXzt2NW2VLOtk2dBUT7eWsfbwTGQqlPYc2jWV2Ts4rS0ipmdEJ_G24hxDtt5OEMuBWzRgE8CDm-Tu2-h5HP1m79X0VhVE4yz8kjkPI8P2RzL62-AnGY3RZ8CsUql-BwhpewBrdM0PD0C5-IEHY9imMUiciKr2tUGI840mE=
