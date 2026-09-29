@@ -1,0 +1,50 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-09-29T05:04:44+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki mogą mieć szereg poważnych konsekwencji dla firm, dotykając ich w sferach finansowej, operacyjnej, reputacyjnej oraz prawnej. W skrajnych przypadkach mogą nawet doprowadzić do upadku przedsiębiorstwa.
+
+Główne skutki cyberataków na firmy:
+
+*   **Skutki finansowe**
+    *   **Utrata przychodów i wysokie koszty odzyskiwania danych** Wiele firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów i obejmował przestój w działalności, koszty odzyskiwania danych oraz wynajęcie specjalistów ds. cyberbezpieczeństwa. Ataki ransomware, które szyfrują dane w zamian za okup, są szczególnie dotkliwe finansowo.
+    *   **Kary administracyjne i odszkodowania** Firmy mogą ponieść wysokie kary finansowe za naruszenie przepisów o ochronie danych osobowych (RODO), sięgające do 20 mln euro lub 4% rocznego obrotu. W przypadku wycieku danych klientów lub partnerów biznesowych firma może zostać zobowiązana do wypłaty odszkodowań.
+    *   **Koszty napraw infrastruktury i sprzętu** Cyberataki często wiążą się z koniecznością kosztownych napraw uszkodzonego sprzętu lub infrastruktury.
+    *   **Utrata okazji biznesowych i spadek wartości rynkowej** Bezpośrednie straty finansowe obejmują także utratę okazji biznesowych, a w dłuższej perspektywie może nastąpić spadek wartości rynkowej przedsiębiorstwa.
+
+*   **Skutki operacyjne**
+    *   **Paraliż lub utrudnienie funkcjonowania przedsiębiorstwa** Cyberataki mogą utrudniać lub całkowicie sparaliżować normalne funkcjonowanie firmy, szczególnie gdy pracownicy tracą dostęp do danych lub systemów.
+    *   **Przestoje w działalności** Zakłócenia w dostępie do kluczowych systemów IT mogą wstrzymać realizację zamówień, przetwarzanie transakcji i komunikację z klientami. Powrót do pełnej sprawności po ataku często trwa tygodniami, miesiącami, a nawet latami.
+    *   **Utrata lub uszkodzenie danych** Cyberataki mogą prowadzić do utraty, uszkodzenia lub nieautoryzowanego dostępu do wrażliwych danych. Problemy z odzyskaniem danych mogą dodatkowo komplikować powrót do normalnej działalności.
+    *   **Spowolnione działanie systemów i aplikacji** Niekiedy pierwszymi, mniej widocznymi efektami ataku są spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych.
+
+*   **Skutki reputacyjne**
+    *   **Utrata zaufania klientów i kontrahentów** Cyberataki negatywnie wpływają na wizerunek firmy na rynku, prowadząc do utraty zaufania klientów. Aż 85% konsumentów deklaruje, że nie zrobi zakupów w firmie, która doświadczyła wycieku danych.
+    *   **Negatywny wpływ na wizerunek marki** Zniszczenie reputacji i wizerunku firmy może nastąpić w mgnieniu oka.
+    *   **Utrata przewagi konkurencyjnej** W dłuższej perspektywie, cyberataki mogą skutkować utratą przewagi konkurencyjnej.
+
+*   **Skutki prawne**
+    *   **Odpowiedzialność karna** Jeśli naruszenie cyberbezpieczeństwa skutkuje nielegalnym dostępem do systemów informatycznych, wyłudzeniami czy innymi przestępstwami, firma i jej zarząd mogą ponieść konsekwencje karne. Przetwarzanie danych wbrew przepisom grozi karą do 2 lat pozbawienia wolności, a udostępnienie poufnych informacji osobom nieuprawnionym – do 3 lat pozbawienia wolności.
+    *   **Obowiązek zgłoszenia naruszeń** W przypadku naruszenia ochrony danych osobowych, administrator danych ma obowiązek zgłosić incydent Prezesowi Urzędu Ochrony Danych Osobowych w ciągu 72 godzin oraz powiadomić osoby, których dane dotyczą. Niedotrzymanie tych obowiązków może prowadzić do dodatkowych sankcji.
+    *   **Wszczęcie postępowania z urzędu** Ataki hakerskie stanowią przestępstwa ścigane z urzędu, co oznacza, że organy ścigania mają obowiązek wszczęcia postępowania po otrzymaniu zawiadomienia.
+
+Wiele firm, zwłaszcza małych i średnich, często bagatelizuje ryzyko cyberataku, mimo że są one częstym celem cyberprzestępców. Warto zaznaczyć, że 80% ataków wynika z błędów ludzkich, co podkreśla znaczenie regularnych szkoleń pracowników w zakresie cyberbezpieczeństwa.
+
+[Źródła]
+interia.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUCgTjHXZK-WOUCDGHFBPZhBdMBV8WSTy9SGMeK3ewRpanL2ViRUMXrKKYHcS3xqX8PwZm6R6yi23jTODW7dXeKA9FI8rby9oGZvLUVcWIHa8URtEmRTXwElsZBU0-v7Dgb0-A1hU_slX0R6YHzcu-gUMHZpq3AS1kGkFDJLGK5sXaR1cxXelwVfdvIlxaYBySpMmkQLVcjJ5U
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJUBEZPp-hYk17DMLDMYY8b3qJQIUGeXMoJLJdu7YM_6cXY7s5X3QywqiqG-t1QaI4dfeleUY1lsPCiOvgXC6Ql2WTFHkyzjyKlpwhUtgv-UF5h1pZLaaVbKy_GcrljGZ0U-9gjg==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESFc8zoN9vrA703iFLxFNrITkE1KiSpqXljY3brx3VXBFMS8PJdpsYMePiGeCxVvpzJDhceeY2xoSlU45TK4bYpwEfWdIP-iOSv-RvVVD9o7iYZSGk3XXMh-R2BbQx4tnvG_gfhznLHpHMaKmB-nVmmjoQQFAPpuQ9AvkmWVc_Bjtpuc5LMEyvT_cN-y23
+magazynprzemyslowy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHalGJM1YVAhl5fGJbOMouxsy61cXPJR5rgKjJBnV0uNmGiZAHQm0MVt36fDI6QVEOrr_vwHqKcbPKIG-SIBBHJDsd3had0WXcp8ZTBo8H9jmeol8YIki5EFU5vu71vsoiLH1enlOr_y9oCHciLqjac_bHq0THytqNBl0i--eCRw_PofwKSBEEIGY8XVTO4Vl6QqkQOfvYL
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIFVyFt0GjOS52gBSrSwQ333yviqrq8GPp-vcejsGMXxUN9aj5SFMVeoMwphK91vllGNRseaVCgP2iWEJnGPkRI-Auxh2qwajsPbp-pwZ4JhGrNATvHM4I_QYwqWDnD8y5SzVTZ-k9o_LFbg-Ou4M8zBJ32Estz7P8hfuCieARWDRxOE0DulipoeedeThuvyq-
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBW3EFILkyCMtYqRm1-XMyzuuUZox18_CEJY-I0alGIVQvzUH0Ry5Hol6dm6idtmjtY1JHIwStD8NEpPmEScu6pf8yEnQ6sn623Sw42cED2VEREXXjJ2ETR6qAzjdAPX50IuFLWeitbuGkhUjqUZV_4SDZLU8ueRMxgbVDNPQh
+magazynit.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3PfBfJDchJ8jjzjRtCj0BFdffbSZ4a5PNsBbvSfgbBiY-9wFf7fMjK5aIj4u2OxW7D6APRq1dRTPcptXim9ghERsXMnIJtQeqLMimQCX4nMUqrTwJWYIWMTE-DrZvNPlgMiJbL9Vd0R-BYDiY2f8UU-r7S9N9ArjqZ4PXvVHT-gKKw4CWrSC8MQY7Q_OyB9TeTB8Bg07BhdAaniH_T9c7WJ7BGDz1ADTNfdmNU4IbG7COiNtBKaAdOgfELqPXREsGTJnMwo_6kWgHkh8=
+positiv.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOQ6NDYemquInC6XDhyNp29zkNbHXjTsjbKtwdXfq076TQb5uxxd5diX9NOg4GNNaB-icfQSDRHcAi8TL_Nb4p3a_cce7YPmWNVsfsTVXR5jJiG4pO_ofbOD_xpOkvoCeIWY-tiybJzCQkNv3hY5QuERHnIwg0na2aXJF27ZEBhw==
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSinvMG3UfxSlImtXlY-ahopVkqXL1p5c5h6q8wBvo64R4Svmlq0RejZo2PjRKmt_YM0sWIblLDWHK5-sZQQythWEP4QKVNKAGyjIda3sUIHBL-czMB5PjYlITE8RB2LKpACQuYqgr_xDdlSPArTowLGFIWc9IXhh3FVNDAmqGwJ1DHNo8E11PUX7uTP3J3iQNzdBhDKtu6sySY_Y=
+poradnikprzedsiebiorcy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAlUJhyMeb4AAbmm-6Cvro2ID8rSR82UkmJXWnFVBjLP_gIGvRNS61mOTsI3O2HPBmmpZson1OgYYbDMpywq4nXJ5qJPk2TOWxfVU7A_9Ey0PJwifbwRHwWRvWz8Jl83twodTKBy6GljTnSZYdOenR3tgi-MBo7d0vmBt1RI0CSwn6TSdkSPvhzDH5r98IxIuzwnUQxF_KhlmJxXHrVuomEN6jTvRXVz0=
+xyz.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE64_RFrP0WC70FQMPoSnvbmr1-7_STeok-8v8MxA9yEQ0b5SdSEaLbm4byAlJin0RmkZTsht85vT8081bBvZaosXLj7tKvZACX6bifmg2U3UhJlos1To1Yn7G39gLsM798QtKMJdOgrDZG6YGJRz90k4m07Xr8pw-fsiY8EB9uUkpV1uaZbGd2vGJgaD5A7TCNMm6h9Q==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELz0wmBU5-XTEJCgYJjePk3UQvY3h6fUmw-8Ec8rNeci8yZL9v2HKw6wPpVwKSLJ_-si8hlinhZxrgLCR6Hmy64LX6aT6orCqZnQEjXemlkErSvK6TTgnRp7XyUf4PosnssugJ1mcGxkSniMGwYVoseFBT0X5uR3ZNu0H1KcU1KdvC334KcjF6UJHlbndkiZ55UQgoIaHDJ1OpprgGrrFdct2UBK-VcjtZ-WZxw1AgDoOlNHen_U0a0ip4mReGGg==
