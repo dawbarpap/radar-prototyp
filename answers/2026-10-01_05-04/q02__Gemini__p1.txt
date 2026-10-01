@@ -1,0 +1,41 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-01T05:04:32+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, obejmujących straty finansowe, wizerunkowe, operacyjne oraz prawne. Skutki te mogą mieć zarówno charakter krótkoterminowy, jak i długofalowy.
+
+Najważniejsze skutki cyberataków to:
+
+*   **Straty finansowe** Cyberataki wiążą się z kosztami usunięcia skutków ataku, odzyskiwania danych, przestojów w działalności, a także ewentualnych okupów w przypadku ataków ransomware. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów. Przestoje operacyjne spowodowane cyberatakami mogą generować straty sięgające milionów dolarów dziennie dla dużych organizacji, a średni czas przestoju w przypadku ransomware to 21 dni. Dodatkowe wydatki po incydencie obejmują modernizację systemów, audyty bezpieczeństwa i szkolenia pracowników. W skrajnych przypadkach cyberatak może zagrozić dalszemu funkcjonowaniu przedsiębiorstwa.
+*   **Zakłócenie ciągłości działania** Cyberataki mogą utrudnić lub sparaliżować normalne funkcjonowanie przedsiębiorstwa, uniemożliwiając dostęp do danych czy systemów. Czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług.
+*   **Utrata danych** Wyciek lub zniszczenie danych klientów, pracowników oraz informacji biznesowych może mieć długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa. W przypadku kradzieży danych osobowych osoby fizyczne są narażone na kradzież tożsamości, oszustwa finansowe i naruszenie prywatności.
+*   **Utrata reputacji i zaufania klientów** Naruszenie bezpieczeństwa obniża wiarygodność firmy i może prowadzić do utraty kontrahentów oraz spadku konkurencyjności. Negatywne opinie w internecie mogą odstraszyć klientów, a ponad połowa konsumentów (53%) oczekuje, że firmy odpowiedzą na ich recenzje. Długoterminowo cyberatak negatywnie wpływa na wizerunek firmy na rynku.
+*   **Konsekwencje prawne i regulacyjne** Firmy przetwarzające dane osobowe muszą przestrzegać przepisów RODO. W przypadku naruszenia cyberbezpieczeństwa, które prowadzi do wycieku danych, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć karę do 20 mln euro lub 4% rocznego obrotu firmy. Istnieje również odpowiedzialność karna, gdzie za przetwarzanie danych wbrew przepisom grozi kara do 2 lat pozbawienia wolności, a za udostępnienie poufnych informacji osobom nieuprawnionym do 3 lat. W przypadku naruszenia ochrony danych osobowych administrator danych ma obowiązek zgłoszenia naruszenia do Prezesa UODO w ciągu 72 godzin oraz powiadomienia osób, których dane dotyczą.
+*   **Zakłócenie relacji biznesowych** Partnerzy handlowi mogą ograniczyć współpracę z przedsiębiorstwem, które nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji.
+*   **Kradzież własności intelektualnej** Utrata dokumentacji technicznej, projektów, know-how lub tajemnic przedsiębiorstwa może osłabić przewagę konkurencyjną.
+*   **Spadek wartości rynkowej przedsiębiorstwa oraz obniżenie ratingu kredytowego**.
+*   **Konsekwencje dla kadry zarządzającej** W ponad połowie firm to kadra zarządzająca poniosła konsekwencje cyberataków, od kar finansowych po utratę stanowiska.
+
+Płacenie okupu w przypadku cyberataku, choć nie jest wprost zakazane w polskim prawie, wiąże się z ryzykiem prawnym, zwłaszcza jeśli okup nie przyniesie oczekiwanego rezultatu.
+
+Aby minimalizować ryzyko cyberataków i ich skutki, firmy powinny inwestować w nowoczesne technologie związane z cyberbezpieczeństwem, regularnie poszerzać wiedzę swoją i pracowników z tego zakresu oraz opracowywać plany reagowania na incydenty. Kluczowe jest również regularne aktualizowanie oprogramowania, skanowanie komputerów antywirusem, używanie silnych haseł, stosowanie firewalli, dbanie o kopie zapasowe oraz ostrożność wobec phishingu. Rosnące przenoszenie procesów biznesowych do chmury zwiększa ryzyko cyberataków, w tym sponsorowanych państwowo i przestępczości zorganizowanej, co czyni cyberbezpieczeństwo kluczowym warunkiem prowadzenia działalności gospodarczej w UE.
+
+[Źródła]
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEQo3V_13ZPVF9_Wi1OeaR3LSIgIWb8JiLgfDX9y4xTCiSYG5PpMDgdBKxBMXfiJshd87AN250_lExhgujjnWw3vK2JnDy1SP9Z1YGjkHmrTMAvK2QkgLaG1-nHuWEOt9MdBU1LAU12cFp_1mpL9f7P7TsB59cwYctWa7eGIkMBCVJaQjqSTRmXaEItVEa
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajPOCHLaBYusIynicmmM4tsNsB0Cqrjb2P1ZrpNE4HAS7zQVKxHf27PQOV9ZjufN2SMBNxxNfM1XXRpK8tq7THqYMbmFGwf6jpWCXyaDmbhhezIGs_cltA_DE1uXXB4icvr3gZ21d4I0GYdMCxYJaDNCcFGwZcP3MTKKwWUfltm9QV2co2yOiL9F_CkvkbRSF
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG9WoitRyQIF37SlbC_tdoX_fZnyjm6soUV7LEpaXQ-AzRD5S7CJszSCzJcLwuA1THpvkG0HYBK9DYV_Y_QEdLHhsnBlhOj8jF7TGQkA_KeWkW37AEJRZFpTcHmnwmCpq3WQT2xT4aIESEFUYH47sggZWqlq3P0DGwg-hqT5ho_VBU9pOaNmJrAsXSbUvXr-rSMpn6gAdXb2k8NZpfSos7wq6HoxF2eR91bx1Usp43zmyX
+naszaokolica24.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHhGU7_cu_HO5LLL8-dUo4TfH6Rxfnv3R1JQioQq-3tp2i9aviphJIc-IjZFdm2s7GBGX_Rof-V_XdJpmnVLSeHAE6_tjA4drCGxPV4AbZ2mKi1pXOkweKQEY9sGWcVd4PZKrOkO_YWNmV4LdUH_mdGdup17ZJQ3Fx2qzd7oXJgBhMVwyrnGrk5CGABCJCIb2Ck-VWRyDEeh0TdkZUheKWOclM8yc=
+nflo.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGseBVaTe-A8dW7-TbCJee7M7Nbz6c07D2UpMqPBA-UwVSCH1u_GORCR-eEHWMJqQ27Y94KOzSNIGAgPgAaizfF2A9xgPA_aNAPdqqMILCqgt41Ksb1wsEEbJR93h0Zh-DVCsVP1wOUEFHPufPWyLmK8LuAWOQ=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExepkq0JRWJ5pBusldrMAqrorgm7IqgR3rkKiB2ANerKcBMx6YPGJOm9C7KQiW6UjyY4SMhw0pnVCcDE7_DIlXeSCqqNsLlPtXpHwpJeaGrSWMfnZJfKfj3iLRnQzcud9zjB9-Yw==
+microsoft.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5rIVy8CqgpOAf98MSeDI79l1_phsE00s-qvXIfF6MXkD8nIwASq6v9pyu_WEFqRhIjWTasFzKYsK3ipqZKTzOpbw_TFNAdL6YuUUrtKc6tnice86QBpqHdbTzQlXyeP-ymgpm2Wz6q8COpAVDKp7BMNUtR0R7W2L2u75Wl3j7fvLQnZVuMXYO5Q6gg4QP9g==
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDM3BpkxLCW_VR2fHstc31ojiA1mbVJqTg2OWN_5UNQPSJKup90R4PHOgNHm2isQtu5TW4BLKRpnLkIZmCle7QQWTvo6Y7zU2E6ICDIvYpywaQjgw57CpE4J3DauXSne0FGr5gl2Zr-ASqwDJY1TJZgqLr1vRJU7PeIoFS6R1gnbGdEDm_
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO8-z8m6GuEe94U-NqO3251xtRmyCWQliYM8i68EgsxrKh4VFcS90T0btzkfQgQqazMEZSCYSlI_nTI-PS8VWprw7llG5lMVWc9fypyeKHB1OcIoyG9CihkwXMBMWZZ1eKHH-g0RVoZex4
+bitdefender.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM0Ghd1YjhF-9Fm4PeHfdYQyFiT60Hcaxy0Lf4pe82axkUbK4mpvEUbjdZlUEcwOkiGFZYywpdiCoCs7HAN3x1JIwyckkEaiI2iBtKPMProfeJYj-_GjWFIA3FCJIoROy6iS5QffswxVMk-DIldcDCTt4waj5N1cTsh1PUrSn0N2XMzj_J9DRKauYIPKEBqT--GP1Y4f3vLUpL7m1CAzf2jCV-Nswxr_4-55S0t5Wfydx2pSA2GLSo45eYIEFUkHMa
+odo24.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO1yXjiS-LzB0A5SuEdQF_9g0EOSiorKMJqa-_B-_fVLd-dcbk26fdHXmFRUTk5mYrIi2Y3RknqTzksf6GAjRYwd-jwOEcZxUtc88TF8sPfNaOluyBs7e_DfXjkjW4GiFT7AUi-8dI7gM7fCoZ0dDEhzmvXVVCu2jLMkkC23BfykTG3hmzwmljvbTZxim5cgM=
+focusonbusiness.eu — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcHOjYMmKLHY5fB2XSYBrlm_8Yo40It1P1glX2Jz7nfes9z9Otncilr3aA6BKg6nmrCfHzRpwX8SrjEC0fO8GFjJhvKYu7QwvJvF0gQ_G3ZgKKRazoGNQHpGaCb4A7U5tPZn8Jl1oDf3ZnMOju5FZq1T6H3YZFPBovIoLVsgR5-I37lXRxU0kW_Xdy1GtIcwWXuSN1RTdn4P6MvVFLq-JQoF2_-CNy5aFPcC9lGRGazc6Do_zUfZXEI7zb_rwpUjmsJo-ScDiOOMQ=
+sekurak.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiUq6mqfyseYWNrwzAwuFPlsPvR1u2vhpr9tj3S87ofz0pmbzwJc-6fx9B7_NpCZ9WCnWS91LCTAVffgB1hHw_EMil4qTI1-vfET15JhHbqSxNpsoVLaGcuISqZz0A3wb5-E72c27mYFU0jgFmtULDgrWpBqstbWDJ_g4BUIirKfKUJUjQ73xTzyOhHpB3STzw5GA=
