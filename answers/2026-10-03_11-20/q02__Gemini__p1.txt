@@ -1,0 +1,46 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-03T11:20:54+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, obejmujących straty finansowe, prawne, operacyjne oraz wizerunkowe. Niezależnie od wielkości przedsiębiorstwa, każda firma przetwarzająca dane lub prowadząca działalność online jest narażona na ryzyko.
+
+Główne skutki cyberataków na firmy:
+
+*   **Straty finansowe** To jedna z najbardziej bezpośrednich i dotkliwych konsekwencji. Obejmują one:
+    *   **Koszty związane z incydentem** Średni koszt naruszenia danych na świecie wynosi około 4,9 miliona dolarów, a w Polsce około 32 tysiące złotych, choć w poważniejszych przypadkach straty mogą sięgać milionów. Koszty te uwzględniają wykrycie i zwalczenie zagrożenia, zarządzanie kryzysowe, odzyskiwanie danych oraz wynajęcie specjalistów ds. cyberbezpieczeństwa. Średni koszt obsługi pojedynczego incydentu rośnie o około 10% rocznie.
+    *   **Przestoje w działalności** Cyberataki, takie jak ataki DDoS, mogą sparaliżować systemy lub strony internetowe firmy, prowadząc do wstrzymania produkcji, sprzedaży czy świadczenia usług. Nawet kilkuminutowy przestój może kosztować firmę tysiące złotych.
+    *   **Okupy** W przypadku ataków ransomware firmy mogą być zmuszone do zapłacenia okupu za odzyskanie dostępu do zablokowanych danych.
+    *   **Utracone zyski i odpływ klientów** Przestoje i utrata zaufania klientów bezpośrednio przekładają się na mniejsze przychody.
+    *   **Oszustwa finansowe** Skradzione dane, takie jak informacje o kartach kredytowych czy dane bankowe, mogą zostać wykorzystane do oszustw.
+
+*   **Konsekwencje prawne i regulacyjne**
+    *   **Kary finansowe za naruszenie RODO** Firmy przetwarzające dane osobowe, które doświadczyły wycieku danych klientów lub pracowników, mogą zostać ukarane przez prezesa Urzędu Ochrony Danych Osobowych (UODO) grzywną do 20 milionów euro lub 4% rocznego obrotu.
+    *   **Odpowiedzialność karna** W przypadku nielegalnego dostępu do systemów, wyłudzeń czy innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne. Za przetwarzanie danych niezgodnie z przepisami grozi kara do 2 lat pozbawienia wolności, a za udostępnienie poufnych informacji osobom nieuprawnionym – do 3 lat.
+    *   **Odszkodowania** Firmy mogą być zobowiązane do zadośćuczynienia roszczeniom wynikającym ze zbiorowych pozwów sądowych od poszkodowanych klientów.
+
+*   **Utrata danych i zakłócenie ciągłości działania**
+    *   **Kradzież lub zniszczenie danych** Cyberataki często prowadzą do wycieku lub zniszczenia danych klientów, pracowników, dokumentacji finansowej oraz raportów projektowych.
+    *   **Problemy z dostępem do systemów** Ataki mogą skutkować niemożnością uzyskania dostępu do plików, systemów czy infrastruktury IT, co wymaga kosztownej odbudowy.
+
+*   **Szkody wizerunkowe i utrata zaufania**
+    *   **Spadek reputacji** Cyberatak negatywnie wpływa na wizerunek firmy na rynku i może prowadzić do utraty zaufania klientów, partnerów biznesowych i inwestorów.
+    *   **Spadek wartości akcji** W przypadku dużych firm, incydenty bezpieczeństwa mogą wpłynąć na spadek wartości akcji na giełdzie.
+    *   **Trudności w pozyskiwaniu nowych klientów** Firma z nadszarpniętą reputacją może mieć problemy z pozyskiwaniem nowych klientów.
+
+Należy pamiętać, że małe i średnie firmy są szczególnie narażone na cyberataki, często ze względu na ograniczone zasoby przeznaczane na cyberbezpieczeństwo i słabsze zabezpieczenia.
+
+[Źródła]
+delkomtech.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwsoC3WkdN931wo1wIGIJ12y4ghnjYpF6XuZaQcUGbmWcbWLU2PIURe4cgq88pqT6Kkmf2UEIBygJER3OPI2kiw2QkYsbRslZp7tAOdVAtSdjJcgmp5xY93zpRgj6bTzNEqahf7v5jcGYBIwZ6zg0STz5m3XvtklBjWEsbl6Z4W2ILah356fbNi8Jh5-tXIz9NDAR7N9be0_yE63nVPuuT1r21
+obau.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmMLWm7chjaibocpzRTPGqhnJvOC8R7wn3Uos5cYo1F5aF-CFGj1RmxoSSK840tQmqKwaSJpDbdhTNM0_be4Jk6KVMroNw-RqKOeK0I5SbRm9qv0swgbBqshlZiJmIw1LTk3F8hZpYiIBBk3hyi_gqrQY0iRc=
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP1vMZ5t_MZ1yRIKSzb-7U4Uqbq4Cqnr_rDaOYmpgp_T6xagfHUMvquVqLUv1Hbq94YDX-KOnBj0R9W_E5LIRKa0UIo1-vELg0LUfsdqYFckMxvG88TvbIRaUoK70Y2mWO-U8ChYhlTseH9x-jli82MG3up72NLQfPd9GLFz5x6MKifewXgkHvdYQqks-T
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnfo4yuztfOlc5J8K6qLr9F7uNnJWxnaIY3nBJMNVgsp4jKTyNCjlngUhb2vOqDQVtwdjwbZ-AoDcllpZQF_buXS2WAywMp_UNulFz-vswcZD6Xt6DOMVjT_g_w6u70yKZ9gMWvqixd2J6O6f4YFYLAhq85aOCTmP-DWbSyKxKjmJ_NdjHp_Num-rzDOgMwTVrkelmavUFM_YjWTPNMS5jpj6JSmJ0-Sf20Y928A8juz0D
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPyQjxHSYAtyuv6WUsZHp6NyYdWv0TxatbiZt9Ybzg1OOdoUXMMgKpETFff9n2hX1VdJYDMHSZD4n9TrBrdQFMOUnB4ly4uNIzmMDrJpWjfiSoaId5mCz6O9bK2QcvN1j6IePQmAOHx7d4I-usiHBcv2iDsg==
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBotxFtXK-1-lRgkYO2pmZXDXlRTHTMkzXE2vXCIsciSGF0VVTON9NEpd2IAze4ijnKONnuP9EOmO6qXlxM4SAK2bmEg4xKE2sR1oug9fERvLNTfZPWEqlvfU5jasev0ZvM7zHyYmRPgZ0QpB3yl-7Fvjgqd4sfuqCdalKqRa0MeokngAM8qmVhzQm5CmcTPze4LUg27szTtj1_JI=
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmNaSNfcEFL04s_sxPFEo1OCZuBoxOo84xh-55DM6fOb97jVtecRX3bi4T69Kjyn4APdPjzXik5eu2hdYS_nTlrPVTDYkOFpjMpH8pG0aGjt313KwWJLqkonXY8bpLXJwpKceu4EmV2EDUMzj44hu4S4NyEjMmiklo-j5nJsRyRwN3NfjVVSQ9187tfVRZy8TQF6TtSDtYNpu7A8mVbIVp
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmf4ZvECLrDEhIPqBahUaZCODIsg565BjM8FHPOenzRkVz9PFD3-_wBfA_NKCBfcBCOo7fB62Xz_oPJW78mcxFQq9314Rmwpyp_ITy3cEuc9J5dCXPEgHJd7IEVc4rY3IkbQnh0QD0hIdvEYpqBm5jR-H1IdXj8XLYzARBF6Dzl6QgHBMw
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkaQ1qzgGu53QdDe2v41hklI99nB9q17XWd9SKdG9MBP5K_WEL_p0TxT26FxqoE9Bx-S6JUlynXqHHPISbhC4BOeKmzvNEv6cmuUYf-JcwY_UQhn8gqO2WeTsI5Q7VzEUiiTdDhw==
