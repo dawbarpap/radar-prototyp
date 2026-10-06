@@ -1,0 +1,30 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-06T05:40:54+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do wielowymiarowych konsekwencji, które mogą dotknąć niemal wszystkie obszary działalności przedsiębiorstwa. Skutki te obejmują straty finansowe, zakłócenia operacyjne, uszczerbek na reputacji oraz konsekwencje prawne i regulacyjne.
+
+**Główne skutki cyberataków na firmy:**
+
+*   **Straty finansowe** Cyberataki często skutkują znacznymi stratami finansowymi. Mogą one wynikać z przerw w działalności i utraty przychodów – dane wskazują, że dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Dodatkowe koszty to wydatki związane z usunięciem skutków ataku, odzyskiwaniem danych, naprawami sprzętu lub infrastruktury, a także konieczność zapłaty okupu w przypadku ataków ransomware. Małe firmy są szczególnie narażone, a nawet 60% z nich, które padły ofiarą cyberataku, bankrutuje w ciągu sześciu miesięcy. Hakerzy mogą również wykorzystywać skradzione dane, takie jak informacje o kartach kredytowych czy dane bankowe, do oszustw finansowych. W przypadku dużych wycieków danych, firmy mogą ponieść astronomiczne koszty związane z zadośćuczynieniem roszczeniom wynikającym ze zbiorowych pozwów sądowych.
+*   **Zakłócenie ciągłości działania** Cyberataki mogą prowadzić do czasowej niedostępności systemów informatycznych, co w konsekwencji może wstrzymać produkcję, sprzedaż lub świadczenie usług. Ataki DDoS, polegające na przeciążeniu serwerów, są szczególnie dotkliwe dla firm e-commerce, powodując przerwy w dostępie do usług online.
+*   **Utrata danych** Wyciek lub zniszczenie danych klientów, pracowników oraz informacji biznesowych ma długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa. Brak odpowiednich kopii zapasowych może skutkować nieodwracalnym usunięciem wrażliwych informacji. Wiele firm, nawet po zapłaceniu okupu, nie odzyskuje pełnego dostępu do danych. Utrata własności intelektualnej, takiej jak dokumentacja techniczna czy know-how, może osłabić przewagę konkurencyjną firmy.
+*   **Utrata reputacji i zaufania klientów** W dłuższej perspektywie cyberatak negatywnie wpływa na wizerunek firmy na rynku. Naruszenie bezpieczeństwa obniża wiarygodność, co może prowadzić do utraty kontrahentów i spadku konkurencyjności. Klienci powierzają firmom poufne informacje, a ich ujawnienie naraża na utratę zaufania. Może to również zakłócić relacje biznesowe, gdyż partnerzy handlowi mogą ograniczyć współpracę z przedsiębiorstwem, które nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji.
+*   **Konsekwencje prawne i regulacyjne** Naruszenia ochrony danych osobowych mogą skutkować obowiązkiem zgłoszenia incydentu oraz nałożeniem kar administracyjnych, zwłaszcza tych wynikających z przepisów o ochronie danych, takich jak RODO.
+
+Ryzyko cyberataków wzrasta wraz z przenoszeniem coraz większej liczby procesów biznesowych do chmury i intensywniejszym korzystaniem z usług cyfrowych. Zespół CERT Polska w 2024 roku zarejestrował 103 449 incydentów bezpieczeństwa, co pokazuje skalę problemu. Co druga firma doświadczyła przynajmniej jednego incydentu naruszającego bezpieczeństwo, a 33% odnotowało próby cyberataku w 2022 roku.
+
+
+[Źródła]
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt2SdP2xQjNknXjE0GLaLgKsE9XNX4S7K7KUjA14ze-aaNh59_zbqSHULuITSZz70vReo4aIkp9C_385rwF8EPCYive4EyQCkKbTNB2LDUFs6xkTXbejg9F_bGN7YX-iT7GSOMo4UXvnp41kq0b5at7vdcY9WtEvnHOl7s_0GUwEH2RJ8Jvk0gODMXFweBOf4vhruGPRbrCNp1_yHRSn8cDEZ9ywSrDv93VyoAdQZMX88=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlbN4YulH9NyuUCyI0DVWuYlFQ5pK908yQIhVgYd9vDw0j6AXgcAbymHAoE8cKW_K0POOQ6YB-ZMo_6aJ3AaTNJCn7MsKHavS-gSCz3kxbnC8LkdOFc7lClJ-Kty3iSzjSBvRF
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOrCP7Dd6AkRXv4OF4OX2GljgD93esFby9oKMPjUetYSlv060RIc_H1VdkCwg94pDcYZmQtqEP5fmAaFdzR60AIGbgtPWU-Trcdl4rwyZQSdp70GbEQ9Mp1vw9Lck9BrV_oX742HEIsH1kIgxo52zVTtom
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX__K1bJSOy4M2sLks_Ip8hpaoxuMkBKSEfeOa_OY9J8OiOwtbywMD6_TvXkvEu4a2_EKr54LLWYxl71RzldUpBOVHQjYYpBCyrnSXr2L8MFrCfyxr2WUXpxP8GHrKhnlsa6_ZeYyniqqh5xk=
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGegjizjh7b2Z69wwBEYfNR1FYJgwL1Gr63U1-v2e2bTv01tlhprWeQMRBNCPv4nN_Oi664InDMxYFcWXVRmHjQlbeRHc-Y_KUGsjn5VsnxcWcgnPZw-xkDM_wwadwkbAt7buUKUBBzWZusWZcVpXyqLPOG7e3VO84Uv77jYh8rIMNs6F_VAPswUojG259sk8VHPsmAkDZMtm27jecZIqE=
+sevenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExDrE5CwGHkSLrDdc0uf54FQntFqkkGxooES5oev9b4kQt-nwiVw3lOhBZTPFbZZpJlirPkcH_oN-9iCQ7q8_D_tB8prtvxXR2YUipfjtloycZPBcK985rAjrZJrfDuqDelnOimiVT2o_DqjdWw4LKovIe0GavnDXFLTmSU29m1RM0xNuLAe1fEjcmdVkK_UIXfnueRR58WQZ-8Pk=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz7Fa9Ynnymewl6aH7GlR5l_vxVypEkkQBcztA5NKw_VWvtph1rgQ9I9_iKwc4qJrMYC7Mr3ycBg-VsMPytZu7HJNNiGsALPJlLJ7Y4AylfP-5NU1xX4Dr9dVkZ7EZYtJmpqdoUeVzzdrAUI1xryZW9B1qOE0BeFeSF9oHzBeov7l30xI=
