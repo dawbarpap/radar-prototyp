@@ -1,0 +1,10 @@
+Pytanie: jakie podmioty oferują cybeubezpieczenie
+Id pytania: q04
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-09T22:27:07+00:00
+Powtórzenie: 1
+Status: BŁĄD
+============================================================
+
+[BŁĄD] 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent

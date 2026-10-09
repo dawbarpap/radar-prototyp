@@ -1,0 +1,30 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-09T22:27:07+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą wielowymiarowe i dotkliwe konsekwencje, wpływające na niemal wszystkie obszary ich działalności. Skutki te można podzielić na finansowe, operacyjne, prawne i wizerunkowe.
+
+Najważniejsze skutki cyberataków na firmy to:
+*   **Straty finansowe** Cyberataki generują znaczne straty finansowe, w tym koszty usunięcia skutków ataku, odzyskiwania danych, wynajęcia specjalistów ds. cyberbezpieczeństwa oraz przestojów w działalności. W przypadku ataków ransomware dochodzi również do potencjalnych okupów, często sięgających tysięcy złotych. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów.
+*   **Zakłócenie ciągłości działania** Czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług, a w konsekwencji do utraconych przychodów. Ataki DDoS, polegające na przeciążeniu serwerów, są szczególnie dotkliwe dla firm działających w e-commerce.
+*   **Utrata danych** Wyciek lub zniszczenie danych klientów, pracowników oraz informacji biznesowych, w tym własności intelektualnej, dokumentacji technicznej czy know-how, może mieć długotrwałe konsekwencje, osłabiając przewagę konkurencyjną firmy. Utrata wrażliwych informacji może wymagać kosztownej analizy i odtworzenia systemów.
+*   **Utrata reputacji i zaufania klientów** Naruszenie bezpieczeństwa danych obniża wiarygodność firmy i może prowadzić do utraty kontrahentów, spadku konkurencyjności oraz utraty zaufania klientów i partnerów biznesowych.
+*   **Konsekwencje prawne i regulacyjne** W przypadku naruszenia ochrony danych osobowych, firmy mogą zostać zobowiązane do zgłoszenia incydentu oraz ponieść kary administracyjne wynikające z przepisów RODO. Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary do 20 mln euro lub 4% rocznego obrotu firmy. W skrajnych przypadkach możliwe są również konsekwencje karne dla firmy i jej zarządu, np. za przetwarzanie danych wbrew przepisom lub udostępnienie poufnych informacji.
+*   **Zakłócenie relacji biznesowych** Partnerzy handlowi mogą ograniczyć współpracę z przedsiębiorstwem, które nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji.
+*   **Kradzież własności intelektualnej** Utrata dokumentacji technicznej, projektów, know-how lub tajemnic przedsiębiorstwa może osłabić przewagę konkurencyjną.
+
+Warto zaznaczyć, że małe i średnie firmy są równie narażone na cyberataki, a często nawet bardziej, ze względu na słabsze zabezpieczenia i ograniczone zasoby cyberbezpieczeństwa. Statystyki pokazują, że aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy.
+
+[Źródła]
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0QTgsoaoemtMDZ99Me7tHTiCxU-ITKpAPOlEaDygfxckA1WeiaVev_7fTQR4uHu83eBDKkOWNwAW3htZEiklvBt-reBcoqUir7nADb43PHEdz2AT9bHNXH0AXfh9q6klq6EK4itojUUDgRxokkU3rELjeSCfhyVoOJc4CLCWUpFdPWnwJv_ocy1ZKDgegrteppV2YeqKxE4PBT-7aaalgc1oqt5EP3i5daKsZIqYd1hhk
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlyRoqqBIFe9ZyiAoB5e4-vpDUQbOreXKPinIrUifJ04F9w4Ly0nS8PKGUY31B1OFS6hrv6DuvIsOcw3vlnOsKO4AYI2segXTy-gXnIyYLDmzW8uA8oI-8CbQZSANo31Ddx3M2mCNcL3PPiDVhigujga7lVI5KXorYKfgCikZo9LUdE5ljyUy32d59w3fC
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcJyH80LuMRaCNG5yTi2rVOJ9WmgGHWLqn6uYcE_nzgy1_TcfDYXDDuM-1fUO9bauWX24J60MjSQseyAQviygqOughMS1rWxsqub-WugYctVF014yYoZmTvgUfLEYb2TQ5ReWhUUzJkKk9zOJNgEon_YP9cw==
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmjxyO9sx4fwvNbJH2x-h8_a-RWzokbvliSjDoMYNDYJSt4fIbj098Ed2GAZtNfa5Lv8kWC8NpD27_Yr068HtW55gI92GTWGHdVuF-_VKeHJ8mZoq4jTkhVKu4QVv1CPXCb3R3dgn7hpu8jpquHbFBmNAEyW252Kyw2W7O5dwb1-APr4KaqZDvsYgItD22i5aQ1q9XddF2PA==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAwu7vxf7FvPbW5_7kcj_tdAb5rkdtPgEMz1Y94AXUElD56HfsUxDKFnzIgRPbmTmMPd5VK9MqxrWOm80n8sx0DsWvfPa5AGFgKC1ADqAciSBQyPe4dV_6w96GCSeHNBwgToaRZEY7FS4fdx5Z
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG57RXiXP-BLXlw3GODas3gCpL5d6GKbMSSFS6B0p58piVujgB5rbn0RjQVXODBo6y7X47Fm3fQRKPmMaAfE5q48hIsSw4YzyXxgV9jD5pWvq5vAc_t_4DY7wPy9_1j32HRtQfz5f5aEjtU6Hr_NL9XnKCkUoP20u55TdBOYcLx80F85EJK
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9BfAIwBfPmfLNufmTBE-PznpMGSYzJjkfKhmfmVH-rTylaQfmYnW4Ju6WU5CWPCa5zx5T3f6_CAucrZ596zzkNWFoQ2d-P9FTDg-dMj-Ztkg2SCoXJmi2Of5zgVT4lB5qJcfOap5HrdPNZ5Azx21WeLDjqDrFzvE02-nDjgbo3z9uVfFn7D25TEXyhz5ioVYjhHs10mwrEh0Myo8=
