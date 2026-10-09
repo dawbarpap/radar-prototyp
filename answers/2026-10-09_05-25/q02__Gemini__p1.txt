@@ -1,0 +1,31 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-09T05:25:26+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które mogą dotknąć niemal wszystkie obszary działalności przedsiębiorstwa. Skutki te można podzielić na finansowe, operacyjne, prawne i wizerunkowe.
+
+Najczęstsze skutki cyberataków dla firm:
+*   **Straty finansowe** – Obejmują koszty związane z usunięciem skutków ataku, odzyskiwaniem danych, przestojami w działalności, a także ewentualne okupy w przypadku ataków ransomware. Średnie koszty naruszenia danych mogą sięgać milionów dolarów. Dodatkowo, firmy doświadczają spadku przychodów, a utrata danych może wymagać kosztownej analizy i odtworzenia systemów.
+*   **Zakłócenie ciągłości działania (przestoje operacyjne)** – Czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług. Nierzadko cyberatak skutkuje przerwami w dostępie do systemów i brakiem dostępu do danych.
+*   **Utrata danych** – Wyciek, zniszczenie lub zaszyfrowanie danych klientów, pracowników oraz informacji biznesowych może mieć długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa. Wiele firm nie odzyskuje pełnego dostępu do danych nawet po zapłaceniu okupu.
+*   **Utrata reputacji i zaufania klientów** – Naruszenie bezpieczeństwa obniża wiarygodność firmy, co może prowadzić do utraty kontrahentów, spadku konkurencyjności oraz odpływu klientów. Negatywny PR i utrata reputacji mogą skutkować spadkiem wartości akcji i odpływem inwestorów.
+*   **Konsekwencje prawne i regulacyjne** – Naruszenia ochrony danych osobowych (np. RODO) mogą skutkować obowiązkiem zgłoszenia incydentu oraz nałożeniem wysokich kar administracyjnych, sięgających do 20 mln euro lub 4% rocznego obrotu firmy. W niektórych przypadkach, jeśli naruszenie cyberbezpieczeństwa skutkuje nielegalnym dostępem do systemów informatycznych, wyłudzeniami lub innymi przestępstwami, firma i jej zarząd mogą ponieść konsekwencje karne.
+*   **Zakłócenie relacji biznesowych** – Partnerzy handlowi mogą ograniczyć współpracę z przedsiębiorstwem, które nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji.
+*   **Kradzież własności intelektualnej** – Utrata dokumentacji technicznej, projektów, know-how lub tajemnic przedsiębiorstwa może osłabić przewagę konkurencyjną firmy.
+
+Warto zaznaczyć, że małe i średnie firmy są szczególnie narażone na poważne konsekwencje cyberataków, ponieważ często posiadają słabsze zabezpieczenia i ograniczone zasoby cyberbezpieczeństwa. Według statystyk, około 60% małych firm zamyka swoją działalność w ciągu 6 miesięcy od cyberataku z powodu braku środków na odbudowę infrastruktury IT i przywrócenie działalności.
+
+[Źródła]
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU6JzwZjESgqUU0S_DycdA-9_qUxHJABz_MqcpdmrWOxFndrZPqt1CXCjOWjcP1tXQbmtvqfQVTk_ml9oB_YRtFq4Llx6wJSt8DFipjjUZRqi4m-2YaiffGwPKaad0A4yVaM8wFMMx_C0buuLN8ExWwyoL2hOiZtflW3n3b889BW-q-Bx5y72p59hZqSnSvsnMp8mddoDCYFRX56Rtbt7i5ahML4UniEMNNPCB9XbU7fb6
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYJ-tkYzokHQwgRmDKKYGZwIOWS0Btrki3zuHvOPjjPRDGdfU_S97o3CQTOUHwk4uXEUkEF0Y7oLHfCx_GqOHNQDldKmozb7TUFgWLM3iDHfAkeO3KwA82SmNqEymFY3E_Fw2GTeil-H9HOsXQ3KJwLHil2TKYks8DI3Vs8TOpFju56Oi9n0FVomdC7-Wz
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaa1FfdBspjWN_kBnfPUPR3maDXju2o7SXJHHvgRPsC1L-Ejm-KnV2BFjOBKLMzWvuaZCMFUbOkkAveI1I6DGJkuD2VdhU7sXmmgo12leEouDbKfqar-yPW3WffoD0QJyL5fWlEpR8jctOJ4uEuo6zScbU-w==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHApleCsnRjZWHQnHwysvvojc6YWYgoQVHx_FocO9uCt2KcH9FMOvtJvLCKiIoRBjS7Wijcf-b9hnIigXWKDTJpm4ZMj9qDYGVOR7aY4-yTKW0sp95yB2DRt_2nFtgo1rrYJCdlImQ5eI0zNfg7VV35Z3yA9-6js0m8L907qBCkCLg6BgaJilgDmDbG7Eb2QwsiZaaDZgvue9qcUEaxyIZToc1MsPp-vJFM-IWzmxF_NFJ7d4RI
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGItOCnrHBt31H1lHnLw6NneqDKR7d6C0nSz9vToSqMp5BhIKoy0J1I9rodvqmZg0mtvHDrexzHrl1JeMrjVMrkNzNJ1QVePIr_Fjcov1w2t2Mmf0dF7M1O6zQ42W1ieKj1tcC1N9QcRlLsMNCJIS_pUvuRNPKwVWW1-qwt9a-iwh399ybYHE__kq16g1Z_E3te_dUCtVTlmA==
+sevenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdDO93tItqAmsZlydJ6TvXw_s5Q7rn8KekS3An7vqWzLt9ZRuX6M5LTn9wD8k7NXU8-bF7ghnmw-RDd2BhC6pMb-3CiYKsN2HSlDLsp1nBvQSj6l97MM_lcKjwJn4y5OUldinBUEbEKgrRizUVm92a__k3B6LvS-wZx4wq6uPqAGs7Ymy1s0g_eN-izcVbhJ1FlmVY614Yn9ebupqg
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX6-YiLBqzyZinDsrbUODg-dIB-Kt7Q_8qgINxymnZ8OtwZth4gF5z9-rDEoab7Y0LayB6bZ99zmh6cj5F1iEv18P_-hBv3H_eLexlDxVjl_YwRWVadiBBHN21WO4cbAPK1f05aNz8MbDtBC6v
+telko.in — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3ZlyCaQtBKVPXYmNrbx7fGkMrT1T64cSCsAcShG3HEg61D-7sXl23-TuQtXYbpS_19hc_2T7yhhU1DEVkVljxMGTjDCnrv7l67VtIMdN3hneP2w9AGnHh5gFQxJbpPzy-hmOh-jwvOKi3uxggl4yqLqPuu_nsN8-jpIyGdcNA0w==
