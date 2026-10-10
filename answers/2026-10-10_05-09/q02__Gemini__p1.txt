@@ -1,0 +1,36 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-10T05:09:22+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do szerokiego zakresu negatywnych konsekwencji, które można podzielić na finansowe, operacyjne, wizerunkowe oraz prawne.
+
+**Skutki operacyjne:**
+Jednym z natychmiastowych i widocznych efektów cyberataków jest utrudnienie lub całkowity paraliż normalnego funkcjonowania przedsiębiorstwa. Może to objawiać się brakiem dostępu do danych, niemożnością zalogowania się do poczty elektronicznej czy dysków w chmurze. Ataki te mogą również prowadzić do spowolnionego działania urządzeń i aplikacji, nagłego znikania plików lub pojawiania się nowych, a także do rozsyłania spamu przez zainfekowane urządzenia. W przypadku ataków DDoS (Distributed Denial of Service), systemy firmowe są przeciążane, co może skutkować ich tymczasową lub trwałą niedostępnością.
+
+**Straty finansowe:**
+Konsekwencje finansowe cyberataków są często dotkliwe i różnorodne. Firmy mogą odnotować znaczący spadek przychodów z powodu przerw w działalności – dane NASK wskazują, że dwie trzecie firm dotkniętych cyberatakiem doświadczyło takiego spadku. Koszty związane z cyberatakami obejmują również wydatki na odzyskiwanie danych, naprawę uszkodzonego sprzętu i infrastruktury, wynajęcie specjalistów ds. cyberbezpieczeństwa, a w przypadku ataków ransomware – zapłatę okupu. Według raportu IBM, średni koszt naruszenia danych w 2023 roku wyniósł 4,45 miliona dolarów. Małe firmy są szczególnie narażone, a około 60% z nich bankrutuje w ciągu sześciu miesięcy po cyberataku z powodu braku środków na odbudowę infrastruktury IT. Firmy finansowe mogą ponieść straty rzędu miliona dolarów za incydent, a najbardziej kosztowne są ataki wykorzystujące luki w zabezpieczeniach systemów obsługujących karty płatnicze.
+
+**Utrata reputacji i zaufania:**
+Długoterminowym, ale bardzo istotnym skutkiem cyberataków jest negatywny wpływ na wizerunek firmy na rynku. Utrata zaufania klientów i partnerów biznesowych jest jedną z najbardziej dotkliwych konsekwencji. Klienci, których dane zostały narażone, często przenoszą swoje usługi do konkurencji, postrzeganej jako bardziej wiarygodna w kwestii ochrony danych. Wiadomości o naruszeniach bezpieczeństwa rozprzestrzeniają się szybko, co prowadzi do spadku sprzedaży i osłabienia pozycji rynkowej.
+
+**Konsekwencje prawne i regulacyjne:**
+Cyberataki niosą za sobą również poważne konsekwencje prawne. Firmy przetwarzające dane osobowe muszą przestrzegać przepisów RODO, a ich naruszenie może skutkować karami finansowymi sięgającymi do 20 milionów euro lub 4% rocznego obrotu firmy. W Polsce zdarzały się kary w wysokości milionów złotych za brak odpowiednich zabezpieczeń. Ponadto, w przypadku naruszenia cyberbezpieczeństwa, które prowadzi do nielegalnego dostępu do systemów lub innych przestępstw, firma i jej zarząd mogą ponieść odpowiedzialność karną, w tym kary pozbawienia wolności. Po wykryciu cyberataku istnieje również obowiązek zawiadomienia organów ścigania.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-XXp7lusmdX2grHpMX0UhazqfGOXzoPdhYWyIR4ahz8nVaH9Xzp9LhwONPs8XhLf2mecyhwzoLpDNu8u3QTt6op8BHZymc3NWc2w9E_FwHyAEB2YNiy6uJRtic-G-EY1bVRFvyA==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuQvNITsx0AksQA3XTmvt9Sj7itW1chBWke698-avratazgrC8QGAPrNSdFB8tSdNZAj0kAs7O2gG8pwUYRFv953UZSjQT5c0QqhM8PgU9S66kZouOp8-hpEL-9YgYg1S-IwzbkwahDhSa6-LOnggdLa8-mKhTyumLBc6ZRWlcy4mhCakboWUzgGN1klaXUIoKFa_wlg2kZjheTiC-8RMQKPgn6p-TOi6XbmuEg2Vh9hDtXhgK
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoBa6bpB15Quz7KvsjOWuvZJuDNRXwoGDi3N8xz8-98fgYuDUiENyCBV_ruiYw19IgUchljs8P4v2p9NDnYikN3kCXEirkSLkqzuiFEMmS-RPQN-vPwOELqp-aj4DGO1VUO-2wNaXsb20iqzaD9svaJEkBA5e7W5AUx5KG9uZl
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsM1JuWIKswUmtC9-h2axRzhvckJXe43AoRtV4f21Ie98ICKgtzR3BPZcfH88SLWWfeTA9ch0Fg0tTxBq5L2usNh15vuC5cALzmhaD4X2Z0uoAMMsJLh-GvDnMwUaFnR8oG3CdhK4iFZqLriML97FZfQA7EQ==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPkdcpf4jQazzIOGSZ5R0Hxi2arl2cpjOblPDmX4W8qbHi4rLat4mAMGJAEQmXrfI0Y8rqC7wl6p8iriGxurBi8-X18QJkV5VfsG3D6DMaXjRYhH_Fm7SJxMLNORe0WBHUhZbc-eBFy3OIFOfvd916VeXOBO8P2bqCCiaQBUiWNUd7yg4mURwQRrQ9Popx
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpjEM-ZEa8Cs4GBIrMonso0H_pgEUxjcTipdDqNzDpwfj93ZPf4t9HmVjSPvQNHhWPTVTVlL2hgHVTIJs3Zyq0rcpWk_sTC_KqeRiSzoQgCgEPSZ_Af-283RK7q3nktjvo6ZVam0KKTG11cAkV
+itreseller.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4S5lfXzPvg6mFiMezHn6EeOJGz9E9G4B3yioToZlPLmxj7qe2enIb3xOaV4XP1F5cjnuIPnLF6qCCciHOdepbBWYfZ_WRzMUqqPUz8YuvhLD9-mpWiQpRRYGdIsbca5W2dR6ymOYoW3ItdqD9myCf3Rfbv715Iudgb3ecYn9T-cJYMGCTh39AIMdNLo9sZkWmmImvBcSjE8NqI3pUI9PMUL4lIdq91Z-SeY2QAjW2-KEH2cdProbQKw==
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlF1wwPDYHcoAYguWAka7Rql5Z2_huex228G_9BzFf3RLlj5ZKCn3FHaGf79vnOWJYD1oQVZLGnKVSEYFcPLhZjHuuGNG2u9G1s0qyTZ4hVJlON2YZ3NiS_kN4upXK9Vy0-iYV6z9L3wCv6yNa8lNB3xHaTIrn--hVcLeqhfQWwtdPKwe3
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEyNiBdiAsSMr8Rb9DV7wL_eudrihhq3SvJUWnrGYiLIu7R_kgCnhEVm49TqVtjVsTrLBbU8i6u-vS9hP9YYgi6gpeYUSyz2yYrI_v-wMcqMT9SqGI5SSKflSqVPv-jSIl3ZOyXVjQuXC-XfNjYA2MjAtzRIFzWTqB-gDa9MpB_cgd9i1QaZZw2LNg9_ZDrQOXHeI0KAPNSqCU33xwJirOQj3gFU0xmmD8YigDNX4GvwyH1Ah2UGTxtjhVYrWzJsF2wYiWXQ==
+iconstrategies.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnPlEdWkEwncGJCxjWwNkGc1wDZmpHx5uqYxvkfi5D1U9ALsXFTvqwXRq3waqBcfcMjUVn_EKb1uFG-QcE7BGzivVMvfJ3HQke6DuRNS7qOAocXGAPXmicdBPIDcyLoVkFr7SuDkLHug_nOqA3rRTvG5wWaeXUa7OEPaPEViUzyYjuiIiF1biRG_2A3lfcX1ldGw==
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiHIM_4IBa7JD27gbygye3d1QNIdccoKuVJ6JqmC9EUa8deqtaNEEgXNABHXmjgTkmcVPp9NfMvodz39ayfSICUKyLBLxy0dJuaOd9iMrY2TaCeMCCAOJFz9xs6QpQNgMX4yltwuIe7FD5eMrJDUtpqTtvqB8xx__-5BrHNkEHxjPyvfsOOJ5SvI7rVUfcX4qhPsFCLv1w4oXBACaQ7Y6c
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2wtglk8tRVchkNLxOdzOrzOiGI5efKF2eo9OcG4obNJjn7T3NgjJZQAWjbgP0d-ukkZ6sNyGx4b7kfxJ1w5DinArNJNS6IZM5I3g6o_uXgZX_pCVk-SD1OSjA3KYirzwyyXHE2LzHpqBEemEvjhuPC2ltGiPPIG5B2E3Ts-sj1YPz_r_-5IhwG3Ix0_wCo5bU
