@@ -1,0 +1,49 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-10T12:10:41+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki mogą mieć dla firm szereg poważnych konsekwencji, obejmujących straty finansowe, zakłócenia operacyjne, uszczerbek na reputacji oraz konsekwencje prawne. Skutki te mogą być odczuwalne zarówno w krótkiej, jak i długiej perspektywie, a ich skala zależy od rodzaju i zasięgu ataku.
+
+**Główne skutki cyberataków na firmy:**
+
+*   **Straty finansowe:**
+    *   **Utrata przychodów:** Cyberataki często prowadzą do przerw w działalności, co bezpośrednio przekłada się na utratę przychodów. Dane wskazują, że dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów.
+    *   **Koszty napraw i odzyskiwania danych:** Naprawa sprzętu, infrastruktury oraz odzyskiwanie lub uszkodzenie danych jest kosztowne. Średni koszt obsługi pojedynczego incydentu rośnie o około 10% rocznie. Według raportu IBM, średni koszt naruszenia bezpieczeństwa danych na świecie wyniósł 4,9 miliona dolarów. W Polsce średni koszt cyberataku dla krajowych przedsiębiorstw to około 32 tysiące złotych, choć w poważniejszych przypadkach straty mogą sięgać milionów.
+    *   **Okupy:** W przypadku ataków ransomware firmy mogą być zmuszone do zapłacenia okupu za odzyskanie zaszyfrowanych danych, co często wiąże się z tysiącami złotych.
+    *   **Kary finansowe:** Nieprzestrzeganie przepisów o ochronie danych, takich jak RODO, w wyniku wycieku danych, może skutkować surowymi sankcjami, w tym karami do 20 milionów euro lub 4% rocznego obrotu firmy.
+    *   **Dodatkowe wydatki:** Dochodzą do tego koszty wynajęcia specjalistów ds. cyberbezpieczeństwa, zarządzania kryzysowego, pomocy prawnej oraz działań komunikacyjnych.
+
+*   **Konsekwencje operacyjne:**
+    *   **Utrudnienie lub paraliż działalności:** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, zwłaszcza gdy pracownicy tracą dostęp do danych, systemów czy poczty elektronicznej.
+    *   **Spowolnienie działania:** Urządzenia i aplikacje mogą działać wolniej, pliki i foldery znikać lub pojawiać się nowe, a urządzenia mogą rozsyłać spam.
+    *   **Zakłócenie ciągłości działania:** Czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług.
+    *   **Utrata danych:** Wyciek lub zniszczenie danych klientów, pracowników i informacji biznesowych może mieć długotrwałe skutki.
+
+*   **Uszczerbek na reputacji i utrata zaufania:**
+    *   **Negatywny wpływ na wizerunek:** Cyberatak negatywnie wpływa na wizerunek firmy na rynku w długiej perspektywie. Każdy incydent może zniszczyć reputację budowaną latami.
+    *   **Utrata zaufania klientów:** Klienci, powierzający firmie poufne informacje, czują się zagrożeni, gdy ich dane są narażone. Często decydują się przenieść swoje usługi do konkurencji, co prowadzi do spadku przychodów. Negatywne opinie szybko rozprzestrzeniają się w sieci.
+    *   **Utrata zaufania partnerów biznesowych:** Wyciek lub utrata danych może osłabić pozycję rynkową firmy i zaufanie partnerów.
+
+*   **Konsekwencje prawne:**
+    *   **Odpowiedzialność karna:** W przypadku, gdy naruszenie cyberbezpieczeństwa prowadzi do nielegalnego dostępu do systemów, wyłudzeń lub innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne.
+    *   **Kary za przetwarzanie danych niezgodnie z przepisami:** Grozi za to kara do 2 lat pozbawienia wolności.
+    *   **Kary za udostępnienie poufnych informacji:** Za udostępnienie nieuprawnionym osobom grozi kara do 3 lat pozbawienia wolności.
+    *   **Odpowiedzialność za niedostateczną ochronę:** Zarząd może zostać pociągnięty do odpowiedzialności za niedostateczną ochronę infrastruktury IT, która skutkuje atakiem hakerskim.
+
+Warto zaznaczyć, że cyberataki coraz mocniej obciążają budżety przedsiębiorstw, a ich usunięcie staje się droższe z roku na rok. Małe i średnie firmy są szczególnie narażone, często błędnie zakładając, że nie są celem hakerów, a ich ograniczone zasoby cyberbezpieczeństwa czynią je łatwiejszymi celami.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEylyzTTremfdsGzCDwD_InFn7vzNaJ9WVX9DeuNQhjvS3zLANRPSQcDkxSkEDCCaY0stY_imooJYJTr5nj2qGIsKWBNDwsdeev2UjY-7ny_70sF91-KvXsr852mHlsdZPRgBL2kA==
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2qvubhv1FuvD-y-NdP0XOrORPmBWCB8rORNvZRSAb_J3umPbibQH-EJwht0HqCFrr0wlLwCl79wQpddjiEMjzRWbNO3SjZehrB5puBgPOQqbNhYA9a-xaf2CEpnjMbX_QywsifxpEpGxiGVLI6bXrrS7gZOq3OUTdFaGxse3OrJ6PMwjlsH8Ba7SjFl0o47yw0FsZt1G8_yK1OpJAvswjthvHZKZjWeAt7t-2wFGOQfsZ
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5a_LkB1agNCbDMhFxGarAtmbbckDP6Cnzqch0t2mhGldssilvN7qdG5VWXhb9AtxCpIXBe7cG0hgbVVqzOuh9kp4yVYWl6Fq3ov35hl0xKKlk0rsbcNzbYf9V6VxD2BtdERvlp1l-QtKO6euJ
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnJ7Z9QspJbibePSpzY9tAjeygo_VelPVQz0ojKcMN6Bj3EzKPZUsFA-9sleYprtoSQHxIlEg9ZFAKv4V76wtHnRUtf4yVDn2If5IDqo0K1FfBXDrEoMQskw1s6-mhZbldlaCy9hziBlae2r8yKjjoTZjpazuxmy3g4o3rwxX9yl1gATaLeB5AZXvqPnfH_LsQe_P9MggAvbC2IaF47kLWvVgO4x_-ToI2s1JYxd-1VTtXp8z7
+obau.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtfnXybov3le36WBEk7B5aQeEGZUy6LhVpFboY503qdKCTlVwcfBt3UNkd3wh5wgQZzlcjJc_yFeZMhV8-jWJ6Vhll0n-DbtCNXIVOWOe2p28HjJ9wA5Qlxwr240lsL9S72Geb2qzGBj6nKyPOdqJg2N_A49E=
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa-du1zpND8gAhVwadyl-2NkFy6WuRDVQ7vuxZD8RCCaD1NXdpuVIykl4kEIZx5YAN84dfO8Kqn0gg9rzJX4POe6fCRo5jBJ8Ru6vvboeEvcJJzPowb_MPQECMHCMnUdKxIbRhT6kvOTzam3E8IyKFIHHt5GgCXewX9DS5myuuZHxS7h8PjIVjEzXJuyXN3aShdEZw7QdA8TOBtSUk
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgcoi5v9cJRcUL9KTwkFbyUXujg1ARi_hp8DLZ50965TR11r8COCTeFJP6gMUmcmI7oaJ9cIGZIMcIS_XTyyUfVOzVhpLP9wiiNQE_YYonGzGJJ7TUheWTBYNr4xitF2b-bYAFEEwFi_BiHtSy2XUV5Pef4A==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL5Hd9eMqsSYluBY_B81iZiqC8mRhN1XBYOiA-YfYPNLSY3Z3Hh_IHrR4SNJeZK4Sf3lPff0rAAMm06_hcsrugjFEo1veHEUJ0rPqsqEn4A3NSlV9qMfqXuj56GPP1900W1icnlwau7jf4LwdkdZbAjygMYUYwvB0qXPjcE3uOyx51H_hW-Wa3NW6m1ig9
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Mh0ArDbkICZ9gVW2uY_BWY5jBO4HHBQQzTTE2ZhGBv7PvPQt1JmMyGBrI4G9hZAcJwa6Lq3UUccvpg2zVcfrGBiRjhIGO0FB5Ens8vA8ODJBvy2DDnpQNz1VaT_7uhtAOkZGf0qogpac-uoVj1_9wzwqxAnIjq2CypDIv7bXAHMPzUzV
