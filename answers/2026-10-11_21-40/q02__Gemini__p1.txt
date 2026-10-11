@@ -1,0 +1,44 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-11T21:40:47+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do wielowymiarowych konsekwencji, które mogą dotknąć niemal wszystkie obszary działalności przedsiębiorstwa. Skutki te można podzielić na finansowe, operacyjne, wizerunkowe oraz prawne i regulacyjne.
+
+**Konsekwencje finansowe:**
+*   **Utrata przychodów:** Cyberataki często prowadzą do przestojów w działalności, co skutkuje znacznym spadkiem przychodów. Dane wskazują, że dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów.
+*   **Koszty napraw i odzyskiwania danych:** Naprawa sprzętu lub infrastruktury, a także odzyskiwanie lub uszkodzenie danych, generują znaczne koszty. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 miliona dolarów, obejmując przestój, koszty odzyskiwania danych oraz wynajęcie specjalistów ds. cyberbezpieczeństwa.
+*   **Wymuszenia okupu (Ransomware):** Ataki ransomware polegają na zaszyfrowaniu danych i żądaniu okupu za ich odblokowanie, co wiąże się z często wysokimi kosztami.
+*   **Kary administracyjne i odszkodowania:** Firmy mogą zostać obciążone karami finansowymi, zwłaszcza w przypadku naruszenia ochrony danych osobowych (RODO). Prezes UODO może nałożyć karę do 20 milionów euro lub 4% rocznego obrotu firmy.
+
+**Konsekwencje operacyjne:**
+*   **Utrudnienia lub paraliż działalności:** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, np. poprzez brak dostępu do danych, skrzynek pocztowych czy dysków w chmurze.
+*   **Spowolnione działanie systemów:** Spowolnienie działania urządzeń i aplikacji, znikanie lub pojawianie się nowych plików i folderów, czy rozsyłanie spamu przez zainfekowane urządzenia, to typowe objawy ataku.
+*   **Zakłócenie ciągłości działania:** Czasowa niedostępność systemów informatycznych może prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług.
+
+**Konsekwencje wizerunkowe:**
+*   **Utrata zaufania:** Cyberatak negatywnie wpływa na wizerunek firmy na rynku, prowadząc do utraty zaufania klientów i kontrahentów.
+*   **Spadek wartości rynkowej i przewagi konkurencyjnej:** W dłuższej perspektywie naruszenia cyberbezpieczeństwa mogą obniżyć rating kredytowy, wartość rynkową przedsiębiorstwa i prowadzić do utraty przewagi konkurencyjnej.
+
+**Konsekwencje prawne i regulacyjne:**
+*   **Obowiązek zgłoszenia naruszenia danych:** W przypadku naruszenia ochrony danych osobowych, administrator danych ma obowiązek zgłosić incydent do Prezesa Urzędu Ochrony Danych Osobowych w ciągu 72 godzin oraz powiadomić osoby, których dane dotyczą.
+*   **Odpowiedzialność karna:** W zależności od rodzaju ataku i jego skutków, firma i jej zarząd mogą ponieść konsekwencje karne. Na przykład, za przetwarzanie danych wbrew przepisom grozi kara do 2 lat pozbawienia wolności.
+*   **Wdrożenie procedur reagowania na incydenty:** Przedsiębiorstwo będące ofiarą cyberataku jest zobowiązane do wdrożenia procedury reagowania na incydenty bezpieczeństwa.
+
+Firmy, niezależnie od wielkości, są narażone na cyberataki, a skutki mogą być katastrofalne, szczególnie dla małych i średnich przedsiębiorstw, które często nie przykładają należytej uwagi do ochrony cyfrowej.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPznXmFBtUXzzGMItEMcjz2mDyGJhFCibR_h7vWhfJJJgPuhJd-iLfmzU6XcUi7KSEZmBhRF7flpgEPhFwwb1dlTTgNLaH9B1rpayVEsu5PimpadgblUmzRCjTLMBZzHTkWPXbcA==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWnwKvGEi11aWTc8eQeyhOkPMnlSNs-mLyGhdJiHZnzbLq_7hflVRMeuLRXsxlYYHxgbvV_GjY5wYLZSBe5CSl5EmMeI-fzpWuqs0yF28xUtpdzKEt1E_DJJsQEtYtFytXl2H-NjMg5rHp9L0_eTlx0_W3coKrZEHWpAwGME0mVitTziKYpyqsFcl7SpOHcw5YMoxBZjaQdUXCJsDYpK5KjCRLPZ0fGClrSinpMl6_aKJaHv05
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4lJjEKRbLcYrKlp6WkE5dmWnlPO9jfyZcwcBeP5twm0GAL19c74_d4dmTqx3apzwzRdXOQBjPyayMC8lj69jgR4YVdI4yLqsfgkWVT52oJ-r44voz1OVtjoci7AxVDHDq7coDPcOmqn4OX2KVz4DmO78Bg0qgdoDsCk5gdty_H2WNYedPMFXJ0afpMu-i
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI2JJcqZMRdLDuQu1gIs7tIT8VoZjyOPlzneHrrYh7_JKijdHz-BOjK0yXDIgo3ccEHwW2mqHnQkHKK7C08q9Dy0Pen832pkB0wjcjkeDHCLiaDAUl8Iq-jMI60q5i78HceHmZaQdUm-6QO2y-xmrGB9VxByjLGXfgd9oQ4CeLlZ_rkiWJZ8su4d3RhgmIiKYs4ajZmWdK0nhZ_VKI
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHIwj1n5UmNcYp56it_TroUcXGiRpo65hDbuSPKgKj07E0AbQaSPIb92VtVFx1FTp_7OP9BtuDV0fx4trYpI4mFSgyjrP653gE9fA9VFxKRpQ8uVNAdfVFakqwguwdq0hh6pvtyqnDNhbdJILdp9w4LkKvqA==
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUFyq9I2UkqEgH2iLsyUqBa-glrRCwqSU5VTeB1m4wr6ex7drsfRI_zEKypbs7phHOagnTTgKhaa2FGC5G_saQKf0_2Do2sGaw-wmi7Y730Gwi1amL1vliq2R8vRKTeyuiwAfRA1V1_1EVwJvLcsP2RQJ62dgjuOI2ZwHR18rdx1pAMAmIADMmJRKPFNQAxq5YpP0Ujk_oPRFY0Ws=
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH63sR41AJYhWc-eHVYGd4TdPm7wzJjQuk_87nSqpe1liRmiX0f_ia92l3pttGjJnkisFBIekyyYyQ2-gLqwu2g3mGc9B9jjpy5wfbx4nZRyLew4s3SEGdx6ms9n4yrdJcenqk7e-DppdM6EPrI4QYQ-qPz4w7RU9BMkvg3SDFzsCqdr2-Spmp6etDVDN6d3uZ-brR5QEyuDXSTFuMMZfwAclc4yYP8w2dgg4oHD2sVSxJM
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaO7ry7jamJL1KLIcHdjvW82XTG4QU1uqVy2cI_Ix0j6MtlfWX3nY3jGrD9eH_6GxX6M3hz91eOxeS7OyKp2zGLUWyP0IJodDo20PXv4Q-2thaDGSqRmv_KHGkWdETRNZOKTKvTCFFw_1Fo8TfYJhPWeWb0oyse5Y-yRcoZCjf2oI3M2M2d1EU8tpZiQIPViwo
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE9HbjAuSQigADdf4mEX8CuFBUw952qvc0-92pmDSlF86rrfhu7NBGDT3fP2pUz-F3f8cC4mXbrq0SrHu6mmCLIxF9HK7s01bllED-LA6FlytYqQYrb9Dayd7o2BUy4uxw3FVwPkyiWXAUPBZDJxCgAImdYXJM7JYq2omdT9q84MYXInBR
+brandsit.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgI76ssYLBCqoxwnp38XNyYGAgfrYzV6kTJfRbP11ibXvk2cN3NadyayPNSvlJcWjYCnR4bD5hZaFcN07P3seXjGZQkI4yCa7QIGCFsl2RbaoPWYMdwWKEs5rqGFt7cXdNaVYGBiTYx9vCQS6wjD8LcP2PvsKNe1fuf3pbznGp1UBjkLVEanaA5zg033jfkqLUf5tndGDTgowofKoeVGaihHPcwxg7aYxVoITOdraODquDYxYNWbQvKk3YKmGeFNt6nKzk
