@@ -1,0 +1,50 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-12T14:54:23+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szerokie i dotkliwe konsekwencje, wpływające na wiele aspektów działalności przedsiębiorstwa. Można je podzielić na straty finansowe, operacyjne, wizerunkowe oraz prawne.
+
+**Finansowe skutki cyberataków:**
+*   **Bezpośrednie koszty cyberataku** obejmują wydatki na wykrycie i zwalczanie zagrożenia, zarządzanie kryzysowe, odzyskiwanie danych oraz naprawę uszkodzonego sprzętu lub infrastruktury. Średni koszt naruszenia bezpieczeństwa danych na świecie wynosi około 4,9 miliona dolarów, a w Polsce około 32 tysiące złotych, choć w poważniejszych przypadkach straty mogą sięgać milionów. Koszty obsługi pojedynczego incydentu rosną o około 10% rocznie.
+*   **Utrata przychodów** jest częstą konsekwencją przestojów w działalności spowodowanych atakiem. Dane NASK wskazują, że 2/3 firm dotkniętych cyberatakiem odnotowało znaczny spadek przychodów. W przypadku ataków ransomware, firmy mogą być zmuszone do zapłacenia okupu za odzyskanie zaszyfrowanych danych.
+*   **Koszty odzyskiwania danych** i systemów mogą być bardzo wysokie.
+*   **Odszkodowania** dla klientów i partnerów biznesowych, których dane wyciekły, również generują znaczne obciążenia finansowe.
+
+**Operacyjne skutki cyberataków:**
+*   **Przestoje w działalności** i paraliż normalnych funkcji przedsiębiorstwa są jednymi z najbardziej dotkliwych efektów. Ataki takie jak ransomware mogą zmusić firmę do zawieszenia działalności na dni lub tygodnie, całkowicie paraliżując pracę z powodu braku dostępu do danych i systemów operacyjnych. Ataki DDoS mogą przeciążyć serwery, uniemożliwiając dostęp do usług online, co jest szczególnie dotkliwe dla firm e-commerce.
+*   **Utrata lub uszkodzenie danych** strategicznych, poufnych informacji biznesowych, danych klientów i pracowników to poważny problem, który może mieć długotrwałe konsekwencje.
+*   **Spowolnione działanie urządzeń i aplikacji**, nagłe znikanie plików czy rozsyłanie spamu przez zainfekowane urządzenia to również sygnały i skutki cyberataków.
+*   **Długotrwałe odtwarzanie środowiska IT** i utrata ciągłości działania to kolejne poważne konsekwencje, zwłaszcza po atakach ransomware.
+
+**Wizerunkowe skutki cyberataków:**
+*   **Utrata zaufania klientów** jest bardzo częsta po incydentach związanych z cyberbezpieczeństwem. Aż 85% konsumentów deklaruje, że nie zrobi zakupów w firmie, która doświadczyła wycieku danych.
+*   **Szkody reputacyjne** i negatywny PR mogą prowadzić do spadku wartości akcji i odpływu inwestorów. W długiej perspektywie cyberatak negatywnie wpływa na wizerunek firmy na rynku.
+*   **Osłabienie pozycji rynkowej** jest realnym zagrożeniem w przypadku utraty danych lub zaufania partnerów biznesowych.
+
+**Prawne skutki cyberataków:**
+*   **Kary finansowe za naruszenie RODO** mogą być bardzo wysokie – do 20 milionów euro lub 4% rocznego obrotu firmy w przypadku wycieku danych osobowych.
+*   **Odpowiedzialność karna** może dotknąć firmę i jej zarząd, jeśli naruszenie cyberbezpieczeństwa skutkuje nielegalnym dostępem do systemów, wyłudzeniami lub innymi przestępstwami. Polskie prawo karne przewiduje kary do 2 lat pozbawienia wolności za przetwarzanie danych wbrew przepisom oraz do 3 lat za udostępnienie poufnych informacji osobom nieuprawnionym. Zarząd może również zostać pociągnięty do odpowiedzialności za niedostateczną ochronę infrastruktury IT.
+*   **Inne sankcje** mogą obejmować grzywnę do 10 milionów złotych, zakaz prowadzenia działalności, przepadek korzyści uzyskanych z przestępstwa oraz publikację wyroku, co często ma poważniejsze skutki reputacyjne niż sama kara finansowa.
+
+Warto zaznaczyć, że małe i średnie firmy są często atakowane, a ich ograniczone zasoby cyberbezpieczeństwa czynią je łatwiejszymi celami. Ponad 70% polskich firm doświadczyło cyberataku, a eksperci szacują, że przeciętny koszt ataku to ponad milion złotych. Niska świadomość zagrożeń wśród pracowników i brak inwestycji w cyberbezpieczeństwo są uznawane za główne czynniki zwiększające ryzyko udanych ataków.
+
+[Źródła]
+obau.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP3cfvirMe7F7voaYFQZVXQSHlOTiUx_oQ7-a-frr7-zcHGDKO8gH2VyzgwtKEzcle7OL02gROy1WPwqDB53ufDHg-tLMBRWScgpcUiqKnl-eI-0rLk9O0KXD0TGSdCAwRZRmKsN3ddaYvOBEuKMBLFZyfmHs=
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJEV26VD6spDKnxDprWpEAChbM5r-yWSQclFgNh04lX6uUSbRIJPr3uwyC_j-jeJc1HNIfJjpOzZjIIBEbQ-y3eZewtD_iYmaWN9_CjfR1YIYZYE5501SlxMzX0BngGWzJVncd_Ele7yszLdbRyk8YfICZxK3FUtSh0rB8FK29uoTJefMZOU64JXurqDKB
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6RqbryWeMWWpHanhqxG2ual5oWrHQZ7tkFfnXRmXi-WG86I3FZ45NLmzVjuDP0Kj71q-lYawPKHV4s3DcBCQCHVeN3M4E-VKtj3bRiuICP2ucwaG4IcB0QfHKinCXHUHy2joOMQ==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBrX2wAT7TxdCe7T5MNRvw9UkIj1H7s5BkdgWFcLEC8r5027ObFFFICeT66qUATy3Zp4KUkxByxXByTjh67YurVEiVLDx8eqArRU--muD58RNe3g6wfaaUYQUFvJjW4Fni4dW8Jm9WuTWALnStfPdJRHXr4k6JVkT47G5SCpPWGFX515jvVOe-iAajCF0vn7_DGA7VlCXNcbVNmSIprVKjMew96MRmzM_KZbN-jn4JY4o1X4hF
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDhAS5LVzFp_57EWnG1eJzUFENb6iWzS9kkfy-UGR3BkrlRj46e44clvjDNfdjk2dX_L-_3ZzvwCbPmxWwZG_wipTgDMqgGTMLNIWOMPA88gIR2hvCCudbPV-SKTAo_WQCxLKuoOk4UobqfOkfxhksre9KGD6LVfN8btwod8U9SMTPejEVaeD8O9sAcnp9CCRc2h--98siMjKhshzq
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-U8xGXtXsPLgixRQjIX2Dg2L8NkM5ktFWt37wXy71aVpf2akl1Yd3TLgj2h2pjYptKML4AQ__eS5qJaudvQJOq2aWDbLKg3gRD8TH069F8_E7bHhD88tfyjjjXQNA1XSLYmG6K7lkce2lbqx3aA5UQc1XVg==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHirIk3_yWLWP7aJMbQY0a4-B9IQkWXIJggrBVn_UaksIn1UKktjlExd7vg1eQxQpwo05pwPsiyhnpvO8YTNzKlXgm1DnXo_4ehGAM4B-It4fbspwi2N2iCY87ndI36oOBWTD9teJPCqlXYROFR
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfALiz_qwmQC1P-bvpzH6gbvQM_Jd8lxnWhbTPEAqKXuousWHWeeY_DB7mP0rbx75GG84gfoNqeUr3ksFYcNYBA28sNFGbEzQ9C2wf3dFf68FzXmP1DXXaXlxQ4WFqqeaE4945VooqTZor2Eb5PxcTkzxwqneE5SROwZxTTbgTh0j1b93guBhpp3eLT2qTEEpioTZSGQXUMWTsPAdIAOVdjFmSZuS5u0gT3EkaiqCn1oMX
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1Np6mtuWWH4tkFYIxmz6UGHbjjxzHs035mxLfuhsq9mbFFrLefKxAMZEboZK47DxMNauV-GUqVzG3IEqMIpMAs3wReBo7yXZgH9QBa9gq4mv01mImSAouFhRaWA50JQl8jWhC5Lh0VzF9xbDeLfqnHvto8vf6M3ywCsfzO5YXdGyi8y-pukgvp4lgRVSoDZvxnjeY_aa4tIn1Z4rFN535U7P75vJgvOfchMUHl3Irdqg=
+sabuda-sawinski.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU_h6LJYEv7WBmDFH_2P2Eo2py6JQ9iRwfy8RIpTZFFhOjg6PD7xRaWR-kdzvLg0PnspaS5EdCV8dw8ZSlNgcT_9BdhFvviRtcxRwUVGfzZVV_JFu851rmWkzK_a-qLnluhU28iCDxlCB-mKxRkigkTfkDw7NvkGn5_MVbBQ-tPXTv50vHKVq0-b-5d1Y3IXNWGPCFSiP3UQ9_lydOj-KMwtSNXabnMehP_MkHkOY=
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU9AmZSXm7pl6WiLDuGLrMGXieqLQWtOr0AN3bPEvW6wE68E6zYwgyVOP6nBsK89m7QMD_49FvtIlDvSNT4xrbgNP6FHFFPcGxOjUyyLn-vEx4cwnkB5DI7hhNrVs_L_LVNh6FtQazV42XvLyzEtypBBWRUf-kDh1V5FIsGZ_U6g8TVat496p-K_kj8yfazbipjXn_U36eSP0q45iaQYSa
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF96ezsGvf39TZ8y5pcCgx3GPiLao7wZ4Vw-Jon3LOrzZ6rV-yTofD47cPaKWkSKMqHgM-9GBp5r5mqM8MbOIptWnsyDK9iN4pb7KTJPYY_Y0NhEXxlbsvmnjZQeg9H6hjYv78IZ4X_Ju-eAP983p0zmK1poJwxOaMYzs5byX18P-HW_77usgsJ
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2O-__qWL6Z1TQomWGpE2gWUT-Qtfa0hgK7osLe7Q86s7wuA8pJRPnqLnCdRUFXQjeU4PyHSoU6zVBDdNmriPvjKu1vlmO3tP6xhn1sBkSPHmbPHLwLaoKYe6wnCfbScE7dNhPuEZ7kPhBzAI3qqKMYa1oCWtNrrz5qOJwKzlRZaOW04RCg_4wRMmpJxIq3uuLNtnp9acg
+gdata.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQPRTpyDQ3IqgeOsAo1afZ0ieilP9A7MBZrTaQcnkx53HN8NfNcxwnqKBqNhYiY2DhhJOJL3OggUEn_OHeMhHav66smoKBuC-Zmec6pf2Yo_9IE1xLGsTBpQi8KFSPt_qilsCDbav7F5AXUmaXEBTiHrOdCw7ezj5Aa9Vwfx1sgr_gPxLZIjycfY6_jz-hMoayrzI1miKA9jP04g==
