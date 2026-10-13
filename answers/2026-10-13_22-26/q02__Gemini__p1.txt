@@ -1,0 +1,32 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-13T22:26:42+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą ze sobą szereg poważnych konsekwencji, które mogą dotknąć przedsiębiorstwo na wielu płaszczyznach. Do najczęściej wymienianych skutków należą straty finansowe, problemy prawne, zakłócenia w działalności operacyjnej, uszczerbek na wizerunku oraz utrata zaufania klientów i partnerów biznesowych.
+
+**Główne skutki cyberataków na firmy:**
+
+*   **Straty finansowe** Cyberataki wiążą się z bezpośrednimi kosztami, takimi jak okup w przypadku ataków ransomware, koszt odzyskiwania danych i systemów, wynajęcie specjalistów ds. cyberbezpieczeństwa, a także kary administracyjne i odszkodowania. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów. Dla polskich firm eksperci szacują przeciętny koszt ataku na ponad milion złotych, co może być szczególnie dotkliwe dla małych i mikroprzedsiębiorstw, potencjalnie prowadząc do bankructwa. Ponadto, ataki te mogą prowadzić do utraconych przychodów w wyniku przestojów w działalności.
+*   **Konsekwencje prawne** Przedsiębiorstwa przetwarzające dane osobowe są zobowiązane do przestrzegania przepisów RODO. Naruszenie cyberbezpieczeństwa, które skutkuje wyciekiem danych klientów lub pracowników, może skutkować nałożeniem przez Prezesa Urzędu Ochrony Danych Osobowych (UODO) kary do 20 mln euro lub 4% rocznego obrotu firmy. Przykładem jest polska firma IT, która w 2023 roku otrzymała karę 3 mln zł za brak odpowiednich zabezpieczeń. Dodatkowo, w przypadku nielegalnego dostępu do systemów, wyłudzeń czy innych przestępstw, firma i jej zarząd mogą ponieść odpowiedzialność karną.
+*   **Przestoje w działalności operacyjnej** Cyberataki, takie jak ataki DDoS, mogą przeciążyć serwery, prowadząc do przerw w dostępie do usług online i paraliżując działalność firmy. Przerwy w realizowaniu zamówień lub usług są obawą wielu menedżerów, zwłaszcza w małych firmach. Utrata danych może wymagać kosztownej analizy i odtworzenia systemów, co również generuje przestoje.
+*   **Utrata wizerunku i zaufania** Cyberatak może negatywnie wpłynąć na wizerunek firmy, prowadząc do utraty zaufania wśród klientów i partnerów biznesowych. Wyciek danych lub ich utrata może znacząco osłabić pozycję rynkową przedsiębiorstwa i wpłynąć na spadek wiarygodności marki.
+*   **Utrata danych** Jest to jeden z najpoważniejszych skutków, często wymagający kosztownej analizy i odtworzenia systemów. W przypadku braku odpowiednich kopii zapasowych, może dojść do nieodwracalnego usunięcia wrażliwych informacji.
+
+Warto zaznaczyć, że cyberataki nie dotykają jedynie dużych korporacji; małe i średnie przedsiębiorstwa również są celem, często ze względu na słabsze zabezpieczenia i ograniczoną świadomość zagrożeń wśród pracowników. Około 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy.
+
+[Źródła]
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnSqQ7OwB7A7r0Nhr8Zw7PvIhfeuTRmPNCS7Wy9iV-UXjemtKu29CtqasrkGkDahdjtdQ5x-706EUU3SL-57SQxEgTvdmdzembI7gIvEHuX0DHPyatTJ1qKnMygzl1pmkLZrNwpn7bP-YzxeZ3rBQYdGR6u8E5EwbkZIndBM7fJ5LU9DuRa4cFSfpPirQ=
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKFfHmmKAMRgo3rOL9s-aaOKgT1SntbvuIcHu_tXSHbnJAPj5sjXKsI6UzJj0JTfd-LrgEdRFC7JzbwV_LsNpW9RRZ9hvz1cEZt5hNwFVtwcJFFTAKJ_eQV9Hqn-5YGKa5R97qxye399OnMLb75Q8hiXtZ
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPLkaEQ012vl2wjZwg-1-JdKDQNFARiSp4K11cfFgvLB_tWESn51EP3pUDqyC7gxCF5u1jXPoJ3ueKcRkAHXmkRyt96bMoLoIlCwaZzA7psjV2uHaHN8iGOnLz-bBCZp_ocXEwS_bZXPVuK6eRL4KNc1Pm4BB33dBaSCvmj1pMETGDF5Y_a6w=
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa7H4SP8gbK3kUPYBgkX7vBLCEidpa_R2hBIdqg_wlD_2pK7h-JwVNmzrkJQf4K5BqPGnZ6ql3l8m43RJvfczV5D_lq0zrYzNbugEXQGh7ESHnOlj-iyNl7eMkk7q98VxHkLxPeHE2MuDUpjg=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3TuXT73tWMuWwR1WcnM39lNaUWGaF74iVn60ahN38cmKvumbm63LV1mt5l9orN2c1D78_Xb0EcgJaJqNmnugWt9EJ2LToXWfY8yppeUwMR8VnX5qGpGScCg-9j_vW1UU9GnColCk08o-8BJtuQvHbI1Nf2kL2IPV5q986nPKu6bccog0=
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS7ImSpgUm7iJWwOcurNC2hDw72A7ryMM65kljs1Hz3MWLEEYgt4xfCi-JdLCN2Hh6tgTiDO4POLlyNoGQhwGMsSw9CMe3r6pMYzcRLjooM_kE1CqkubFFw-xZnAIyzpsTmZjlBWQzLpNw0RsPpgFdlNFzO2CMvln6MJPvg8jVW4X_25sUA0EakwWfSS16X9-hardTvRo=
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNihjGD3cvBgOoaxBH9W4RmjJ3_djGVPFwH97kdLETeAr08UQeoVZKB5_GcPOdF9dLNZA8dUsVXNY8bLjhVoxC_5JuPAynM5Oo1Cifm51KM1JgeAfJO581TaBuKtc2otZ2BV5JXWmFaWQjVNZFDKFE0YS39KVxcjMnI93jAG4SejhF6arydlZVCTpOumRRlh9yrVZqj0-DCW4SROI=
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAPMj1dChieGpzLhV8ruhs5LHzGBlr4GAKshx3DP3pckEG8lC8ilaNd2bo3HateBjcH3RcwOwvLQxVeuOnrSp7yC0giys6fu3f-IS0-FNv5m3iXGfIc9MiQbc0c5m-H2jKgAKAJyPg1MIoZE8l4ZGKOWVpNOsuHvm688iucKwTJ8Gi0e91k-LAODaHVqqlMi68eWMj5nFg
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4dorTHY_uEdiVmOSgR56V8fy156_rbAtuO3b2zbrVms80aW5haOLXcY_VjPHIXR7VmQIPebmQM79YNQnlvV-JjwuVZIDx_Cw6naEr0x7_AUhFHgpsvrjMWEFLQ-LhH4ju5Sr
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzW3XQE8C5sAOaxiITYoGxln-k0b3PjJGxeM_jv0irf2ieBiDq3sE9qOz8siGNSPKfZ5BTLVW8IoI_JDULNxyoXggZyktktoJRc8euNaAKoPeDdYuJKhbx7z2ABmKs6SOuKQXufVcW4yZMWn9TOvXkGQw4P7zwOkCyhczJGO55kvcw_lPPl-lTNNGu_pGfmAfL3k6_qtVJXPP23ETQfsFOSVHFCYg4rCdqRy02Mg==
