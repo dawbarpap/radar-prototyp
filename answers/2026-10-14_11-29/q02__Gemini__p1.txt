@@ -1,0 +1,39 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-14T11:29:52+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, dotykających zarówno aspektów finansowych, operacyjnych, jak i wizerunkowych przedsiębiorstwa. Przedsiębiorstwa każdej wielkości, w tym również małe i średnie firmy, są narażone na ataki hakerskie.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe** Jedną z najbardziej dotkliwych konsekwencji są straty finansowe. Mogą one obejmować:
+    *   **Utratę przychodów** Spowodowane cyberatakiem przerwy w działalności oznaczają utratę zamówień lub usług, co przekłada się na znaczny spadek przychodów. Według danych NASK, dwie trzecie firm, które padły ofiarą cyberataku, odnotowały znaczący spadek przychodów.
+    *   **Koszty napraw i odtwarzania systemów** Ataki często wiążą się z kosztami naprawy sprzętu, infrastruktury oraz odtworzenia utraconych lub uszkodzonych danych. Przeciętny koszt jednego ataku może wynosić ponad milion złotych.
+    *   **Okupy** W przypadku ataków ransomware, przestępcy wymuszają okup za odzyskanie zaszyfrowanych danych, często sięgający tysięcy złotych.
+    *   **Kary i sankcje prawne** Firmy mogą ponieść kary i skutki prawne wynikające z cyberataku, zwłaszcza w kontekście wycieku danych.
+    *   **Wzrost kosztów ochrony** Firmy muszą ponosić rosnące koszty związane z ochroną środowisk IT, co prowadzi do zwiększonego zainteresowania usługami bezpieczeństwa jako usługi (SECaaS).
+
+*   **Zakłócenia operacyjne** Cyberataki mogą prowadzić do przerw w realizacji zamówień lub usług. Objawami ataku mogą być spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików, pojawianie się nieznanych plików, a także rozsyłanie spamu z firmowych urządzeń. W niektórych przypadkach powrót do pełnej sprawności po ataku trwa miesiąc lub dłużej. Ataki typu DoS (Denial of Service) polegają na przeciążeniu serwerów, co skutkuje ich niedostępnością i zakłóca działanie firmy, szczególnie w e-commerce.
+
+*   **Utrata reputacji i zaufania** Cyberatak negatywnie wpływa na wizerunek firmy na rynku i może skutkować utratą zaufania klientów oraz partnerów biznesowych. Klienci powierzają firmom poufne informacje, a ich ujawnienie lub narażenie na ryzyko osłabia pozycję rynkową przedsiębiorstwa.
+
+*   **Konsekwencje prawne i regulacyjne** Wyciek danych może prowadzić do sankcji wobec kadry zarządzającej, włącznie z karami finansowymi czy utratą stanowiska. Nadzór regulacyjny w zakresie cyberbezpieczeństwa staje się coraz większy.
+
+*   **Utrata lub uszkodzenie danych** Ataki często skutkują utratą lub uszkodzeniem danych, co może wymagać kosztownej analizy i odtworzenia systemów.
+
+Warto również zauważyć, że często najsłabszym ogniwem zabezpieczeń są pracownicy, którzy mogą mieć niską świadomość zagrożeń, co zwiększa ryzyko cyberataków. Mniejsze firmy bywają łatwiejszym celem, ponieważ często mają ograniczone zasoby na cyberbezpieczeństwo i słabsze zabezpieczenia.
+
+[Źródła]
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUfPvRbu_YN9hUjXiiSdHb5b8HOwBtUTd9Hzl5z1GJF2fBC05xYOG2zz01g_q68CQb1KwV2Z99RkDDSFm-m3EizJmizG3G8LSh33YXp5DZay1jyrtpgAIwM_enpGEfMvSq_TEnxJLSQIuWaON71NRTPYNfieP-W_7ejYn5yILdM4I-Vb3Kxp1WRXFzPNeg-FHdVTDPGZMEYsNaxyJ8
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_m2es7dMImk5lunxuKFatpQJ8qo3A8lQxYCtSW9ZW339ywLczDD0j8CoSBpVjRDpsZciK65_LaB6dxh8s9wJFjSueWgPBTCXM0HLxhfqjin0o6C2UKDKOG3hsumbzXQR8EtQSDadOe4vhHjEH2fi-EJrHjQ==
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG98MHoXZwRMeuJrk6_pOjZCreYtOasxlivorS5Db_vcOKY8QbsCD-B1EINDN6e0p7DW6FORRyPZMPKVGzdlvMelZieE2gu09FzaQrXmk4iki5-hIWmGVxUuhjYsksKvYWSMRzQow==
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvAVHbgxgpZXIVYMEpE7yrFI-MJMHn0tbcq06E7Fe4E-9LH7JEJB1aYIdpRjTXztdL3CTSX9NY-kZ3eoW1KjEqmDEEw-JgMmiuqfijj__bvC4FheT0blQL_daGMDWTvt9Z5rAPi-P_am6eTvUBE6-p0CWAa4i-SNMl5GYPfGNhdXrq8WdZXuu3Fho5_C_Yx58MuHfxrJ6gl0WWHw71Aj9CnA==
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWY9GmrCsaj0ISbAwWR_pzOxwp3kQihWJMhSnhODG4u6ij57V3GSIhvszJTIBYr9QGzIsPzeaQzZ2i3EdEYdMQ3lcnDfyyIrBffNH2m4U_4dX8_tUzmahtEXWp4BwqZj7J-02xrl7h9_lv_4ZsMs4ObBjW-_ELlvZ0cdcHMzWiz-ObgE_hXV9iAYenmCRGf-nviVTf-48l
+focusonbusiness.eu — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT57fd3-qnEq_A0XvrRLADohx6BxSzwKJP6UqpO8RkYvi-Lkm1Swbhxib_OpezfiiGMLikhjh1GexPePI47x116gvB4qCVXW1DvQLDQ1i8S3dDKQQ56FFi3a-UMfBRlVubrorwpvF7H0ntSmxUezSOI0SXH_rFg_ILOJrdIayGu1iAvLyQwKvBqUIXZjIiqstlOSNN3YLeQchW5dqLgKk33hYV7NVQ_sNQ2DaKJS53d0_mfRYPn5dXyRFdR4PGbtalkuPummiaePg=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgna5MGRPGByY-4vSM4S7C2AWiEWa9VtRNyxk3ji2ABdRIdzfwY7nnzur6LvGz1e894JZpRjnTmIp_6pKfttbXnPUJ2VruIDK3uPca5E0hJWRLbKY3scU3NYpZXnpurDhrcEkYCl4HkisHWbtn-hwca6QmgLvmoueQuNvFQc92lN4HKzQx
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzwJGEGpCVc7_naz5BST4q9gCKguNpkvvEn3mTYnZdU2FSt5whofsytWVySb0kkkgkHFJIn7cvJf6IkgolHSxSArX28jmR9dyOHjVTgu0_xKbi0idllJR13JijmyPsEArMmLaRekJx6OCImbGRfRGtMiRT8JmVSlZofTnNnnCUQGHs0UOWv675bUhFzpczuhWXsaUYAshjVvalu28DbUBEN999bPhMNxZjYDmk_us=
