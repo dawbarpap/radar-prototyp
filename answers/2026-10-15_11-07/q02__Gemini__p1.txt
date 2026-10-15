@@ -1,0 +1,28 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-15T11:07:09+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, obejmujących straty finansowe, uszczerbek na reputacji, zakłócenia operacyjne oraz reperkusje prawne.
+
+Główne skutki cyberataków na firmy to:
+*   **Straty finansowe** Jednym z najbardziej dotkliwych skutków są straty finansowe. Eksperci szacują, że przeciętny koszt jednego cyberataku może przekroczyć 1 milion złotych. Obejmują one koszty związane z analizą i odtwarzaniem systemów po utracie danych, okupem w przypadku ataków ransomware (często sięgającym tysięcy złotych), oraz utraconymi przychodami z powodu przestojów w działalności. Polscy menedżerowie, szczególnie w małych firmach, najbardziej obawiają się problemów z płynnością finansową.
+*   **Utrata danych i przestoje w działalności** Cyberataki często paraliżują podstawowe funkcje firmy, blokując dostęp do kluczowych danych, skrzynek e-mail czy dysków w chmurze. Ataki typu ransomware szyfrują pliki firmowe, żądając okupu za ich odzyskanie. Ataki DDoS (Distributed Denial of Service) mogą przeciążyć serwery, uniemożliwiając dostęp do usług online, co jest szczególnie dotkliwe dla firm e-commerce. Przerwy w realizowaniu zamówień lub usług są obawą dla 37% menedżerów.
+*   **Szkody reputacyjne i utrata zaufania** Wyciek danych lub ich utrata może znacząco osłabić pozycję rynkową firmy oraz prowadzić do utraty zaufania wśród klientów i partnerów biznesowych. Utrata wizerunku jest często wymieniana jako jedna z konsekwencji.
+*   **Kary prawne i regulacyjne** Nieprzestrzeganie przepisów o ochronie danych, takich jak RODO, może skutkować surowymi sankcjami finansowymi. Blisko połowa menedżerów małych firm obawia się kar i skutków prawnych spowodowanych cyberatakiem.
+*   **Wpływ na klientów** Cyberataki na firmy zazwyczaj dotykają również ich klientów. Kradzież danych klientów może prowadzić do kradzieży tożsamości, oszustw podatkowych, nadużyć związanych z kartami kredytowymi oraz długotrwałych prób oszustw. Konsumenci muszą wówczas blokować dostęp do danych kredytowych, wymieniać karty, zmieniać hasła i monitorować podejrzane transakcje. Stres związany z świadomością, że prywatne informacje krążą w rękach przestępców, może utrzymywać się długo po incydencie.
+
+Małe i średnie przedsiębiorstwa są szczególnie narażone, ponieważ często mają słabsze zabezpieczenia i ograniczone zasoby na cyberbezpieczeństwo. Ponad 43% wszystkich cyberataków jest skierowanych przeciwko małym firmom, a 60% z nich bankrutuje w ciągu sześciu miesięcy po ataku.
+
+[Źródła]
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyBLeW--Ql-YsCjI9mnHQC5sM2Ktvk_ydPA6Kv9i_7f7qK9E4kTumtd1DWqPJHpQITLdHS2OFXAG30pBLQLQCcyUWUr4_Yc6Sh91-m9pfrFhA4OkOKDng-Zj6rrRTdfkmNmQayW9ttpc_Gyk6rYCAmj-whm2zMF36YkWB0B0jd7z4pRkFvK34TD8rv9hHSfLSItVppUhpY
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-LJZwb1L6X68CVZp3pNhVxSF4WgiCbhztVAtSF_DZrVjrDzbr5LHcHR9V5nT7hDhGlfsxfZiqCRpeQqD0JXZhg0plmevmBvOXMItxFj9cUTWpFjs4TCHPQF-rNC_5X0NfA0zijvJxeS7JdpLH
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_5FW5wP7WjF1fMrKrWMiMBxnjtu9fj98AQQti_ILgniD1Z9WO5xnDqOsdTze-MhN7n1w131LwrjiN6KWL-Pq6XuYSwT1QuHVcxrH1TyAo-qkCkoAEBSfRd0ASaMIYY241E8hZMKDF1KIerjZSSUNLtFdvNpKm7RnUrMEjZ53mu_I2imqYvLL4PeAToSn-yqFO84y9ZFdWpPaGRBjn1J4_xg==
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN2KMQsbBM0cnNgyZV4mHg4twKW3xx5yWFH-COPRmm6CLjY5GjXR_xgUVl-irg6AkloO1WdCubv4lCIg0plBPnrfq_2-NMbmVJJaXssjeuodOQnYcM4H9-N7ESfMAWM4HX7o-nIjLv9UP3vsVm9vVJVFaj8A==
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgEGwi5MB0DirVSgWU0ncZNBVHpRG15lbWUonXR4kS4Jh-KigRbhJasTlW2QucnHtz_zyKD8hPtjIWYWmIXp6uQvnllC0hJLznGulGik2b3Je7Z4jtBXKWyxgWLMl09NpZfwEnLJ77McA7EO6JLMe2njaLw4KnFaQmV0-7_hSBAzDFSGvwmb_BgV_IacXq2U18Hoise5BQYWuVp5Eb
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1MtuLTnvwOXFMhWHByqq-1QzA_GNmMfHrSh0x0EXe-hslZLnqqhRyA_laHYppCd-7WH554MZbY3caKJg7t8UOAElJCOTuXmbNlmQp4rUTvgJVTyJkz7exRuZ1k512UcIfVWd5C7yw1yZqzMwY46vpgSH1lzYummXF3GcXRc-cCLTtVJj96B7_LH7vDVbFN8sHkZg8JjAxCXt2P37dDGUICNqaV94A5x0sdpJ8dAI=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVCvaVZ3Ib1_JLU7qScnQeW9lcazI0YSDSXbCrPTQswB6O_473yGOkf76JEShnc407At2uh7tNX8swpI2kXDLPzUNrbkn3dybOc8PmHz08ckD5IrF9huL5CEu_7zJZsALnQRoCh_a7VI4QU4k-JxqyrlXDTw5YdRZh8yEK-Unh5ngnoz6w41aTt23S0f3KT3hlBRSTbcEoazPZrCaQ
