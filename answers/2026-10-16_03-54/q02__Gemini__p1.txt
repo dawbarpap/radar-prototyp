@@ -1,0 +1,61 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-16T03:54:00+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do wielowymiarowych konsekwencji, które obejmują straty finansowe, zakłócenia operacyjne, uszczerbek na reputacji oraz konsekwencje prawne. Skutki te mogą być zarówno krótkoterminowe, jak i długofalowe, a w niektórych przypadkach nawet doprowadzić do upadłości przedsiębiorstwa.
+
+**Główne skutki cyberataków na firmy:**
+
+*   **Straty finansowe:**
+    *   **Utrata przychodów:** Przerwy w działalności spowodowane cyberatakiem bezpośrednio prowadzą do utraty przychodów. Według danych NASK, dwie trzecie firm, które padły ofiarą cyberataku, odnotowały znaczny spadek przychodów.
+    *   **Koszty odzyskiwania danych i naprawy infrastruktury:** Naprawa sprzętu, infrastruktury IT oraz odzyskiwanie lub odtwarzanie utraconych czy uszkodzonych danych generują znaczące koszty. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów. Niektórzy eksperci szacują, że przeciętny koszt jednego ataku może przekraczać milion złotych.
+    *   **Odkup w przypadku ataków ransomware:** Ataki typu ransomware blokują dostęp do systemów i danych, żądając okupu za ich odblokowanie, co wiąże się z często wysokimi kosztami.
+    *   **Problemy z płynnością finansową:** Cyberataki mogą prowadzić do problemów z płynnością finansową, szczególnie w małych firmach.
+    *   **Spadek wartości rynkowej i utrata przewagi konkurencyjnej:** W długiej perspektywie cyberatak może negatywnie wpłynąć na wartość rynkową firmy i jej przewagę konkurencyjną.
+
+*   **Zakłócenia operacyjne:**
+    *   **Paraliż lub utrudnienie funkcjonowania:** Cyberataki mogą paraliżować normalne funkcje przedsiębiorstwa, uniemożliwiając pracownikom dostęp do danych, skrzynek pocztowych czy dysków w chmurze. Objawy mogą obejmować spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych, a także rozsyłanie spamu.
+    *   **Przestoje w realizowaniu zamówień i usług:** Firmy obawiają się przerw w realizacji zamówień lub świadczeniu usług.
+    *   **Utrata danych:** Nieautoryzowany dostęp do danych firmowych, w tym danych klientów i pracowników, jest częstą konsekwencją.
+
+*   **Wizerunek i reputacja:**
+    *   **Spadek zaufania:** Cyberataki negatywnie wpływają na wizerunek firmy na rynku, prowadząc do spadku zaufania klientów i partnerów biznesowych.
+    *   **Trudności w odbudowie zaufania:** Odbudowa zaufania po cyberataku wymaga transparentnej i rzetelnej komunikacji o zaistniałej sytuacji oraz działaniach podjętych w celu minimalizacji skutków.
+
+*   **Konsekwencje prawne:**
+    *   **Kary finansowe za naruszenie RODO:** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania RODO. W przypadku wycieku danych, prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary do 20 mln euro lub 4% rocznego obrotu firmy.
+    *   **Odpowiedzialność karna:** Jeśli naruszenie cyberbezpieczeństwa prowadzi do nielegalnego dostępu do systemów, wyłudzeń lub innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne, takie jak kara pozbawienia wolności za przetwarzanie danych wbrew przepisom lub udostępnianie poufnych informacji.
+    *   **Obowiązek zgłoszenia ataku:** Każdy atak hakerski powinien zostać niezwłocznie zgłoszony organom ścigania, takim jak prokuratura lub policja. W przypadku wycieku danych osobowych istnieje również obowiązek zgłoszenia incydentu do UODO w ciągu 72 godzin.
+
+*   **Inne skutki:**
+    *   **Spowolnienie innowacyjności i ograniczenie inwestycji:** W szerszej perspektywie cyberataki mogą przyczyniać się do spowolnienia innowacyjności gospodarki i ograniczenia inwestycji w sektorze technologicznym.
+    *   **Wzrost kosztów ochrony IT:** Rosnące koszty związane z ochroną środowisk IT prowadzą do zwiększonego zainteresowania usługami Security as a Service (SECaaS).
+    *   **Upadłość firmy:** Według danych, około 60% małych firm zamyka swoją działalność w ciągu 6 miesięcy od cyberataku z powodu braku środków na odbudowę infrastruktury IT i przywrócenie działalności.
+
+Należy podkreślić, że świadomość zagrożeń i inwestowanie w cyberbezpieczeństwo są kluczowe, ponieważ słabym ogniwem zabezpieczeń często pozostają ludzie, a brak odpowiednich szkoleń dla pracowników zwiększa ryzyko cyberataków. Polska jest jednym z krajów o wysokiej liczbie ataków ransomware i zagrożeń rozsyłanych pocztą e-mail, co podkreśla skalę problemu dla krajowych przedsiębiorstw.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB9hA9qzZUUYI3dNqanda8WeeZUpPv3-ciPd4nJUd8x8wkYZ4B1TA6zpjo_OL3FdsmvXxbClMKfqdIT-4X9_RmLNpB8u89bQVoy5ehj0PXr9ektIWGeoy-WEEE2f3P-tw94_JrMw==
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGztTq177DW0gJcJdWP5xmzPFuicZkzxuw5ZVDTTR3rDx4N6oKwpJmiFyX8kpTq9tFynq2Q1-gBMGrSmALeQZFvVm1Prm91Xnj7gn6dYbY3ms8IXfrgBZ4ciUE4-PC405rhjNwZ78TbAaS3q05moG2dbPHhaQ==
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpgZJHjo8VcOqGxAy6WzcbD769gk8Z1QGXxC6ZCEdO7rsl2nzH0BDwON6BT3GFldPo-Vo5101I3OKVoyH2lvtIeGasLOg9lCSd2O8IYbpXSAtmBzwzTk4wHJ7pJGbBICL8na_e-t1LjIUP3f60d5hRo2zuSuL_kNVTD8NCJMUGbW_YdeyYy4_Awgagq0g5rPnV
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu-NfqKThCqVpw1sbKqWXMiIv9RAhjnNp_YzCTct_W6sFHrkvCaMZ2uJoj4JbAT_l5A61zEcOV-Lpkz4dBMNsNLTqDEUPHbH-6u_h-EC2fUe13ocUcWxssOZL9ncNgngXu-WFA-kWNpTHMy2gD7dCqazAcVcpB97RFqLTMFQGtDDOuAdemw6Hl3DCOf_JRexj50Rs4bZkM3E3SYpW8ZzoKGA==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8JKVknY0LNCGQ7nhvKh_yphX6NzHEMjk370AcHSSb7Lbpm6BVxfauGUBg6mU5xlLPNhYgTjW_-nXa0THLwwk9FPT8TOhdHHJaDGukxv0DLclF0Z1GLIzzUsPBEsLPOIRXQmlev7Qg5LCotenynvdN-lIhYMdUVrRVPltjaIgHnS5aM58J0w_y13wen0MVkcTSs3tgOciE-envDvDkOAn-tcFrgdaETn8C75P-0uyNZ7jW8_Ng
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2Ex9O4u_YaoMKp0DFg8UiCAy6MoTuyladfTFzh67TCmuUDaSm3Q4VeGCykqvHjfauTNKUlXwnWJQ4V7qFch-XWTLwsBhmc3DISgdkX03ZF6V9StcN3RiIBzZutstWzXE2TLF548M38GEOopJQ1UgBvvI3FQFFrXM1ENsSqefY
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aGtbDUYNi8le-4nORbJFSJDwVNGQpMMxJ9qXCtEP63I13TadB2zCbcrly2OVHGiz4MNfRG_M0RW2rEfCWJ775WNyiPbv6N3ybf2QbB8dWiDmt2EbYlTOSG-47exlVj9JQFAD9h8exyTOB8QOuX-jilQ1SLk5EkzJGdZqyqmA2Tc1czGnYexQU_XOPkSz
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUmwVHssJfVHlWFUFMBsW8peocrO2D2sZb3-pzrJkEoZOf7KqeH4FZVBtS2LNBAcjjI1i6NcoGUDk9mBM8dJfVwTaj0new6u3DD4eOmI-5Rq9LPHVqZdj1OUw48HTfqIH0FojssiXV3iGjpfVx_XKiHPWoccY5JJn2PdmUz-48QG9UVx0kthMDM749UNwSBrS2IQanJtf0dknCjFy6
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmH74gGyAraGxCByAclRvGzLgU9-xokQC83i3yY8rtgCmxDrpxJASbbInZ3B4kduTXOcx8dBtNZmQF0_cDabnXDNp0ZO7u4w5pjFiPso2NgrdxTAqjdV3pBwqKHPvgLE1fZKYa0EvwWE9xVo_zmvzq4B-JC4LEHZ2ihd3SpMzvc8-wrHGI93b8
+karierawfinansach.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOv_eEk9G4ZM1jgodP_MQr3SJ7CMBu8UsSFXBz1aMBAVC_UL1FZzNtnHCu8X95a49Bn_tJ7xRJeamd4e1LGC-SHduuwbpuOSNlrb97hUpR_8XnvamMAaJrhe1o0kmq8hAbAC6sPm6yx33-_8z3lOdk67Nx7jJos8huE_fs6kIdN0WcBs-1F8KlSwkflxglAiZfxcvhoIKe-5X7VFeU19AU4yJorwyM4EoGKFPXOYwFvIn7wHyB7CGtjyc=
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKvHVsqRGiBeiO2igmPMP8IxulevIIJx8xBu7nFIisZfW9B94oUThswuJa0uAtJPjwA3dNMqjppGHTc1y8M4d_ByBAJwD0tATmIDCXQ9_9zXvPpsubzKap3MtLwdm346ZrNcrN-yDmc95BbluyoqAimREFxM1BVUAtgEAqqmRtofl1_tp6hlgh9HU4tHiSnf6uYCCjxnIo
+obserwatorfinansowy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyylovu9JxnKRFd7vfHppAUlGgfVz6jHS4SkctG6iyQSZ1J4Lx5877fwS8YReuN0m6XM8MmkgOWCTy1hdykL0I1TiLvm4kCYIeGlpyjyUwcZPLGicAPDA1XQaQhyx2UeMM4fOqWXvEUS7thX20O1W0nb7LVNA0fzjgnYm3M-qrkYFV-ilJZ8_ynW4drFc54XaeuSawIMa3UoKMFYfCVhsvI8AixDOl93XybXFvuw==
+securitymagazine.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB0flmvE3Pj63SVOC4LvlakSK4jsn17hKnqZvLvFPv4HylAKPFIwlje6OJ4i7yJZ3kfYDYkBDJhdlZATV0E7UlIwmK6TJM6tX1JdKu-klgf7Skp6B4t9rcY9ezEKFw47DLbhDmecYxHQH9iTIjO644UyKfN5-eGrtbrujoxS-O1E2XclL5r6VxLPZgdS1OB_0n1s3mbQ==
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKuyUlfeUcdqFrUIff7hICWQGLGBYlwiysB5OAlxbUFDmmrwh1tLVifK5MasjT2eIknENSOQvasgMALX3fENfX6_R5-Hy0UfNu7jQzELLiVzplLPVS95CkGKyTPqST8CHfd5ccJ12m1EulDzOrB3_4aqbDY7OMnoNn-m0aYl8uGelSIdjGAgCFZ3ZAg3B4hFape0aMeD-fIPswh_o10lC_wgQtUZEJ8UsC9qgtmWA=
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXiRHSLfkXKvfen-VyUPYfW30IvRuKirWlFTTMZ9wYbPQ-NZZHUgkC6kNeVaQgjJUBkXZjLY-Wmqur-_W6t8t7eHSkX0rjUkbReM3dXggEkA-x2E2l4ZK2LU1ZlqsyZvY8MkiMrSk73F0N
+instytutcyber.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZic-errzcPJreCC3yXua60ErDL_KGolvPe7Tw8vvgJEl849LBX-FKcfa28BMoGyQo4aEseidVQUu52-kUhNb-qewz4OGLJCraihhWmsB-S5p2wMl2AszOL06juF_bgQschm7-CDL3qPeCOXDbg_zY5h9u6ptY1Hi-Tm3KCFrSVd8RYmNGS2PcNZsSmH3EX_ifzcBqsdYXmAS5NdZtWIocAA==
+avlab.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG218Igf5M-SsbKwQTP4K16IPupcs03-MG6NFt4YDV9o2PPHDhv6M-x4ApUsLVz270YxbBHxxUtB-vzFJtTywAKokeCme_cea8MjvpOKANLkwBPl0pH61xgv2A5nes6uBVcpHGHVIm2fdhSU0sxKrHGp0vmhiZx
+sabuda-sawinski.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtnPFyxAu32rhSUxZghA3UHp-jWgdKJ8PZkxR1NROHONvW9QnlPiU4WWNP3POQje1yMVK89bdfwqNop3QXbHxXJQ93VhV_pgdL2HpJStF_4DX5NKX4_xRWZd1XTJNeTH7BVFcfmAXHjIw5GSS4ThqyCyBbzQ9mXakTpyJhzL_xubS4H5BSakxF2W4DYkBFyAz9tn4imZx4bzR0HC6VYLHadyYjx0Tt-8TnjaQJl5I=
+eset.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKOIyER7ZattoGYMA1js_JX95fCGW_EKZxZJXtvXH1XP0jTK_xPNyHx0IKEqcUBjTuW4DDBJMpOtP2Gl_1y0IUv3Fn3QrwA3uzLw5Xovv-2qtUQUrBaDNWfev-sm911a_2XxCTA7GZbdwha02Nk2SlyjC42JyD30D5QUc8LJZKqKIIxFa3-vzYEB8vrit7WjJ4u7I4Qi1ptnLMO1k2PX4xLg4WKpH9HYvsuFvV6rgFLjHC-115cKgHu5PnrIad13UBfRtsCYYddSZCC9QHMO8=
