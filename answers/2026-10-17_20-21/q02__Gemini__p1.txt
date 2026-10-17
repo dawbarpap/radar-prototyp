@@ -1,0 +1,57 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-17T20:21:04+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Szkody wynikające z cyberataków na firmy mogą mieć charakter krótko- i długoterminowy, a ich konsekwencje obejmują wiele obszarów działalności przedsiębiorstwa.
+
+Najważniejsze skutki cyberataków na firmy to:
+
+**1. Straty finansowe:**
+*   **Bezpośrednie koszty:** Naprawa sprzętu i infrastruktury, odzyskiwanie danych, wynajęcie specjalistów ds. cyberbezpieczeństwa. Według danych NASK, średni koszt cyberataku to ponad milion złotych, co może być szczególnie dotkliwe dla mikro i małych przedsiębiorstw. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów. Badanie Mastercard z przełomu 2025 i 2026 roku pokazało, że choć małe firmy często odnotowują mniejsze bezpośrednie straty finansowe (do 1 tys. zł), to w średnich i dużych organizacjach koszty te mogą sięgać nawet 50 tys. zł. Blisko 60% naruszeń bezpieczeństwa w regionie EMEA generuje straty na poziomie co najmniej 1 mln dolarów.
+*   **Utrata przychodów:** Przestoje w działalności spowodowane cyberatakiem oznaczają utratę przychodów. Aż 2/3 firm, które padły ofiarą cyberataku, odnotowały znaczny spadek przychodów.
+*   **Kary administracyjne i odszkodowania:** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania RODO. Naruszenie cyberbezpieczeństwa prowadzące do wycieku danych klientów lub pracowników może skutkować karą do 20 mln euro lub 4% rocznego obrotu firmy.
+
+**2. Zakłócenie działalności operacyjnej:**
+*   **Paraliż funkcji przedsiębiorstwa:** Utrudniony lub całkowity brak dostępu do danych, niemożność logowania się zdalnie, brak dostępu do dysku w chmurze.
+*   **Przestoje w działalności:** Przerwy w realizowaniu zamówień lub usług, co jest szczególnie dotkliwe dla firm e-commerce (np. ataki DDoS). Przykładem jest atak na Jaguara, który doprowadził do paraliżu produkcji i tygodniowych strat sięgających 50 mln funtów. Podobnie cyberatak na systemy chłodnicze we francuskich supermarketach spowodował zepsucie żywności i straty liczone w setkach tysięcy dolarów.
+*   **Spowolnione działanie systemów:** Urządzenia i aplikacje mogą działać wolniej, pliki mogą znikać lub pojawiać się nowe, a urządzenia mogą rozsyłać spam.
+
+**3. Utrata lub uszkodzenie danych:**
+*   Dane firmowe mogą zostać utracone, uszkodzone, zaszyfrowane (ransomware) lub wykradzione.
+*   Odzyskanie danych może wymagać kosztownej analizy i odtworzenia systemów.
+
+**4. Negatywny wpływ na wizerunek i reputację firmy:**
+*   Cyberatak negatywnie wpływa na wizerunek firmy na rynku w długiej perspektywie.
+*   Może prowadzić do utraty zaufania klientów i kontrahentów, a także spadku wartości rynkowej przedsiębiorstwa.
+
+**5. Konsekwencje prawne i regulacyjne:**
+*   Obowiązek zgłoszenia naruszenia ochrony danych osobowych do Prezesa Urzędu Ochrony Danych Osobowych (UODO) w ciągu 72 godzin oraz powiadomienia osób, których dane dotyczą.
+*   Możliwa odpowiedzialność karna dla firmy i jej zarządu w przypadku nielegalnego dostępu do systemów, wyłudzeń lub niedostatecznej ochrony infrastruktury IT.
+
+**6. Utrata przewagi konkurencyjnej:**
+*   Cyberataki mogą prowadzić do utraty przewagi konkurencyjnej.
+*   W szerszej perspektywie mogą spowalniać innowacyjność gospodarki i ograniczać inwestycje w sektorze technologicznym.
+
+Skutki cyberataków dotykają nie tylko firm, ale także zwykłych ludzi, których dane są często kradzione. Może to prowadzić do kradzieży tożsamości, oszustw finansowych i stresu związanego z utratą zaufania.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY1arITcM9S8LD-XuAaNXMwGOP601EliQkg6LzCSalkZbhpClyOUaTJZEo9Gn6Cp33kfmWTWFox_-a82QuHuLrtcKAuCyWw-01Dla1w_QLgjFywMpr9JhBrKHca6-KDJzY24oOpw==
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGulNXwqpkjPRXFhOlhfPd4slUdtuVIZgBZSmi7k2ZQ4uo9zTiG1WmkEe0-vknrR2vamc7uuOUIzqtYKle0hq102Nb3H9lC09TR4Bd39L9gWi29JmDDecapUrBXOgegX4bVN3uzjgoOzcTPIzfm_jAma_8Wdmm5Clesc5qYLqDSrNfzJrrhQ1yw
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2B1cs1HEPBLdaBcyEcx2r5zFA-fyc6hd7nXxoBvD7Ggp9DS3RCN66vWFF-EBZ4psJ_KKrRMJcrXkrNqFDhIMCajAlZOUKe3DlU_JGmopbznzezolOOfB433jMhVdu2kbV7Q6lfzVhfRvCzIyh7OZhOdcQZdVMzTeLw9AftZ9aTBCDlSRob0KyCsNKd0I8j0LAbo3X14GMa41a_fVo
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP27cWhFaAF6wlRRfAUB7LoV-bRHUsY8et2U8QHHhnv31_0yGqopgxFk2okm08MZxTuHJvJiOrki6IUlo1i9M-wBGhmb_8r0JjH5wzpEJqsEiNyFNthhBffJnKZd7i5VggZlognzx8qNRG868-41DiCjlN5agoLyYfaCGRjh1Bt_5jliPrQ-nVCsOg5uVc
+telko.in — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdOhCzQZTgj8CsEDZUwBCiPVj3wio1iISQGmP3XiLlNpB68GZEFOwT7OC9KldvtulhQzEe1bAWrl3TMZS_QZFPHKrBs3lz2Vw2IMSQf0jLPJLXGqtk7eubLTNQYB8_62dhTNRWh4dN-d2i_Wy9NqIXhytVhsXxFYZ54jOEUjqHpA==
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXvXwJJ-d-pNobYNS63TcEPEvJmTrCbC_fENA1qk7eRgBdv6ev_MzlRaw-Cbh3oWds8zxgcYga50XWlJAKZqrj3ozXWjYkDS6WEH1Nc9XX-iP7l2p4drGcfD7PAqJIkqGaWY6i6yoIvib_yAK4wNjM1tmS9JLSCeOGfBuAnhFiISqhvBK1xjRqYZOkJUo90EX1KpcGN7FV1-rJ5QdBG950i2koecYmRvK7NYfqmSdYE29bC6Az85XDIEs=
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYoRxbdKNiyGgMol-3yeDcWwwL-Om9sjvGRXU9eTz-vQQSpQPlcOihQTvKDiht5d-jz-HCFNtYSXQZOhqdGSlFov5y5-6vZ1HlGzl83GhRNusTmcewzbvXKvJGJLWhAJpl9sp3mnc3UOXqCs9H7GpPpTIel0sYy9JIM2RkOcZq3h1IoaPD3vwwrR3ej3Hu7gg1jGNK852n
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHratYxnJMJa1PBl7hjNpyqE4VNGist2UWJK6sl1vqi0KPDru4cdsADHey4v5Rr3I5FzECUPqoaXr_H773o1nV6RBEUBn6XOcHCqch3p3BerrUhkSFGOEX4ubcepx0v_lp7Z8tm1hF3bpeBuM7985WYwnZ83w==
+cyberdefence24.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvyuAK73p2THol5ZO3fwkXkhLBZrjhZEosoqSTzr37tvOxmgHVwX_SdFCTXYdczF-8z4UIpeMv9XzQzRfJ_albWP0nB4NrBnEhHN3tqIb2AEcBX1KRPAl7gnnTGTTypvfEp8_qftYLDNSjQP98zw9Fx1InUelLMO6FN9tpfFZU99AQVNDGThmaazRwvilVMNgQUCCRdQD2nOB5SADDk1Jr2TzpfIASOsYy4gTSu8MrQCwV5CW0lRE=
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPIGkDYu9A_Pccp2hT3vN1oUFULgMbOn9QZuG3G3WLhODE8beolT024PVA-kFbqHxm79DwJy2B1mLHRb26-wfJE1ZbUnpqEt-hCFgXDAp7rPLhnQhJfnWvNmLj-vnWi6Tr6gtzEx8tHvWWLzUUjAhdOQGjMiS9cJzHcVCorbZ9lo8ebHdGR-ZeeRKLXbnTz4WdJLDfjidRloWVgVParf0ADGE8dilmBp0TK2F3ai9YebO-42WjqnPEo7ALWufaKFcF0I4=
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbKDfBFDT-cGJhc-Y_ei_V9L3WCDdYFJRxporLF1D88-awZMlPPaxj8Bsy8YaqIw0GN2U3li_PI_nuQaDJwe6uAGPhqR_RWAj72AAwmVv7o6-AIpABnoXRusTIwuEiY1fpRwAGHMCSNnfUA-USgGV0MHx9zMBleCfLQP7SZ8Z44ovt7Y05iNXKb_8E2r1Vw2QXqoeAEHOm7VOkyFlhzObP8Q==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4w-hsdB-LuY86csdIv2IljcXEfU9mUUB0sCpYCl3g-9EFqF4xYX0Z9ZwEWZ24ww9RUVvSbX5gPZSgxyOYA8DgoPSww_dDJszeOsGyW5EwbWfITuiDVRan1dEKwZdyumFMq7cRBtyGa-0-bIONtVD-AMbKS-2ZATQq2Sm9dI5TIHB6Aj6hbycfL_JLor1mAUGLmGLVSca9wABIo3qL99_ZxsFwI-0d8L0Vv5uuxB6gqrKVgHny
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-Tz6RUGVjYy1dpcow28ysMlzGpwU-lcWl1rGs4NsHgkRU9XPXmPZUWJDjxFR9Lvl592q0pKZTfglVycx1Gl6_kB0vDAV38Rm8DimaM7QCoVLW83G4xCz0mx2eLzL6NBjOwIVUmdZAU37TsTJ1Ic4QRRoSsfrGrYy-HezbG9bonsd1Piz-61qQt2XnFZkgHO4V
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQp59i27qnNaPUwzhlEtBl1ET6wLNlf8cIXgKRvWeg1XOmn_RCRkV_NW93Df5pkx1iBZqY2K_T8LgiBTa2r4VGCHiGXP3aKWfCa1PDal-3MVT5aAwO7fALUjT_xHhfEHS46IHSvCERuufA0OS6ByoIUEHGs8sGYFlY9JH0AahO7w9shOlBH_5IeUdmS5RMg57tzHf-KjJZgS3At6I=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaGtVryAcbJ4LSbOQLMxZ_EgvLMK9Zjp3jWJhza9nCw91N21qUncrdBKlP6y8uVsqINRHcEp2JzJ8-OxmYr-oM9ymu7jk8B19n1ksUClnODsSUL6ABVQFfH0mVeUnfNwOXgUaRLGYCFZa_S8vUkCmgwKHCn5TQmhJo2JFgXIJoQ2h2CiIQY-rBEb48O7YQXLCJa5uOSysc6rP7UHvJ
