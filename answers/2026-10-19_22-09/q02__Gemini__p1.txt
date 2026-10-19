@@ -1,0 +1,51 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-19T22:09:19+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do szeregu negatywnych konsekwencji finansowych, operacyjnych, reputacyjnych i prawnych. Ich skutki mogą być odczuwalne natychmiast, jak i w dłuższej perspektywie, często zagrażając stabilności, a nawet istnieniu przedsiębiorstwa.
+
+**Główne skutki cyberataków na firmy to:**
+
+*   **Straty finansowe:**
+    *   **Utrata przychodów i przestoje w działalności.** Cyberataki często paraliżują normalne funkcjonowanie przedsiębiorstwa, uniemożliwiając dostęp do danych, skrzynek pocztowych czy dysków w chmurze, co skutkuje przerwami w realizacji zamówień i świadczeniu usług. Według danych NASK, dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów.
+    *   **Koszty odzyskiwania danych i napraw infrastruktury.** Odtworzenie danych i systemów, a także naprawa uszkodzonego sprzętu i infrastruktury IT, generuje znaczne koszty. Średni koszt obsługi pojedynczego incydentu rośnie o około 10% rocznie.
+    *   **Wysokie koszty związane z incydentami.** Średni koszt naruszenia bezpieczeństwa danych na świecie wynosi 4,9 miliona dolarów, obejmując wykrycie, zwalczanie zagrożenia, zarządzanie kryzysowe, utracone zyski i odpływ klientów. W Polsce średni koszt cyberataku ponoszony przez krajowe firmy to około 32 tysiące złotych, choć w poważniejszych przypadkach straty mogą sięgać milionów.
+    *   **Żądania okupu w atakach ransomware.** Ataki te blokują dostęp do systemów i danych, żądając okupu za ich odblokowanie, co może prowadzić do znacznych wydatków.
+
+*   **Utrata reputacji i zaufania:**
+    *   **Spadek zaufania klientów i partnerów biznesowych.** Cyberatak może błyskawicznie zniszczyć reputację budowaną latami. Ujawnienie poufnych informacji klientów, takich jak dane kart kredytowych czy adresy, sprawia, że klienci czują się zagrożeni i często przenoszą się do konkurencji.
+    *   **Negatywny wpływ na wizerunek firmy.** Polscy menedżerowie wskazują, że cyberatak może mieć negatywny wpływ na wizerunek firmy (36% wskazań). Utrata zaufania klientów bezpośrednio przekłada się na koszty ponoszone przez firmy.
+    *   **Długoterminowe konsekwencje wizerunkowe.** Negatywne wieści o naruszeniu bezpieczeństwa rozprzestrzeniają się szybko, a stres związany z utratą zaufania może utrzymywać się długo po zakończeniu incydentu technicznego.
+
+*   **Konsekwencje prawne i regulacyjne:**
+    *   **Kary finansowe za naruszenie RODO.** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania RODO. W przypadku wycieku danych klientów lub pracowników, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć karę do 20 milionów euro lub 4% rocznego obrotu firmy.
+    *   **Odpowiedzialność karna.** W zależności od charakteru cyberataku, firma i jej zarząd mogą ponieść konsekwencje karne, np. za przetwarzanie danych wbrew przepisom (do 2 lat pozbawienia wolności) lub udostępnienie poufnych informacji (do 3 lat pozbawienia wolności).
+    *   **Rosnące wymagania regulacyjne.** Nowe regulacje, takie jak Dyrektywa NIS 2, rozszerzają zakres podmiotów objętych obowiązkami w zakresie cyberbezpieczeństwa i wprowadzają bardziej restrykcyjne wymagania dotyczące zarządzania ryzykiem i reagowania na incydenty.
+
+*   **Skutki operacyjne:**
+    *   **Paraliż funkcji przedsiębiorstwa.** Cyberataki mogą utrudniać lub całkowicie paraliżować normalne funkcje firmy, zwłaszcza gdy pracownicy tracą dostęp do kluczowych danych i systemów.
+    *   **Utrata lub uszkodzenie danych.** Złośliwe oprogramowanie, ataki ransomware czy naruszenia danych mogą prowadzić do utraty, uszkodzenia lub nieautoryzowanego dostępu do wrażliwych informacji firmowych, w tym danych klientów i pracowników.
+    *   **Spowolnione działanie systemów i aplikacji.** Widocznymi, choć często niedocenianymi skutkami mogą być spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych, a także rozsyłanie spamu z firmowych urządzeń.
+    *   **Wydłużony czas przywracania działalności.** Usunięcie skutków udanych ataków informatycznych może trwać średnio 32 dni. W przypadku małych firm, około 60% zamyka działalność w ciągu 6 miesięcy od cyberataku z powodu braku środków na odbudowę infrastruktury IT.
+
+Warto zaznaczyć, że konsekwencje cyberataków często dotykają nie tylko same firmy, ale również ich klientów, prowadząc do kradzieży tożsamości, oszustw podatkowych i nadużyć związanych z kartami kredytowymi, co jest uciążliwe, czasochłonne i kosztowne dla osób prywatnych.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVtZ1sSyhaRDf-Nr7GhoFPYsBFuTIgpmXyDPkM7ARkq2hSJlwvTdlz8SmeG1FCkDGNmviFtaS5gWmQ3FHYnWsc10qdYxqlGMhKsGvb5EqsytfELNyfQ6AQWfn8m42p7Smw0Hkqiw==
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvGdFW85Y5pg7gTxJgNyYXGzb8Kd4_HzD7WgGdOjg16O0DBvdH1HhYKtbZKFVCYtvQbcqGRvbid0ppCtL8tClgDxFnvRia5-rEqFpiWS-n170ljDeReby7mE3eKvjj8eRAd0yiPujPwTnZ4BLXViveraWPXxBr_cMVFpp38WGnBpTRZlfe9APwxgkkiEjGjJnaIlNuX-j03nwW4hCIhMkqkA==
+obau.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhIO6hQ9x7xAYSUoAaluggTInr7e4LPgtQtQ2vmZN-gHT5Y4wyXzE0JXZPQYM8C8Wi_SED8R0oXvn70bageEiLSmE35Kg7ahPcl9OPqTeIQ1ruWzZamYd7Lb-NgRcre32wr0PSW-xa_8fCLE5KUqt8SqTlCIs=
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQX39NU4st3SBYHJ91psT-y4t4gaTX2SO0yW1VEWlCnkdwBQlp8M4VIX8i6aZt5FgtQO3ZPo7Xx8fN9zhHU9Q_tumvQvXe_LchyLHrI79MDjdGNDtr8ernS36DSGpnTAn9llVzB27NUoR0xC1GBs-fhoFDHDq5ME69XltEytMA
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjtjpWwMuuS26fBi__xOm2HWXhQq34ShRd1ISzLfA4d-J_cpiDFDrAAiwPGQUxHzKzRxaicPYsZMXALb9GvuHBXw8NaJQsQfSSqiCYCL0atTIUwQVHanVZKrx5WTePMhm1GbOL4smRwSRQb_Bg-skG3MTDTZpMAZx4RMENdOIz-phIUFkutNJuacUcyOxUdBtVKDKYLDFCHSCbTqqF
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEos9rfQ1Tf-B3IAqLm3sjcOZknNPNqC7s2WYUvectaOviBEoJJYjDNG_iwN7Be0rfQQ0HDmYjrZljRGyZtRHWBmvwvWmP32qB5n1B9yTe9Uk8GMmH68P52nkURGgYFvKn7XpuNACrw21OvbzBgKjZ_IB-Dpg==
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdyl8TqqYM6ZY3mDcpVubrmCuR23iDangBJQ7jjUCWS6zYEvDhy-TfNcZs_NMAZo3XfsPUJfIeWjHA2-gfcoF2PsbFVZbpJJfGVAVnY63oyGV4pZGL_nohjRdZ-wFmRiEpHXS0OqC8BAB1zVBywXoO47L6XAynJxWLhZaRHCbQzz2PYoy7
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYVB4-BVi1HVcKNBrR-a8mmFoeBleRmInrF8ZnTnHJh2bn-pYNdoxpmTHkkR1V2m6DvcKjLJ-H1NqSyfEp2U3qL1EPg5J3FwWEl3BaIEj8nAOGO4y7g_xpZTBYoOl2fafLdDMr6dsSeYgkry70wOqWe0mD-A6roakn3mrbVAObag4e2obwPWBjSsKmkMxkHVisKlNiNGZ7
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA9asa86mRyheO2NWPa00J9mwnax1pXBZ1xBAguJDMc9Hk2ee3b0AweD2YDlJL0kpMnTRL14aIXUvxHnew_9ihkFjOtH3sNwKy-WqtuUdBBYnsfTlNbvroWqb7GArDrG_puJxtmmNtvr3nHSCbwxxBG8Fs-mZSsGj4YRME2hqLuYT9JZL3-4fcVpHvEAuXa5kE2Zo3K6mJrXQq23w_
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUKyFTgTBS58E5giy241COZE70g8ibrgqDunhB_H8Ygm6x4hJp1diJnSj6d0hNyGkXyYa0fhytC_HZ6KLMjYNNotHCu8v-TZo-ZzrVtV5ie_p59W8mzBZf3el3TIl0ptaB7927JUsgIZMYsmdGPBhNpqnfijzS1vTF2L-jWMSR39Gxc1TnDFYzVEfTCBwI
+fandk.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaQuOUQdCov1HT0lz1RKYApLy6jMIJfgqkQez8iwpndZz9-mQ4KgYqu-Rt9SfurdK2mIK5nDXU2hF90RhAW6XPSLaQ-dod8wkE6XJTJ9ccXKHHtpK0FolpyAps3i9WmIPohR5Mh5bdRxNIwI1IL05eGdXrIcZRKYhPahkHESD9oKjsmgPibrtb1BN3LNf2v2MCr-v6Dksc9mrLfaoCU5LzmQb7x9Distf95fue9AspMvLjo1QXZQ==
+poradnikprzedsiebiorcy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcX_V1EF51bTJ5VD_dtP8WDg7Xa0uFg0xvNUxhOzLhDAPEDFF1v-0t9jJZyRA1yR_BhW7cWGZoZTciCgKRk2rBjdOHYjcVNfjKZEYRv-updFkBLvnfY2PyFV-7zvedj13CwmvO3iD1TDWuDgHWkMTwk0U64Qpw401faFfj9sZlqCKVK3K490uUrkv8sszo3h06F8NiOHclLgKwk5Y=
+itwiz.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCKWNhvU06YGhHzal90xFx74TZGK1eAJmfUikITnFwk2u0UCihiP7YmDEP9FaqqegpnSWGwRnLqGomCLOvnzRKvQX2LzMyaXn66IkVTKWU6y9WFu41i0uQvhuxvyo__9QmnoEPlkah1ZtJBTgzrpkC57-zsGgw7PF7JDpuTTpghhShMSgn6KBGGRW8iiX_WeMEz28=
