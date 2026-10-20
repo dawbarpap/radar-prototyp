@@ -1,0 +1,35 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-20T21:24:46+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki mogą mieć dla firm szereg poważnych konsekwencji, obejmujących straty finansowe, zakłócenia operacyjne, uszczerbki na reputacji oraz konsekwencje prawne. Skutki te mogą być odczuwalne natychmiastowo, jak i w dłuższej perspektywie.
+
+Główne skutki cyberataków na firmy:
+
+*   **Straty finansowe** Cyberataki wiążą się z znacznymi kosztami dla firm. Obejmują one utratę przychodów spowodowaną przerwami w działalności, koszty odzyskiwania danych i naprawy uszkodzonego sprzętu lub infrastruktury. Średni koszt naruszenia bezpieczeństwa danych na świecie wyniósł 4,9 miliona dolarów w 2026 roku. W Polsce średni koszt cyberataku dla krajowych przedsiębiorstw to około 32 tysiące złotych, choć w poważniejszych przypadkach straty mogą sięgać milionów. Ataki ransomware mogą zmusić firmę do zapłaty okupu, co jest dodatkowym kosztem.
+*   **Zakłócenia operacyjne** Cyberataki często prowadzą do paraliżu normalnych funkcji przedsiębiorstwa, uniemożliwiając pracownikom dostęp do kluczowych danych, systemów informatycznych czy skrzynek pocztowych. Przestoje w działalności mogą trwać nawet kilka dni, a w przypadku ransomware średni czas przestoju wynosi 21 dni. Spowolnienie działania urządzeń i aplikacji, nagłe znikanie plików czy rozsyłanie spamu to także objawy cyberataków, które utrudniają codzienną pracę.
+*   **Szkody reputacyjne** Utrata reputacji jest jednym z najbardziej dotkliwych i długotrwałych skutków cyberataku. Klienci tracą zaufanie do firmy, zwłaszcza gdy wyciekają ich poufne dane, takie jak dane kart kredytowych czy adresy. Negatywne informacje o naruszeniu bezpieczeństwa szybko się rozprzestrzeniają, co może prowadzić do odpływu klientów i partnerów biznesowych. Badania wskazują, że 60% małych i średnich firm zamyka działalność w ciągu sześciu miesięcy od poważnego naruszenia bezpieczeństwa, głównie z powodu utraty zaufania klientów.
+*   **Konsekwencje prawne** Firmy, które padły ofiarą cyberataku, mogą ponieść odpowiedzialność prawną, szczególnie w przypadku naruszenia przepisów o ochronie danych osobowych (RODO). Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe sięgające do 20 milionów euro lub 4% rocznego obrotu firmy. W przypadku nielegalnego dostępu do systemów, wyłudzeń czy innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne. Płacenie okupu w przypadku ataku ransomware również może generować ryzyko odpowiedzialności karnej. Nowe przepisy w Polsce przewidują drastyczne kary finansowe dla podmiotów, które zaniedbały procedury bezpieczeństwa.
+*   **Utrata danych** Cyberataki często prowadzą do utraty lub uszkodzenia danych, a w przypadku braku odpowiednich kopii zapasowych, może to oznaczać nieodwracalne usunięcie wrażliwych informacji. Kradzież danych klientów może prowadzić do kradzieży tożsamości, oszustw podatkowych i innych nadużyć, wpływając także na osoby fizyczne.
+
+Warto podkreślić, że małe i średnie firmy są często celem cyberataków, a statystyki pokazują, że aż 60% z nich bankrutuje w ciągu sześciu miesięcy po takim incydencie.
+
+[Źródła]
+obau.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIFqOTBxIkTonRnFSmf57wEcKdmnlLfBiYZCTB02krRPvHYu8_fzOjawSO37x-h4f6QDxZFSd3_4yOGVkUI1XSeB8FAX4cQ1hxEFn6EzgGfI4WBo3jO_zsir1N-jINNoQt_k6NvsNAXFvXUgl2IozJKfSuBYc=
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBQ_66-QqOGIxEjJ1Ci41jbqUpQ1D14g1SRO1b2ozNHUPDXINc-WY3uQDH3JRin4kiZrXAzHr-_jKkNjOMYJbcZj0jbQYHcro_ByYPs-la3v2RbVEZcVqJhyAafyzTG-EHaojRgtl58VH5ar0q
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpF3txFvsOVVXI7j1hguM0MQZpxCbwjMpN3s6gjdd46W0JtrEJJ1wI8lSNzTN7zrZuwnlwnxR5Q7CA8QwQTxjQqWF3m5zTlqMG7Q9mW3l0k7A1fqdASN_cEm-7L0lR8Z99go1i2g==
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb_5n7DWhp1DJj08iPDsSA9SLrFXdTr8xKlnKC0rWjvQ8tbdBd8JZH3ZMQmJuIbmz9mLeSP2HQO9JYCVH7mjWoQ_EUJ7z5QS629KgPg9y_QtYFnYpZIb5k4kQIxONnCHQX9pd75lHmeVnfXJzin6zJv6bB4tIXLbnkMdj-PnREpu397x0Kg8depV7ql7d0DQc5RVyB4nkkguWjQvfYY9Td1A==
+nflo.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOSVyTksN3s05iHCFZxaelUFGNniUT8o4VcLAawfP-Uxk3B6IyRvca2fZ7aj2H1hoSeZTJqzJLz0rrcEh5pedM6eJz_sFFx1yH7AmWomk1Hi_8ZKt3ckKendkqFbsJ5c4Ii8YwW3H_RT6BcpBk_b4z047etrQ=
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF4FZJ63HbF6aP6Xcqtqogc_abq676UkvZ6ON974rdIoiOAeSnQsobaQhgeegMdNV_rqIjlM4tqHNFxysH1OXiVw111eSs5k-wwd6GAT9zxMD-4CWVtyfuOCmFEAWxc90wLVx6YnZb2NoimRE9XmU5ra5vRY5E_HrCetaeab0Nac6BgsdY
+gu.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzWgO2QRPA_G_V3CfzPZzWo2mPDVjD25tTQYYisvEgACvQEz29oyKOyhOY_sN-sR2eWlHsUWka7NEz4gZWuaL78fb-rTYUjGP44lB2CLBccc9T63j5NB7DBYbq2x_S6MgtW-P6_0NJvH96org7VAnVdZANYdx1YRzzZRyHbcRZNGhA5H7e
+lex.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc2_XFvNqc0xFUP491zffxrINIJ759EAxG8xv1mg6lzimt9BU7Ao2x0aokqEtBe84PC39bSYAf0k_O7ljytu09JejntB1Diqda4SMM-A2pgFvJeeCFqOFsKFpqzw3JNkK0JDOwa_qgflr1ySHXwapnXaO-KAZfLGWuusBH8FcQzfKfbyyWYzh7vYs3ONOUz7wUaiddffY3NXZQyKIvx09tt7WTmocdRr_TfyUL6pXXi4FLhvyvSQ==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu4EBy7Z1am36IF4XBSbijEX285LjEmyeugvF8GspGw5y1PsxZASvnOorjvZgITnjiDle6kJBZzytRN6N8Y82elgrkiWXLPOjo1hSJ3l0k4fs3G_f0pBJua1IfxL1Zwl9FpNMgEvxcFBN-_FD5Cl_dggA-a0CTb-pBJ7_eW00mR27MexDcfRb4WxocRpMJ
+instytutcyber.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBu3PL_rGeFyqmQ8zXnpO058N5XLD3bBgQjaomPim2G0fPdElott-JQN4N2GDL5wwx53NAKGE3Ektoj6kpOMR771FS3dpY3neeZiIq3nKpjMKp27Vco_EbzBIVkzSmeVwj1n5UrDupgfjrmWnMEOGlMMxN2Sj9v5J1aTz65A5F_WEy57xO5sid8DwD_a7Eh6hAB3m2Z8toa6AAvP9alGOUKA==
+sekurak.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE13eQi3_r7zvBdztaSLLM-UQS0aVasUjkpfAmBlPylHI-iabcms-ALCkP0wd9I1-3L4XmzwixozKK9X5CwU93TQjwm97i5Qwp4aqHYQ8Xyf6q4ECHtExzqtO6DmW3JmLVla4mr6WLp8BXsMvJYbFL2aB-Jx2daCMi6-fSMWahoKne__lFwuWZu5l9-6mqenewXmaY=
+infor.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENCf6VFwt4EmYXaE-NOLVxNydh47LrrxWV-pPdd6Sj9l-H3fWldArGy-x-Sz5xGE--lchfMU0t4UXLZe6DVkBWPsMXoaXQvKQzPiwjkajDdouMw3g0fzK9AEVZYVoMVBAvMIRI0wRfAopS01_ay9_zwjYXArawo7utrjoeiYJl4IbwGaSqQVjCLrEkLhTiDFXvLx9l3bZ48HVq3TcnesVMhMcPkqZar6skvZ0xjVh4xaTtcD9nxgVVADdcXMOgJEHF7bAH5nphPxlbnenoNwgzqti1r1EN
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8B60yNWXOLD2G3wIKOOVJRj3pLnuDDA7atcWGmWCTqKrbK7-fNyDfndEV2Xt-03pCD1LZQizibmhcd-OhE27OkUC5xYdtY00baEiLbyyYcBbD1swbJoLfXQ2cQEdGP15U-SQnKa3jMiitLjkkK8LqGJj-1T053p3Gb7HejokhCrxeGxUsK6F__pdb2WrMqHu9utV31dt9-ZuxJESM
