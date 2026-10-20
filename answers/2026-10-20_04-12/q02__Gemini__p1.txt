@@ -1,0 +1,55 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-20T04:12:28+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które można podzielić na finansowe, reputacyjne, operacyjne i prawne. Skutki te mogą być zarówno krótkoterminowe, jak i długofalowe, a ich skala często zależy od wielkości przedsiębiorstwa i skuteczności zabezpieczeń. W Polsce, według danych NASK, aż dwie trzecie firm doświadczyło cyberataku.
+
+**Skutki finansowe:**
+*   **Bezpośrednie straty finansowe** są jednymi z najbardziej dotkliwych konsekwencji cyberataków. Średni koszt naruszenia danych na świecie w 2023 roku wynosił 4,45 mln dolarów. W Polsce średni koszt cyberataku to około 32 tys. zł, choć w poważniejszych przypadkach straty mogą sięgać milionów złotych.
+*   **Koszty odzyskiwania danych i naprawy infrastruktury** obejmują wynagrodzenie specjalistów ds. cyberbezpieczeństwa, przywracanie systemów i danych.
+*   **Przestoje w działalności** oznaczają utratę przychodów. Aż dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Ataki ransomware mogą zmusić firmę do zawieszenia działalności na dni, a nawet tygodnie.
+*   **Wzrost kosztów ubezpieczeniowych** oraz zwiększenie kosztów finansowania zewnętrznego to kolejne finansowe obciążenia.
+*   **Konieczność zapłaty okupu** w przypadku ataków ransomware, choć odsetek firm płacących okup spadł, nadal jest to realne ryzyko. Średnia kwota żądania w 2024 roku wynosiła około 6,4 mln USD.
+*   **Spadek wartości rynkowej przedsiębiorstwa** to długoterminowy skutek, który może nastąpić po cyberataku.
+
+**Skutki reputacyjne:**
+*   Cyberataki negatywnie wpływają na wizerunek firmy i prowadzą do utraty zaufania klientów oraz partnerów biznesowych. Utrata reputacji jest coraz częściej identyfikowana jako kluczowe ryzyko operacyjne.
+*   Długofalowe konsekwencje utraty zaufania mogą być trudne do oszacowania i wpływać na osłabienie pozycji rynkowej firmy. Ataki, które przyciągnęły uwagę mediów, skutkowały średnim spadkiem wartości dla akcjonariuszy o 27%.
+
+**Skutki operacyjne:**
+*   **Paraliż infrastruktury informatycznej** to często natychmiastowy efekt cyberataku, objawiający się brakiem dostępu do danych, problemami z logowaniem czy dostępem do chmury.
+*   **Utrata lub uszkodzenie danych** jest dotkliwą konsekwencją, zwłaszcza jeśli firma nie posiada odpowiednich kopii zapasowych.
+*   **Zakłócenie ciągłości działania** może dotyczyć nie tylko systemów IT, ale całego łańcucha dostaw, jak miało to miejsce w przypadku ataku na Colonial Pipeline.
+*   **Spowolnienie urządzeń i aplikacji**, niespodziewane usunięcie lub zablokowanie plików to subtelniejsze, ale również szkodliwe operacyjnie skutki.
+
+**Skutki prawne:**
+*   **Kary finansowe za naruszenie RODO** mogą być bardzo wysokie, sięgając do 20 mln euro lub 4% rocznego obrotu firmy w przypadku wycieku danych osobowych.
+*   **Odpowiedzialność karna** dla firmy i jej zarządu, jeśli naruszenie cyberbezpieczeństwa skutkuje nielegalnym dostępem do systemów, wyłudzeniami lub udostępnieniem poufnych informacji osobom nieuprawnionym.
+*   **Obowiązek zgłoszenia incydentu** do odpowiednich organów, takich jak Prezes Urzędu Ochrony Danych Osobowych (PUODO) w ciągu 72 godzin od wykrycia naruszenia danych osobowych.
+*   **Postępowania prawne i odszkodowania** dla osób, których dane zostały naruszone.
+
+Wielu menedżerów w Polsce obawia się problemów z płynnością finansową, przerw w realizowaniu zamówień oraz kar i skutków prawnych spowodowanych cyberatakami. Brak świadomości zagrożeń wśród pracowników oraz niewystarczające budżety na cyberbezpieczeństwo to główne wyzwania, z jakimi mierzą się polskie firmy.
+
+
+[Źródła]
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAN9q68egpkKSUu8AtmhrsdQZ52dGGXxg6GCMvl8UxSqpTREYMJIxqloz2JUcJ5nMgONll4KuhYfiL5muo_7YidWAZlgvQ1-IN8qW0sCGKiQ4c6u_eywZaI-L5xS9JQuGOXspRmot63iQMN_5BGPEWemCwgOLxrHoUMqBIDQBUV-GDdWx4HOaU_sRVhQnc
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmnMWI9U5jPZaytvjtWCOTWE6fTrZzFSBtsjXxmtIOxKvpegtcTREOnOdHq4pLWJ14AVFAfm3PGdkks3L2jG7mp68CKk_sy8ui_3gJrwgeVWZ4Dn_rwT5pN1-Q78t_xlAbN-zCvDtjoNGes112X74RBd7Sqyl9ozXTP0w5spaR5bmhtUpREoKJIFZECCxBj4nC
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUOVYnMinLKY7kLCNOVZ6j3itRgT_ArkDvhCh20VWljOln0c0vuVdVlb4AvCSS4dYGT0dA5v8sILXmG9qliKoQNTjWUNBUi-Hush5PuVe38W0YwjPpwMPoafmKHtXx62KJ_mxM3g==
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5x3VQS75C9zBgRxo2RY2D7ZWFoAD7w9ne0cJsriRZknoC4ggvQFNKWNmKPTed84l_tMybI9DA_GjeopSyL6nRq6hfStUj2tpL5XVOmxyIdKKy7BBNbblyINb5Cjr3UC-jv7cAVJ3GoUGr_5b7vab8_9n8kN_2SV3CL2QgQzRgrYNz1I-bkJKyvs6ht8HuBreUVHJauqqsZep0ftf-VMVwCA==
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqh4RFWIZ_7yjMDsp1h_Ip6meiFraV5uz7mXOW6dSY49PY2BSbBNqPifnuGDbTGNfNIouLGO-M99ZqWC0G4yP5UMKUDpK2djLyEJJJvphFAVYl1Iidq2ZGf2CLDeAkLMlHAs5jipQ3UxGr_9ft-KZNUoNsokbVes4Fvp_r3mtifdqjJleYxikb
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPkvDbPb6TixMi9-WfGjDJVyMTJXmx5H22cHG7VEN2kB8ZwmkyKEezYqcJbjRyhZ66_mrVQUQMn0iqNqR42gVwSfuCFyPfwull_Llx6NUT4ZTT2PtKc4EnjTUUSSwV_EXSyuiIXhUSK1nGR7GKlNHRhJSok2CCPT07YkLfAimso9VvFfh3PFl98IAxOS8Twl3pdk6ZpNwp
+obau.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxafcMDqj7ca2mJeyJwEs83taHArXFV_kGDgwxlGMSOGZyNS5BuUgN86GnD4cbrAgUNa8BIZR7AONcUyO4sEZWZ36rHxV1VwfD6g1MToHH6jX_SL1_0eWipuGdoHp1lr8MyIBMuV_-GjA9sB1vHYKA2d5pOds=
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQChit39gJn2vl5UV8qCeZ0S4b_iz7x1ywYizmt7ySBXlsHGV7gBimkyCJfq2mTY2f0dDHH38QA876CcqIfw1FQ2xZ2CvwdiusUp3C-HhwRPxYWNAbChihWiy2QcPfQCFO1zFxif2Hj3E9WChNSJupU_5zDXRRGu2R14GYwZQJkftid9120Br-_DRC5miFcgb6hhbJeQXNGY4UYCQH
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr4yiIcDLqPEDQN1FBJtLw-GUjNfvclqAPrql1VqpIlD7RtxjwVs2DlTDM0PmP1s7I75N9HNiginGO7Mb9k3eI1SihsEbwTPKekzq2nRmSaylw-WrHJAcuJICwFucMku-gorUok2pRpCggIB-e
+wsb.poznan.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkPhrP63lE6dfkXAqz3D3M7IX_2-PL9_Lg7v_Jzg8HfdGddF4H46_fZuOidxfFv-L0DRqwI5-VF0ww3hUfDd19bsiAvR4ghfkz_YEaQ4eqH3x2cPPA_G1gWlqeMbhBkccSf0sDfgEP80vUe4UXP0skYZOvZrXMsBHLycS664ONS4RB0TdfqGPO
+executivemagazine.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiG_HgeZ0kUof-xNt8uhupqItjFdIV2WwkSqkaI4vr1sUTwjZ_MmBmk0Esd3kT6NfPPUzsobLrtWXnzxLajhZWpHHJ4e1cfoSlD4nZwTYJCpNk_Fsdn6Yv2xwJOGkjNPFM9wzSVfcpK6Xst-uYavfGbWiq4dEJyg==
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjhsgoH3u0ie-wLnvUuSdmAAoIp4kfV3Rf1CEjBueuV2dkmALgw4KMsBJEtppt_29YtMnEe8rGHw5XHOa1aeRjj_1AoE0gAIjfMEPn_tsJ4W9FFn0deGLvRk4wx1csiPN4_vOGznUgh1jo
+obserwatorfinansowy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGouFgS9RTMCZbyWKM2pcAB41hgoPFwk1G6SmV7v9Pz6VfQQ8s2DcLThESN8PQVyIY8ujAGmwGvvBfWmsUWfW66LUZLcLCXA2lGYyZwgpc1vPvYxxFiHAdo52sgF53VThU9diM6u9-ng9P1qePukLYotz54KYmPo1ZXHC3UmYM2Pmgj1mYPtdorjFHjCGxpe5qm9f809f8-Up5rpZZKXWBHyzHWdVKKL8druMzlRKq1b7D9HVN547wQqu0=
+sabuda-sawinski.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhJkJoPrdeMm10MhTwBPVvqY9XxEDpt3yrHE9pMW03xhjD0D4X9Ne7RFn2s9Lla7U1JfVCsvOGg9MLMIZ5jgywOmRg6Vk74A4gXLhXyZAqp133Qd8XOGw4XnuQUVCyoFhFFHZtyVXAIAH1qqAc7S7JwXvcZJWv0Pl_o8Y0EAQS1ZAY4KiKEfQcuz505oY0OOtakGxSsx0Liie3DtRaU7Sj2U_0d14bmZrXX5CDaEQ=
+avlab.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX2SmnLPEhrOh8FFJMvgCYbjTEWyvVk-x8viAukDEcKfla80BG7gjlw1q-Sj4p6Zd5B7UQXCkE27F1IwFyu2WeSzQ8BERPs5r8E76pjIrCCGygRw2IWf8F0BRhBbp513_ERGIuH-r-jWrnoe96yrqHevrd6PBT
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJaB8CaZFp9YJ6Fluf7akDV4wEOFHXTxJUvUgzNC5Afqa3nqIixdiqJZM1RoP_wRZszuyaGs0bcajmWVd0rAtQuguYS3bJOm8ry53t7DwMRoLX0nQ3mH__Z-_rRKoS4mx2e00NWJ7gYhWWihFodbhciNv6FY1z_xNLLsQV5gTLVSt6gASyHKCXjAYtsrT0HSXZGnxKTUS_-dfwjRcl
