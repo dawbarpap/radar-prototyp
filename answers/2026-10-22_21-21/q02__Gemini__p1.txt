@@ -1,0 +1,28 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-22T21:21:17+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które mogą dotknąć przedsiębiorstwo zarówno w krótkiej, jak i długiej perspektywie, wpływając na jego funkcjonowanie, finanse, wizerunek oraz status prawny.
+
+Główne skutki cyberataków na firmy:
+*   **Paraliż operacyjny i zakłócenie działalności** Cyberataki mogą prowadzić do utrudnienia lub całkowitego sparaliżowania normalnych funkcji przedsiębiorstwa, szczególnie gdy pracownicy tracą dostęp do kluczowych danych, systemów pocztowych czy zasobów w chmurze. Często widoczne objawy ataku to spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych, a także rozsyłanie spamu.
+*   **Straty finansowe** Konsekwencje finansowe są jednymi z najbardziej dotkliwych. Firmy mogą doświadczyć znacznego spadku przychodów – dane wskazują, że dwie trzecie firm będących ofiarami cyberataku odnotowało taki spadek. Dochodzą do tego koszty naprawy sprzętu i infrastruktury, koszty odzyskiwania danych oraz wynajęcia specjalistów ds. cyberbezpieczeństwa. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 miliona dolarów. Cyberataki mogą również prowadzić do problemów z płynnością finansową firmy oraz przerw w realizacji zamówień lub usług. W przypadku ataków ransomware, firmy mogą być zmuszone do zapłacenia okupu za odzyskanie zaszyfrowanych danych.
+*   **Uszkodzenie wizerunku i utrata zaufania** W długoterminowej perspektywie cyberatak negatywnie wpływa na wizerunek firmy na rynku. Przedsiębiorstwa tracą zaufanie klientów i partnerów biznesowych, co może osłabić ich pozycję rynkową.
+*   **Konsekwencje prawne i regulacyjne** Firmy są narażone na kary finansowe za naruszenie RODO, szczególnie w przypadku wycieku danych osobowych. Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć karę do 20 milionów euro lub 4% rocznego obrotu firmy. W Polsce, firma IT otrzymała karę w wysokości 3 milionów złotych za brak odpowiednich zabezpieczeń. Dodatkowo, jeśli naruszenie cyberbezpieczeństwa skutkuje przestępstwami, firma i jej zarząd mogą ponieść odpowiedzialność karną, np. za przetwarzanie danych wbrew przepisom czy udostępnianie poufnych informacji nieuprawnionym osobom. Przedsiębiorstwo ma również obowiązek zgłosić naruszenie ochrony danych osobowych do UODO w ciągu 72 godzin oraz zawiadomić organy ścigania o popełnieniu przestępstwa.
+*   **Utrata lub uszkodzenie danych** Bezpośrednim skutkiem ataków może być utrata, uszkodzenie lub zaszyfrowanie danych. Kradzież danych klientów często prowadzi do kradzieży tożsamości, oszustw finansowych i nadużyć związanych z kartami kredytowymi dla poszkodowanych osób fizycznych.
+*   **Utrata przewagi konkurencyjnej i obniżenie ratingu kredytowego** Pośrednie, lecz poważne skutki cyberataków mogą obejmować utratę przewagi konkurencyjnej, obniżenie ratingu kredytowego oraz spadek wartości rynkowej przedsiębiorstwa.
+*   **Skutki dla osób prywatnych (klientów i pracowników)** Cyberataki na firmy często dotykają również osoby prywatne. Kradzież danych klientów może prowadzić do kradzieży tożsamości, oszustw podatkowych, nadużyć kart kredytowych i długiej serii prób oszustw. Konsumenci muszą poświęcić czas i często ponieść koszty na naprawę szkód, w tym blokowanie dostępu do danych kredytowych, wymianę kart czy zmianę haseł. Ujawnienie wrażliwych danych, takich jak dokumentacja medyczna, może prowadzić do dalszych prób phishingu i wymuszeń, a także powodować znaczny stres.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQBWIV8FlfD_mkOgzlTQpJT-vMI639zDn9qBgOoCMAyRccfT6a-Aqs4eIKE-eWFA_T8a7oYquRZfKYKfIdguZZ6Vr360VUltwYu27V7aqbImyMVpOnpxdmi3MROfhAeDwS5WIp_g==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg8x8a-TZ6vu_sREy5SDHQ6srXtX5KLL9SJemnKWSbIdnu-Yd5Tem9gmFY7Reo6zuhx1W3J7FVIkabbIfLSFq0zG0VkjkJho7st4l2FTtrXDdaaMne8Sy5t5mzi0RzEJZKzQmmh3-Nc8kZQSHiOW-yBhGFf_pAPrZ2z0FQU8mW5dG9CXL_33B9wjd2KMAN
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXk3nOLgQl50Jir3jzC_Cl64zo9YXiyhiIryERepHVaHc1VAut70_LaFODQ520YlPoKd6Qj8cNqhvjt0s5NunHXFOpdM4Ol2okErXSbqvuCso4mgMa4FatNPOSvMQaQX3jS5kyVX3jD2jBj8cQ-THyZr3poiUDIPZVtWtK_tiJijOoSCdA4vSbtVPEXP_-q1Gbq8lSxjH0
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9jGeLbtmUWuaMpyq3jWiNhlsvi-BU2F18rCkS7eVeEg4ADI4c7--LvdCtGZVRMOnh8QHG3oThcssrBsaK4YtC06wKBkNSyM1et2JED3Ct1YwOSbrL6i6fUcfaEmI-99WY2WxvzkcqG-wpvdAc3jcdS-JANZifxPyTRSh5OK2ra-SVcJJIkVqpbokzIzV6oA5XoO9WVJtYrzkJ1OrJ
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3xM83CxmKZ8fqTIloaKZ3P0FKDaVGCXIcQl600jbrsWp_tTouoADSHAO--HPdNdWXdpKlZ1A0n3wLFwlNt0uzDz0h8sWl1JjEhvHWaDUPreWF_upSEpkpwIIfZBlniI40oEI7TV0g25Q_lHyZv1FzHq3FBjCeNitpipx57p5pgt09FyGB4Aj8edK9kcrMUtmD
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4pt6__2yBpvOIrGXzr9SYFglX6rtzZ99ZlfwpsVhHyVOkjpIzMdPPWXpDqnQHVZ4fNcrBEI66d84n7wS3Sq1ox6apQwMyiKdg6HTVmwNh61BAnQvOrXHZIN6ptYnZLlYc8IrKeqM4QBWAUgEicHoqcaehHi_z1-FLjbK6BpTZeVPb8i4G2JReChMdW4S3Xo-4lLUJrZx0zvSYIHXR_yny4o7LhNRCSgiFqQW1Tmk=
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoLF8GfeJD4uBXXiQUmAv2o6FK4Hwir9tzLP0LnDN8wPDjd4XajjIfwhYshj4DwOtMYwvXgiMqmLLVWANtU58Ru_AA6h5LG1PzUAIULXaKboVVoxDzCBRYHnIr8sV9Qn2CZnL9KYnsbHhjF_z5pDBu0UZT6_qOHEkvdonyzMS90uOB62yZe85-qRKFBAJLwh2TTGZJoWgJ78eHcLSu
