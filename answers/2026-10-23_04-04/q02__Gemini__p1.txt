@@ -1,0 +1,56 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-23T04:04:30+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, obejmujących straty finansowe, zakłócenia operacyjne, uszczerbek na reputacji oraz implikacje prawne. W Polsce aż 88% przedsiębiorstw doświadczyło cyberataku w ciągu ostatnich pięciu lat, a 70% firm zmagało się z incydentami zagrażającymi bezpieczeństwu danych i systemów IT.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Skutki finansowe:**
+    *   **Utrata przychodów i wysokie koszty napraw:** Cyberataki często prowadzą do paraliżu lub utrudnienia normalnego funkcjonowania przedsiębiorstwa, co skutkuje utratą przychodów. Aż dwie trzecie firm dotkniętych cyberatakiem odnotowało znaczny spadek przychodów. Koszty mogą obejmować również naprawy sprzętu, infrastruktury oraz pracy związanej z ich przywróceniem do sprawności. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 miliona dolarów.
+    *   **Koszty odzyskiwania danych i wynajęcia specjalistów:** Firmy muszą ponieść wydatki na odzyskiwanie utraconych lub uszkodzonych danych, a także na zatrudnienie specjalistów ds. cyberbezpieczeństwa w celu usunięcia skutków ataku i wzmocnienia ochrony.
+    *   **Okupy:** W przypadku ataków ransomware (oprogramowanie szyfrujące dane i żądające okupu za ich odblokowanie), firmy mogą być zmuszone do zapłacenia znacznych kwot, choć odsetek firm płacących okup spadł. Średnia kwota okupu w 2024 roku wynosiła około 1,81 mln USD.
+    *   **Problemy z płynnością finansową:** Polscy menedżerowie, zwłaszcza z małych firm, obawiają się, że cyberatak może prowadzić do problemów z płynnością finansową przedsiębiorstwa.
+
+*   **Skutki operacyjne:**
+    *   **Paraliż działalności:** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcje przedsiębiorstwa, uniemożliwiając dostęp do danych, systemów IT, skrzynek pocztowych czy dysków w chmurze. Ataki DDoS (rozproszona odmowa usługi) mogą przeciążyć serwery, całkowicie blokując działanie strony internetowej lub usługi.
+    *   **Przestoje w realizacji zamówień i usług:** Zakłócenia w działaniu systemów mogą prowadzić do przerw w realizacji zamówień lub świadczeniu usług.
+    *   **Utrata lub uszkodzenie danych:** Cyberataki często skutkują utratą, uszkodzeniem lub niedostępnością kluczowych danych firmowych.
+    *   **Spowolnienie działania systemów:** Innym symptomem ataku może być spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych, a także rozsyłanie spamu.
+
+*   **Skutki reputacyjne:**
+    *   **Utrata zaufania klientów i partnerów:** Cyberatak negatywnie wpływa na wizerunek firmy na rynku i może prowadzić do utraty zaufania klientów, kontrahentów i partnerów biznesowych. Wyciek danych klientów jest postrzegany jako największy koszmar dla reputacji firmy.
+    *   **Spadek wartości rynkowej:** W dłuższej perspektywie cyberataki mogą skutkować obniżeniem ratingu kredytowego i spadkiem wartości rynkowej przedsiębiorstwa. Firmy dotknięte incydentami reputacyjnymi związanymi z cyberatakami odnotowały średni spadek wartości dla akcjonariuszy o 27%.
+    *   **Trudności w odbudowie wizerunku:** Reputacja jest najtrudniejsza do odbudowania po cyberataku, dlatego kluczowe jest posiadanie planu komunikacji kryzysowej.
+
+*   **Skutki prawne i regulacyjne:**
+    *   **Kary finansowe za naruszenie RODO:** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania przepisów RODO. W przypadku naruszenia cyberbezpieczeństwa, które prowadzi do wycieku danych klientów lub pracowników, Prezes Urzędu Orony Danych Osobowych (UODO) może nałożyć karę do 20 milionów euro lub 4% rocznego obrotu firmy.
+    *   **Obowiązek zgłaszania incydentów:** Przedsiębiorstwo będące ofiarą cyberataku, który skutkuje naruszeniem ochrony danych osobowych, ma obowiązek zgłosić ten fakt do Prezesa UODO w terminie 72 godzin oraz powiadomić osoby, których dane dotyczą. Należy również zgłosić incydent do zespołu CSIRT, np. CERT Polska, oraz na policję.
+    *   **Odpowiedzialność karna:** Jeśli naruszenie cyberbezpieczeństwa prowadzi do nielegalnego dostępu do systemów, wyłudzeń lub innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne. Za przetwarzanie danych wbrew przepisom grozi kara do 2 lat pozbawienia wolności, a za udostępnienie poufnych informacji osobom nieuprawnionym – do 3 lat pozbawienia wolności. Atak hakerski kwalifikuje się jako czyn zabroniony przeciwko ochronie informacji, a przedsiębiorstwo-ofiara ma obowiązek zawiadomić organy ścigania.
+    *   **Odpowiedzialność cywilna:** Naruszenie integralności danych osobowych może prowadzić do odpowiedzialności cywilnej.
+
+Cyberataki mogą mieć również pośrednie skutki, takie jak utrata przewagi konkurencyjnej, obniżenie ratingu kredytowego, spowolnienie innowacyjności gospodarki i ograniczenie inwestycji w sektorze technologicznym. Nawet gdy atak jest wymierzony w firmę, jego skutki zazwyczaj odczuwają również klienci, np. poprzez kradzież tożsamości, oszustwa podatkowe czy nadużycia związane z kartami kredytowymi.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJXR6tqYa0SRcHTYPYQ-g7e7ZcTrJL8hjp0VB2anuquBmGxPtfojL0x7O_TO3liiz9VeYX8LR_4TCCg1qUsWfvU1b34wVDYS-H4x61Upn9ZpqLiyLJ7idbOT1AMOjUTP4r5UDuPw==
+akademiaesg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxDApsno4rBmhVwpBabNcYC5xPXh-EmxSBpenoBlPYfOPgYB2jNGnd07iIN8Cmodn7twYculCodRGtsU7gCYoTeEGQuckG21gFv1UAiUnMifIv_HanfBB_q5NQ2x3eBEsQ9Wi8sn5E7TDPsTALNWke73FxoyxFUMOMn4zjqgSOWa9sqzdqmx0PB1p6Lgxaq9viYu41vXetl1-wl-5ZuDtA3A==
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszCZWtV2u7zxlzddLGOOEVecgnY5r1radHHOad4aFIZUIhqRRyveFtsG-6MiwJjKjS0q94Yal2K15dFwNwGngsW5FSlrom3YHjoMpM1KF9NUCGf5svF_zcBXBIwUp0OsXCXe54k__Yn3tUtJBDZUwiIr7K90iNSbJ-gRRdm60tVhnIEMg9KjnL72cYB0xTs4Ng0HZY3-4fRoXyxEeqg==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNnCAvlGTGEtMUh7K6JnTvMOXcahq1BdhNkfIq1sm2rAzE4Rjh7Xsvqu0BBXtxEleaFOM14p8d622FdiT1eula2hFG9pF0NQHPdg7hR-wbAV01Ojk71ndJCeYh2q5qSLnSUM8sgM4PgtDcyjNyXlKVgrZZCxdKOq0xxbaWm3bPCBZcv4xCUk9_BbIzKu1l
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPa9wZGTF193aerv0K2Lq1qqjMqZeJvQDJUwX6VFFaQ_07O-7FcPmwKHXBeg4jofk8vORFFKfTEeDVWeHGRIIfzltxhXOQBY8kloZWG5aD47vJo7qAg_tsH8c2TGVLEEfNo_Pp_oD3-fNTwXlkptDbOfjuYDXs0QfTrv-iLPiEp01CdOXmiKwIYLBQ5zU7SAUKK9sumHeN-BYUcw-g
+executivemagazine.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6UBuAlLIvWZWJ22zhOMThNjTIQfwy2HuTZsLFRcGooU0sYwfVyyhTWM-sdArIy9qhYIA3c_BAPPEQ8pnK6yLS2F5nHuUALgvS81PQBij3n9T-T0Hdpw5n8ZfgGqdxT2AGbbqRH-KA-aRGkmOuX8l1ZIdmzhvMTQ==
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExxif2i429g75ld9sDfMUGcy8EjPlTmEccVRW2e21iee_1Kte3_MzaMJUxZ8afoyCIyAWoAvYxrPd21JZrRBWkbhYoM2iVQHxSb7tCHgi3bG-mRkU7NbYCnagMl56dCKmdn6ghJ06HWLxY_NUEGkFAljojCXyuIJkWgh9DtX7SiuVywVm-lL3YuXBHPTFy-Wo311waPiyr
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqmgGEZ2B5awDiUbVg_AtKDObjJ9WI5nUYIR7Rw-TqDQ8C0Uea4hclQYwe-vEmQ89D4J2p8OkWHENpypFZW5ODtbIrmBnFetB_OjaTR9SmeV464NvV7nIJtetpWoo1SagMZrC6g5jNlOxhF5AmjrqGNmTPllbB0Gzy9VoPJ_23dJ5a58Q2xnG4eBL5VBUoLsF9XrxtZgJKlqnxSX8=
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5vttG4AR4oO8m72YP-XIKh99lGbK2ZeFkJzdiVYcBWXxY5TWwKeKH5sN-FyFoX3OROcfVKRVSwfWVXoSNa3hhU2scIPd2-3xuOgfDMLn9sqNOxmnMCieRLqLGMvDewOEejlW4Z74Wok4Qm_fQtNbiS4Z-DjJNgEwNjzchE6eaUVnPpAzmRxC75_MIvdKHnZDLjPyK_WyI6tp25y96PHhW99ujq8CsGjQ6Bl1b-YTtcLY=
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwzGVblvQmDNT8kLPW3bQbUKw9fpRHsIb2Ogpsa4MN9HgLizKsdwyz4VudeOKLXFPrNd9lDV1TbHbfQmcCnY2EmXcMWJnHqYa3RYbAc0Mao2DFfrB5bCABe2ltz-E4ZLvmgvjZR1pM65GcNTh26ZVXOP_sdV4X0iF4j-8AhuQihsE8csLXdqwDtabpBZSRIBD9
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE72Gip3pspNyTaPVk5WZAVsLUUReiUOkuWXH9GNDCr6c7zKdCZ9K4Rbt-BfsdXqY7_s_VvTOpPT0cg1IwzCnXR-5YuIPfifAaKvJoFeoldDfiXJb_iPPD3rDeJsLywhSfVhsHw-tFBuGN7BnZdKiyKltmYttpdghNRlHCFZFIGfT8epjWuH7VDKY7qjw2MJy4AeBGa2cbxG4elC-NDKZMglP6xoh2GnUNO9rk0XUY=
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJd7UGrj7SPv7QJx1HzWzoTxeyTEDQBB9BY7AeFlXnaVbwK5h_DlEOG2LiaXHk-jkUUQBsMTAW7RVTwHDizd6dM8ng1xL6aFKB76KJX5_B6sZAMmtVxg0lYdmxUCUi_tmrI2nI5SVVKQfu0Qpo4JrAJzo-fC0ehltgCvnyY-WzD_AJEDpaTgGc_TwVrAKSIxKJkRNMZfq2GNXIaUffTeoiM1df-LhxzlA-K_AGSa9qgkJytoLZfkO9HuPi5BD1QH0FryhORA==
+pbsg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnPUn5WjATAIBHG_INherhIH04J5DT_cX-jT9J8GOH_qoQUppc8P2t_dfnlBOJ0UOFgWe9vJ98Plgoe2QxXIpXpwH4umYKB4xydfC_WRt75MedmzEY_00P2P0UWgLbwXCD7r5eyFsjl5_o
+sabuda-sawinski.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBnujWplAUI12eZB9kwklHRC5teojOY_no6i1tJad5HJCiDKiFLIFL-jhiXq5_c-GXpNryTpjZEx42nIg8duXe6I_EFqTbPuR9gfYttdffdMBweKIbVv8UcWpEU_bk-O65ieyD8vBiQwJf8RUVE3Pb_iN8jT6C94Aq6yhJjBbgwPS7XWwXB0RuV5Oi72mBWdMuC4VsIIgbvRVEBGgJyPgykjETRXMUbjomXC8nmIY=
+infor.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI8tqlQEH9qEnnOaML6aZAoDgnJfHANKjfTXYdo2YNR1uihtpiwwSKykGUGWc1yzAjnfLkN_OpQy1tjMikYBFJshNMEHc632cAHmwhE1YKuivH0tHUtbtcqvDuRPpdwUBJzd0zfI0777SrtWleccyQzBfz2BPLJgLJJRU7UCtCgLn_9gmhCUMMk1oJCCBhHqbYB_qR0ODe2AZzplOSywUfcrXGGK8qZEQjBJ2LJVzcayL7wX-8
+rpms.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi75uVE0eY-PLRSSGGABlttRzqUGrseqoq4WEZL4SX_HuzGdiBm8CYmH9dIbx7vYvwEUMQ7rb5TcOKmWpVYyjmbXLNIv_nt1dumykAuf98k_QT08lJiN-XPrmKWm_MSfLEyBfvR7NcudMqkA==
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGomck8ZbnZRGc6fgZ4yCxuZYzensDxZWQ8WgFRjzIaQMgNV6wvQulB5ujgCrokpqKr7q9DweNfY3P-OL7R9ZcXc1tWOroZWsXaqs-ESTV3tb6n2ZfZQ8FYfTt5RIumIu-g-zmHNgoOcHSxdDZQIUz5tH5SWCUyGteVesVW3hfx_W-dF43Ri4NUL4rE0yMmr7Dgs0itLPdvRaqDjOmK
