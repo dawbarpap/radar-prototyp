@@ -1,0 +1,35 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-27T11:51:10+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do szerokiego zakresu negatywnych konsekwencji, które mogą destabilizować ich działalność i zagrażać dalszemu funkcjonowaniu.
+
+Główne skutki cyberataków na firmy obejmują:
+
+*   **Straty finansowe** Cyberataki często skutkują znacznymi stratami finansowymi. Mogą to być bezpośrednie koszty związane z utratą przychodów z powodu przestojów w działalności, kosztami odzyskiwania danych i systemów, wynajęciem specjalistów ds. cyberbezpieczeństwa, a także opłatami za naprawy sprzętu i infrastruktury IT. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów. Według NASK, 2/3 firm będących ofiarami cyberataku odnotowało znaczny spadek przychodów. W przypadku ataków ransomware, firmy mogą być zmuszone do zapłacenia okupu, co często sięga tysięcy, a nawet milionów złotych. Co więcej, około 60% małych firm zamyka swoją działalność w ciągu sześciu miesięcy od cyberataku z powodu braku środków na odbudowę infrastruktury IT.
+*   **Paraliż i zakłócenie działalności** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa. Brak dostępu do danych, systemów pocztowych czy zasobów w chmurze to jedne z pierwszych widocznych efektów. Ataki DDoS (Distributed Denial of Service) mogą przeciążyć serwery firmy, prowadząc do spowolnienia lub całkowitego zablokowania dostępu do usług online, co jest szczególnie dotkliwe dla firm e-commerce. Średni czas przestoju po ataku ransomware to 21 dni.
+*   **Utrata danych i reputacji** Cyberataki często prowadzą do utraty, uszkodzenia lub kradzieży poufnych danych, w tym danych klientów, informacji finansowych czy własności intelektualnej. Ujawnienie tych danych skutkuje utratą zaufania klientów i kontrahentów, obniżeniem wartości rynkowej przedsiębiorstwa, a nawet utratą przewagi konkurencyjnej. Wizerunkowe skutki mogą utrzymywać się latami, a analiza rynku wskazuje, że firmy dotknięte poważnym cyberatakiem doświadczają średnio 7% spadku wartości akcji w perspektywie długoterminowej.
+*   **Konsekwencje prawne i regulacyjne** Firmy są zobowiązane do przestrzegania przepisów dotyczących ochrony danych osobowych, takich jak RODO. W przypadku naruszenia cyberbezpieczeństwa skutkującego wyciekiem danych, Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe sięgające do 20 mln euro lub 4% rocznego obrotu firmy. Ponadto, w zależności od charakteru ataku, firma i jej zarząd mogą ponieść odpowiedzialność karną za przetwarzanie danych niezgodnie z przepisami lub udostępnianie poufnych informacji osobom nieuprawnionym. W przypadku naruszenia ochrony danych osobowych, administrator danych ma obowiązek zgłosić to do UODO w ciągu 72 godzin i powiadomić osoby, których dane dotyczą.
+*   **Spowolnienie innowacyjności i inwestycji** W szerszej perspektywie, cyberataki mogą prowadzić do spowolnienia innowacyjności gospodarki oraz ograniczenia inwestycji w sektorze technologicznym.
+
+Warto pamiętać, że małe i średnie firmy są tak samo narażone na cyberataki, jak duże korporacje, a często nawet bardziej, ze względu na ograniczone zasoby i słabsze zabezpieczenia. Globalny koszt cyberprzestępczości osiągnął w 2023 roku poziom 8 bilionów dolarów, a eksperci przewidują dalszy wzrost.
+
+[Źródła]
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIFHpNe2DWmJAzhCi_Fsb1MM0I8ViAhSSiINvEAZ50RCDEdek_NUjMG0IaamM_QY1YV9CKGlp5ksVfQGh2TaajiLlMlngp1OuWFl67GZCMAteFqRGucb8xyJIahGWYyutGGzSARurYgxZ9H9E5KKTXSpqak4fCCh8pq9zwG78wqyKQFvk936eTukokqAhwOFQA
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEDgxHzinjSSmkYJkOV8kgpaOgpbUPuQeeVMoKE8dQA_w3i4Gc7jtRoiLfi_cwkv58jaH_a0wp4U0z1Iednmm-JJeo_Km117hMSTKjHqzRniyiqO_0RSkcdSzOy_BcTAUNWwYAF62MTuNCvR7OSy0rISOL51FY4SnAxxc8V639
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5As7Yuiwnq1GOt0Mwlmss5Yt30GS7bnhJYdP5ue0rIFH4W1ykUff0K9R_ogQGTUx0CKAAlDZizrwIj3tQZn8o4Gkh67fEWzAfyde3PVHJLyXA_pEyYb2tbLXvowUwjsQll7w5Z1GK2fwDf7AbLTdi25dxZKZQvQEf2pAfsxix72HLeoTc8DpfS9SPVmHykdTB6SwQ94V77ARIzx0=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiHtwOdIJ3NW2tC2kxepa37P7RvfJmeOQ4gSXs9HxdSOQa5_dvBj1Zgh72wTBAAss4WglDizv5y-dfhBiXoY6FY0nSjv-WCkP_QVNPp5hBvwVA4urdA-tTJjHefqoirFHaMHfFCg==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAt_1EsAsflXolgVxxudwfCO7q0TvjoqGDCOIVgOAjV-kFLuQqeFugLJ1WSst-D21STQ8Jv8ju-d-ii7DF1eTPWcW3fe1nAstVguGLt1o2vXxeiwzcSIOjbIST-1w1BM2zSKizcElNONZdODqRsXOKEUHLVT2r2j8aFmbHDue4EBHP62eQzTDUq0ve11zz
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg6qxaid_220ylCe4MBjDJK2sg1VtcMVGuY1hV3GWUQBt37sEDk4zZpFVpk6vFiwcFIEuHBB3KTLcmzLVsRYVdAUQNg0lbKsv8r27XjtLZWabb6YC57S-IKN-Z8m5kl3is2pape0XaAh4nvVqjrLp5XS_ssA==
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRxEuf9NqCgPFcRW4qdvnY5xI7vsJ6nwKBhshkeHMezaHK35b1bp9APTr8Gv9MVttRPQ9b7mVyBVxwyWwCzYoVo3pFJXzOSabnDXkbZkHXoN_-_-97ty8jXiQLPSyQBY0zMasA6elMcNFJmNvsVkH2LGr6j0YoXBZNSYmXxPSaZ9bH0KiBxC1r2jrOtE4hmYh9dj7tbCt9d5pOaUXU
+netia.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF32Y-kvC4dHeam1nhUVV4od4ikV1Ec8veC3k_DEvB5Or6HvUWctCjNkutSlA1egSexmNmORPKat7ByMdQa46upL_kclu5tQ8dUv-P2yqncvM231rG8cfJtOGw5u9JN9qBJlBuDTIOiPeG6TPZ_LCR0cx2W98VeIMZoiwEnZ50C5SgawV5HO1dnO_pPTZXi0bGjUKrpBfCY
+bitdefender.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP6jNQPaydlZpZ49KUJigTm1VYgfu308JhAJSgXf47Bsg81k5GNrMXAy4amfm7gYURu4VhP3C_AtMBpKLam5qpuC60XnMY1Psg-IDx9lK5e5-dS7ms_DhuZYC9gEmQb71RLV-dFs8XXkc0FxauTZmAkQppNyL45YwJ-3Q1JEYeP5_9UPYhkJmGXwbM
+nflo.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgmQDnSatiq94GKxtCsZG5Y--GfhKI0QvDSVSnPY6oe-DABE33hvPDIW2i3wMccLodggx-NCj2rpWpATnP_KDK5z_bk2CuN-LH21F2LCTlQvPlcOn4NfvFnFoa19XcaDH9_-UKmqa8i96MXGc-TETeSNvPhss=
+securivy.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnOQeQ7bovLOcYMCJv2kREIfeM36duI1KM-YI5n-Tfc1mA9OJqmsqAqtROjBkWpl9GbuZCM8EV03779qsUKG9WHcY4B_UDVAoJeX3ANHbiXtSut4qEqMNzNZYGErj1do35laIZH2QQCXWQMRS7OPI=
+tauron.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtvTYSBGHv3ehyNv3XHJgVxQLkcs1H3Ux1uybZ7NEJdXn7i55eOlVqlJZZSmdQuSqbqpcelRMGNnE1hnW5GA3ssy-5rulZ0FeJ01T9AxDZUK8DSaeN71aIxEY1zSsCDmU6FBxbSAcBwQUYz2xxDpPz672g2KLclGjmByy52ll0BlK0_xWyR89IEWM=
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT9QzFo847jbDx3VtpE8xLvzL3AH1yBZPiEiixv_F8zNCFG9tGWrn21fKzolQtAXLDBrA3wjwq05nwMcZRPO_WBSwKszM5m4ubeowRCe01IZOD48vC5ngMf2bn4-RH363Bo0CsJHn9c9bpR8lbt2i_GkRmtju1Sxp0ULQX6M_t9jcJ5o-6f1pm
