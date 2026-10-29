@@ -1,0 +1,47 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-29T05:04:28+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które można podzielić na finansowe, operacyjne, reputacyjne i prawne. Mogą one dotknąć przedsiębiorstwa każdej wielkości, od mikro do korporacji, a ich skutki mogą być zarówno krótkoterminowe, jak i długofalowe, często prowadząc do paraliżu działalności, a nawet bankructwa.
+
+**Konsekwencje finansowe:**
+*   **Bezpośrednie straty związane z atakiem** – Według raportu IBM, średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów. Koszty te obejmują przestój w działalności firmy, odzyskiwanie danych, wynajęcie specjalistów ds. cyberbezpieczeństwa oraz kary administracyjne i odszkodowania. Ponad połowa firm dotkniętych cyberatakami poniosła koszty przekraczające 1 milion dolarów.
+*   **Utrata przychodów** – Przerwy w działalności spowodowane cyberatakiem oznaczają utratę przychodów, a dane NASK wskazują, że 2/3 firm, które padły ofiarą cyberataku, odnotowały znaczny spadek przychodów.
+*   **Koszty napraw i odzyskiwania danych** – Utrata lub uszkodzenie danych jest kosztowna, a w wielu przypadkach konieczne są naprawy sprzętu lub infrastruktury oraz praca związana z tymi naprawami.
+*   **Okupy** – W przypadku ataków ransomware firmy mogą zostać zmuszone do zapłacenia okupu za odzyskanie dostępu do danych, choć odsetek firm płacących okup spadł.
+*   **Odszkodowania** – Firmy mogą ponosić odpowiedzialność za szkody powstałe w wyniku naruszenia danych pracowników lub klientów, co może obejmować koszty wymiany kart kredytowych, raportów monitorujących czy zadośćuczynienia za cierpienie emocjonalne.
+*   **Obniżenie ratingu kredytowego i wartości rynkowej** – Cyberataki mogą prowadzić do obniżenia ratingu kredytowego przedsiębiorstwa oraz spadku jego wartości rynkowej.
+
+**Konsekwencje operacyjne:**
+*   **Przestoje w działalności** – Ataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, np. poprzez brak dostępu do danych i systemów operacyjnych, co może trwać od kilku dni do tygodni. Przykładem jest atak na Colonial Pipeline w 2021 roku, który zakłócił dostawy paliwa w USA.
+*   **Utrata danych** – Skutkuje wyciekiem lub zniszczeniem danych klientów, pracowników i strategicznych informacji biznesowych, co może mieć długotrwałe konsekwencje.
+*   **Spowolnione działanie systemów** – Widocznym efektem ataku może być spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych.
+
+**Konsekwencje reputacyjne:**
+*   **Utrata zaufania** – Cyberataki negatywnie wpływają na wizerunek firmy na rynku, prowadząc do utraty zaufania klientów i partnerów biznesowych.
+*   **Spadek wartości dla akcjonariuszy** – Incydenty cybernetyczne, które przyciągają uwagę mediów, mogą prowadzić do mierzalnego spadku cen akcji. Atak na firmę Sony w 2014 roku skutkował wyciekiem poufnych informacji i doprowadził do strat rzędu 15 mln dolarów oraz uszczerbku na reputacji.
+
+**Konsekwencje prawne:**
+*   **Kary finansowe za naruszenie RODO** – Firmy przetwarzające dane osobowe, w przypadku wycieku danych klientów lub pracowników, mogą zostać ukarane przez Prezesa Urzędu Ochrony Danych Osobowych (UODO) grzywną do 20 mln euro lub 4% rocznego obrotu.
+*   **Odpowiedzialność karna** – Jeśli naruszenie cyberbezpieczeństwa prowadzi do nielegalnego dostępu do systemów, wyłudzeń lub innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne. Zgodnie z polskim Kodeksem karnym, za przetwarzanie danych wbrew przepisom grozi kara do 2 lat pozbawienia wolności, a za udostępnienie poufnych informacji osobom nieuprawnionym do 3 lat. Pracodawcy mogą również ponosić odpowiedzialność karną za niedostateczną ochronę infrastruktury IT.
+*   **Obowiązek zgłaszania incydentów** – Przedsiębiorstwo, które padło ofiarą ataku hakerskiego, ma obowiązek zawiadomić organy ścigania. Dyrektywa NIS2 wprowadza również obowiązki dla kluczowych sektorów gospodarki.
+
+Podsumowując, cyberataki to złożone zagrożenie, którego skutki wykraczają daleko poza bezpośrednie straty finansowe, wpływając na ciągłość działania, wizerunek, zaufanie klientów i odpowiedzialność prawną przedsiębiorstw. Brak odpowiednich zabezpieczeń i procedur może narazić firmę na ataki hakerskie, wycieki danych i kary administracyjne.
+
+[Źródła]
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXXn8Ys3g1gGigJVzrq5QrP2ZL56wlbO-tayRo750jq0zVW_szdD4vtl38TvO2dm_yPzoOPiF_9gQDxH2E-3M4_BqyONFCpnoR7-_pbaOoSUOKWgsI1q8rA8Ly_J_3lLhyRRUzmF0x7QVUTnMlmRMEwM02079cK81APifNaCwK4t-d7evx2TeugFafFlmr
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrI-b5oOhKf062gX3vrJsd78zArcMci2cRm2isF71luIlCizfTEX0HbeANm5vOrMuUtSeoSawtKWKcEl242thub75QUokAY1B0GnqCDTEzjCI0jVsUsx82fLNW_lDHPLJSbRZ4lA==
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdc1t_tZVy3cF5XcMpXosCqxOO0BhCUUOEwQrOkvlD2KtU-3oNwOpz02riWBNe5mIRau6XPRChNTeViz2QalQuLay6qC9YltpTVwm6miWj8Xzjj49i0zwipJfbdwZHvGec2KOMTEqNZieScWGRIjqMiTKTHv_D8-EqVBwaFWm8GJ_nQH-4I58s4kpPqeUOApEi
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzANE2tqfFx9-IjBWoyBhHS9HgAH8kvlQxUujupqoSfYeEGTTO_rCoIoTgUyGup6hvRDgSnrTBwW42WNl6pX6vMb9SkNybJneyLax-wHAtiSVf7rTlPvMH8IzDhqBoP0TLceukFJIhfsx_yXwhfISWqaFfj4Z4rjEMb-0y_f_eW9RimTi-IaOGBQwUdIL-OJ0Dp5Z1KZHzqkJSfqQ36bjCknR8H65SPOnnLYzaKxU6eZHr
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf4mRYSviiKpnnIIMLKh49woGppmLylC9DFo22NPvOfkqfS5RwRGK4rvF-TzXbZMAih-S1GTxfhGouqEK9eyQT8meEemszYLMwIfGuxr_t6l2MxWvLMBXjvBESlKNwM1lycdNTzpiRHtoI6SDA
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF48j6EvkpBJitTZEl9zixtjwcIrDobkaQRXbrRyDb_t4T6VMlrxSwL7cp27Q7u2esP28xfnSQrG5lTITx0l-f4EbJxkkyPwYSCdJOu3FZiaf9TX3H_7wSgXkU82mK_TfM6CxePYPRS-VWmns1A1bMFDjUBAuNa_pq7yKL-4cx4PILOrDJDGvo2
+focusonbusiness.eu — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEvzULSkGLrOROFCZGxKcuM8VYLyo5_8FzaZZBDolms2muM6sVKEVB9EC9oCWkX36d36Tkzpbwkq8WG0ex3ckQbi8YhydU-QRzyVqvEWEe4ViJoehKgfmhtnPAfOw2nMZyXuN8LSCS5enwmIcBvqs3YGO7v35PLp0vvBhdgGToYmjf5BJKaz17vcZn7khInrEEdgBKgIGHXfngW-LsFpxEdwu7Sy5cqihL4WAMTDfnrkB7R0jiykRD62lWaL7FBPRIaWvqFIS0VpU=
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH32Tpr0ddc-yMgiOvvGhYI1MieNbFyU9CMG-T3Q5_JSNDA-Gm7Ooi4rnxRiai2Mtet4Y14ghN8l0vnxvTJNxpk0iwki6b1FTxqQbhSM32joEla7Oz2v1JevnhlhfUNPTpB1SAk4XfnXqr0t_ZRMHMA9i0o0PVRTWn0RtyzywkifRh8OUtDxMENxJlEnpEvo1PkcdwhQwmR66nhsOlItrCZFN1KQTehCeSLA65N4g1xK5Er_wJs
+executivemagazine.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZNqnf5Pg8S5fN7JDpKPSgXCUmHTgPYe83b2BI5aWmwY1SVe5YcV0--YEvdmyU-dY19dzyUvQvLJLteSpyDsqXXd5NCU7WV4783EgF17xtAPnhGK_5-vlx-Q95iTcR18O-MjV0f3_M2eCwf6KY5LfFOddL9umZw==
+keepersecurity.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErJLwZmkwmccfN-fW5LgdOI-fO49Svc8llylSzqUAcBC83B7VtoNSxZAIKTaCixVhGHbuu62edtwJCcPRmEXWLaZ-ijJgkcntQA8Wq-yaLUcioHiM7f6-Ny_TlQ063Yid6L1ONucyWzElg6_IqQQI_h7KI1YT8GlPihKuiGw7QglGTpVBzXn-mAyXgWdcnfWeN1u29bgVQSRfsHoOAhaFuTxdnRur8GT-A1GLY9Q==
+sabuda-legal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2KUDRzz5BIk_qySvDEBNH5lkCCBKDcO_CP12KKJe1js7dF6kuBunUsa0jv70Nd_ncuQ54Kc5DJsrqV8vRgizPkslxh7zSuzkk5-WFL9DoWr4F7qnKepmZrQZor_9S_WVVTMWbEGyVruK8z8jF7RgxPYpOSPlW7rLuHBZXJ_G9KJSVGfjcDvTKZiAubzblnBo94_boMa0MWpLZXxZu8S7neMOdX3qCsX-WuXI=
