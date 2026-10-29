@@ -1,0 +1,27 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-29T22:35:48+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, dotykających zarówno aspekty finansowe, operacyjne, jak i reputacyjne przedsiębiorstwa, a także mających wpływ na jego klientów i partnerów biznesowych.
+
+Główne skutki cyberataków na firmy:
+*   **Straty finansowe** Cyberataki często wiążą się ze znacznymi stratami finansowymi dla firm. Mogą one wynikać z przerw w działalności, które dla 2/3 firm oznaczają znaczny spadek przychodów. Kosztowna jest również utrata danych. Średni koszt cyberataku dla polskich przedsiębiorstw to ponad milion złotych. Firmy mogą także ponosić koszty związane z okupem, w przypadku ataków typu ransomware, które blokują podstawowe funkcje komputerów i wymuszają zapłatę za przywrócenie kontroli nad urządzeniami.
+*   **Zakłócenia operacyjne i paraliż działalności** Ataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa. Brak dostępu do danych, niemożność zalogowania się do skrzynek pocztowych czy dysków w chmurze to tylko niektóre z problemów. Spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików oraz rozsyłanie spamu to również częste objawy ataku. Atak na dostawcę usług lub element infrastruktury może wpłynąć także na inne podmioty korzystające z jego systemów.
+*   **Utrata danych i kradzież tożsamości** Jedną z najbardziej oczywistych i szkodliwych konsekwencji jest kradzież danych. Kiedy hakerzy włamują się do firmy, często wykradają dane klientów, co może prowadzić do kradzieży tożsamości, oszustw podatkowych, nadużyć związanych z kartami kredytowymi oraz długotrwałych prób oszustw, trwających miesiącami, a nawet latami. Wyciek mogą dotyczyć zarówno danych logowania, jak i informacji o kartach kredytowych. W przypadku ujawnienia wrażliwych danych, takich jak dokumentacja medyczna czy ubezpieczeniowa, straty nie ograniczają się do aspektów finansowych.
+*   **Szkody reputacyjne i utrata zaufania** Cyberataki mogą poważnie nadszarpnąć wizerunek firmy i skutkować utratą zaufania klientów i partnerów. Dla konsumentów naruszenie bezpieczeństwa to często dopiero początek uciążliwego i czasochłonnego procesu naprawczego, związanego z koniecznością blokowania dostępu do danych kredytowych, wymiany kart czy zmiany haseł. Utrata zaufania może utrzymywać się długo po zakończeniu incydentu technicznego.
+*   **Wzrost zagrożeń dzięki sztucznej inteligencji** Rozwój sztucznej inteligencji (AI) sprawia, że cyberataki stają się szybsze, bardziej skalowalne i trudniejsze do wykrycia. AI umożliwia przestępcom tworzenie bardziej przekonujących prób phishingu i wymuszeń, wykorzystując skradzione dane osobowe.
+*   **Zwiększone ryzyko ataków phishingowych i złośliwego oprogramowania** Firmy są narażone na ataki phishingowe, które mają na celu wyłudzenie poufnych informacji lub zainfekowanie systemów szkodliwym oprogramowaniem. Ataki te mogą prowadzić do instalacji złośliwego oprogramowania, wykradania danych logowania czy danych kart kredytowych. Inne typy ataków to DoS (Denial of Service), które przeciążają serwery, uniemożliwiając dostęp do usług, oraz ataki wewnętrzne (The Inside Attack), wynikające z zaniedbań byłych pracowników.
+
+W obliczu rosnącej liczby i zaawansowania cyberataków, cyberbezpieczeństwo staje się kluczowym elementem zarządzania przedsiębiorstwem, a nie tylko zadaniem działów IT.
+
+[Źródła]
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqmma-X2sv7DQjypwhuyosVMRMb7Gzx1LAfVuW9A0YhqplqQ9B2zN2iBwd9-NPxbVls4f9eYiAhN9vKdQDpp0qzZmJgx4o3XvtZlUtnjzJD-8f-F6AnAcZxdjEa831kbVGHttDDy0Ffc_SBZ8-HMMpmfc09mSS3UFRjjHJgHFQpujQkvR6DQa0m8Nlmfj3oxxg74XUmPkAL7WHzo7PjYfVmOkzeOSt2eg186F-Cka56BQbP61_
+interia.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI7JY1WfE-ZqTee0XJQhoZyBcuDqm4GSAORLepjlHoR18ITY2pW7addbm1ssZH8bLmIjTcNo4n3u0ziqoPVUTVX30Dd_L-okHPTNPhNB4WapQiCnQGzV_lTBFdCyeP4qLYhwVvOaMAs7clFpqeeHbBejO5jUMxR8_lVxMKaa3nm7LUPxCmNXUO60ohnlO2V2OdWSK6sMnWZjVI7xT7RApJR0CR7-dK9B7Z
+malwarebytes.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYK1Kcvv8eo2sSXZXr7jvwy3XNInX_QfNRDBYR-csHeShfIjpya5rMm0Kv2Bar6kTdoJ0f445VgDdXfT1CuE7jALsonwD2JuqFBUtLbz31vhJ4HvMoJnaOeuLr1nKpIWSoRUr9KC1i4Eb5FFdFt0FSWzERHf3xkwRqwuyc203QGc4KWtyXmg7lk7C3Oq1Dp_rHwhsFVezCSbaCzajd
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsrsFZXL2yngqPOI5efErRn9T4hhBtLQOlb1feS9gGkCwLfnnhzFEOs8H-aOpE_smPOoB1J7QtzXssDJBQ77znPcVT-RYxamGSuWM8OIzR2SFMs1dSNWUvc2jgt2pxiAzBtM-j7OXsxTE8qOJ7_WwiKWvG4wTjc0GGXwRV4MPU8qk7vgINcUFPxeIJV8wDl7IyDQAlWXRu1INcRGml
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvdj6X9WwJ9mTv1dfN1WaKC5jfaz73JIpyaqCe03b54Son-8TS9ujjP4OteFRvNYgYvfBeB5WP_ibLpsiNmai6QpMQSHDQ2USmF9yT4DIVqoo9be2jgzHjykT8JggwccOh99Ag_2zCEeGbZcqsrAjRa5VKZdmy_DO-W_CnV2nMOJyV6DZNgkGWGJtdrgMAzF1jdTXXnNilnIRtSEdBBxMt2eBjr77x3AxKXXJnDrc=
