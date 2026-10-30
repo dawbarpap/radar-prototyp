@@ -1,0 +1,52 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-10-30T05:03:32+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą ze sobą szereg poważnych konsekwencji, które mogą destabilizować ich działalność na wielu płaszczyznach. Skutki te można podzielić na finansowe, operacyjne, wizerunkowe oraz prawne.
+
+**Konsekwencje finansowe:**
+*   **Bezpośrednie straty finansowe** Cyberataki często prowadzą do utraty przychodów z powodu przestojów w działalności, kosztów odzyskiwania danych i wynajmowania specjalistów ds. cyberbezpieczeństwa. Według raportu IBM, średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów.
+*   **Koszty naprawy i odbudowy infrastruktury** Wiele przypadków cyberataków wymaga kosztownych napraw sprzętu, infrastruktury informatycznej oraz pracy związanej z ich przywróceniem do stanu sprzed ataku.
+*   **Wymuszenia okupu** Ataki typu ransomware, które blokują dostęp do systemów i danych, często wiążą się z żądaniem okupu, co może generować znaczne koszty dla firm. Średnia kwota płatności za ransomware w 2024 roku wynosiła około 1,81 mln USD.
+*   **Długoterminowe skutki** Naruszenia bezpieczeństwa danych mogą mieć długofalowe skutki finansowe, obciążając firmy przez wiele miesięcy i wpływając na przychody, należności, środki pieniężne, wartość aktywów i płynność.
+
+**Konsekwencje operacyjne:**
+*   **Przestoje w działalności** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, uniemożliwiając dostęp do danych, systemów i aplikacji. Przykładowo, atak na Boston Scientific zakłócił globalne operacje i realizację zamówień, a cyberatak na systemy obsługujące odprawy pasażerów sparaliżował pracę europejskich lotnisk.
+*   **Utrata lub uszkodzenie danych** Cyberataki często skutkują utratą, uszkodzeniem lub nieautoryzowanym dostępem do danych firmowych, w tym danych klientów i pracowników.
+*   **Zakłócenia w łańcuchu dostaw** Ataki mogą mieć wpływ na podmioty korzystające z zaatakowanych systemów, co prowadzi do opóźnień w dostawach i zwiększenia kosztów związanych z ręczną obsługą procesów.
+*   **Spowolnione działanie urządzeń i aplikacji** Jednym z widocznych, choć nie zawsze od razu oczywistych, skutków cyberataku może być spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych, a także rozsyłanie spamu.
+
+**Konsekwencje wizerunkowe:**
+*   **Utrata zaufania klientów i partnerów biznesowych** Cyberatak negatywnie wpływa na wizerunek firmy na rynku, prowadząc do utraty zaufania klientów i odpływu inwestorów. Wyciek danych klientów, pracowników lub informacji finansowych to największy koszmar dla reputacji firmy.
+*   **Szkody reputacyjne i spadek wartości firmy** Negatywny PR i utrata reputacji mogą skutkować spadkiem wartości akcji i odpływem klientów. Firmy dotknięte cyberatakami odnotowały średni spadek wartości dla akcjonariuszy o 27%.
+*   **Trudności w odbudowie marki** Reputacja jest najtrudniejsza do odbudowania, nawet jeśli finanse i dane zostaną odzyskane.
+
+**Konsekwencje prawne i regulacyjne:**
+*   **Kary finansowe za naruszenie RODO** Firmy przetwarzające dane osobowe, w przypadku wycieku danych klientów lub pracowników, mogą zostać ukarane grzywną do 20 mln euro lub 4% rocznego obrotu firmy przez Prezesa Urzędu Ochrony Danych Osobowych (UODO).
+*   **Odpowiedzialność karna** Naruszenie cyberbezpieczeństwa, które skutkuje nielegalnym dostępem do systemów informatycznych, wyłudzeniami lub innymi przestępstwami, może prowadzić do konsekwencji karnych dla firmy i jej zarządu. Za przetwarzanie danych wbrew przepisom grozi kara do 2 lat pozbawienia wolności, a za udostępnienie poufnych informacji osobom nieuprawnionym – do 3 lat.
+*   **Odpowiedzialność cywilna i kontraktowa** Przedsiębiorstwa, które nie zapewniły odpowiednich środków ochrony danych, mogą ponosić odpowiedzialność odszkodowawczą wobec kontrahentów, klientów lub użytkowników systemów.
+*   **Odpowiedzialność pracodawcy** Organizacje są coraz częściej pociągane do odpowiedzialności za naruszenia danych pracowników, co wiąże się z ryzykiem odpowiedzialności prawnej.
+
+Warto podkreślić, że małe i średnie firmy są tak samo narażone na cyberataki jak duże korporacje, a często nawet bardziej, ze względu na ograniczone zasoby cyberbezpieczeństwa. Według danych, około 60% małych firm zamyka swoją działalność w ciągu 6 miesięcy od cyberataku z powodu braku środków na odbudowę infrastruktury IT.
+
+[Źródła]
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9_jMQSBmpTs72v8ADFt1fasbNFXzkAkWdWo-goARbUwLbpve8jDkDUHPe_0MdTwkf6R6_Vau8DrxBRXBPSCSiCXduXFXf5bFuoyMGkpXfZSD9cVY5LsZqHIcn6ja8ygVPkXXTrbVEIs6uWhIB1moZEzIdaOyJurRTnNLj8ZZvhVzpLfNPmAmfn8QTUgM=
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgAaT4QaNPemp9sF_-HkJFE5y6wI6chyStjkgKPbs3ZPRnrbwm6QtWpIzBY1ubF_v1EAqLAjKYQNlKTvmmLOmaaMd1HXBIzJ-ve1jf6rnJ-T-1pulyFgym2X_Yt270hnCb1Xeq
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0gS9EKNIgSDzRBtgVT9LSdfAra1QsqH-hbuUMFq1ZviYkfeD822U_CefL7Ksv5TX2VpT__NHXueTE9zAlrcDO-8sNg0sJMsljIX5tXr6WXEVW54sKQe9Ju56rdNwq45NQBwrtfmAAQL0nHLqIXMmK7-M6P6uvRqRNfpya96w=
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG97nzIqXbPAc4SxYE3h63S49Q48Sjn2KHwxsq_x6HvCF1VpVb3xdS0YdXGlMfwdpl7VggIEHckprnYoa3MjeEVzKMca8nEWrUdWFxueLYlJVZBNY2yXZCJkb43xanTzp5wi3zUHqPxogQUqpKwWXIX7sRE
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv1FgGX2t_WcvlrRkk-B9PC2djr3cudlzTuxdESlR9araVXukDNTTio3YpxPd65K3g6fxIm2GuU7nclera_1zOYZztoFtpmqjIjU6NCj1Tz-OcmJWK2vvo5E_4fHiWLdre27KbQAVdDsooYwJBczkQdYlxwin_lUI1g9ZdSwOW1wlvATUpzs_rm6SH8EwoN0yBVk1XdfcCs3z2KtM=
+executivemagazine.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGik3r5Gp9UKIRwCZacLJRjF_PhlH0vdf6l4YOEo5UmYNPp9JHtL4xbygV-k-KNOEg6_V1maBhkl6a7NnhvFGgS3pDOM59MwDkqBexEsvZm5LIw-q8jt36bwMhmISwCIxwoT67ewluG-q53FNaKk_ZhrBfJUe3S
+bakertilly-tpa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ9gZjEkSKXZ_fOuvKqWZqjoBmJnYDo9bolvW6-DZI9pZaIN9qRHQpsniU7DOOsaQpAhIVmaUAaSqT6yLQDxG362wkGYvyMaWd7fQIhmhubbOGyatkpYKxZFWpv2HhgU3eBoI8QEAraHXn-0xkbx12UsgIyfGq0WY8atumuSSwarcuTyEyqVPygQBuLPIk1QiIHyD47WYeNlXElcKM6rWw
+bitdefender.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcQA7VrHYRTW8R3X5aWTJ72eEZpySfrH7wc3tZncmApzOpqupk794lcZ7U4P5ikfTVZtLK_MghUhITqd-KBw0MP6kOfirPwQSHqJjpUtI-SGwET9_ERZ8DIlQw3ywHi-zPlylMy3MK3kZNDbFC04gA1j1Ufo5jl37Kr9Kgh5kXFBxJauUlaYnLpOuRJRJG4rKcww-O7KYm
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm7QQ5kVbTeYMACWGwt5nESmhZjzmtDPqmsK2YcUguJrQA87STt9S26J-SB22FT_IqUBuvPw3czXB3XyNh2PfctF2_80o5Za90XzTf3Soqfms_TBrkiPcvUUDwcPX3moHZdoXj0Xpv7HpgebVcpRQF321eii6FP9q3xKDtxAnY5AKLWUQfRdKWmIS3IZSHlrecrmroiHro
+securitybeztabu.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjKxxM8rRZdOUDdb2lBYSnp9CPq7Hb6pZvSvXBGBt1IKNfX1R1Gk680Xn4HGPBJ3RG2WasHf0eQc0v1ikTR1rcJOzEE08yO69Y_XOw7jmOhMz-G6r9FIlfppQtmiHPKpCSRLxwVH_FHfo-ozocvWkbMfjk0jehenUiaBkTg1LilsuRbhbDvFQ8QF1yx5qRfkiNMmwo1LYlJeuwO2dgWaGDFIjI_z8=
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPJsDluQN5kQIh_uB_2x63bUxsZk98N7ImahxJe9aqHGBztW-EbgGlB8xa8NCo61m93vL04_-ap1We7JyVz3qHhVTG5VKs8s68UmHNjQuOXzU5ecEKd4gkAykgtUZoEaAoGiyhV8Sij13zIjXxr_xIeeAf8uovUcl6x7wepZHtk6ap4qavRyfnjKCp2FSQV6Y2wjIBO3JYU6b_mnnAtYHycKnj1jdgN2ym-mhhx-Ea
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-WmdxRZo4mfjIUl_NUTKDB8jiiAMo_SN5k9nHHRi8JwCkf1_cjjbngHe6c-yS6j0hvP2j-Kyv4L1DLuK_qxXfJB8_5dbl0lfHtNwKyscGmupfrOkczMiGHwdQy_p_HglraLl7-x_SWAao3nQEJcG0w4jk_We0k_4m2ja_70MUF0_yFMQ=
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYWzDCJfW9ALt0cUD1NTlTuLG7cgOyceNgZYojSWSwODoEhRJ_ey9XpecpCv56kMVkafMzPyMZoq-wkkJZpwMlVnR9KOOIHaofsv3PS0dwbSe5ne5ehkrZYVGss4QitZaaqIhNZ2krj9rTB70RGowB9f-uWqi9mn9gib_X6EcAiXWySBGWDh4Q9bm1qy5keHOKj8qBoeyvBe0TITSNMV-8eRmZN6d1iS-GBukHo0wEWmKfEGIV3MmkK6Hw68wBD91M5eiu
+kancelariaepoque.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKqsKPc8O1kJtn21CwvzvCV6_SaW_8nBTstE32RHm9qa3-jfY9E7SeKXe4inb4mGUx-Hcg2ZIAItGNbnaedIV18ao7kHiM7l376wjLh3Z_uEbtCsJiMgCp8mukEAXaCgwGOK9pE8oWCiWhk6_6A_F-pGZSnKSKzoxGLnjKte4j7fJ8Lhl4vqvDOJ4DulY=
+keepersecurity.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5dqH8BUaIEhGfqdOTt_J1FPPGtqtSGOMUFzt8aokH706WmXn-3ejbNLF2wfBPocpNU-WTWrtNsAhw4EfFXP7PVdU4yhgQshorfOqvrpVTfis5k0cxwjACdudsecTlXlUCEQYwhv9X1x2Y6Hm79_-jYyLkrBMyADcNOoSmUGGMPueqwM3Ax1pndaYv2yMGEOZ3-fgOxHx8_clri0ExUwBHCvpoUl1tLsH1lFgi
