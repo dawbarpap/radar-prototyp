@@ -1,0 +1,44 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-04T14:01:43+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy mogą prowadzić do szeregu poważnych konsekwencji, które dotykają różnych obszarów funkcjonowania przedsiębiorstwa, w tym finansów, operacji, reputacji i kwestii prawnych. Już ponad 70% polskich przedsiębiorstw doświadczyło cyberataku, a średni koszt jednego incydentu to często ponad milion złotych.
+
+Najważniejsze skutki cyberataków na firmy to:
+
+*   **Konsekwencje finansowe**
+    *   **Straty bezpośrednie:** Obejmują koszty przestoju w działalności, które według raportu IBM w 2023 roku wynosiły średnio 4,45 mln dolarów, koszty odzyskiwania danych, wynajęcia specjalistów ds. cyberbezpieczeństwa, a także naprawy sprzętu i infrastruktury. Ataki ransomware często wiążą się z żądaniem okupu, co generuje dodatkowe koszty.
+    *   **Utrata przychodów:** Przerwy w działalności firmy spowodowane cyberatakiem oznaczają utratę możliwości generowania zysków. Dane NASK wskazują, że 2/3 firm będących ofiarami cyberataków odnotowało znaczny spadek przychodów.
+    *   **Kary finansowe:** Firmy przetwarzające dane osobowe, które doświadczyły wycieku danych klientów lub pracowników, mogą zostać ukarane przez Prezesa Urzędu Ochrony Danych Osobowych (UODO) grzywną do 20 mln euro lub 4% rocznego obrotu firmy, zgodnie z RODO. W 2023 roku jedna z polskich firm IT otrzymała karę 3 mln zł za brak odpowiednich zabezpieczeń.
+    *   **Oszustwa finansowe:** Skradzione dane, takie jak informacje o kartach kredytowych czy dane bankowe, mogą zostać wykorzystane do oszustw, co prowadzi do dalszych strat finansowych dla firmy i jej klientów.
+
+*   **Konsekwencje operacyjne**
+    *   **Utrudnienie lub paraliż działalności:** Cyberatak może zablokować dostęp do kluczowych systemów, danych klientów, uniemożliwić realizację zamówień, zatrzymać produkcję czy sparaliżować sprzedaż internetową. Przykładem jest brak dostępu do poczty elektronicznej czy dysku w chmurze.
+    *   **Utrata lub uszkodzenie danych:** Brak odpowiednich kopii zapasowych może skutkować nieodwracalnym usunięciem wrażliwych informacji.
+    *   **Spowolnione działanie systemów:** Urządzenia i aplikacje mogą działać wolniej, pliki znikać, pojawiać się nowe lub rozsyłany może być spam.
+    *   **DDoS (Distributed Denial of Service):** Ataki te polegają na przeciążeniu serwerów dużą liczbą zapytań, co czyni usługi firmy niedostępnymi dla użytkowników, co jest szczególnie dotkliwe dla firm e-commerce.
+
+*   **Konsekwencje wizerunkowe i utrata zaufania**
+    *   **Utrata zaufania klientów i partnerów biznesowych:** Wyciek danych, zwłaszcza poufnych informacji, takich jak dane kart kredytowych, adresy czy historie zakupów, podważa zaufanie klientów i negatywnie wpływa na reputację firmy.
+    *   **Osłabienie pozycji rynkowej:** W dłuższej perspektywie cyberatak może negatywnie wpłynąć na wizerunek firmy na rynku i osłabić jej konkurencyjność.
+
+*   **Konsekwencje prawne**
+    *   **Odpowiedzialność karna:** W przypadku nielegalnego dostępu do systemów informatycznych, wyłudzeń czy innych przestępstw, firma i jej zarząd mogą ponieść konsekwencje karne. Polskie prawo przewiduje kary do 2 lat pozbawienia wolności za przetwarzanie danych wbrew przepisom oraz do 3 lat za udostępnienie poufnych informacji osobom nieuprawnionym. Zarząd może zostać pociągnięty do odpowiedzialności za niedostateczną ochronę infrastruktury IT.
+    *   **Odpowiedzialność wobec kontrahentów:** Firma może ponieść odpowiedzialność prawną wobec swoich partnerów biznesowych, jeśli cyberatak wpłynie na ich działalność lub dane.
+
+Mniejsze firmy często są postrzegane jako łatwiejsze cele dla cyberprzestępców ze względu na ograniczone zasoby i słabsze zabezpieczenia. Statystyki pokazują, że aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy. Z tego powodu cyberbezpieczeństwo stało się kluczowym elementem zarządzania ryzykiem biznesowym dla przedsiębiorstw każdej wielkości.
+
+[Źródła]
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLAn4cKRNEuHG8l6Ut8l0YmEY47AsF4rFVCpcrg1ig7ANy43C19IE-q88KkP4j8MUQm1EKoIteiGdO-8sSvNGdmRVuhhoed2yMBMuNPRO1WnpBrkpkOmIVYxhxPAxD8ynQrYXskdSmZ8ViJehEO95_rp4OlS4dCB-lVJIKnUIQO_lxh3WIsQmEfo4KLtOhpCMr5TXiLbLn72HxDSnLDZvCptxNSaaTbbwrl8lrDnKdJ7qIvmWp
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH3TVsQ1yRTEmyRO9w4Bqg9BhZJi4ElwftHu68XihyiycAO1ECsVHtk_6RCMNRMtM6OCQepWYBq7JoYPnjdtqQbW5rxKCitEusmIgrVaIZ0-J9wBZsMmJl8fZ0hixvTGCbyC4vPggcBkPdkRxM2U98Oy_B7Iub80oSA-BmC8BjzOVLpDgiB04WZcaqcLofnEw6UC3_9xIWIJoCUiIg
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy0oCeHfgvJIsK1M1k3lzuaqcQXpilCDTYVg1BslLt54Lv34NvbhFmPUjPPQ2pHVcu_vmpLSaapFaHDCMmjQltppG0nuFXGYP9JAjktxBaH1wGq0milC3WokGFLKwx-jManAQBvdkJ90T23qSQvstSCTpXV_xC2J9zUAtq7iUTH_iPllvoSk_2zdrAy7kU
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxPmSCINIeWiHG45i5OiE9Vg8CdcrncwQb1wSvh53ljWWcuvvU6k3DnpNtXuKECazzDPHYw-vn17Uuqdq2R2EGrYH1iGx-FBAgg9XgnvOb_ub3Zw70v2m9C2E3M7LasFkiYkPITXn8TvHAwM1Fr2U3FBLGyQ==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc3ZNylSvL1ewmenFkBar_jN-zuYCIn0eunS0M9cvr1MJbZyP0xgvU3mTRm3a9KFsikR7fLERAWVJlP9-JOdVR84pLXedx4BgUckMH2r8EvQ03wg-TfxESSfSroDR7KHAqvcfvc-GY8kh5BcHu
+webkurier.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6AlBnU_irk9nf-cah2mH2ZTp-vsROFJNTt2EXvGOy0NR-_rSxonzmg1Do7W4SDYCcqgZMrVkngNKqeyK6-I0ET0ElIX24D1ygXND8ESVtI_8ZsN96xoW8_9UAaq00L0T9Kb4kaExdNbfhTvkGkaI67t4HdyUhW3OS1qlvc6dp9ZGO4g==
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdgjBP4Q3L5ULtnj4M8rWCUcfoAow0ZdVItMQElM01Y4_Sdmb9yBZ9kkGfXs8TJAJEgrabB99iMEYZQ1ZdAkom_Mdf45ZMMgxkiFXnX1lC6h2ox8QJvfc-P10-RNBn19IXCj0fcPK72ic_e0G9E7vC4953IysZKU1ErbVt4tgMlk3BFzSH
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgZT5XqdzRVevuBuq4k1KKhf2bgivs5g0OeiMBGHJBhzsvIDPAGJGmGU-IPIOV_PIMn0WhZ6HLQhUZCG8g5JCqVtGk2JgnmF6fbjTIKOsjNbMEq0F49BUFzfqUCqJG1hmfJFKX4g==
