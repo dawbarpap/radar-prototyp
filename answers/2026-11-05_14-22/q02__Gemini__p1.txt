@@ -1,0 +1,44 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-05T14:22:40+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, niezależnie od ich wielkości czy branży, prowadząc do wielowymiarowych i dotkliwych konsekwencji w wielu obszarach działalności przedsiębiorstwa. Już ponad 70% polskich firm doświadczyło cyberataku, a średni koszt incydentu może przekroczyć milion złotych.
+
+Główne skutki cyberataków na firmy obejmują:
+
+*   **Straty finansowe.** Cyberataki generują znaczące koszty, w tym:
+    *   **Koszty bezpośrednie:** usunięcie skutków ataku, odzyskiwanie danych, wynajęcie specjalistów ds. cyberbezpieczeństwa, a także ewentualne okupy w przypadku ataków ransomware. Średni koszt naruszenia danych w 2023 roku wyniósł 4,45 mln dolarów.
+    *   **Utrata przychodów:** przerwy w działalności firmy spowodowane cyberatakiem oznaczają utratę możliwości realizacji zamówień i świadczenia usług, co prowadzi do spadku przychodów. Dane NASK wskazują, że 2/3 firm będących ofiarami cyberataku odnotowały znaczny spadek przychodów.
+    *   **Kary administracyjne i odszkodowania:** naruszenia ochrony danych osobowych (np. wyciek danych klientów lub pracowników) mogą skutkować nałożeniem wysokich kar finansowych przez Prezesa Urzędu Ochrony Danych Osobowych (UODO), nawet do 20 mln euro lub 4% rocznego obrotu firmy.
+
+*   **Zakłócenie ciągłości działania i straty operacyjne.** Cyberataki mogą prowadzić do paraliżu lub utrudnienia normalnych funkcji przedsiębiorstwa. Przedsiębiorstwo może stracić dostęp do kluczowych systemów, danych klientów lub możliwości realizowania zamówień. Przejawia się to jako:
+    *   Utrudnienie lub całkowity paraliż dostępu do danych, skrzynek pocztowych czy dysków w chmurze.
+    *   Spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub folderów, a także rozsyłanie spamu przez zainfekowane urządzenia.
+    *   Wstrzymanie produkcji, sprzedaży lub świadczenia usług na skutek czasowej niedostępności systemów informatycznych.
+    *   Utrata danych – wyciek, zniszczenie lub zaszyfrowanie danych klientów, pracowników oraz informacji biznesowych, co może mieć długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa.
+
+*   **Utrata reputacji i zaufania.** Incydenty cybernetyczne znacząco obniżają wiarygodność firmy w oczach klientów i partnerów biznesowych, co może prowadzić do utraty kontrahentów, spadku konkurencyjności, a nawet utraty zaufania wśród partnerów biznesowych i klientów indywidualnych. W skrajnych przypadkach, aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy z powodu słabych zabezpieczeń.
+
+*   **Konsekwencje prawne i regulacyjne.** Oprócz kar finansowych za naruszenie RODO, firma i jej zarząd mogą ponieść odpowiedzialność karną za niezabezpieczone systemy informatyczne, niewłaściwe zarządzanie danymi czy brak odpowiednich procedur. Może to obejmować kary pozbawienia wolności za przetwarzanie danych wbrew przepisom lub udostępnienie poufnych informacji osobom nieuprawnionym.
+
+*   **Zakłócenie relacji biznesowych i kradzież własności intelektualnej.** Partnerzy handlowi mogą ograniczyć lub całkowicie zerwać współpracę z przedsiębiorstwem, które nie zapewnia odpowiedniego poziomu bezpieczeństwa informacji. Ponadto, cyberataki mogą prowadzić do kradzieży dokumentacji technicznej, projektów, know-how lub tajemnic przedsiębiorstwa, co osłabia przewagę konkurencyjną firmy.
+
+Ważne jest, aby firmy inwestowały w cyberbezpieczeństwo nie tylko jako w koszt, ale jako w strategiczną decyzję, która chroni przychody, reputację i ciągłość działania.
+
+[Źródła]
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh1SpFNkNDTFVlCImUj-VW0CuVqEj6GdYSVUM7qDzfg4gnoI3Zzm1mlhjMuqYSJ7ZaOy40ZZDD0I3qk8cZzy-DiwZLelAJbtpFdeYJBoxlZRjtugbI_K2Lut6-89LcKQgLiZHpHso4_5sgiUJzXnaN2X6VWR66CMlUgwpgTeaw2ds7jkW_K2mjyEh7pVaTSvoWpcu8WGNX5d5J7q3LZbQPJqFbr-HMf9NB-yIVN2LpAuor6aNq
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNKgwBNDK6ufLNajKvxfB3zIAgzUsjB1sw2EFHYMtXYofsevXvr8tPBRwfEm800hW1aOzfeYcP52uPGBH2DLXufgsZtnY7CrAih87r7ERl0rC_HWi47TzzwQEMU2iCdSfU_8NMt5dfj5Hh99AG6M9i8lIJ-Y9M7Zirm0ed4_rKuDD0QJUJeMLKGYgmwqFs56QqMGkUJFfcM8oYnxOS
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpZZTuvZaQJrnqR_C8V1qTcaay6Nyb5kwLxSFqhS_FDzF_ivb1q2ISMvzI_X8FHbBYadQAhVnIr0URwYn9zJSPV6CTfXDm7G0b4K_yR7u2vsseRy5buPfz2Hi-ccqs7royXnCuk31_gq4Kd21LKP54hFSTHFlVSS5QrLAWTP0hsvR0sC3A_wK-rBBYCOt3G-pBkbr1GP6AMw0m3_l7jpeOGvCuhN29CECRvSX-IQ06vPeN
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq4pvKHJ1r0aBFAn_d-okrD10_Tves2UTxY8SURTY7Q-ObiJihAMYKVMTPJVe35YRrsieb3rtolBRkaR2PiaJmRpN_tfJ-QqtAm7UTSwKzzP2I1j9IxlF9p54ApF-XTCYyRiDIiku3VyWqNgFfP1f1kxHyMUFGBKe9uk7oMLC9h2ut2F0xkOsuomGBtCCJ
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECg_Nm3AGpWKSj22ARNu9MGVOLGONAhrpRkbhnMfjT0tmKvvTlwjDlAErt13iQ5RiQjgR_v4u1HC0QFDO53uUjBO-MfugcPNU4piKcfWIWi_cG-DVE_C_7pSRlcvoL2DaoTVQc2GyXKMM_7oDK
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_JhaKhhXj9B4SxwXZFbaZuzFYfDynyjbxDXkNex4fy7-y5oaKzE9RNdu_ovw1gEQHUet2ChafVEO5KgVS_-u1WPmUKcJWCjX0qrK69MiqNKE9d3aaBwitH79VlyeqDYnZT1x3pvS4yQNJZ_0kF_nRI1Jdi7MffncrS_RbKbMsi_tQBeiQ9jZTS-H5UpE0ARaEvkr8BaQx
+webkurier.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE720CNkIdOLpQmMMqh6gbPO2dd3osa-_16kRIKuPxtEq_VlPxO-JrSA05oGny-v2AIEcVxWAMJ-Kpf3AQ995Znlaj68d4U82nudJRoQDMPcRlZ0hmYykgf_rS-8a5HIUM6rwiNfJkVfpYWs_PEu0V_meqD5m9oMm5KQxFDLrUCgyRxxg==
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZibgxCIPc5VCHJ7lzak3WmPdT1WXoUCqWZ7hKW--ST3WcKk_7puR3zulM-5YEZ_3S_P-EYhMoqOtsXZJFfKhplRe8txnXoHMvAqu7pQl-HiPYuWYApx70XS0kYedXXnu9GWA3TRjdRN27aZfMhaoYzuE1wADkBvuFMLlClxGchi3PVfVg25fYNqg-ZYivjNMcEBOPLeIG
+e-support.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKG3PwbfCPywZvkg_bwIQf_MQIJE5UvisUxPRWcauYnu0dEjN9-LRd0ckEqikhMK4noFTDoiEMSB3DCyUYNgF8cKi14mGdClWdgaFSuC0_ol9w9wBE4GgRPTDGdefux7qHjfUgy6tSU7pZQcWTSzuP8ZDUfvYX_JcBOcPVEQaFoICazNgTsMN5YYTP
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo8BEmvnGPhQJcKbg6--zzKPZUgr9BxZUejgznP_RwqvwIfkkScy3H4J9cFUDedkNtP1ACAn2vVpn3ni7S9EhjVMTR-OGrsFGyP7WkFQo8mIADgUG2rZFNs77V9O23Dcz9joDtew7mtuOJXLNMyXDpot9GzSIjVsKTYyXXHlXRkW0OFRc_NWmoARIL5rvgFYiRiTjGZLuE6JEsf4U_Y4wuoVMcNaTm2LpW1ZXkDc0=
+www.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS4GMXMQ8_TfmMcaAd0qadmPjwqn4_X-7ViFvYxAe98CwoYLV-_QUTNc4Z9e2WdgwS57tuDCO4nXR7khHdPDtNzMI1Ey7T05Hu-sKPzQhlJL7UGvi2FYxbN_hN7v5jvo_nEmRHtySaJzrSd7nvshnXGEBxfC-T0-JKI-hMyJxywI8JNS6ELgqx
