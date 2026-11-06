@@ -1,0 +1,79 @@
+Pytanie: jak się ochronić przed cyberatakiem jako firma
+Id pytania: q03
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-06T05:50:54+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Aby skutecznie chronić firmę przed cyberatakami, należy wdrożyć kompleksową strategię cyberbezpieczeństwa, która obejmuje zarówno aspekty techniczne, organizacyjne, jak i edukacyjne. Cyberataki stanowią realne zagrożenie dla firm każdej wielkości, a ich konsekwencje mogą obejmować straty finansowe, utratę reputacji, zaufania klientów, a nawet kary prawne związane z naruszeniem przepisów o ochronie danych osobowych.
+
+Oto kluczowe elementy ochrony przed cyberatakami:
+
+**1. Edukacja i świadomość pracowników:**
+*   **Ciągłe szkolenia:** Pracownicy są często najsłabszym ogniwem w łańcuchu cyberbezpieczeństwa. Regularne szkolenia z cyberbezpieczeństwa są kluczowe, aby podnieść ich świadomość na temat zagrożeń i nauczyć, jak ich unikać. Szkolenia powinny obejmować rozpoznawanie phishingu, zasad bezpiecznego korzystania z urządzeń mobilnych oraz ochrony przed oprogramowaniem ransomware.
+*   **Polityka bezpieczeństwa:** Należy wdrożyć i egzekwować politykę bezpieczeństwa, która określa zasady postępowania z danymi i dostępu do systemów.
+
+**2. Silne zabezpieczenia techniczne:**
+*   **Silne hasła i uwierzytelnianie wieloskładnikowe (MFA/2FA):** Wymaganie złożonych, długich haseł i stosowanie dwuskładnikowego uwierzytelniania znacząco zwiększa bezpieczeństwo dostępu do systemów i danych.
+*   **Regularne aktualizacje:** Należy dbać o bieżącą aktualizację systemów operacyjnych, oprogramowania i aplikacji, aby eliminować znane luki w zabezpieczeniach.
+*   **Oprogramowanie antywirusowe i antymalware:** Niezbędne jest korzystanie z aktualnych programów antywirusowych i do walki ze złośliwym oprogramowaniem.
+*   **Szyfrowanie danych:** Szyfrowanie danych w spoczynku i podczas transmisji jest kluczowe dla zachowania ich poufności.
+*   **Firewalle i UTM-y:** Wdrożenie i odpowiednie skonfigurowanie firewalli oraz rozwiązań Unified Threat Management (UTM) chroni sieć firmową przed nieautoryzowanym dostępem.
+*   **Kopie zapasowe (backup):** Regularne tworzenie kopii zapasowych danych jest podstawą ciągłości działania i pozwala na odzyskanie danych po ataku.
+
+**3. Zarządzanie dostępem i danymi:**
+*   **Zasada najmniejszych uprawnień:** Przydzielaj pracownikom tylko te uprawnienia, które są niezbędne do wykonywania ich obowiązków. Należy regularnie przeglądać i aktualizować uprawnienia dostępu oraz monitorować i rejestrować dostęp do wrażliwych danych i systemów.
+*   **Ograniczenie dostępu do danych:** Dostęp do poufnych informacji powinien być ograniczony tylko do niezbędnego minimum.
+*   **Ochrona danych osobowych:** Wdrożenie dedykowanych polityk bezpieczeństwa i przestrzeganie przepisów RODO jest kluczowe.
+
+**4. Monitoring, wykrywanie i reagowanie na incydenty:**
+*   **Systemy SIEM/SOC/XDR/NDR:** Warto wdrożyć narzędzia do monitorowania i wykrywania zagrożeń w czasie rzeczywistym, takie jak SIEM (Security Information and Event Management), SOAR (Security Orchestration, Automation, and Response), XDR (Extended Detection and Response) czy NDR (Network Detection and Response). Pomagają one w analizie dzienników, wykrywaniu anomalii i proaktywnym reagowaniu na zagrożenia.
+*   **Plan reagowania na incydenty:** Opracowanie szczegółowego planu reagowania na różne typy incydentów bezpieczeństwa jest niezbędne. Plan powinien wyznaczać zespół odpowiedzialny za zarządzanie incydentami, procedury zgłaszania incydentów (np. do UODO i CSIRT-ów) oraz komunikacji.
+*   **Testowanie planów:** Należy regularnie przeprowadzać ćwiczenia symulujące różne scenariusze ataków, aby przetestować skuteczność planu reagowania.
+
+**5. Regularne audyty i ocena ryzyka:**
+*   **Audyty bezpieczeństwa IT:** Przeprowadzanie regularnych audytów bezpieczeństwa IT i testów penetracyjnych pozwala zidentyfikować luki w zabezpieczeniach i ocenić zgodność z normami oraz przepisami. Audyty powinny obejmować analizę infrastruktury, ocenę polityk i procedur, testy penetracyjne, przegląd logów oraz ocenę zgodności z regulacjami.
+*   **System Zarządzania Bezpieczeństwem Informacji (ISMS):** Wskazane jest wdrożenie ISMS, które określa zasady, metody, procesy i narzędzia w celu zapewnienia odpowiedniego poziomu ochrony informacji.
+
+**6. Ubezpieczenie cybernetyczne:**
+*   Rozważ wykupienie ubezpieczenia od ryzyk cybernetycznych. Może ono pokryć koszty związane z incydentami, takimi jak odzyskanie danych, rekompensata utraconych zysków, koszty prawne, a nawet okup w przypadku ataków ransomware.
+
+Pamiętaj, że cyberbezpieczeństwo to ciągły proces, a firmy muszą stale dostosowywać się do ewoluujących zagrożeń i metod ataków.
+
+[Źródła]
+mycompanypolska.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3vA7uQvRzvk_xw7w_hihcfx-XpGrOXZBn9E0n8QW9l73UMTyY2PA4K-AbrkjcJYTuGZ3beaEJOquUP667aUM8mq02pPE9bSGpIbOsFFRZ-k2xn8qeKVcXASHb1fOvd6tj5dxT67Ppl5MStPhEN8OX9tLwSi6SzR_8P9D5UtJiuyw1NGGiaNw916M9IlXCn_SJczbuoCN7lBGM6dj69I9qKsgUGEEhsjwTKURfHPJbJjA8aYVBiEQlMoCQMx_zBK2RSoooH5HqWm-S
+nflo.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0F8y-GE9PK578p1-dDPj5ZYhaPBmJa9LutH83a3vLm4llWPwnYLlW8cKcUFZxuwfL6tWbWERvEkkrvpK2Yq8iyHdtXN3SuP3BxAox77NIa4-QW7hrLZxiNU2K26SysaUrfKytuTCjm5UI-fvsxv9o_yper7ZWZ6Q5WgSWXtgNHjN8vB-SU8Wq0pSPYiA=
+fiberlink.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwRYT5tHGZvpAfhGUtFJWvuwtlI_tv-1p13jefUFg0uzXaTBqefnTgjeNe86rSBR8yR9El4uXzy-5KmBnHM9yfx6Sqfi9yJta38kIHPXJpsHYKxnvBgmMi8YTqhw1k-V2qi1_W7G7K0wTnxa6wQIh1plEZhwwwNnBkFGz7Jg4xvx4-8JnL
+b-i-k.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3RgM9TlAMWKWTv6TcaQ0cXCcV8p74VJaoheRdZGrfwsswfpDK0KoGvV5-KbOXLVEu1leULPc-_5FvDbThUDdxvxRKqQFkzd7SyyNZ1Pw9GXldLHAT1dHFBnmMOIjD4EkY07jWcIXLgrk=
+primesoft.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1LaOmdF2WrK27zfhgvLlKFRx8JfIUL-Fxd4Z0na9Z9CBKLedcnhzO_c4vQgV5unwxSpHBHCyKtkH9ByhdSAcsMd_zcOqbsKjIXX6PebDPNOBe9JQKgwrrkfSc76GFt7ugXJrPq1BedONrHy8tOEr6EGNZURBRv1W40gTDHsg_Ki2CKxPjvh7-dcpQgaF0
+tuwpzuw.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzc-tiKkY43UaPIgSaFExGz5hl_GSA_-BWjkX0Pe7nb5iQs_vxaaa1bIxsiLEJxMmHDQqw8dc299-mXb8W51TudDLk5xPZcjUXzKPRZHU74I-EpAVQr1IgrB9P5Hw4u4JY8vod9DzsiRovwWOqFrWIssoc33VQJc8=
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGflperhQujLdYAOzgUkGLpfpKch5jhuuhBS_kkZC-R8lZAQx8UuzPCrFI3oZw9Pu3BXTF_esUmCrYkG-UsoA166SVxnKxCi2WGKoXiMPdfyydIK78Q24AE4VV2ERkvwaNtT8vr44zGcLcbRdU3iOAciKByhCMg5YjyK_T4XgurwPvzq-4bA5MEzUtLSkVzB6s
+advisor.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyK_boo9fRQqGEDMzdrP59FdwzEdRIK9ay4IkZtTTSCX_8md-Lc9bkZhXk_Oxh6x_iLBMMRhktZ4Rql5iTQvk0D_Np5rfDolj1FfE2GOjQYpmLPsNbMKjrf99MGoB3wm8lJqohFtZpnt97TzRZXU--qelb
+odo24.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8Q4-LQd6q2d1AGO5sRlWwnL3uLYSVkIi0pGOJApUbS6DnX0mAti1JAf5nJvwr27PhCME11qG-7Xhbn6EMyxzv4V0iSrosnnCT9RxCRf9iMk_UN53JZzw6vjg5JRSIuzFRoKjlvUh7gIq6EbROMQDVpDSDgCa2SHwR7_aFGYp5lJAMvWMpIEZahTFPkUVw
+businessinsider.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF70pMnAnMrj1I4VuAOkbxKioS-GdUTfd8vxW5xiqKCvdp9O7Jbb8fTusbZLWSLSbW54eT_ytMs2sPk-_xdrwXk4s8Id9yZz45uvgqMZ90bg-oaoXJNnXASFUfT0BpKvY5npHrwsqXeVjYhSWQQsuAd4jrkK3bg_QX3PJbh7qhcVBmkGC90iwCTKkcn0TCqJylCyn0AkFJO-jjG1ohyBHWCZ_Klivun
+itwadministracji.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHpKnTdS4hjgeOY99zZTwAja8b5LDubUZCH3X9GDskajzVquRqiE8NRNmCqLPMI9ZcO9kCspsfN-a3hpl98xBVErLoAaoJ3XwpN6x2Lh3_YBZpBZ2eATu3t6p_MZS0cIOMXVU553cEMeOvtJeUXBwZ43BY6QhXIFu3XMUtzqxFjnAIzi7TXWl-2HWlS41xqFyIg2iS91sGWX6PoBaQTAR76FZiFqaD9l6gLAQEoCQIW5ookv8Ou-3Wo9NN-Li7aNMZ3gxhLe5jcyUULOqiwPkQ
+ksoin.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-o0QJDStMjraNyJvR5qJIqydceCTfiAwtuxdcTDwUpWxri5nOQzFVFAH4mJBU-gRtwwN2W_MF8fKVrX9JePHJI2IsVWGWPQcMZwgYJtuLO-MZ_r7W69V2bpF8LFEFn0jaf0t_vCMWTQ3d6i0tg7WFndKEGZVrSgCQOvu6QPn-1tWN71P45bnOFkJi7rIsAzF5s-3IPIieKgWixEdfHeB3fWduBxdnDo=
+www.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzpJ5yS3uJ1qiNh_7dW4JPEAy7pfqritLW8YUKjJmk0nKB0pPXlwde4K6KxG1rDgoTRgn1Ifke2oMFcD8XJuFszUML66PN348iJGz2FbP6aFz0VZnn0eNVhSo58lVDSmNkQn-mM3xiegXompt6g0AAo4yBDLaXcTGNpzlXVbq6EK6Y
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrH0p60zdl-u1hHfBPNwuPBETnhqb1RPOXNTVJ1Q3TzrqPiIHme99Wvd6BE1Eky0qaiIdwEei1Dr6R3EavvIwSOVMzq1HvNMHJOvwUSVkqbvX2Aew6VvAGPgRPf_UpQIajnb4KRg==
+dreamiteam.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRJ6sBU6Pz2wR8SeoEVRHsRvy4MqMaBzIGUk-2DuI9_mQXUDnYlUeOgrA7X3q8GXfc0xhi-a50SFgFNtkyFU98ziLGWwCyNLn1OMZzxFRcK_FjH_ppdtvHm7tdRQ3e42xe6sV43y4WIQ3Uk5o1zuln
+penta.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH74ue8sEAf8bZJh3NR2NOd01QKj9j8O55rxALjRBDpdvruLdqpcrezcXZUA92GAfXDskNR6uUngpMs3F7Nm4BRw1kOjwl36KA84kcwh3svDqpZJL02DPRM7wr_p_FKuKHvEW-GSirJUlPUmjp839-X3YJ2
+luqam.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBkEyaruYKlrvlZfOy9s8ATjXyH5VxChfiA5y8KF-XYrO6vcSwZufQPI3v_vctnG3f5DlX635BLiAvgVo5h_-ZET2Uki7PI0Qk9O2Z2KNCzXzRPpozTHYgrCEr2HNiBskqMhelX_YhPFsHCsFPuRDy42YFfPaS68RznpH36htf0eU7NRWxWB9vwlLXl0VN0Xy1NKDo4Ptft6rttnYdXzJxro-C
+poradnikprzedsiebiorcy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgr3P6cxjyzfQcwTrM9mSDI0kzuwVFrw1uNbvW9c5pGelwAzhFZTvT6nxtqFv7m99B9QDgFyFnV08tBXfR6esBqY5PBKrACvPlEQ8QBupQlM8uUAx2Di0biizwRXxj-aghAZwDkFFlNbpG87j2Us_1YGXY83Q2ACE5LAbJ0kDb8u6OYqquip1FOaxhQB80AdEqhNEK_aOgfSE=
+itwiz.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEybEaQC9ogRhQdVopOpRkV0VfVxVhEvWwaIjVRzdrHyHHQJqwYj8213R9DgsJ_Bm7daSctRlS1X1J0rW-1dLeDnDP6kVtjJapiQZGxaJZ6vO5MGi1dbyeL1mLNFY0tSYMSWAnmY_jNoo8boI91VIDcV2oFNx7V6uxn-ZdX8EIWuSywdgUjzhxEFiXUIw==
+stellarcyber.ai — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhyaQksbCg4uh1gU-wiAuwFBx1DKD6vCJP6qvmTdlzmkkT6-i4cwOyDk4yjGKS6ZuwKocgYk0UkFTDYvFKXk9nuyLvUMQeGy5JOOUUl_PVX6amrb7ow1xa9zrsboDehkwAIF4W3YRdp3yN3zLdZt6VWYtvlaaWl_Z5LgtYNqZ4yVNculIsj-Rt
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuFqnI5Nqe8DKX45-2aijlTREl-PobL-S3iZvPCifPdJW6Xku25HtnqihEECxXcd4bUyKrRSjjXCm-w2akiuFK8ySE-JfpP3TJYQMbSpqiFGhmHSTzpeiBsxo7QPvbymi_FrhQn01F8FxiYql1radKe5YrGch3GtjUSPPXQtqey9YneGORheaGH2IMBdLrdj1A_CUizpCg436X8ojcwZn8rZdUm59RkvwsnlQlZ6Q=
+poradnikprzedsiebiorcy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRriZOfocvP3jOTJ5FMYKjeYmJlDcHDtcHAzMixteWy0iD9cexCi4MUqcCCY-EZ9zLc8FFCjijLPMp-tJyII6Z0v5Z_xhQEB9Oobo2XTgoQZ6KzwcHB9x7aeYzWaSXtGqA6HPvpVMFg_1hb7zMTo0ga1E9f6_7jr3V0c_IhPrqvzSdIhCd2SAaQyreJSnL9Q==
+netcomplex.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr3hxeIo-HVMXwELz26PxuzZO-Y7L3rpnJQZty8nbjQbjE2942KGfnabk8_-VbR1cN73OoxMwW5FDkvFAbod0twIU512n0fFYmP4CTfgQH5UrlwdgYSOq3GWYOVEZteXxNBYTr7mWOP16oz4WaDCYmH7fNsY25em12u-ERnwOU_Q5IBWeuzxulLLW4mLKHZVl4R6yy
+system-3.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42GmWDl9Z9wWtghPeIiEujIeEBcTuXmX4b9jW6j07b9mb276KUBdhVoVuGLsGx-RmigPvOKwboozQhfFpakeZ5qJzzlh6WiNAgxD0-5UTKv-A_ba3R4hB5jMrOm7U-AT90IuRUKXK5a0fQnhD4ud_fFLFx7x_g3r762rAzYHoh_hJadZ-YTVXveg=
+arcus.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2vphsP-EMzozHUL4E95ucBwHGWF3yLFVwHRAESJV6_bLLZq2UJ6m4Bvk9hYzOfYIY8qrglJPFGAtqefyKgbx-Lsb0gj23lge-Q8pLR5Tnbnjd5Odpxlf3zkuBNE8Latkm5s2AUuU6__aJ4xP6BQZc0x0Bs44v7FAIiX3BTO4sAGtEYGwt8tDOebFVQlc=
+keepersecurity.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPwDd_SaKSFu_Ub5tvD3ltkEHEEqnsOwCI7ljzIULXzkG7OSjG5se_G8a696zZOVa6ymJFQ4l68cfFWDk19W2w5o_-liwevDWXjnTyZMP98BBuBZ30c2RyTM2Ew-TeAu0wG8q66C8SMAyvaCkI8EOjYXWidgEcrjx2JXk6Pi8pnyYdC4zrpdaMeoOuUVIVvQ==
+elektrotechnikautomatyk.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdZtLdx2DEO39--V1LGE6soF1i2vSbxhPgxUS-deENOr-urFk-kfPc5dKMjo3KpbE1sE4qMi29-0RWJyuVRHG9hsaHm_65iM57L1i7OUVTWhlLNFkd45EpYZc3f6aVdyy_LPcYoMpu3LEopKKDrOtakt0G9ZN6y5hI9eaEzXiijSDk4uxmKYHnpj1P1Jk30jn-fFpH_1xGWINFzEXcR6Lo8s1K75D3w_W5sOpkrA==
+exea.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbMzOtOezdvSMxwZKfUzGQqdA6rgaM7VGfjLbc3bP62DsuH1Lh3f1_IN1u6PnA8fABS7q-IAST1a_E2UVKJKoq3qxTrEO971PP3FLoT2kU_NYRXlJ2cXjafNv_0qOgMhlzxJSlCXRmiOz3xqMkrbPPZzEXIJE2u9Y3BlVRZIOeNnzUnTjNXLm_ViU3tTVrAkWyz3oTg_bC-g==
+omega-es.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9caD2hA2u27OHI9UwWmDt2F-Qy8drLfu7uf8WbpTUKcpWXrrqG7--kFHUTHt9y2Ot6fgEXBpmGHfpQOW39eIv-sqW1Ei0-XjaYKfyj0rys3z6dM7LFrDhjO5vW9IpKVp1zDsaP042xWc8RRI4X6kpOdzPblm7rFGCOFXFsW-cVROfhkcTqUQUVw==
+lemonpro.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnBgcyYuqhiQ2Uj5ALX1KWse7pGq_Wx4pezvbZbhZARBXSmKKRyMwXJWRTBtADG2-A5s0IhLGuWfJGJaX9I5rVPci1lzLfZLsTFHZ9boSHmQvwWITIT14yyEpBnWsr-3xfgrxdUqLRS1PA5SsfQMry8Ubc0bO53fXpbwBNvEOifT3YV6tzwOpXAp8j
+fyr-systems.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgC_NZN9uNWbbsPXEBrvOOJMqQ3dUJJbhkiVgWyyNseJ81oyFPtZ8rnq9r0JAE1D5ysrGyXex6VE8n4i3AcEsBhDw9UpnnqwLsJEkGkCWZACMgNokJLcsoM5sfhSOQWopofdcMdmDS-xasdrkZkjzSjmxFri5OAyay8pcKbrFY__1jEA==
+pzu.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHxOTsgRKvOMuXZFVFozrvy9atuaZCv6DyHmVNcRLtgbsh6fB_8_8LGUaCz-gh9JyCW2aVXo325lm5jqdVH8_DRDH_LSiszJsiLVHMpkB9v_OAh8l-RRExeW_DSmX-N5eWkCao8JI9wuQ9QMjaOSv79_PGYa0cZ5SLM8RSIHfvgegO-QKFe8Wz1fQ4Pz0-7_4n1VF28lWVDkDajqoFbLS4fUF-tlMI
+unilink.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf1ax-tVnc4jN6t3FEO-6xJoN0CCIgpNp6DIxSpEUf9UHWN7TpcJ0IoXVlcIQ_f_iG55vJAlZ5wcXQ_7Zo8NRt-THcVc1fVn2BpJCsd4f4MBwHgY3KdBUDZNrt47e0u-O3SFtoV48lWlQ6tHdgmy_wg41qmeeRR9AYqvsAxymJwQ==
+colonnade.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT0q9hUFuLU52c0acE1eXeItTGT7J8GzYnWwwrpKqw4snbfk8ZW-FEJv7fQKkzVFIOsJ56-6hpw1wYGDkO5bA_tFqjCA2NhskIA744xtjj1VvCuyaIgLHAPm7ACp72TLjgf8d4k2CUKmeOrGZYben8rvQ-7uYQSCW8tO3vBJuk4KaSLBVwmNGZ6E4_EKOmFQYlsWY32pi6GbOD3XApLHaI3WlaXTBVIJpz2MQvuHTdu5kAJdq3fYWImDE=
