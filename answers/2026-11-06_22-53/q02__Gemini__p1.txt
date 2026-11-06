@@ -1,0 +1,31 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-06T22:53:27+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które można podzielić na straty finansowe, zakłócenia operacyjne, uszczerbek na reputacji oraz skutki prawne i regulacyjne.
+
+Główne skutki cyberataków to:
+*   **Straty finansowe** – są jedną z najdotkliwszych i najczęstszych konsekwencji. Obejmują one utratę przychodów spowodowaną przerwami w działalności firmy, koszty odzyskiwania lub naprawy danych, a także koszty naprawy sprzętu i infrastruktury. W przypadku ataków ransomware dochodzi również koszt potencjalnego okupu, który może sięgać od kilku do kilkuset tysięcy złotych. Firmy ponoszą także wydatki na zatrudnienie specjalistów ds. cyberbezpieczeństwa, przeprowadzenie audytów i wdrożenie nowych zabezpieczeń. Długoterminowo cyberataki mogą skutkować obniżeniem ratingu kredytowego, spadkiem wartości rynkowej przedsiębiorstwa oraz problemami z płynnością finansową. Średni koszt naruszenia danych w 2023 roku wynosił 4,45 mln dolarów.
+*   **Zakłócenia operacyjne** – cyberataki często prowadzą do utrudnienia lub całkowitego paraliżu normalnych funkcji przedsiębiorstwa. Pracownicy mogą stracić dostęp do danych, skrzynek pocztowych czy dysków w chmurze. Do objawów ataku należą również spowolnione działanie urządzeń i aplikacji, znikanie lub pojawianie się nowych plików oraz rozsyłanie spamu przez zainfekowane urządzenia. Ataki takie jak DDoS (Distributed Denial of Service) mogą całkowicie zablokować dostęp do serwerów i usług, a ataki ransomware uniemożliwić dostęp do systemów i danych.
+*   **Szkody wizerunkowe i utrata zaufania** – w długiej perspektywie cyberatak negatywnie wpływa na wizerunek firmy na rynku. Utrata danych lub ich wyciek może znacznie osłabić pozycję rynkową firmy, prowadząc do utraty zaufania klientów i kontrahentów. Odpowiedzialne zarządzanie incydentami cyberbezpieczeństwa jest kluczowe dla budowania zaufania w relacjach biznesowych.
+*   **Konsekwencje prawne i regulacyjne** – firmy są zobowiązane do przestrzegania przepisów dotyczących ochrony danych osobowych, takich jak RODO. W przypadku naruszenia ochrony danych Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć kary finansowe sięgające do 20 mln euro lub 4% rocznego obrotu firmy. Przedsiębiorstwo będące ofiarą cyberataku, który skutkuje naruszeniem ochrony danych osobowych, ma obowiązek zgłosić ten fakt do UODO w ciągu 72 godzin oraz powiadomić osoby, których dane dotyczą. W niektórych przypadkach firma i jej zarząd mogą ponieść odpowiedzialność karną za niedostateczną ochronę infrastruktury IT lub udostępnienie poufnych informacji osobom nieuprawnionym. Atak hakerski kwalifikuje się również jako czyn zabroniony przeciwko ochronie informacji, co nakłada na przedsiębiorstwo obowiązek zawiadomienia organów ścigania.
+*   **Długoterminowe skutki gospodarcze** – w szerszej perspektywie cyberataki mogą prowadzić do spowolnienia innowacyjności gospodarki oraz ograniczenia inwestycji w sektorze technologicznym.
+
+Warto zaznaczyć, że prawie 60% małych przedsiębiorstw, które padły ofiarą poważnego cyberataku, kończy działalność w ciągu sześciu miesięcy od incydentu.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhs8FpYEDSvYn57mz3z-tsj_mXDZ6HAHU5cC8_6ek2DXlg7_DIVdYj5Oq3EVy3ooBhW7f56NyHQSL1nZw7Y4V2cgLRn6aVYdtpjvxCr-OpUo8M3CsHPUG8PRrSAsCQbEdfTQzdvg==
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMzY3IaidGf7aDF6Wa6_fTQhaUU3XI6ukiEs3MwNI-6TX9-vuHiELlWdJe3_pnppQHy0vZ-DFkEzbtGWYneRvdib_UywRWHwRrBxI5nAH4-ud74BMymAnmjgAFUVaWpkFiZlp6-GVnOXTFj6qqOxkNh3ddsCl5WV9D1OV3lM9lY48fISYhGy0HJji4JBtO9erC
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnWxz0fDpSXUCwDY8cvk7hEBsBnWQXo7ksOr5chbfKMTS0w9Ev8q9a89fGbx3EUkIHoQbuN679r6FSM5ydagWMD2sLjVwPiA3HXRmhdEZo2wfkJeOt8076q4i7dqG-NY6L8OMXBGcCfMa8Ne43CJ1pGnzG3svoFatq3vU1z9K6PwqIkAD5BxFVLZTqam5X
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvJozPuc3Kw1-QzlmTcxKsO3kWq2jGpbIGuAq1XJcG0f5O-Yduoct6DF-MZcmJIzgbMgTflVoEqUOEMXxe2iI2vRf5bnm66cFYpWUqbthwLH76_0FVA-absGSFOqAyXVZ7d86sXdeJHj2xmkOCxbhnjKnyx9ijJrd6ySuDv98cIu95w3vf88o5UIKO6mBhW3vMcRYXumbCFvQPryOnYklT2H6ToskaXmSQfekFtR6GPBG_5a0T
+360softwarehouse.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQFIi-HNoJuXZkw9xQkntQNBo_zi0DqR-epkNOri3C-twGDBqeqqobiAozhrhBLyvm1-kJY2p7mGuSPHJYvIVBfPI-k6X7H6rLaqbOdMo__VbQEgc5KnopO7N_i2Sma3M5QrgZW3E6MnrK4Ka2MeQ0bsMiA1WPYuUl3Caj15RvxktcpgcZ96F-AgKt
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW4gL2taiBM5TvH5K9QFyFu1QmsLUbIOJCNZNj5uI6JeiGpPkRWWt0oPjOBmX1Mrerd0ni7u8R5WML6GSi6jtc6vlaRK90L2xNSDlUFubquNHDaqGwQ_egcjt37D_jIff52_jkZ642mTwNUGCaAIc6Qq6ROBxh_-DjTkL1fH7tw2Tu8pFd_-vM5Z_Wzb2B7Oc8wi0JkQUX
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFohraRpd9OotJz3FCpOZlxpkr4VQxRHjIbPDj6WN9N6g5wg6I_aKE6bC9YncR_qvjnlCYvEzzQz0tbsXD91hNJCzzRI_0HNDbgRcuc4zh8F-9_C9CWnO1Zg9oeix-kSMuD_BQMx8_V8Lv9OuwX7tXvQbaXRSimhdN5hYmHwrEPgxfcwMhO
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl3FbzzHK9sykpA_rD536kOGXLdubND-zHi3CXTFQkGg1AFo8AmzZ86i56Zld8tYUNeHG7H6omwP8qVvSPOX2dce_3gI8iafK-_S2f0NlIV2ORc-21YZRi6_W5wI9JIDYdUzomjvslmGZNMQDxGjRqPZS92acuX4n8nr3mgE5cIb02RNk3KOwWYKGcD2DEe6Du8ftuVGX2MQZLGmY=
+webkurier.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB4NR-UJEeCFhhNDPfX7sdzMG8x9P_jptCRa4UdeE932E-TvReLUTzqcLKHZBZhqJSljv1s_mfX_r3Z08AdIAQkPKwQzV0-R1wpM9_VKvrdoKZ9NYutjzj2HAkweOM2tlLbqO9ECUM8XkMgT246hckz7q1F1pxZUpp05AetL6Fz4m3iQ==
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGniLmR_-ozjryMqQlcWivmZVZKCUG7nxyF3F-yK2rho_5fOlgqDSktSjLT2Vc2BRcJ3S5fU7dQTkcMYy4uMQOpnHw0ukj3tcWrTAKlDK7_ooPJcK0ZqDLpOWgL2hFbXdndFZL9oxdNpR-Hn3ndqR0ZqGGKN4ep_gXVPgxagP1ZuL9s1BfxxQaI3_zU9VYUPDn-IzDmaCzNkj8=
