@@ -1,0 +1,60 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-08T12:59:47+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki na firmy niosą za sobą szereg poważnych konsekwencji, które można podzielić na finansowe, operacyjne, reputacyjne oraz prawne i regulacyjne. Zagrożenia te dotyczą przedsiębiorstw każdej wielkości, od mikroprzedsiębiorstw po globalne korporacje, a ich skala rośnie wraz z postępującą cyfryzacją procesów biznesowych.
+
+**Konsekwencje finansowe:**
+*   **Bezpośrednie straty finansowe** są jedną z najczęstszych i najbardziej dotkliwych konsekwencji cyberataków. Mogą obejmować wysokie koszty związane z usunięciem skutków ataku, odzyskiwaniem danych, przestojami w działalności, a także ewentualnymi okupami w przypadku ataków ransomware. Średni koszt cyberataku w Polsce wynosi około 32 tys. zł, ale w przypadku poważniejszych incydentów może sięgać milionów złotych. Globalnie średni koszt naruszenia bezpieczeństwa danych wyniósł w ubiegłym roku 4,4 mln dolarów.
+*   **Utrata przychodów** jest bezpośrednio związana z przerwami w działalności spowodowanymi cyberatakiem. Dane wskazują, że dwie trzecie firm, które padły ofiarą cyberataku, odnotowało znaczny spadek przychodów. Przestoje mogą prowadzić do wstrzymania produkcji, sprzedaży lub świadczenia usług.
+*   **Koszty napraw i infrastruktury** to kolejny istotny wydatek, obejmujący naprawę uszkodzonego sprzętu lub infrastruktury IT.
+*   **Wydatki na ekspertów** i obsługę prawną po incydencie również znacząco zwiększają całkowity koszt.
+
+**Zakłócenia operacyjne:**
+*   **Paraliż lub utrudnienie normalnych funkcji przedsiębiorstwa** to natychmiastowy efekt cyberataku, zwłaszcza gdy pracownicy tracą dostęp do danych, skrzynek pocztowych czy dysków w chmurze.
+*   **Utrata lub uszkodzenie danych** klientów, pracowników oraz informacji biznesowych może mieć długotrwałe konsekwencje dla funkcjonowania przedsiębiorstwa. W przypadku braku odpowiednich kopii zapasowych może dojść do nieodwracalnego usunięcia wrażliwych informacji.
+*   **Spowolnione działanie urządzeń i aplikacji**, nagłe znikanie plików czy rozsyłanie spamu to sygnały świadczące o trwającym ataku.
+*   **Zakłócenie ciągłości działania** systemów informatycznych może prowadzić do długotrwałych przestojów. Aż 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy.
+
+**Szkody reputacyjne:**
+*   **Utrata reputacji i zaufania klientów** jest jednym z największych koszmarów dla firm. Naruszenie bezpieczeństwa obniża wiarygodność firmy i może prowadzić do utraty kontrahentów oraz spadku konkurencyjności.
+*   **Spadek wartości rynkowej przedsiębiorstwa** i utrata przewagi konkurencyjnej to długoterminowe konsekwencje, które mogą wynikać z utraty zaufania partnerów biznesowych.
+*   **Problemy z wizerunkiem** mogą trwać tygodniami, miesiącami, a nawet latami po ataku.
+
+**Konsekwencje prawne i regulacyjne:**
+*   **Kary finansowe za naruszenie RODO** (Rozporządzenie o Ochronie Danych Osobowych) mogą być dotkliwe, w przypadku wycieku danych klientów lub pracowników. Prezes Urzędu Ochrony Danych Osobowych (UODO) może nałożyć karę do 20 mln euro lub 4% rocznego obrotu firmy.
+*   **Odpowiedzialność karna** może grozić firmie i jej zarządowi, jeśli naruszenie cyberbezpieczeństwa skutkuje nielegalnym dostępem do systemów, wyłudzeniami lub innymi przestępstwami.
+*   **Obowiązek zgłoszenia incydentu** do Prezesa UODO w ciągu 72 godzin oraz powiadomienia osób, których dane dotyczą, jest kluczowy w przypadku naruszenia ochrony danych osobowych.
+*   **Nowe regulacje**, takie jak unijna Dyrektywa NIS 2, rozszerzają zakres podmiotów objętych obowiązkami w zakresie cyberbezpieczeństwa i wprowadzają bardziej restrykcyjne wymagania. Nieprzestrzeganie przepisów może prowadzić do kar administracyjnych.
+*   **Zakłócenie relacji biznesowych** z partnerami handlowymi, którzy mogą ograniczyć współpracę z firmą niezapewniającą odpowiedniego poziomu bezpieczeństwa informacji.
+
+Podsumowując, cyberatak na firmę to nie tylko problem techniczny, ale złożone wydarzenie, które może mieć katastrofalne skutki dla jej funkcjonowania, pozycji na rynku i długoterminowego rozwoju. Z tego powodu cyberbezpieczeństwo stało się jednym z kluczowych warunków prowadzenia działalności gospodarczej.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqwJXH5_m7o2sniWNK3Wgo7SXDRHdk-79qiS14JNYoJ7azYws41XiaENywI3v7_WxTvQGI7QxsLe23mf7Ajw7fS5N-B7-PZUYlDU2fFXg8ZhVJJwvJOHel-jcU_ZC-Ksrdna_k_g==
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0AC_ZPbJa3bdGD2liXvqOwptH-3dRREYLEPkK6MP-Au8aagVDdjU0UX88E4X_PUKw5OoadukqMrpbKtGQpt7ENjm9gZquWpf2KIFTeLTSIe-1eLG9n3zufGwF9IYcqjxzghkkWD-nHfXlDsRYtyU8i2GLHWHMo3Ree9htIkFh8Kyos01xe-htkgfxsEUTr0oG6_DKrOoM2vPNIJFMayOeSemUBUX1p_aH_oo1LmLGXENH6FLQ
+politykabezpieczenstwa.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjiQkWMnmk-axc-MeZM3Yb9x7eVIiH9fWPQUYujjY7y8OBPO41kYv4buiLMtUSMX174QoXh4ViHtwq9p-KtuL_q7X-P2a1yf93bmRB4yYhhTAADccUdNZ2A_VbzFpsfs3BbkJZGdoL6Ble8FAEjUVCTHWZWtPGbdIibdxIiAjLPUlkg2i2FLgJoV7CNCWy2u63GLh5Sb3z7JM=
+360softwarehouse.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIUo82sP9juwz2Aqgf2cjbNhccokbLpk6XOGSJWygH3j4dK2SDtj4b2G3taiVD4QHSCxvSahG3ipB5QyFZXSR46nCa4nQnpwz0foTaPzn1FGSxvyRkjUJH-VDRfeY74VtXVWDIGWVbNlqGNLCgaV97F-xnGVya4zXRxofZW6i5e3ctmNmtNqOK1rNx
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGJj_kNQDogfU2StVF2cRvjEgU3jI1l_RcawfWBG42q6p4hnfe4FAVASoJpyI87Q605QaQGemmuSJ_tVLYZqYfjHrKh8qpnbwnhkMe5QmyJZouFaBqL7rFcm-zbnH9cJ7Hwf4PAqc8MPvuYpt5
+cyberdefence24.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE0Lml22_urWW55MTTRj5GPSeOQyBY1DvnYbTkAeaC7Zj77TInK4QIcqwhuvdq9r1dv3BkPVXRSnh-ycOo2qV0vLJnFL-WqPadaSS6S6WRDrlZxxgtQM9qnwJvnC97UjPlqTGVAIBmF6w6miDgY4ZmOcjx7RnyD2Chm4yW1E_RvmXcOK2B11tpefpPU1XpeRlx2TfwK2fBHU7LjzCkkJS0QEL0dO-JuXEWRIB-jfc=
+obserwatorfinansowy.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEko6_ZjT3GzEGXtP5iuURd6QmNGnZW_3N_ayt7n6DXBei_N04vJPH0cMLS6WVxC2eZ7ovs-SmVPyngP2kIZbycvES1IHEyDIYs8H60YyUIB0tgE1S31cILKqUjUyoGgURaahi1qLE7eM-yQ5nxlD6fUqamMfEV2jCtW4CiT7SJ9W0dflA0lh5MVFLw_cK9hdQfyWx16AcWTP5xF3f2GQREz_m0L6PprsQc1o09kw==
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5jerlnhvjmJMJ4wFb-Vdd4lkY1ncbk6TGbDsBxAear-OFo_ZhRIXIDdK21wcbYJdsKE76Oohi21wrIuada7yvhaWxDEM7SU0IsaMKc0mITzh7jBcDcu0bZByr7il6cy9w31C7akLTdMB_6ZHztx8Yz6QN9sCZR-Fxhn897qZcMlfWik252GAi-yRIEyDZDobBHoR4jqhi
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3NKQxepnG-r_ZDQe1ohln5dTrdg_sjZfKNhLHGmhvtdopFKgMwmiwsrMMuXZVuWdgI4Wi6LSe2q5mPG5tuXaXkbh7Wn66y_tk-lLDzpRw1TRLK5J7bF4YLGJlcfwjxK7DaO-Fsemt65PwKeABQQ0oJF2wYwAPDqKIhFh7y8LNYbmmUGMZ6K6LOq75it6oPE-H3Sp6TGC8DEVfP1zHQVJgqOvT7NOb18GwZ9t_KbaZDddV
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_rF3axUhiOQ8WKsm4hY4U2KdXNAjpnctymYL97zXq0HvLjJZgGXPbEK1hmJerQc4PvGxFnH-58-rSQeZN_3c70Q66lv3awLEzPDeWEGE2mdixy6J2JrLmhJ-asqNBke8ocBi45F9Nd_h-wFTjYrGB7L44911DOddix1sefK1pc6ed3rU1iePB9P4Krv8S
+itwiz.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF00qAVP1n7nrXdBGB2nto6SMMzE7wOEXpGqu5ZNzBPLtDwv5BSD7qfmuVBKGdwgWe66suoeX_UOd6rXctbWXyOTYhRz5W1KqNI3wvGjVMH5_5oeysrEIiAERegfUqDTp4P9LuiPLC8JYGZwLx99XJTdesTEoKRyhQhAOKmfXZKGBuLDYkCjgN8y6oHG05koTzCuAEM1fg09Q==
+magazynit.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXrtjaobnnd4EihzZt4L_YfjAZS3acUwOrB6nX3MECBxIACo9QnvItfNC4X0-hVACtup8sDc9u4lRgPySGz-I_OBOTPJUOOT_edM-kDr3z2SskK1VdhBK7vBc_yaNpT33rUIrnGCSYWdYTgaQB-Cmfj_nDAwdhvRjWBvtMG6aGjDgEXhH8PPDn43W57MyxN1BB7Zx2UY_ggA_y-FaX1ziXwJ3fHYWIV9H47WXRsypegXjRoRVHKkbuHYhdKgi-jiA9g6kw28n_W3CmYbU=
+bitdefender.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA_RP1sZiaLc3Zve6FrqzaqT8lwP-KgseqcRwKTDuWdF0cDi1LfXaVzQOpsq58ZkAl7-wUw53sgmMGLRydZpBPSeEBMl2LHluR0NvGzz5uxtIgm1LqnLjV96H8RCE5OFM3VGX5Ljna-dZ7qOQIYSBPmmSbV2twJHfDe9e3bWmnLgganDuXnl1aPNcruMbb7QCfnAde9aC_qodp8wXBKMLSqOY=
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-CDMHJulbNPzZa-gHWBCiUmTRgfR25bCqreBUyBULuuzYSpyWrhnU6R0hcbY3efLM2aBm4SaEwLT89DIhhNWdYwioyQ0qdXVvgWPzfvBGcrlAayRIth5teIoWBmdx8ZtUXtmQjegZaI95seh1VxbtQS_nJ8zHF7sgcYPKPT_nfrespBLRyeFSien3qdUFoUPI-yAqWwajaVAgG3o=
+ceo.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtzyRpjhUXGI38cNn1YM042pWiam6GduOIsnT9TUalwiJ8n0uXPR1KmGs5tn4D0hxyF3LXw0aWNu2G0GGgoS78Mdy_kiqgEeFnmrUuM8OrqBEComHQiE1Gq67srVaeJxVFSOVDeAylIHbow25PPqredNyrmLbltIddK4CuykVvnCUGVGKB4lBDH61CUzgVpbiLFwgZW9ErlSJmX1moR9oNf_B350zZHFElZi2r8niCw2-v46gTVQFnDqbkmkj4D4m-23K8bw==
+executivemagazine.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUznXl_rbRjOJfeN8d4-KSrSgaiRxQ44fAJUruqU5dvkqqqrLlTsd0cU8WT_F_XSKIfK9ESqFwpZJhYq9YOD3k7M9hPOv6jLlqAmysCX7WuT2HmJNY30t6BfkuRGCwprRIVqgBL11wagUJbDe3bo8eiC7zeeo-uA==
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNBblIPP-OInnwVXCS19p74N5Hz1x__WO-XmUJX528fTsRrF-h26sXKEmWNf9couOSRJnXFrFUJn5DELK0SAYq2nSYQjzGHaNFQfkgUPrpo5icNcbhCWPK6ANTQVmveWzSrPTJXxcA-Y5OPE1qoYVqq8Bzly8e9nlsgG2G7u9yZJ02UneDgkT5kGenxSVKttw6
+pap.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjIsjidMXCfQ0Jk0WpS0KXk1W2f-Wp-RuQzCpzZglyipd7YK95XMQmhq1f_jVMTX7F87aTl1KpZGVRmeWZEfkOgC1UCfnTjkk7AtREyUi8wNUJaZRnlZmuJcUBt59A--WgoaEyEKK4P5WwNN-EWAokXZni-0tCGMXeZjqUOKeK8fmTEFhPhRQubEnxXoPrEX0upY0uAZEiuJGbMl4oX0vpbxJx-R9O8kM=
+fandk.com.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDWK_7DAkan49_ilcho6Z4RCJW9KddQiMMxLmLlDLBw6b0TfXMq4pALrDWXP2qrdsaVwQJxxx3hjj5iZRu8NLZbofciJZooNIEvq_rKyQ9mXZD8vUWtGGxm_3kn7a4V7Yg_m_UQ-IIaJPXn8vi7yHr74Vf7tbuBqolhhLtnte-SEwkQ4EC3viVkGzPPA7-3Jv3SyISdqU3G3qqQMQzioRUbDYGcUvI_7ynnzaD-9-dJQH_8NE9Pg==
+karierawfinansach.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqedASE0ySnn4O9Rf92BjMuybmjHZG_Z5RQCHpuAS6wqyh_OF3DrgKyN2Zcob-elDSelAFL6WGmVanIyBQX8UqA3MOXdDJNH01OsEEUOZAnbvLWdXCtihEfWrcYQXgSmjQH939sG6606mX4pL9vutHe6FGpkWUeWsmOmjK56jiXMYHpA82zWBGZw9qhOG2wKrG0j4_6mxveGpV1hY7EayizOK5UyCalWF4dP4UTPKPVeJ38jOiRmykbzI=
+tvp.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb_yiFyPunf6dSVFCxWC48Pfw0kkTbXmoQPsm4L0TMIbCpyDb2PiZWWJtJLDdQXqb1q7F93WrHcTkwV0rpLimndeljcy7audq7gMMiNPWZviaU52QDRbrekjQ64nZkU8Mv1JwZIz6yy5mysB_DhE0JQS5r5QwiGzMeNqB2oqAyHtSOPE4ya7IeuMBC4VxUynH4kWFjtL0N
+rpms.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlqXJvJ5XofItsBfFW0RHDqdzN_tRxJob5W-wk_x_EgNl3rwfaAtTB0I03DcWbNnIeN_jN25ElXnaB4EAJAaxIUNuddIDYCIz7qsonK3k0BtOSgZ8vQncrq1NODQEP7_3HD128gUjvmzkfvQ==
