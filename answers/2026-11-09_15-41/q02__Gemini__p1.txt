@@ -1,0 +1,40 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-09T15:41:47+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do szeregu negatywnych konsekwencji finansowych, operacyjnych, reputacyjnych i prawnych. Już ponad 70% polskich przedsiębiorstw doświadczyło cyberataków, a średni koszt dla firmy może przekroczyć milion złotych. Co więcej, 60% małych firm, które padły ofiarą cyberataku, zbankrutowało w ciągu sześciu miesięcy, głównie z powodu słabych zabezpieczeń.
+
+Główne skutki cyberataków na firmy to:
+
+*   **Straty finansowe**
+    *   **Koszty bezpośrednie:** Obejmują okup w przypadku ataków ransomware (mogący wynosić od kilku do kilkuset tysięcy złotych), koszty przywrócenia systemów do działania, zatrudnienia specjalistów od bezpieczeństwa, przeprowadzenia audytu oraz wdrożenia nowych zabezpieczeń. Polscy menedżerowie szczególnie obawiają się problemów z płynnością finansową firmy po cyberataku.
+    *   **Utrata przychodów:** Przerwy w działalności spowodowane cyberatakiem oznaczają utratę przychodów; dane wskazują, że 2/3 firm, które padły ofiarą cyberataku, odnotowały znaczny spadek przychodów.
+    *   **Oszustwa finansowe:** Hakerzy mogą wykorzystać skradzione dane, takie jak informacje o kartach kredytowych, dane bankowe i dane osobowe, do siania spustoszenia finansowego poprzez oszustwa.
+
+*   **Zakłócenia operacyjne**
+    *   **Paraliż działalności:** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, uniemożliwiając dostęp do danych, systemów, skrzynek pocztowych czy dysków w chmurze.
+    *   **Spowolnienie i uszkodzenie systemów:** Urządzenia i aplikacje mogą działać wolniej, pliki i foldery mogą nagle znikać lub pojawiać się nowe, a urządzenia mogą rozsyłać spam.
+    *   **Niedostępność usług:** Ataki DDoS (Distributed Denial of Service) mogą przeciążyć serwery, powodując niedostępność usług online, co jest szczególnie dotkliwe dla firm działających w e-commerce.
+
+*   **Szkody reputacyjne**
+    *   **Utrata zaufania:** Cyberataki mogą zniszczyć reputację firmy i prowadzić do utraty zaufania klientów i partnerów biznesowych, co w konsekwencji może skutkować spadkiem przychodów.
+    *   **Negatywny wizerunek:** Publiczne ujawnienie naruszenia bezpieczeństwa danych może poważnie zaszkodzić wizerunkowi firmy.
+
+*   **Konsekwencje prawne i regulacyjne**
+    *   **Kary finansowe:** Nieprzestrzeganie przepisów o ochronie danych (np. RODO) może skutkować surowymi sankcjami i karami finansowymi.
+    *   **Skutki prawne:** W przypadku naruszenia danych, firmy mogą ponieść konsekwencje prawne związane z odpowiedzialnością za ochronę informacji.
+
+Menedżerowie polskich firm, zwłaszcza z małych przedsiębiorstw, obawiają się również przerw w realizowaniu zamówień lub usług oraz kar i skutków prawnych spowodowanych cyberatakiem.
+
+[Źródła]
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4OdNoCUxZgnmbgbBeiwM91RD96DI-6vvcqDEMgTR9SkXzeu70AnJxJp8q5rbd3bVos_ogh5IYImB2-7jqXLJQh-E8-Szuwr7YtRv4wS7pSdjcr_LO6MGegXV0rzjemCytiUxph6KUS0dFN4Wv7s1Z9hAfvr8CRIxpjbtJ8rr9ChzZisJ66emCUeEOo6Wrj8ZZGIY8fO327o6IHTVrddkrTLqcflHsTKcfDDBwN1tgLum3zfAx
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYASjHO8-esYVuxwx1x_Klct2xlqr-vBBLCgs-R8WdNEq1CdjyV9ASTKM05fnYucJTPvfw7tGW4flrm28rg0H631sWefKttQvpQyQ4BmCzTwyKINjTbblY0CBDZ1MqWT-kbOZu_FHvI-OnLBI9
+360softwarehouse.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgCsXdpiafu-7y5uHBKZOeFnOaOH3unoKdbFLi7qjRMloc4cMCGYSQnFY2bmy4ZKl9ZLDo-QmD6dLalLqzCDVllwk_mX9xdCy1Ov_yfNWvvbEnmbowKdIL62vzCK00xq5EjbtB2v8E-_xtnu2BR8ZDxv8j2g2pW78tIYLNQNwtrQWpWDls8uf67BEC
+crn.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETg7ZhfMsIcf7XGS04uknn5UCt5VWVFnjex0mCO_v3jaHM80ZQaxmtFdxBJmEVrpcB1sQmkpCV8VjoES0dEYeekuDREo6n2eJYf5yT3ZWoryt4gBO_O3fcgSq7E_BTcxja9az-Soc6f7CNBGWuEV4dS0_9WcOEwnhJIkfLcubeaDBEM4CmjlcICX6THFFdcz8cacDkYlNp
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR8FQyce0pJJ1ltBofZQTMGIJRdctCmZdlJnNjLuy02pbhlLwAGIQWXzByVB_q8V2J8cB9IFjVB3TjY6MKGCXWY8Lx3HhMwuZlTIu5B_gx2it7u9yiYlygABVGOhziuZDbQn1o9ZAQPd51kKUln30Gpwq4Qw==
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ8OWfSTtzZJ7ib0OcbgS_Dv0ELajFUcN-8DS3gPGWTsEIuZss3s7JPVdhclUVUO_UMcJWc5PNnw_NRSJBMBeNiAPAYv7a86ij7rAlgG9OTY3kTm1sBCtUQ5LbH7WTX5CzpHP5m97v-e5oR4bb96WVKmW3Cb5tG4FqzOVzeE6AZhHItr-iUfIuQLK0MBtrkLubly17194l8athBe0=
