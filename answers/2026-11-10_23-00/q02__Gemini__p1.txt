@@ -1,0 +1,61 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-10T23:00:02+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do szeregu negatywnych konsekwencji o charakterze finansowym, reputacyjnym, operacyjnym i prawnym. Wiele procesów biznesowych przenosi się do chmury, a firmy intensywniej korzystają z usług cyfrowych, co zwiększa ryzyko cyberataków.
+
+Najważniejsze skutki cyberataków na firmy to:
+
+*   **Straty finansowe** Cyberataki generują znaczne straty finansowe, często przewyższające początkowe szacunki. Mogą to być koszty związane z:
+    *   Okupem w przypadku ataków ransomware, wahającym się od kilku do kilkuset tysięcy złotych, a nawet do kilku milionów dolarów.
+    *   Przywróceniem systemów do działania, zatrudnieniem specjalistów ds. bezpieczeństwa, przeprowadzeniem audytu i wdrożeniem nowych zabezpieczeń.
+    *   Utratą przychodów z powodu przestojów w działalności, które dla małych firm mogą oznaczać katastrofalne straty.
+    *   Utratą lub uszkodzeniem danych, co może być bardzo kosztowne.
+    *   Naprawami sprzętu lub infrastruktury.
+    *   Odszkodowaniami dla klientów i partnerów biznesowych.
+    *   Wypłatami rekompensat dla użytkowników zaatakowanych usług, jak to miało miejsce w przypadku japońskich firm.
+
+*   **Konsekwencje operacyjne** Cyberataki mogą poważnie zakłócić lub sparaliżować normalne funkcjonowanie przedsiębiorstwa. Obejmują one:
+    *   Przestoje operacyjne i brak dostępu do systemów, danych i aplikacji, co może zatrzymać produkcję, sparaliżować sprzedaż i uniemożliwić realizację zamówień.
+    *   Utrata strategicznych danych.
+    *   Spowolnione działanie urządzeń i aplikacji, nagłe znikanie plików lub pojawianie się nowych, a także rozsyłanie spamu przez zainfekowane urządzenia.
+    *   Zakłócenia pracy infrastruktury krytycznej, a nawet uszkodzenia urządzeń fizycznych, jak w przypadku ataku na systemy chłodnicze supermarketów.
+
+*   **Utrata reputacji i zaufania** Długoterminowo cyberataki negatywnie wpływają na wizerunek firmy na rynku.
+    *   Wiadomość o naruszeniu bezpieczeństwa danych szybko się rozprzestrzenia, zwłaszcza w mediach społecznościowych.
+    *   Klienci tracą zaufanie do firmy, a badania pokazują, że ponad 60% konsumentów przestaje korzystać z usług firmy po incydencie bezpieczeństwa.
+    *   Odbudowa reputacji jest procesem długotrwałym i kosztownym, a niektóre firmy nigdy nie odzyskują swojej poprzedniej pozycji.
+    *   Utrata zaufania klientów i kontrahentów może prowadzić do spadku wartości rynkowej przedsiębiorstwa i obniżenia ratingu kredytowego.
+    *   Negatywne opinie i recenzje w sieci mogą wpływać na decyzje zakupowe innych osób.
+
+*   **Konsekwencje prawne i regulacyjne** Firmy mają prawny obowiązek ochrony danych klientów i pracowników, a naruszenie tego obowiązku wiąże się z poważnymi konsekwencjami.
+    *   Kary finansowe za naruszenie RODO mogą sięgać nawet 20 milionów euro lub 4% rocznego globalnego obrotu firmy.
+    *   Odpowiedzialność karna dla firmy i jej zarządu w przypadku nielegalnego dostępu do systemów, wyłudzeń lub innych przestępstw.
+    *   Obowiązek zgłoszenia naruszenia ochrony danych osobowych do odpowiedniego organu nadzorczego (w Polsce UODO) w ciągu 72 godzin.
+    *   Firmy z sektorów kluczowych muszą przestrzegać przepisów wdrażających dyrektywę NIS2, a sektor finansowy stosuje rozporządzenie DORA.
+    *   Niezgłoszenie incydentu lub próba jego zatuszowania prowadzą do znacznie surowszych kar.
+    *   Możliwość pozwów sądowych ze strony poszkodowanych osób, w tym procesów grupowych, które mogą generować astronomiczne koszty prawne i odszkodowania.
+
+W perspektywie długoterminowej, cyberataki mogą prowadzić do spowolnienia innowacyjności gospodarki oraz ograniczenia inwestycji w sektorze technologicznym. Należy podkreślić, że małe i średnie firmy są często łatwym celem dla hakerów ze względu na ograniczone zasoby cyberbezpieczeństwa i słabsze zabezpieczenia, a statystyki pokazują, że około 60% małych firm zamyka działalność w ciągu 6 miesięcy od cyberataku.
+
+[Źródła]
+biznes.gov.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm82YRc7XuJYIeohyrivzm_jzXuJVoFA3j_vJl9P401GB4VvvHNULN7rzhDBrNAgoqi263oH-B3RKTn4uWPXOYc97gZ7-tRUotOHfoX5lbXnpzmjuJ9lV-V-QGv6xQtclPViex1Q==
+360softwarehouse.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_KEhW3kqZcEFYiYAgdAQY9g_6N1aDX09P3uMVyEeEUsXLcrfvyHkY1LPmC3ZxYRrdDRqupwDF-YCScsRYLm2cgHkYSWjxioXD_aWK_pu4Hd7gjI1mXvSe_c635xwFw3du6fpQTYN3FJgow_AEmNJcMDJJoRpVYJz__TBUseDwcQZM4ObUF38=
+executivemagazine.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqfOrOy1Bg8MMIuSjS4nZh2K5f1zJhJiIU5kSC0escLdv6Zx3XlDZmkOabQPx3Admrt1EqIQqMUCuJPHP8GeuxDKp4qiyJNHiH3Mz9gM3NPx6b5hjoPOpyqJbdtXoyZedAZ9oFL5GbaJsWGESrKNA40zDF_rJYEA==
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB87fCjmMmmcY5GI7Dn5DBfHV6AEzr8bf7cqJH2xOQXsZXCwt69SPPX5LLi6pjeA_9vUCrV83XhGk4LtzItbqG83oRHYoV_qml7bKcXWvF6qJTzUCHjFZbN1SVdSKihI8h1qpfs-U7D4ntUYc8
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmo61Z_vM3iKbZAprn_nTb6xVsAvepsqlt2t-DWnBEx81L836DxP3V2s61IF8bOtTb4BUkE6Ywb_KYrDmCyJ5rru_o54ChvUePPXJTjJkpcXRHSDzcpCMl5ayJAJrajwUGGEDGV__hbT7AEEI9Eocbz5Sbrw==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjrFN-M8nd-MIhRC2s91ODHm1S6-OlG7-Qbe1mCmeBz3f9mHZily4B7uHVpyg8FOQIAFJA6TzIkYznJSryYZAOuwQ4N6c3hra45g_Nn0Fp9VeCSNxIBGGH8LTuMvn76sX1uNg0kRXzBG-eTavN43NmPSOOaNkDPytD7bhCz37AHld0A2UIXiLWz_sAK_pF
+isportal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7M3__u_yjhNavKGxNS_LQmz1ruY3QkSXdxhT0qOUCQyowGrDusDJ4LQ7AiRfvhQzDzDGPIValN4A3sHp58YjEJJxOPoKn9Bz76_nl-qWoAofhMrM-YmknYQjdJqhH6oBdcZ6AOGuCa141OzqsEXYA13sjW60XeUbeR8eecdgIYDK1Z2mWKeskliKq4p33o09nM-7XXCUkW8wHEWoo4FdTQ1FN
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr_J-0FRjXbZuGEJWhFvCRKsp9GFFiJ1vBNHlukxy_UNNURZsjKhuTDXS9cB4Dqr1pj2xXvyYCK6RL0VfJaHnOjCQau66ozcQSgPAfmumVO2_oV5hj0YZRdSUQfFAYCqrvLSpaFVscPZMpiH-ImnyZ4VyYoy4FdeCf-k5FVJtk4OZc-wT25FqKEROsgLLD_wW94bfZ_UDR
+academyofbusiness.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpNXrBAi2kBQ4Fbop4STnJOmbrEniP3O9GSUN-D5PZ4JtcbP-n32xTmHh-KV04yE4OnBjAljqzU3SngL1__YcpX2xv-tOP57QT9P4gVKWPI-EejT0ZRDpZ2Ha8pX03pj4y7yd6gmBlm4155TJRmsnHdvb3cMmfqk2Mm-rUXsG4hmnPMEF4uUziaolX9yQg1PgcT8ZKSyToBqLBtEc=
+webkurier.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK-bnZAiinl67IYUTjrGAkxGgu3hTvxK5LKqKKJwHnsh3qFLodk09FKokdYbJVc-SvOEIvcG5VjJJsRvjJA0P6LYSfV19BYSrExYKwYEVe4V2mAVhzsUgB5hpbqxJOrq2Ij_z5Zdyn9QfiYRXS4hLIo9IWqUo8mEHV9oAAU6XmNadMEg==
+tek.info.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG65Bz6ER5lZMVPirsGF-eTCvZ2mX4WJJE1Qt5LQ1dVOzljPVukCyHGNYe3ZEeBLf5nReIEziiNrjcV9i6kSoFYEo5JcMU3xSDN2jw0EzxOC_Bb6jhc9WP1DgH_46Ch_alfkTC7_9IyfgnAugEUia5orVIlT1nDVy8h9rrYaW4fm4CKp3XVG4l2fqOuDisLXLHqOkMFAzXmbzEmu6j0KMw=
+korsol.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwT1pwxXjDs6u5m4Ba-iY3BEslKXpFu9_4Hey8EtCp2fA9-tTeq1i7C5gcsQfsCkNU7VdtNXrXBTMILo7zKCXs6MiPySiy0fP4Nwsn4jUZXvGM2MOFn8gWfvV6b0FaqvDcf7LO_yWsnCnUumb83hE0Ah79huE18SIxA1GQ3GdmsycQbGus8CLykCm6
+kglegal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB584q8McNVnHEGzIJPflnoCXMG5VrRivlQoRsBFNcGA0O84gUQHhoUVQq03xKs11Rs7McssRrFx2DhaNLtw1Ry-XRjpcvaSCEMwYRGN33LoEWLgCMwsPtWyPe3D3P9Lk_uIXAkcsJY_FOnISKCWeQK6EqFGwwleVdJiuSY08fmCVKsfCtHl3FW8Ortd1-hSE5
+doradcy365.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVtOQ8lik7OWN8lQdix1CMIGfNQY5J6c6x_8FzSIAA5yA67NBfWaleKBVkcllXJxishj8wPoLlT9yW3J-CrgIupke-TlFAbqV5gnpGH0Bh92nkkVDEBo7FR73JLSiaYlKsUqBubx22yGDEqJwkkPzX-C3DPxS2VJ92T_uvsfjA4_cjeZICPXGrLpuhaYjvq_89IxVnb18Q3p3m5w==
+sabuda-legal.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpz1IgRR8B9n4Y62Peb1xYOapNzI0112QWJRRbW4qXfQM5nwtSFAJKRdt2WM0Gk-DRdWcLeg8_trBMtb6HxJo9kbHfhHw5jXZunUMUToxKB6hohDJVwmktz-cox1yDeQY34ntKJQNL3MdC_LbTcnzl4PX5x7UbsYdJcBoCpq_FX7P0JDTr-UVWa5rD9sBiTyguPzJJMahxmEd4qyjiYEqWVUJw6Al6uecndec=
