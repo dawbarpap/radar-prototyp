@@ -1,0 +1,35 @@
+Pytanie: jakie są skutki cyberataku na firmy
+Id pytania: q02
+Model: Gemini (gemini/gemini-2.5-flash)
+Tryb wyszukiwania: natywne wyszukiwanie (Google Search grounding)
+Data (UTC): 2026-11-15T13:42:20+00:00
+Powtórzenie: 1
+Status: OK
+============================================================
+
+Cyberataki stanowią poważne zagrożenie dla firm, prowadząc do szeregu negatywnych konsekwencji finansowych, operacyjnych, wizerunkowych i prawnych. Już ponad 70% polskich przedsiębiorstw doświadczyło cyberataku.
+
+Główne skutki cyberataków na firmy obejmują:
+
+*   **Straty finansowe** Cyberataki wiążą się z ogromnymi kosztami. Średni koszt cyberataku w Polsce wynosi około 32 tys. zł, jednak w przypadku poważniejszych incydentów może sięgać milionów złotych. Globalnie, średni koszt naruszenia bezpieczeństwa danych w 2024 roku wyniósł 4,88 mln dolarów, co stanowi 10-procentowy wzrost względem roku 2023. Koszty te obejmują przestoje w działalności, utracone przychody (dwie trzecie firm dotkniętych cyberatakiem odnotowało znaczny spadek przychodów), wydatki na odzyskiwanie danych, wynajęcie specjalistów ds. cyberbezpieczeństwa, naprawy sprzętu i infrastruktury, a także koszty związane z obsługą prawną i zarządzaniem kryzysowym.
+*   **Paraliż operacyjny i utrata danych** Cyberataki mogą utrudnić lub całkowicie sparaliżować normalne funkcjonowanie przedsiębiorstwa, uniemożliwiając dostęp do danych, systemów IT, poczty elektronicznej czy dysków w chmurze. Spowolnienie działania urządzeń i aplikacji, znikanie plików, pojawianie się nowych czy rozsyłanie spamu to częste objawy. Ataki typu ransomware blokują dostęp do systemów i danych, żądając okupu. Utrata danych może wymagać kosztownej analizy i odtworzenia systemów, a w przypadku braku odpowiednich kopii zapasowych, skutkować nieodwracalnym usunięciem wrażliwych informacji.
+*   **Konsekwencje prawne i kary administracyjne** Firmy przetwarzające dane osobowe są zobowiązane do przestrzegania przepisów RODO. Naruszenie cyberbezpieczeństwa prowadzące do wycieku danych klientów lub pracowników może skutkować nałożeniem przez Prezesa UODO kary do 20 mln euro lub 4% rocznego obrotu firmy. W Polsce przykładem jest kara w wysokości 3 mln zł nałożona na firmę IT za brak odpowiednich zabezpieczeń. Ponadto, firma i jej zarząd mogą ponieść konsekwencje karne za nielegalny dostęp do systemów, wyłudzenia czy niedostateczną ochronę infrastruktury IT.
+*   **Utrata wizerunku i zaufania** Cyberatak negatywnie wpływa na wizerunek firmy na rynku i może prowadzić do utraty zaufania klientów i partnerów biznesowych. Klienci powierzają firmom poufne informacje, takie jak dane kart kredytowych czy adresy, a ich ujawnienie podważa wiarygodność marki i skutkuje spadkiem przychodów.
+*   **Przerwy w działalności i utrata przychodów** Przestoje w działalności spowodowane cyberatakiem oznaczają bezpośrednią utratę przychodów. Wiele firm, zwłaszcza małych, nie ma środków na odbudowę infrastruktury IT i przywrócenie działalności po poważnym incydencie, co może prowadzić nawet do upadłości – około 60% małych firm zamyka swoją działalność w ciągu 6 miesięcy od cyberataku.
+*   **Odpowiedzialność wobec kontrahentów** Cyberatak może również wiązać się z odpowiedzialnością wobec kontrahentów.
+
+Rosnące ryzyko cyberataków jest potęgowane przez czynniki takie jak praca zdalna lub hybrydowa, gdzie pracownicy używają niezabezpieczonych komputerów, oraz przez rozwój dezinformacji i złośliwego oprogramowania. Cyberprzestępcy często wykorzystują ataki phishingowe, złośliwe oprogramowanie (wirusy, trojany, ransomware), ataki DoS (Denial of Service) oraz ataki z wewnątrz firmy, np. ze strony byłych pracowników.
+
+[Źródła]
+gazetaprawna.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTfvJdT8UnF_bV7weSudfGkPNyq-yqEXQyXiQZ5VimiXRPvtxsf_lovUiO6QlRVLM1ou3a65MSFRaHYcAsAZx5XCFW4HMCD_gb9UTNYpO7REg9KbcYPexQKv4DiGHpaumVsvSP-FMx5smoURXRZOWNTIXxL-P8cQZQugwKFj0ZDtLLBkvhoeQ5ljx2M_IH6fN-Sp_PMnd_47n1d8_LYk-TvRKgDQFi68xCt8-z7tsXIWGBHGxa
+itwiz.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmpakMJEKmT9vQPFHXeGiRjhM932H6ULmfSQ0-NlypM1E-UWqREsTM9RkpTDivV_hw9MgkP8i0MYplGnGnlWKx0QtgryItXI4hx0-r9OiW3kD9HNzH9QJWfIICi7Ao9LhY_LbCoM_SDiZlKl8rJvT7BEgSoG2VtxAMMqXqme0GVeFOI5SN8BRDOJAFEDbyFNkzVwSvMucAlA==
+gazeta-msp.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkoTUFo7d5KIbjRJs1yaMYMEFFk6ps-GWwlmCx_rIF3LpPAvENqM7pJ4hxlQEYAYkjv7iFCOco1xyng9vjZmhlLq08-R6-FPRltxkXfacQBO5-Ef7-oD5HPJd5F-05PChRuzkCx3ui-zqXtdZ_ySSzPEkkc_n1yw==
+msc.wroc.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOa6KFMoIf0y6HxrY1_nQu-lld48zSLg-9sCtEqldTaWEmoKgjZq5MBjg-Hyrs3skGBcqnpiqrOGl1vePZ9vWJcwzZ_7khvtEjbQy3PLDSZkw2ZSOt23WslOvfdzlUlRYKPRH6iagakHT02MwCDhKj4A8sfHWd_w==
+kamilaczekaj.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5JM3WDWmLGtY3P8W7W8VhcE_bzyM4Iszub8eWqR22xITuMFN3ZH-YgYGK4hCjOaEVAwjNNuqbENSy_din95YOscX8kdX2ZEhMwY5Xc4duG5gDbOLVxx3Jl1jNmLeAF_9MLT2ANUxW5mQL13s-U5Tuooy8Q6lB9cMIeSfZ-7TXBbvNzJs1V1f-az4PQFC2
+itbiotic.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUZuCt36B0GSvGcnyK8Q2Gu8MjLXOkGKaq7Xm9V-Sw6bzfeQ_PSOsXvpDo8F9Ib_dcGgvgzKiOxt5L9r5P5j09sLtyorkOqFB6vLvAZgeGs27PtpcGMSM4RgG07Tti56QtEu7atdfQ5FRKMqCVqajL3mueHg==
+cyberdefence24.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_1PWWJ5CcIObdv1_KunDw841tlG4ypB6eDtGW9TaGSfsKU7UwvEtcSSDcMhOBsbdQzWK-gbUr_IYKwSDM_azEe7voUyBolkq_XKWEBjGGnCHJhhZ-qANy2xVgA8BFuOMwm1ydSAg5TXYfIfwGt8lWBiCpnI2vvSajmkDTqO-Zzg==
+wenet.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXZ3NhNqo25aOWcq-7Zf2k7T_vZbya107u95iHj8QeVh9qcifo125dIX56TcrR56netV42Gm95mcAdU_ofkuNZt5oCay22CH1rbQrsUPXLoK8U_GcT3wcYqmj-N1avNcx2_KmAaGQBlwPP49LX9hhIuaP_od7qw6GkwhrOhWcFnAzRcngkXUe2PNcThxTQ39UlnM5gAiO
+virtline.com — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX6PvHe1G35r3e4ezY5ii0_468fdogTJ2s_bTBzMKrlJReWYB7k8EKr1X_0Ltasi1my2yfE3RgqZOsyYLgdD35GvWcNy_TBDrM5s3kjtBLwXKXQnpL4P1bOXLgOYPZXwL0EU2HRdb1DrPloXdR2V2XRcvZAlhSkbjy0umtcWU8
+teneg.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1juwcET9Qx1y7HNMLiCHfbKyZ4s4hragmt2gdVixMaj2W-vbWwF1e1atmPv8zAFwTksbl_MbMH12Rvp_6_6B4CzAMX-iKzF9JsSrlRc_Iw5vh38I00sangJujZXlMmxTvJsIqgHahRd2jToQ2
+mserwis.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFboBCzUMmP8YMHnNSKJeJLf-wKwN0IdDNu371wQh30oRm9km1rIHyMHTHPXqYPYyS-0ApV-ivTK3dp-POSxE9JYoV0BK1xMQ--o0OO0aoG4wn2i5vdS34OGaJdpb9J6I4RDY_oarTf2ni4U1SYwk1aYizQiw-4ZAYeS47ZsAnZkVt4Qwb
+webkurier.pl — https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_yd7TfdfT8jCm278utfO0xF6wn1L5HoAY6meTVj4bKWr9QbdCsACTmFbFIPQQnCacIADwNZTxnINzuyTCdjnPt_HxtpVtwwHlz6g6KWKlhLxVa8X7Q6doUWERkG9-LTTVCwpIDVevQbHdw75SAU-Ml3-kC9nEP9J_7pXPpNL4R0R5mw==
